@@ -1116,44 +1116,106 @@ No responder con explicación. Generar directamente la ficha.</div>
         </ul>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Dictado + Fábula</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Fábula en 2 imágenes</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito crear una ficha imprimible de lectoescritura en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear imágenes educativas en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado. Eli lee con fluidez, escribe oraciones propias y trabajamos con un enfoque tipo Charlotte Mason: lectura atenta, narración, dictado expresivo, comprensión e inferencia.
 
-CONTEXTO:
-- Eli lee con fluidez y escribe oraciones propias
-- Hoy trabajamos dictado expresivo + lectura/narración de fábula de Esopo
-- Método Charlotte Mason: narración como prueba de comprensión
+Quiero una hoja de trabajo visual, amable, clara y hermosa para una niña de 6 años. Debe ser A4 vertical, lista para imprimir, con diseño infantil sobrio: colores vivos pero armónicos, ilustraciones tipo acuarela infantil, buen espacio en blanco, márgenes amplios y texto muy legible.
 
-CONTENIDO DE LA HOJA (A4 vertical, una página):
-1. Encabezado: "Yo escucho · Yo escribo · Yo cuento"
-2. Sección "Mi dictado" — 4 espacios numerados con líneas guía amplias (12mm de altura), donde Eli ya escribió las 4 frases que mamá le dictó. Bajo cada línea, una mini-instrucción: "Compara con la de mamá" en gris suave.
-3. Sección "Una fábula de Esopo" — texto completo impreso de UNA fábula corta de Esopo (sugiero "El león y el ratón" o "La liebre y la tortuga"). Letra 18pt, Georgia. 4-6 líneas máximo. Apropiado para 6 años.
-4. Sección "Yo cuento la fábula" — 5 líneas guía para que Eli escriba con sus palabras lo que entendió.
-5. Sección "Yo pienso" — 2 preguntas de inferencia, cada una con 2 líneas: "¿Por qué crees que [personaje] hizo eso?" y "¿Qué habrías hecho tú en su lugar?"
-6. Caja "Mi final diferente" — espacio amplio (en blanco) con etiqueta: "Si tú escribieras el final, ¿cómo terminaría la fábula?"
+REGLAS GENERALES:
+- Usar español natural para niña de 6 años.
+- No saturar la página.
+- Mantener letras grandes y claras.
+- Para texto de lectura usar fuente tipo Georgia o serif infantil clara, mínimo 18 pt.
+- Para instrucciones usar fuente sans serif clara, mínimo 16 pt.
+- Las líneas de escritura deben ser amplias, con altura aproximada de 12 mm.
+- Usar ilustraciones que apoyen la comprensión narrativa, no solo decoración.
+- Evitar estética escolar fría o recargada.
+- Mantener un tono tierno, ordenado y familiar.
+- No incluir caricaturas irreverentes ni contenido secular agresivo.
+- Si hay una enseñanza moral, debe ser compatible con un hogar cristiano reformado: sobria, sencilla, sin moralismo pesado.
 
-DISEÑO VISUAL:
-- Fondo: crema cálido (#FAF6F0)
-- Color del tema: azul lectura (#2A6090)
-- Tipografía: Georgia para títulos, sans-serif clara y grande para texto infantil
-- Cada sección con su propio recuadro o cinta de color
-- Letra mínimo 16pt para instrucciones, 18pt para el texto de la fábula
-- Si incluyes ilustración del personaje de la fábula, simple y sobria
+Esta ficha es una fábula, así que hazla en DOS IMÁGENES SEPARADAS:
+
+═══════════════════════════════════════
+IMAGEN 1 — LECTURA DE LA FÁBULA
+═══════════════════════════════════════
+
+Título superior:
+"Una fábula de Esopo"
+
+Título principal:
+[Nombre de la fábula]
+
+Contenido:
+- Incluir la fábula completa, no un resumen.
+- Adaptar el lenguaje para una niña de 6 años, pero conservar la narración completa.
+- Dividir el texto en párrafos cortos.
+- Usar letra grande y muy legible.
+- Incluir 2 o 3 ilustraciones narrativas tipo acuarela suave que muestren momentos clave de la historia.
+- Incluir al final una caja de "Moraleja".
+- La página debe parecer una página hermosa de libro infantil, no una ficha escolar.
+
+═══════════════════════════════════════
+IMAGEN 2 — TRABAJO SOBRE LA FÁBULA
+═══════════════════════════════════════
+
+Título superior:
+"Yo cuento · Yo pienso · Yo escribo"
+
+Secciones:
+
+1. "Yo cuento la fábula"
+   Instrucción: "Escribe con tus palabras lo que entendiste de la fábula."
+   Incluir 5 líneas guía amplias (altura 12 mm).
+
+2. "Yo pienso"
+   Incluir 2 preguntas de inferencia, cada una con 2 líneas guía:
+   - "¿Por qué crees que [personaje] hizo eso?"
+   - "¿Qué habrías hecho tú en su lugar?"
+
+3. "Mi final diferente"
+   Instrucción: "Si tú escribieras el final, ¿cómo terminaría la fábula?"
+   Incluir una caja grande en blanco para escribir.
+
+4. "Palabras nuevas"
+   Incluir 4 o 5 palabras importantes de la fábula, cada una con una línea para escribir su significado con sus propias palabras.
+
+5. "Para recordar"
+   Pregunta: "¿Cuál es la enseñanza de la fábula?"
+   Incluir 2 líneas guía.
+
+Diseño de la imagen 2:
+- Debe ser una hoja de trabajo hermosa, no una página llena de texto.
+- Usar íconos pequeños: libro, lápiz, estrella, flor, animal de la fábula.
+- Mantener líneas de escritura claras y amplias.
+- Dejar suficiente espacio para que Eli escriba.
+- Usar ilustraciones pequeñas en esquinas o dentro de cajas, sin quitar espacio de escritura.
+
+═══════════════════════════════════════
+TEMA DE HOY:
+═══════════════════════════════════════
+Fábula: El león y el ratón (Esopo)
+Personajes principales: el león majestuoso, el ratoncito humilde
+Versículo de fondo (no aparece en la ficha): "Un siervo verdadero ayuda a quien lo necesita." Esta enseñanza encaja con el doble amor de Mateo 22:39.
+Nivel: 6 años, lectora fluida
+Objetivo: lectura, narración, comprensión, inferencia y escritura propia.
+
+NOTA: si prefieres otra fábula adecuada para 6 años (La liebre y la tortuga, El pastor mentiroso, La hormiga y la cigarra), puedes cambiarla. Pero conserva la estructura de 2 imágenes.
 
 OUTPUT SEGÚN LA IA USADA:
 
 Si la IA genera imagen:
-Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para escritura.
+Genera primero la IMAGEN 1 en A4 vertical 1:1.414, alta resolución, estilo libro infantil con ilustraciones tipo acuarela. Luego, cuando yo diga "Haz la imagen 2 con el resto", genera la IMAGEN 2 también en A4 vertical 1:1.414, alta resolución, con espacios en blanco visibles para escritura.
 
 Si la IA genera HTML:
-Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes.
+Crear dos artifacts separados (uno por imagen), HTML completo con CSS embebido, ambos A4 vertical, imprimibles sin márgenes del navegador.
 
 Si la IA genera PDF:
-Crear una ficha PDF A4 vertical, lista para imprimir.
+Crear un PDF de 2 páginas (página 1 = lectura, página 2 = trabajo), A4 vertical, lista para imprimir.
 
-No responder con explicación. Generar directamente la ficha.</div>
+No responder con explicación. Generar directamente las imágenes.</div>
         </div>
       </div>
     </div>
