@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ficha S4 · Elisabeth · Creciendo en el Pacto</title>
+<link rel="stylesheet" href="../css/ficha.css">
+<style>
+  .ficha-page { --page-color: #8B3A2A; }
+  .ficha-page.p2 { --page-color: #3A85C2; }
+  .ficha-page.p3 { --page-color: #2EAB72; }
+  .ficha-page.p4 { --page-color: #C49A2A; }
+  .ficha-page.p5 { --page-color: #7B4FBF; }
+
+  /* Suma con dibujos */
+  .sum-card { border:2.5px solid #2EAB72; border-radius:12px; padding:10px 12px; background:#f0fff7; }
+  .sum-eq { display:flex; align-items:center; gap:10px; font-size:2rem; font-weight:900; color:#2EAB72; margin:6px 0; }
+  .sum-draw { border:2px dashed #2EAB72; border-radius:8px; height:50px; background:#fff; display:flex; align-items:center; padding:0 8px; font-size:.8rem; color:#aaa; }
+  .sum-blank { border-bottom:3px solid #2EAB72; min-width:48px; display:inline-block; text-align:center; }
+
+  /* Lectura nueva ruta */
+  .ruta-card { border:3px solid #3A85C2; border-radius:12px; padding:10px 14px; background:#f0f6ff; margin-bottom:10px; }
+  .ruta-badge { background:#3A85C2; color:#fff; border-radius:8px; padding:3px 10px; font-size:.8rem; font-weight:700; display:inline-block; margin-bottom:6px; }
+
+  /* Génesis 3 timeline */
+  .timeline-row { display:flex; gap:0; margin:10px 0; }
+  .tl-node { flex:1; text-align:center; position:relative; }
+  .tl-circle { width:38px; height:38px; border-radius:50%; margin:0 auto 4px; display:flex; align-items:center; justify-content:center; font-size:1.2rem; border:3px solid #C49A2A; background:#fff; }
+  .tl-label { font-size:.72rem; color:#5a3a00; font-weight:700; line-height:1.2; }
+  .tl-line { position:absolute; top:19px; left:50%; right:-50%; height:3px; background:#C49A2A; z-index:0; }
+  .tl-node:last-child .tl-line { display:none; }
+</style>
+</head>
+<body>
+
+<div class="print-controls no-print">
+  <a href="../index.html" class="btn-back">← Volver a la app</a>
+  <button class="btn-print btn-print-green" onclick="window.print()">🖨 Imprimir ficha</button>
+</div>
+
+<!-- ══════════════════════════════════════════
+     PÁGINA 1 — PORTADA Y CATECISMO
+     ══════════════════════════════════════════ -->
+<div class="ficha-page">
+
+  <div class="ficha-cover" style="background:linear-gradient(135deg,#5A1A08,#8B3A2A)">
+    <div class="fc-animal">🍎</div>
+    <div>
+      <div class="fc-sem">Semana 4 · 8–12 junio 2026</div>
+      <div class="fc-title">La Caída — La promesa<br>de un Salvador</div>
+      <div class="fc-dates">Génesis 3 · Proto-evangelio · Suma 0–10</div>
+    </div>
+    <div class="fc-verse-box">
+      <div class="fc-verse-label">Versículo de la semana</div>
+      <div class="fc-verse-text">"Pondré enemistad entre ti y la mujer,<br>y entre tu simiente y la simiente suya."<br>— Génesis 3:15</div>
+    </div>
+  </div>
+
+  <div class="name-sticker">
+    <span>✏️ Mi nombre es:</span>
+    <div class="name-line"></div>
+  </div>
+
+  <!-- CATECISMO -->
+  <div class="section-header">
+    <span class="section-badge" style="background:#7B4FBF">✝️ Catecismo</span>
+    <span class="section-title-text">Esta semana aprendo</span>
+  </div>
+
+  <div class="cat-section">
+    <div class="cat-label">Preguntas nuevas</div>
+
+    <div class="cat-card">
+      <div class="cat-number">P. 26</div>
+      <div class="cat-question">¿Obedeció Adán a Dios y fue feliz?</div>
+      <div class="cat-answer">No; Adán pecó contra Dios y cayó de su estado feliz y santo.</div>
+      <div class="writing-lines">
+        <div class="line-label">Escribe la respuesta corta:</div>
+        <div class="line"></div>
+      </div>
+    </div>
+
+    <div class="cat-card">
+      <div class="cat-number">P. 27</div>
+      <div class="cat-question">¿Qué es el pecado?</div>
+      <div class="cat-answer">El pecado es cualquier falta de conformidad con la ley de Dios, o transgresión de ella.</div>
+      <div class="writing-lines">
+        <div class="line-label">Escribe:</div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+    </div>
+
+    <div class="cat-card">
+      <div class="cat-number">P. 28</div>
+      <div class="cat-question">¿Cuál fue el pecado de nuestros primeros padres?</div>
+      <div class="cat-answer">Comer el fruto que Dios les había prohibido.</div>
+      <div class="writing-lines">
+        <div class="line-label">Escribe:</div>
+        <div class="line"></div>
+      </div>
+    </div>
+
+    <div class="cat-card">
+      <div class="cat-number">P. 29</div>
+      <div class="cat-question">¿Quién los tentó a pecar?</div>
+      <div class="cat-answer">Satanás los tentó a pecar.</div>
+      <div class="writing-lines">
+        <div class="line-label">Escribe:</div>
+        <div class="line"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Cadena de repaso -->
+  <div class="activity-box yellow">
+    <div class="activity-badge" style="background:#F7C948;color:#5a4000">⭐ Repaso de cadena</div>
+    <div class="activity-instruction" style="font-size:.93rem">
+      El viernes, intenta <strong>P11 → P29</strong>. Marca con ✓ las que ya sabes sola.
+    </div>
+    <div style="display:flex;gap:5px;flex-wrap:wrap;margin-top:8px">
+      <span style="background:#7B4FBF;color:#fff;padding:3px 8px;border-radius:12px;font-size:.78rem;font-weight:700">P11–P25</span>
+      <span style="color:#7B4FBF;font-weight:700;align-self:center">→</span>
+      <span style="background:#8B3A2A;color:#fff;padding:3px 9px;border-radius:12px;font-size:.78rem;font-weight:700">P26–P29 🆕</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════
+     PÁGINA 2 — LECTOESCRITURA (Nueva ruta)
+     ══════════════════════════════════════════ -->
+<div class="ficha-page p2">
+
+  <div class="section-header" style="margin-top:0">
+    <span class="section-badge" style="background:#3A85C2">📖 Lectoescritura</span>
+    <span class="section-title-text">Cambio de ruta — ¡Nuevo camino!</span>
+  </div>
+
+  <!-- Nota de transición -->
+  <div style="background:linear-gradient(135deg,#e8f3ff,#d0e8ff);border:3px solid #3A85C2;border-radius:14px;padding:12px 16px;margin-bottom:12px">
+    <div style="font-weight:800;color:#1a4a7a;font-size:.95rem;margin-bottom:4px">🎉 ¡Terminaste las letras X, Y, Z!</div>
+    <div style="font-size:.88rem;color:#2a5a9a;line-height:1.5">
+      Esta semana mamá evaluó tu lectura y escritura. ¡Ya conoces todas las letras del abecedario!<br>
+      Ahora empezamos a <strong>leer textos más largos</strong> y a escribir con más fluidez.
+    </div>
+  </div>
+
+  <!-- Nuevo recurso de lectura -->
+  <div class="ruta-card">
+    <div class="ruta-badge">📚 Nueva ruta de lectura</div>
+    <div class="activity-instruction" style="margin:4px 0">Lee en voz alta a mamá</div>
+    <div class="activity-sub">Lee el texto que mamá preparó. Señala con el dedo mientras lees.</div>
+    <div style="border:2px solid #3A85C2;border-radius:10px;padding:10px 14px;background:#fff;margin-top:8px;line-height:2.2;font-size:1rem;font-family:'Georgia',serif">
+      <div style="color:#1a4a7a;font-size:.8rem;font-weight:700;margin-bottom:4px">Texto de lectura — semana 4:</div>
+      Adán y Eva vivían felices en el jardín.<br>
+      Dios les dijo: "No coman de este árbol."<br>
+      Pero ellos no obedecieron a Dios.<br>
+      Dios los amó y prometió un Salvador.
+    </div>
+  </div>
+
+  <!-- Comprensión lectora -->
+  <div class="activity-box blue">
+    <div class="activity-row">
+      <div class="act-number" style="background:#3A85C2">1</div>
+      <div>
+        <div class="activity-instruction">Preguntas de comprensión — Responde con una oración</div>
+      </div>
+    </div>
+    <div style="margin-top:8px">
+      <div style="font-size:.88rem;font-weight:700;color:#3A85C2;margin-bottom:2px">¿Dónde vivían Adán y Eva?</div>
+      <div class="writing-lines"><div class="line"></div></div>
+      <div style="font-size:.88rem;font-weight:700;color:#3A85C2;margin-top:8px;margin-bottom:2px">¿Qué les dijo Dios que no hicieran?</div>
+      <div class="writing-lines"><div class="line"></div></div>
+      <div style="font-size:.88rem;font-weight:700;color:#3A85C2;margin-top:8px;margin-bottom:2px">¿Qué prometió Dios?</div>
+      <div class="writing-lines"><div class="line"></div></div>
+    </div>
+  </div>
+
+  <!-- Escritura propia -->
+  <div class="activity-box blue">
+    <div class="activity-row">
+      <div class="act-number" style="background:#3A85C2">2</div>
+      <div>
+        <div class="activity-instruction">Escribe 2 oraciones propias sobre la historia</div>
+        <div class="activity-sub">Con tus propias palabras, no del texto</div>
+      </div>
+    </div>
+    <div class="writing-lines" style="margin-top:6px">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════
+     PÁGINA 3 — MATEMÁTICAS (Suma 0–10)
+     ══════════════════════════════════════════ -->
+<div class="ficha-page p3">
+
+  <div class="section-header" style="margin-top:0">
+    <span class="section-badge" style="background:#2EAB72">🔢 Matemáticas</span>
+    <span class="section-title-text">Suma — Inicio con números 0 a 10</span>
+  </div>
+
+  <!-- ¿Qué es sumar? -->
+  <div class="activity-box" style="background:#f0fff7;border-color:#2EAB72">
+    <div style="font-weight:800;font-size:1rem;color:#1a6a44;margin-bottom:8px">¿Qué es sumar?</div>
+    <div style="font-size:.9rem;color:#2a5a3a;line-height:1.7">
+      Sumar es <strong>juntar</strong> dos grupos para saber <strong>cuántos hay en total</strong>.<br>
+      <span style="font-size:1.3rem">🍎🍎</span> + <span style="font-size:1.3rem">🍎🍎🍎</span> = <span style="font-size:1.5rem;color:#2EAB72;font-weight:900">5</span>
+    </div>
+  </div>
+
+  <!-- Sumas con dibujos -->
+  <div class="activity-box" style="background:#f0fff7;border-color:#2EAB72">
+    <div class="activity-row">
+      <div class="act-number" style="background:#2EAB72">1</div>
+      <div>
+        <div class="activity-instruction">Suma con dibujos — Cuenta y escribe el total</div>
+      </div>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:8px">
+      <div class="sum-card">
+        <div style="font-size:.82rem;font-weight:700;color:#2EAB72;margin-bottom:4px">🐸🐸🐸 + 🐸🐸</div>
+        <div class="sum-eq">3 + 2 = <span class="sum-blank"></span></div>
+      </div>
+      <div class="sum-card">
+        <div style="font-size:.82rem;font-weight:700;color:#2EAB72;margin-bottom:4px">⭐⭐⭐⭐ + ⭐</div>
+        <div class="sum-eq">4 + 1 = <span class="sum-blank"></span></div>
+      </div>
+      <div class="sum-card">
+        <div style="font-size:.82rem;font-weight:700;color:#2EAB72;margin-bottom:4px">🌸🌸 + 🌸🌸🌸🌸</div>
+        <div class="sum-eq">2 + 4 = <span class="sum-blank"></span></div>
+      </div>
+      <div class="sum-card">
+        <div style="font-size:.82rem;font-weight:700;color:#2EAB72;margin-bottom:4px">🐦🐦🐦🐦🐦 + 🐦</div>
+        <div class="sum-eq">5 + 1 = <span class="sum-blank"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sumas escritas -->
+  <div class="activity-box" style="background:#f0fff7;border-color:#2EAB72">
+    <div class="activity-row">
+      <div class="act-number" style="background:#2EAB72">2</div>
+      <div>
+        <div class="activity-instruction">Completa las sumas — Dibuja si necesitas ayuda</div>
+      </div>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-top:8px">
+      <div style="border:2.5px dashed #2EAB72;border-radius:10px;padding:8px;text-align:center">
+        <div style="font-size:1.6rem;font-weight:900;color:#2EAB72">6 + 3 =</div>
+        <div class="sum-draw">dibuja aquí</div>
+        <div style="border-bottom:3px solid #2EAB72;margin:8px 12px 0;height:0"></div>
+      </div>
+      <div style="border:2.5px dashed #2EAB72;border-radius:10px;padding:8px;text-align:center">
+        <div style="font-size:1.6rem;font-weight:900;color:#2EAB72">7 + 2 =</div>
+        <div class="sum-draw">dibuja aquí</div>
+        <div style="border-bottom:3px solid #2EAB72;margin:8px 12px 0;height:0"></div>
+      </div>
+      <div style="border:2.5px dashed #2EAB72;border-radius:10px;padding:8px;text-align:center">
+        <div style="font-size:1.6rem;font-weight:900;color:#2EAB72">4 + 4 =</div>
+        <div class="sum-draw">dibuja aquí</div>
+        <div style="border-bottom:3px solid #2EAB72;margin:8px 12px 0;height:0"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Problema de Génesis -->
+  <div class="activity-box" style="background:#fff8f0;border-color:#C49A2A">
+    <div class="activity-row">
+      <div class="act-number" style="background:#C49A2A">⭐</div>
+      <div>
+        <div class="activity-instruction">Problema de historia — ¡Piensa y suma!</div>
+      </div>
+    </div>
+    <div style="font-size:.9rem;line-height:1.8;margin:8px 0;color:#4a3500">
+      En el jardín del Edén había 3 árboles frutales junto al río.<br>
+      Dios plantó 5 más en el centro. ¿Cuántos árboles hay en total?
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;margin-top:6px">
+      <div style="font-size:1.3rem;font-weight:900;color:#C49A2A">3 + 5 =</div>
+      <div style="border-bottom:3px solid #C49A2A;width:60px"></div>
+      <div style="font-size:.85rem;color:#888">árboles</div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════
+     PÁGINA 4 — HISTORIA (La Caída y Gén 3:15)
+     ══════════════════════════════════════════ -->
+<div class="ficha-page p4">
+
+  <div class="section-header" style="margin-top:0">
+    <span class="section-badge" style="background:#C49A2A">📜 Historia Providencial</span>
+    <span class="section-title-text">La Caída — Génesis 3 · El proto-evangelio</span>
+  </div>
+
+  <!-- Línea de tiempo Génesis 3 -->
+  <div class="activity-box" style="background:#fffbe6;border-color:#C49A2A">
+    <div class="activity-row">
+      <div class="act-number" style="background:#C49A2A">1</div>
+      <div>
+        <div class="activity-instruction">La historia de la Caída — 4 momentos</div>
+        <div class="activity-sub">Dibuja un símbolo en cada círculo</div>
+      </div>
+    </div>
+    <div class="timeline-row" style="margin-top:14px">
+      <div class="tl-node">
+        <div class="tl-line"></div>
+        <div class="tl-circle">🌿</div>
+        <div class="tl-label">El jardín<br>perfecto</div>
+      </div>
+      <div class="tl-node">
+        <div class="tl-line"></div>
+        <div class="tl-circle">🐍</div>
+        <div class="tl-label">La<br>tentación</div>
+      </div>
+      <div class="tl-node">
+        <div class="tl-line"></div>
+        <div class="tl-circle">🍎</div>
+        <div class="tl-label">El<br>pecado</div>
+      </div>
+      <div class="tl-node">
+        <div class="tl-circle" style="background:#fffbe6;border-color:#2EAB72">✨</div>
+        <div class="tl-label" style="color:#1a6a44">La<br>promesa</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Génesis 3:15 explicado -->
+  <div style="background:linear-gradient(135deg,#fffbe6,#fff3b0);border:3px solid #C49A2A;border-radius:14px;padding:12px 16px;margin-bottom:12px">
+    <div style="font-size:.82rem;font-weight:700;color:#8B6A00;margin-bottom:6px">📖 Génesis 3:15 — La primera promesa de un Salvador</div>
+    <div style="font-size:.95rem;font-style:italic;color:#4a3500;line-height:1.7">"Pondré enemistad entre ti y la mujer,<br>y entre tu simiente y la simiente suya;<br>ésta te herirá en la cabeza,<br>y tú le herirás en el calcañar."</div>
+    <div style="margin-top:8px;background:#fff;border-radius:8px;padding:8px 10px;font-size:.85rem;color:#5a3a00;line-height:1.6">
+      🔑 <strong>¿Qué significa?</strong> Dios prometió que uno de los hijos de Eva aplastaría al diablo.
+      Ese Salvador es Jesús. La Biblia empieza a contar su historia desde aquí.
+    </div>
+  </div>
+
+  <!-- Reflexión -->
+  <div class="activity-box" style="background:#fffbe6;border-color:#C49A2A">
+    <div class="activity-row">
+      <div class="act-number" style="background:#C49A2A">2</div>
+      <div>
+        <div class="activity-instruction">¿Por qué es una buena noticia Génesis 3:15?</div>
+        <div class="activity-sub">Habla con mamá primero, luego escribe o dibuja tu respuesta</div>
+      </div>
+    </div>
+    <div class="drawing-space" style="height:80px;margin-top:8px"></div>
+    <div class="writing-lines" style="margin-top:6px">
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  </div>
+
+  <!-- Completa la oración -->
+  <div class="activity-box" style="background:#fffbe6;border-color:#C49A2A">
+    <div class="activity-row">
+      <div class="act-number" style="background:#C49A2A">3</div>
+      <div>
+        <div class="activity-instruction">Completa la oración</div>
+      </div>
+    </div>
+    <div style="font-size:.95rem;line-height:2.4;margin-top:6px;color:#4a3500">
+      Adán y Eva pecaron porque <span style="border-bottom:2px solid #C49A2A;display:inline-block;min-width:120px">&nbsp;</span> los tentó.<br>
+      Dios prometió enviar un <span style="border-bottom:2px solid #C49A2A;display:inline-block;min-width:120px">&nbsp;</span> para vencer al pecado.<br>
+      Ese Salvador es <span style="border-bottom:2px solid #C49A2A;display:inline-block;min-width:120px">&nbsp;</span>.
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════
+     PÁGINA 5 — CIENCIAS + MI DIBUJO
+     ══════════════════════════════════════════ -->
+<div class="ficha-page p5">
+
+  <div class="section-header" style="margin-top:0">
+    <span class="section-badge" style="background:#7B4FBF">🔬 Ciencias · Naturaleza</span>
+    <span class="section-title-text">Experimento · Diario de naturaleza p. 4</span>
+  </div>
+
+  <!-- Experimento -->
+  <div class="activity-box" style="background:#faf0ff;border-color:#7B4FBF">
+    <div class="activity-row">
+      <div class="act-number" style="background:#7B4FBF">1</div>
+      <div>
+        <div class="activity-instruction">¿Qué observé esta semana?</div>
+        <div class="activity-sub">Diario de naturaleza · página 4</div>
+      </div>
+    </div>
+    <div style="display:grid;grid-template-columns:1.2fr 1fr;gap:12px;margin-top:8px">
+      <div>
+        <div class="drawing-space" style="height:130px"></div>
+        <div style="font-size:.78rem;color:#7B4FBF;text-align:center;margin-top:4px">Mi dibujo de observación</div>
+      </div>
+      <div>
+        <div class="writing-lines">
+          <div class="line-label">¿Qué observé?</div>
+          <div class="line"></div>
+          <div class="line-label" style="margin-top:8px">¿Dónde lo vi?</div>
+          <div class="line"></div>
+          <div class="line-label" style="margin-top:8px">Me pregunto...</div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Reflexión sobre el mundo caído -->
+  <div class="activity-box" style="background:#faf0ff;border-color:#7B4FBF">
+    <div class="activity-row">
+      <div class="act-number" style="background:#7B4FBF">2</div>
+      <div>
+        <div class="activity-instruction">La creación gime — ¿Ves algo "roto" en la naturaleza?</div>
+        <div class="activity-sub">Gén 3 dice que la creación sufrió por el pecado — flores que se marchitan, animales que se enferman</div>
+      </div>
+    </div>
+    <div class="writing-lines" style="margin-top:6px">
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+    <div style="font-size:.82rem;color:#7B4FBF;margin-top:6px">¿Cómo restaurará Dios su creación con el Salvador?</div>
+    <div class="writing-lines"><div class="line"></div></div>
+  </div>
+
+  <!-- Mi dibujo de la semana -->
+  <div class="my-drawing-section">
+    <div class="mds-title">🎨 Mi dibujo de la semana</div>
+    <div class="mds-prompt">Dibuja: Jesús como el Salvador prometido en Génesis 3:15</div>
+    <div class="drawing-space" style="height:130px;margin:10px 0"></div>
+    <div style="display:flex;gap:8px;align-items:center;margin-top:4px">
+      <span style="font-size:.85rem;color:#666">Mi dibujo se llama:</span>
+      <div style="flex:1;height:0;border-bottom:2px solid #7B4FBF"></div>
+    </div>
+    <div style="margin-top:8px;display:flex;gap:6px;align-items:center">
+      <span style="font-size:.85rem;color:#666">Dios prometió un Salvador porque Él nos</span>
+      <div style="flex:1;height:0;border-bottom:2px solid #7B4FBF"></div>
+    </div>
+    <div style="margin-top:14px;text-align:center;font-size:.78rem;color:#aaa">
+      Semana 4 · Creciendo en el Pacto · Familia Espinoza · 2026–27
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>

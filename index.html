@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Creciendo en el Pacto · Elisabeth 2026–2027</title>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<!-- ── SIDEBAR ── -->
+<nav class="sb">
+  <div class="sb-logo">
+    <h1>Creciendo en el Pacto</h1>
+    <p>Elisabeth · Primer año · 2026–27</p>
+  </div>
+  <div class="sb-nav">
+    <div class="sb-sec">Clase</div>
+    <div class="sb-item active" onclick="nav('hoy')">📅 Hoy</div>
+    <div class="sb-sec">Planificación</div>
+    <div class="sb-item" onclick="nav('plan')">📖 38 semanas</div>
+    <div class="sb-sec">Seguimiento</div>
+    <div class="sb-item" onclick="nav('prog')">📊 Progreso E/D/C</div>
+    <div class="sb-item" onclick="nav('port')">🗂️ Portafolio</div>
+    <div class="sb-item" onclick="nav('inf')">📄 Informes</div>
+    <div class="sb-sec">General</div>
+    <div class="sb-item" onclick="nav('inicio')">🏠 Resumen</div>
+  </div>
+  <div class="sb-foot">
+    <p>"Los medios son responsabilidad del padre.<br>Los frutos son soberanía de Dios."</p>
+  </div>
+</nav>
+
+<div class="sb-overlay"></div>
+
+<!-- ── MAIN ── -->
+<div class="main">
+  <div class="topbar">
+    <div style="display:flex;align-items:center;gap:.6rem">
+      <button class="hamburger" onclick="openSidebar()" aria-label="Menú">☰</button>
+      <div class="topbar-title" id="topbar-title">Hoy</div>
+    </div>
+    <div class="topbar-acts">
+      <button class="btn btn-outline btn-sm" onclick="printView()">🖨 Imprimir</button>
+      <button class="btn btn-primary btn-sm" onclick="saveAll()">💾 Guardar</button>
+    </div>
+  </div>
+
+  <div class="content">
+
+    <!-- ── HOY ── -->
+    <div id="view-hoy" class="view active">
+      <div id="hoy-content"></div>
+    </div>
+
+    <!-- ── INICIO ── -->
+    <div id="view-inicio" class="view">
+      <div class="hero">
+        <h2>Creciendo en el Pacto</h2>
+        <p>Familia Espinoza · Bogotá, Colombia · 2026–2027</p>
+        <div class="verse">"Y las repetirás a tus hijos, y hablarás de ellas estando en tu casa." — Deut. 6:7</div>
+      </div>
+      <div class="grid-4">
+        <div class="stat-c">
+          <div class="stat-n" style="color:var(--t1)" id="stat-semana">1</div>
+          <div class="stat-l">Semana actual</div>
+          <div class="stat-s">Inicia martes 19 mayo ★ Ascensión</div>
+        </div>
+        <div class="stat-c">
+          <div class="stat-n" style="color:var(--t2)">T1</div>
+          <div class="stat-l">Trimestre</div>
+          <div class="stat-s">Mi historia · Creación · Patriarcas</div>
+        </div>
+        <div class="stat-c">
+          <div class="stat-n" style="color:var(--gold)">38</div>
+          <div class="stat-l">Semanas totales</div>
+          <div class="stat-s">mayo 2026 – febrero 2027</div>
+        </div>
+        <div class="stat-c">
+          <div class="stat-n" style="color:var(--t3)" id="stat-pct">3%</div>
+          <div class="stat-l">Avance del año</div>
+          <div class="stat-s" id="stat-pct-s">Semana 1 de 38</div>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="card">
+          <div class="card-hd"><h3>Estado bíblico-litúrgico</h3></div>
+          <div class="card-bd" style="font-size:.9rem;line-height:2.1">
+            <div>📖 <strong>Devocional:</strong> Marcos — perícope diaria</div>
+            <div>⛪ <strong>Sermón:</strong> Lucas 11</div>
+            <div>🕊️ <strong>Día del Señor:</strong> Levítico 22</div>
+            <div>👧 <strong>Esc. dominical:</strong> Génesis</div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-hd"><h3>Punto de partida real de Elisabeth</h3></div>
+          <div class="card-bd">
+            <div class="pod-row">
+              <div class="pod"><div class="pl">Lectoescritura</div><div class="pv">Lee y escribe frases ✓</div><div class="ps">Cierre X, Y, Z → cambio de ruta</div></div>
+              <div class="pod"><div class="pl">Matemáticas</div><div class="pv">Ordinales sólidos</div><div class="ps">Singapur 1A p.77–78 → intro 11–20</div></div>
+              <div class="pod"><div class="pl">Nivel real</div><div class="pv">Por encima del diagnóstico</div><div class="ps">Requiere mayor desafío desde S1</div></div>
+              <div class="pod"><div class="pl">Ruta post-X/Y/Z</div><div class="pv">Evaluación S3-S4</div><div class="ps">Nuevo recurso lectura a definir</div></div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-hd"><h3>Progreso por área</h3></div>
+          <div class="card-bd" id="prog-overview"></div>
+        </div>
+        <div class="card">
+          <div class="card-hd">
+            <h3>Próximas semanas</h3>
+            <button class="btn btn-outline btn-sm" onclick="nav('plan')">Ver todas</button>
+          </div>
+          <div class="card-bd" id="proximas"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── PLANIFICACIÓN ── -->
+    <div id="view-plan" class="view">
+      <div id="plan-content"></div>
+    </div>
+
+    <!-- ── PROGRESO ── -->
+    <div id="view-prog" class="view">
+      <div class="pg-legend">
+        🔴 <strong>E</strong> — Emergente &nbsp;·&nbsp;
+        🟠 <strong>D</strong> — En Desarrollo &nbsp;·&nbsp;
+        🟢 <strong>C</strong> — Consolidado
+      </div>
+      <div class="pg-areas" id="prog-areas"></div>
+    </div>
+
+    <!-- ── PORTAFOLIO ── -->
+    <div id="view-port" class="view">
+      <div class="port-ctrl">
+        <label style="font-size:.87rem;color:var(--muted)">Añadir evidencia — Semana:</label>
+        <select id="port-sem-sel"></select>
+        <button class="btn btn-primary btn-sm" onclick="addPortEntry()">+ Añadir</button>
+      </div>
+      <div id="port-list"></div>
+    </div>
+
+    <!-- ── INFORMES ── -->
+    <div id="view-inf" class="view">
+      <div class="inf-sel">
+        <button class="t-btn on" onclick="showInf(1,this)">Trimestre 1</button>
+        <button class="t-btn" onclick="showInf(2,this)">Trimestre 2</button>
+        <button class="t-btn" onclick="showInf(3,this)">Trimestre 3</button>
+        <button class="t-btn" onclick="showInf(4,this)">Trimestre 4</button>
+        <button class="btn btn-gold btn-sm" onclick="printView()">⬇ Imprimir</button>
+      </div>
+      <div class="inf-body" id="inf-body"></div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ── MODAL ── -->
+<div class="modal-ov" id="modal-ov">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<!-- ── TOAST ── -->
+<div class="toast" id="toast"></div>
+
+<!-- ── SCRIPTS ── -->
+<script src="js/catecismo.js"></script>
+<script src="js/competencias.js"></script>
+<script src="js/semanas.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

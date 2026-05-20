@@ -1,0 +1,16 @@
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+
+# Local Claude config (no se sube — es del entorno local)
+.claude/
+
+# Logs
+*.log
+npm-debug.log*

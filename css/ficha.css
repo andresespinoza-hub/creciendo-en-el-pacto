@@ -1,0 +1,505 @@
+/* ═══════════════════════════════════════════
+   CRECIENDO EN EL PACTO — Fichas de Elisabeth
+   Diseño: "Aprendamos todos a leer" estilo BID
+   ═══════════════════════════════════════════ */
+
+:root {
+  --fi-green:  #2EAB72;
+  --fi-pink:   #D94F8F;
+  --fi-orange: #F5821F;
+  --fi-yellow: #F7C948;
+  --fi-purple: #7B4FBF;
+  --fi-blue:   #3A85C2;
+  --fi-red:    #E03535;
+  --fi-cream:  #FFFDF7;
+  --fi-ink:    #1A1A1A;
+  --fi-muted:  #777;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { font-size: 16px; }
+
+body {
+  font-family: 'Comic Sans MS', 'Trebuchet MS', cursive;
+  background: #f0f0f0;
+  color: var(--fi-ink);
+  padding: 20px;
+}
+
+/* ── FICHA PÁGINA A4 ── */
+.ficha-page {
+  background: var(--fi-cream);
+  width: 210mm;
+  min-height: 297mm;
+  margin: 0 auto 30px;
+  padding: 14mm 14mm 12mm;
+  border-radius: 12px;
+  position: relative;
+  box-shadow: 0 4px 24px rgba(0,0,0,.12);
+  page-break-after: always;
+  overflow: hidden;
+}
+
+/* Borde decorativo de color */
+.ficha-page::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 6px solid var(--page-color, var(--fi-green));
+  border-radius: 12px;
+  pointer-events: none;
+}
+
+/* ── PORTADA ── */
+.ficha-cover {
+  background: linear-gradient(135deg, var(--fi-green) 0%, #1d8a58 100%);
+  border-radius: 16px;
+  padding: 22px 24px;
+  color: #fff;
+  margin-bottom: 18px;
+  position: relative;
+  overflow: hidden;
+  min-height: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ficha-cover::after {
+  content: '';
+  position: absolute;
+  right: -20px;
+  top: -20px;
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,.08);
+  border-radius: 50%;
+}
+.ficha-cover .fc-animal {
+  position: absolute;
+  right: 18px;
+  bottom: 8px;
+  font-size: 3.5rem;
+  opacity: .9;
+  line-height: 1;
+}
+.ficha-cover .fc-sem {
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  opacity: .75;
+  margin-bottom: 4px;
+}
+.ficha-cover .fc-title {
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.2;
+  max-width: 75%;
+}
+.ficha-cover .fc-dates {
+  font-size: .8rem;
+  opacity: .72;
+  margin-top: 4px;
+}
+.ficha-cover .fc-verse-box {
+  background: rgba(255,255,255,.18);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-top: 10px;
+  max-width: 82%;
+}
+.ficha-cover .fc-verse-label {
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  opacity: .7;
+  margin-bottom: 3px;
+}
+.ficha-cover .fc-verse-text {
+  font-size: .88rem;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* ── SECCIÓN HEADER ── */
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  margin-top: 20px;
+}
+.section-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 14px;
+  border-radius: 20px;
+  font-size: .82rem;
+  font-weight: 900;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+.section-title-text {
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: var(--fi-ink);
+}
+
+/* ── NÚMERO DE ACTIVIDAD ── */
+.act-number {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  color: #fff;
+  font-weight: 900;
+  font-size: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+/* ── ACTIVITY BADGE / BLOB ── */
+.activity-badge {
+  border-radius: 50px;
+  padding: 6px 16px;
+  color: #fff;
+  font-weight: 900;
+  font-size: .8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+/* ── CATECISMO CARD ── */
+.cat-section {
+  background: linear-gradient(135deg, var(--fi-purple), #5a3a9a);
+  border-radius: 14px;
+  padding: 16px 18px;
+  color: #fff;
+  margin-bottom: 14px;
+}
+.cat-section .cat-label {
+  font-size: .62rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  opacity: .65;
+  margin-bottom: 8px;
+}
+.cat-card {
+  background: rgba(255,255,255,.12);
+  border-radius: 10px;
+  padding: 12px 15px;
+  margin-bottom: 10px;
+}
+.cat-number {
+  font-size: .7rem;
+  font-weight: 700;
+  color: var(--fi-yellow);
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+.cat-question {
+  font-size: 1.15rem;
+  font-weight: 900;
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+.cat-answer {
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--fi-yellow);
+  line-height: 1.45;
+}
+
+/* ── LÍNEAS DE ESCRITURA ── */
+.writing-lines {
+  margin-top: 10px;
+  background: rgba(255,255,255,.08);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+.writing-lines .line-label {
+  font-size: .62rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  opacity: .55;
+  margin-bottom: 6px;
+}
+.line {
+  border-bottom: 2px solid rgba(255,255,255,.35);
+  height: 38px;
+  margin-bottom: 4px;
+  width: 100%;
+}
+.line:last-child { margin-bottom: 0; }
+
+/* Líneas de escritura estilo claro (para secciones blancas) */
+.lines-light .line {
+  border-bottom: 2px solid var(--fi-green);
+  height: 42px;
+}
+.lines-light .line-label {
+  color: var(--fi-muted);
+  opacity: 1;
+}
+
+/* ── ACTIVIDAD BOX ── */
+.activity-box {
+  border: 2px dashed var(--fi-green);
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 14px;
+  background: #fff;
+}
+.activity-box.pink { border-color: var(--fi-pink); }
+.activity-box.orange { border-color: var(--fi-orange); }
+.activity-box.blue { border-color: var(--fi-blue); }
+.activity-box.purple { border-color: var(--fi-purple); }
+.activity-box.yellow { border-color: var(--fi-yellow); background: #fffef0; }
+
+.activity-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.activity-instruction {
+  font-size: .97rem;
+  line-height: 1.5;
+  font-weight: 700;
+  flex: 1;
+}
+.activity-sub {
+  font-size: .85rem;
+  color: var(--fi-muted);
+  line-height: 1.45;
+  margin-top: 5px;
+  font-weight: 400;
+}
+
+/* ── ESPACIO DE DIBUJO ── */
+.drawing-space {
+  border: 3px dashed var(--fi-green);
+  border-radius: 16px;
+  min-height: 170px;
+  width: 100%;
+  background: #FFFDF7;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 8px 10px;
+}
+.drawing-space.pink { border-color: var(--fi-pink); }
+.drawing-space.orange { border-color: var(--fi-orange); }
+.drawing-space.blue { border-color: var(--fi-blue); }
+.drawing-label {
+  font-size: .7rem;
+  color: var(--fi-muted);
+  font-style: italic;
+}
+
+/* ── PALABRAS GRANDES para trazar/leer ── */
+.trace-word {
+  font-size: 3.2rem;
+  font-weight: 900;
+  color: #d0d0d0;
+  letter-spacing: .08em;
+  text-align: center;
+  padding: 6px 0;
+  font-family: 'Comic Sans MS', cursive;
+  border-bottom: 3px solid var(--fi-green);
+  margin-bottom: 12px;
+}
+.trace-word .model-letter {
+  color: var(--fi-green);
+}
+
+/* ── WORD BOXES (para unir/conectar) ── */
+.word-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 8px 0;
+}
+.word-box {
+  border: 2px solid var(--fi-blue);
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  background: #fff;
+}
+
+/* ── NÚMEROS / MATH ── */
+.math-box {
+  background: #fff;
+  border: 2px solid var(--fi-orange);
+  border-radius: 12px;
+  padding: 12px 15px;
+  margin-bottom: 12px;
+}
+.math-problem {
+  font-size: 2rem;
+  font-weight: 900;
+  text-align: center;
+  color: var(--fi-orange);
+  line-height: 1.2;
+}
+.math-answer-line {
+  border-bottom: 3px solid var(--fi-orange);
+  height: 44px;
+  margin: 8px 0;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.math-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin: 8px 0;
+}
+
+/* Objetos para contar */
+.count-objects {
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 10px;
+  border: 2px dashed var(--fi-orange);
+  border-radius: 10px;
+  background: #fff9f0;
+  letter-spacing: 4px;
+  line-height: 1.7;
+}
+
+/* ── HISTORIA / TIMELINE ── */
+.timeline-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(0,0,0,.06);
+}
+.timeline-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.timeline-text { font-size: .9rem; line-height: 1.4; }
+
+/* ── MI DIBUJO (última sección) ── */
+.my-drawing-section {
+  background: linear-gradient(135deg, #fff8e1, #fffdf7);
+  border: 3px solid var(--fi-yellow);
+  border-radius: 16px;
+  padding: 14px 16px;
+}
+.my-drawing-title {
+  font-size: 1.05rem;
+  font-weight: 900;
+  color: var(--fi-orange);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.my-drawing-space {
+  min-height: 160px;
+  border: 2px dashed var(--fi-yellow);
+  border-radius: 12px;
+  background: #fff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+/* ── DIVIDER ── */
+.divider {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--fi-green), transparent);
+  margin: 16px 0;
+  border-radius: 2px;
+  opacity: .4;
+}
+.divider.pink { background: linear-gradient(90deg, transparent, var(--fi-pink), transparent); }
+.divider.orange { background: linear-gradient(90deg, transparent, var(--fi-orange), transparent); }
+
+/* ── NOMBRE STICKER ── */
+.name-sticker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--fi-yellow);
+  border-radius: 12px;
+  padding: 6px 14px;
+  margin-bottom: 14px;
+}
+.name-sticker span {
+  font-size: .8rem;
+  font-weight: 700;
+  color: #5a4000;
+}
+.name-line {
+  border-bottom: 2px solid #5a4000;
+  min-width: 100px;
+  height: 24px;
+}
+
+/* ── BOTONES IMPRIMIR (ocultos en impresión) ── */
+.print-controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin: 20px auto;
+  max-width: 620px;
+}
+.btn-print {
+  padding: 10px 28px;
+  border-radius: 8px;
+  font-family: 'Comic Sans MS', 'Trebuchet MS', cursive;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  border: none;
+  transition: all .15s;
+}
+.btn-print-green { background: var(--fi-green); color: #fff; }
+.btn-print-green:hover { background: #1d8a58; }
+.btn-print-blue { background: var(--fi-blue); color: #fff; }
+.btn-print-blue:hover { background: #2a6fa8; }
+.btn-back {
+  padding: 10px 22px;
+  border-radius: 8px;
+  background: #f0f0f0;
+  border: none;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: .95rem;
+  cursor: pointer;
+  color: #555;
+}
+
+/* ── PRINT MEDIA ── */
+@media print {
+  body { margin: 0; padding: 0; background: white; }
+  .print-controls, .no-print { display: none !important; }
+  .ficha-page {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 14mm 14mm 12mm;
+    margin: 0;
+    border-radius: 0;
+    box-shadow: none;
+    page-break-after: always;
+  }
+  .ficha-page:last-of-type { page-break-after: auto; }
+}
