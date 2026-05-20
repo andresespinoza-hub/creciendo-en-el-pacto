@@ -213,10 +213,10 @@ martes:`${APERTURA}
 
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha CPN P11</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha CPN P11</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado y pactual.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado y pactual.
 
 CONTEXTO:
 - Eli ya lee frases con fluidez y escribe oraciones propias
@@ -239,13 +239,26 @@ DISEÑO VISUAL:
 - Tipografía: Georgia o serif clásico para títulos; sans-serif legible (Verdana o similar) para instrucciones de niño
 - Tamaño de letra mínimo 16pt para instrucciones; 24pt+ para la pregunta del catecismo
 - Espacio amplio, no saturar la hoja
-- Estilo digno y reverente, no caricaturesco
+- Estilo digno y reverente, contemplativo
 - Borde decorativo suave (esquinas o cintas), no excesivo
+- No usar caricaturas exageradas
+- No usar colores neón
+- No usar estética infantil saturada
+- No usar imágenes que pretendan representar a Dios
+- No usar halos, rayos místicos ni ojos flotantes
 
-OUTPUT (elige según la IA que uses):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible directamente del navegador en A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical proporción A4 (1:1.414), que se vea como la ficha imprimible con todos los espacios en blanco visibles donde Eli debe escribir y dibujar.
-Lista para abrir, imprimir y usar con Eli hoy mismo.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con todos los espacios en blanco visibles para que Eli escriba y dibuje.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir, manteniendo márgenes amplios y líneas de escritura claras.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -377,10 +390,10 @@ Lista para abrir, imprimir y usar con Eli hoy mismo.</div>
 
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Lectoescritura X</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Lectoescritura X</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de lectoescritura para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado y pactual.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de lectoescritura en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado y pactual.
 
 CONTEXTO:
 - Eli ya lee frases con fluidez y escribe oraciones propias
@@ -404,9 +417,18 @@ DISEÑO VISUAL:
 - Si incluyes ilustración, que sea sencilla y respetuosa, no caricaturesca
 - Sin emojis excesivos — uno o dos discretos como acentos
 
-OUTPUT (elige según la IA que uses):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible directamente del navegador en A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con todos los espacios en blanco visibles para que Eli escriba y dibuje.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para escritura y dibujo.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -563,10 +585,10 @@ OUTPUT (elige según la IA que uses):
 
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Historia Providencial</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Historia Providencial</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de Historia Providencial para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado y pactual.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de Historia Providencial en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado y pactual.
 
 CONTEXTO:
 - Primera clase del año de Historia Providencial
@@ -597,9 +619,18 @@ DISEÑO VISUAL:
 - Círculos concéntricos en colores cálidos suaves (terracota, dorado, sage)
 - Estilo digno y reverente — esta es una hoja "histórica" que se guardará en el portafolio
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes desde el navegador.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con todos los espacios en blanco visibles para que Eli escriba y dibuje.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para escribir y dibujar.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -737,10 +768,10 @@ OUTPUT (elige según la IA):
 
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Matemáticas Ordinales</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Matemáticas Ordinales</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de matemáticas para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de matemáticas en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado y metodología Singapur.
 
 CONTEXTO:
 - Eli tiene ordinales sólidos (primero, segundo, tercero... hasta décimo)
@@ -770,9 +801,18 @@ DISEÑO VISUAL:
 - Líneas guía de escritura de 12mm de altura
 - Numerar problemas con círculos grandes de color
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes desde el navegador.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con espacios en blanco visibles para escritura y dibujo.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para escritura y dibujo.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -909,10 +949,10 @@ miercoles:`${APERTURA}
         <p style="margin-top:8px">Si quieres material extra:</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Hoja "Dios me ve"</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja "Dios me ve"</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
 
 CONTEXTO:
 - Estamos profundizando el Catecismo CPN P11: "¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente."
@@ -935,7 +975,12 @@ DISEÑO VISUAL:
 - Letra mín. 16pt; 22pt para la cinta del catecismo
 - Estilo: digno, reverente, sin caricaturas. Decoración: pequeñas estrellas o rayos sutiles sugiriendo "mirada"
 
-OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para imprimir A4 sin márgenes. Nano Banana/DALL-E → imagen vertical A4 (1:1.414) con todos los espacios en blanco visibles para escribir y dibujar.</div>
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escribir y dibujar.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -1071,10 +1116,10 @@ OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para 
         </ul>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Dictado + Fábula</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Dictado + Fábula</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de lectoescritura para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de lectoescritura en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
 
 CONTEXTO:
 - Eli lee con fluidez y escribe oraciones propias
@@ -1097,9 +1142,18 @@ DISEÑO VISUAL:
 - Letra mínimo 16pt para instrucciones, 18pt para el texto de la fábula
 - Si incluyes ilustración del personaje de la fábula, simple y sobria
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con espacios en blanco visibles para escritura.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para escritura.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -1229,10 +1283,10 @@ OUTPUT (elige según la IA):
         </ul>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Números 11-20</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Números 11-20</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de matemáticas para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con metodología Singapur.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de matemáticas en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con metodología Singapur y regletas Cuisenaire (no usamos bloques base diez ni ábacos para esta ficha).
 
 CONTEXTO:
 - Eli está aprendiendo los números 11-20 por primera vez
@@ -1263,9 +1317,18 @@ DISEÑO VISUAL:
 - Espacio generoso, no saturar
 - Numerar secciones con círculos de color
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con espacios en blanco visibles para que Eli escriba y dibuje.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para que Eli escriba y dibuje.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -1383,10 +1446,10 @@ OUTPUT (elige según la IA):
         </ul>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Árbol genealógico pactual</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Árbol genealógico pactual</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible para mi hija Elisabeth ("Eli") de 6 años. Tema: árbol genealógico con marco pactual.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Tema: árbol genealógico con marco reformado pactual.
 
 CONTEXTO:
 - Eli está aprendiendo que su familia es parte de la historia de Dios
@@ -1415,9 +1478,18 @@ DISEÑO VISUAL:
 - Letras grandes pero no infantilizadas (Eli ya escribe bien) — mínimo 14pt
 - Decoración floral o ramas estilizadas en los bordes (sutil)
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con espacios en blanco visibles para que Eli escriba y dibuje. Esta hoja se guardará en el portafolio — pensar para conservar.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para que Eli escriba y dibuje.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha. Esta hoja se guardará en el portafolio — pensar para conservar.</div>
         </div>
       </div>
     </div>
@@ -1563,10 +1635,10 @@ jueves:`${APERTURA}
         <p style="margin-top:8px">Si quieres una hoja extra:</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Hoja "Mira a Jesús"</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja "Mira a Jesús"</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
 
 CONTEXTO:
 - Estamos profundizando el Catecismo CPN P11: "¿Puedes ver a Dios? — No, pero Él me mira continuamente."
@@ -1591,7 +1663,12 @@ DISEÑO VISUAL:
 - Letra mín. 16pt
 - Estilo: digno y reverente. Cualquier ilustración: simple, sobria, ojos cerrados o mirada baja en los personajes (no caras infantiles caricaturizadas)
 
-OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido imprimible A4. Nano Banana/DALL-E → imagen A4 vertical (1:1.414) con espacios en blanco visibles para escritura.</div>
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escritura.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -1722,10 +1799,10 @@ OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido impri
         <p><strong>Hoja "La letra Y + Mi vida en Bogotá"</strong></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Letra Y + composición</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Letra Y + composición</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de lectoescritura para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa, marco reformado.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de lectoescritura en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
 
 CONTEXTO:
 - Eli está aprendiendo la letra Y por primera vez (en su variante consonante)
@@ -1747,7 +1824,12 @@ DISEÑO VISUAL:
 - Espacio amplio, no saturar
 - La composición de "Mi vida en Bogotá" debe ocupar mitad inferior de la página — el espacio invita a escribir
 
-OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para imprimir A4 sin márgenes. Nano Banana/DALL-E → imagen vertical A4 (1:1.414) con todos los espacios en blanco visibles para escribir y dibujar.</div>
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escribir y dibujar.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -1870,10 +1952,10 @@ OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para 
         <p><strong>Hoja "Lo que hay dentro de un frijol"</strong></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha Frijol bebé</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Frijol bebé</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha de ciencias imprimible para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear una ficha de ciencias imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado (creacionismo bíblico, observación reverente de la creación).
 
 CONTEXTO:
 - Eli acaba de abrir un frijol pinto remojado y observar las partes internas: la plantita diminuta enrollada (radícula + plúmula), la "comida" almacenada (cotiledones), y la cáscara protectora (testa)
@@ -1898,7 +1980,12 @@ DISEÑO VISUAL:
 - Bordes orgánicos sutiles (líneas de hojas estilizadas en esquinas)
 - Estilo reverente, contemplativo — esta hoja es para un diario de naturaleza
 
-OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para imprimir A4 sin márgenes. Nano Banana/DALL-E → imagen vertical A4 (1:1.414) con todos los espacios en blanco visibles para escribir y dibujar. Lista para que Eli la pegue o guarde en su diario de naturaleza.</div>
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escribir y dibujar.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha. Lista para que Eli la pegue o guarde en su diario de naturaleza.</div>
         </div>
       </div>
     </div>
@@ -2012,10 +2099,10 @@ OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para 
         <p>Si quieres material extra:</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Ficha consolidación 11-20</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha consolidación 11-20</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una ficha imprimible de matemáticas para mi hija Elisabeth ("Eli") de 6 años. Educamos con metodología Singapur.
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de matemáticas en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con metodología Singapur y regletas Cuisenaire.
 
 CONTEXTO:
 - Eli está consolidando los números 11-20
@@ -2043,7 +2130,12 @@ DISEÑO VISUAL:
 - Cada sección con número de color en círculo
 - Espacio amplio, líneas guía gruesas
 
-OUTPUT (elige según la IA): Claude/GPT → artifact HTML imprimible A4. Nano Banana/DALL-E → imagen A4 vertical (1:1.414) con espacios en blanco para escritura.</div>
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco para escritura.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -2243,10 +2335,10 @@ viernes:`${APERTURA}
         <p>Generada con el prompt completo abajo. Imprimir A4 y trabajar con Eli en el paso 3 de la guía.</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana) · Hoja portafolio P11 — Semana 1</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja portafolio P11 — Semana 1</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible "resumen de portafolio" para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado pactual.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado pactual. Esta hoja se conserva en su portafolio durante años.
 
 CONTEXTO:
 - Es el viernes de la Semana 1. Eli vivió toda la semana con UNA pregunta del catecismo: CPN P11.
@@ -2286,7 +2378,12 @@ DISEÑO VISUAL:
 - Líneas guía altura 10mm (Eli ya escribe bien)
 - Si incluyes iconos para los 3 ángulos: minimalistas, line-art, dorados o violeta suaves
 
-OUTPUT (elige según la IA): Claude/GPT → artifact HTML con CSS embebido para imprimir A4 sin márgenes. Nano Banana/DALL-E → imagen vertical A4 (1:1.414) con todos los espacios en blanco visibles para escribir y dibujar. Esta es la hoja que va al portafolio.</div>
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escribir y dibujar.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha. Esta es la hoja que va al portafolio.</div>
         </div>
       </div>
     </div>
@@ -2657,10 +2754,10 @@ martes:`${APERTURA}
         <p style="margin-top:8px">Si quieres una hoja extra hoy:</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Educamos en casa con marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
 
 CONTEXTO:
 - Estamos en Semana 2, Día 1, Catecismo CPN P12
@@ -2686,9 +2783,18 @@ DISEÑO VISUAL:
 - Estilo digno, reverente, sin caricaturas
 - Si hay decoración: un camino estilizado sutil cruzando la hoja como motivo de fondo
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen vertical A4 (1:1.414) con espacios en blanco visibles para escritura y dibujo.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con espacios en blanco visibles para escritura y dibujo.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -2840,10 +2946,10 @@ miercoles:`${APERTURA}
         <p>Sugerencia sin IA: que Eli dibuje un pajarito en su cuaderno y escriba "Dios cuenta hasta sus cabellos — y los míos."</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Estamos en Semana 2, Día 2, profundizando el Catecismo CPN P12: "¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios."
@@ -2864,11 +2970,22 @@ DISEÑO VISUAL:
 - Ilustración del pajarito: simple, naturalista, no caricaturesca
 - Tipografía Georgia para títulos, sans-serif clara para texto
 - Letra mín. 16pt, 22pt para citas bíblicas
-- Estilo digno y reverente
+- Estilo digno y reverente, contemplativo
+- No usar caricaturas exageradas, colores neón ni estética infantil saturada
+- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E / IA de imagen: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escritura y dibujo.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -3004,10 +3121,10 @@ jueves:`${APERTURA}
         <p>Sugerencia sin IA: que Eli escriba su nombre completo en grande en su cuaderno, lo decore con colores, y escriba debajo: <em>"Dios me llama por mi nombre."</em></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado pactual.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado pactual.
 
 CONTEXTO:
 - Semana 2, Día 3, profundizando el Catecismo CPN P12 ("¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios").
@@ -3031,9 +3148,18 @@ DISEÑO VISUAL:
 - Decoración: pequeñas estrellas o motivos delicados, sin caricaturas
 - La caja para el nombre de Eli debe ser visualmente prominente — es el centro de la hoja
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E / IA de imagen: imagen A4 vertical (1:1.414) con espacios visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escritura.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -3161,10 +3287,10 @@ viernes:`${APERTURA}
         <p><strong>Hoja resumen de la semana — esta es la que se guarda</strong></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible "resumen de portafolio" para mi hija Elisabeth ("Eli") de 6 años. Marco reformado pactual.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Familia presbiteriana en Bogotá, marco reformado pactual. Esta hoja se conserva en su portafolio durante años.
 
 CONTEXTO:
 - Es el viernes de la Semana 2. Eli vivió toda la semana con UNA pregunta del catecismo: CPN P12.
@@ -3201,9 +3327,18 @@ DISEÑO VISUAL:
 - Líneas guía altura 10mm
 - Iconos para los 3 ángulos: minimalistas, line-art, dorados o violeta suaves
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes.
-• Nano Banana / DALL-E / IA de imagen: imagen A4 vertical (1:1.414) con todos los espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con todos los espacios en blanco visibles para escritura y dibujo.
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical, lista para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -3369,10 +3504,10 @@ martes:`${APERTURA}
         <p>Sin IA: que Eli dibuje "la mano de Dios" en su cuaderno con la frase <em>"Nadie detiene su mano."</em></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Semana 3, Día 1, Catecismo CPN P13
@@ -3397,11 +3532,22 @@ DISEÑO VISUAL:
 - Color del tema: violeta (#6B3FAA) con acentos dorados (#C49A2A)
 - Tipografía Georgia para títulos, sans-serif clara para texto
 - Letra mín. 16pt
-- Estilo digno, reverente
+- Estilo digno, reverente, contemplativo
+- No usar caricaturas exageradas, colores neón ni estética infantil saturada
+- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -3553,10 +3699,10 @@ miercoles:`${APERTURA}
         <p style="font-size:.85rem;color:var(--muted)">La hoja grande va el viernes.</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Semana 3, Día 2, profundizando Catecismo CPN P13 ("¿Puede Dios hacer todo? — Sí, Dios puede hacer todo conforme a su santa y soberana voluntad")
@@ -3578,11 +3724,22 @@ DISEÑO VISUAL:
 - Tema: violeta (#6B3FAA) con acentos dorados (#C49A2A)
 - Tipografía Georgia + sans-serif clara
 - Letra mín. 16pt
-- Estilo digno, reverente
+- Estilo digno, reverente, contemplativo
+- No usar caricaturas exageradas, colores neón ni estética infantil saturada
+- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -3717,10 +3874,10 @@ jueves:`${APERTURA}
         <p style="font-size:.85rem;color:var(--muted)">Sugerencia sin IA: que Eli moldee algo con plastilina en su cuaderno y escriba debajo: <em>"Dios es el alfarero. Yo soy el barro. Confío."</em></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Semana 3, Día 3, profundizando Catecismo CPN P13 ("Sí, Dios puede hacer todo conforme a su santa y soberana voluntad")
@@ -3744,9 +3901,18 @@ DISEÑO VISUAL:
 - Tipografía Georgia + sans-serif
 - Letra mín. 16pt
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -3871,10 +4037,10 @@ viernes:`${APERTURA}
         <p><strong>Hoja resumen de la semana — esta es la que se guarda</strong></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible "resumen de portafolio" para mi hija Elisabeth ("Eli") de 6 años. Marco reformado pactual.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Familia presbiteriana en Bogotá, marco reformado pactual. Esta hoja se conserva en su portafolio durante años.
 
 CONTEXTO:
 - Es el viernes de la Semana 3. Eli vivió toda la semana con UNA pregunta del catecismo: CPN P13.
@@ -3908,9 +4074,18 @@ DISEÑO VISUAL:
 - La cita central del catecismo destacada
 - Iconos minimalistas, line-art
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -4076,10 +4251,10 @@ martes:`${APERTURA}
         <p style="font-size:.85rem;color:var(--muted)">La hoja grande va el viernes.</p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Semana 4, Día 1, Catecismo CPN P14
@@ -4104,11 +4279,22 @@ CONTENIDO (A4 vertical):
 DISEÑO VISUAL:
 - Fondo crema (#FAF6F0)
 - Tema violeta + dorado
-- Estilo digno y reverente
+- Estilo digno y reverente, contemplativo
+- No usar caricaturas exageradas, colores neón ni estética infantil saturada
+- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -4261,10 +4447,10 @@ miercoles:`${APERTURA}
       <div class="ficha-eli">
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Semana 4, Día 2, profundizando Catecismo CPN P14
@@ -4284,11 +4470,22 @@ CONTENIDO (A4 vertical):
 DISEÑO VISUAL:
 - Fondo crema (#FAF6F0)
 - Tema violeta + dorado
-- Estilo digno, reverente
+- Estilo digno, reverente, contemplativo
+- No usar caricaturas exageradas, colores neón ni estética infantil saturada
+- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -4422,10 +4619,10 @@ jueves:`${APERTURA}
       <div class="ficha-eli">
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible breve para mi hija Elisabeth ("Eli") de 6 años. Marco reformado.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
 
 CONTEXTO:
 - Semana 4, Día 3, profundizando Catecismo CPN P14 ("Solamente en la Biblia")
@@ -4443,12 +4640,23 @@ CONTENIDO (A4 vertical):
 DISEÑO VISUAL:
 - Fondo crema (#FAF6F0)
 - Tema violeta + dorado
-- Estilo digno y reverente
+- Estilo digno y reverente, contemplativo
+- No usar caricaturas exageradas, colores neón ni estética infantil saturada
+- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
 - Letra mín. 16pt
 
-OUTPUT (elige según la IA):
-• Claude / GPT: artifact HTML con CSS embebido imprimible A4.
-• Nano Banana / DALL-E: imagen A4 vertical (1:1.414) con espacios en blanco visibles.</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
@@ -4583,10 +4791,10 @@ viernes:`${APERTURA}
         <p><strong>Hoja resumen del primer ciclo P11-P14 — esta es LA hoja del primer mes</strong></p>
         <div class="prompt-claude">
           <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA (Claude · GPT · Nano Banana)</span>
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
             <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
           </div>
-          <div class="prompt-claude-body">Necesito una hoja imprimible "resumen del primer mes" para mi hija Elisabeth ("Eli") de 6 años. Marco reformado pactual.
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen del primer mes" en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado pactual. Esta hoja se conserva en su portafolio durante años — debe verse como una lámina coleccionable.
 
 CONTEXTO:
 - Es el viernes de la Semana 4. Cierra el PRIMER CICLO de catecismo (4 preguntas en 4 semanas)
@@ -4623,9 +4831,18 @@ DISEÑO VISUAL:
 - Letra mín. 12pt para las respuestas (para que quepan), 16pt para las preguntas
 - Layout claro y simétrico — esta hoja se enseña a familiares y se conserva
 
-OUTPUT (elige según la IA):
-• Claude / GPT (texto): artifact HTML completo con CSS embebido, imprimible A4 sin márgenes. PRIORIDAD: que se vea como cuadro coleccionable, no como tarea escolar.
-• Nano Banana / DALL-E / IA de imagen: imagen A4 vertical (1:1.414) con los 4 cuadros distribuidos en grid 2×2, espacios en blanco visibles donde Eli debe escribir, y estilo de "diploma" o "memoria de aprendizaje".</div>
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Crear una imagen vertical A4, proporción 1:1.414, alta resolución, lista para imprimir, con los 4 cuadros distribuidos en grid 2×2, espacios en blanco visibles donde Eli debe escribir, estilo de "diploma" o "memoria de aprendizaje".
+
+Si la IA genera HTML:
+Crear un artifact HTML completo con CSS embebido, A4 vertical, imprimible sin márgenes. PRIORIDAD: que se vea como cuadro coleccionable, no como tarea escolar.
+
+Si la IA genera PDF:
+Crear una ficha PDF A4 vertical estilo lámina coleccionable, lista para imprimir y conservar.
+
+No responder con explicación. Generar directamente la ficha.</div>
         </div>
       </div>
     </div>
