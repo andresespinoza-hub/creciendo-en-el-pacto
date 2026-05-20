@@ -71,29 +71,6 @@ fm:`<div class="fm-section">
 <p>Señor, enséñame a mirar a mi hija como tú la miras: conocida por ti antes de nacer, puesta en esta familia por tu providencia, necesitada de tu gracia. Líbrame de la ansiedad por resultados. Ayúdame a enseñar con paciencia, claridad y amor sobrio. Que esta semana Elisabeth aprenda que su vida te pertenece, y que yo aprenda que los frutos son tuyos. Amén.</p>
 </div></div>`,
 
-cat:`<div class="act-block">
-<div class="act-hd"><div class="act-ico violeta">✝️</div><div><div class="act-ttl">Catecismo Menor de Westminster — Pregunta 1</div><div class="act-meta">Toda la semana · narración viva · no solo memoria</div></div></div>
-<div class="act-body">
-<div class="s-navy">
-<div class="sl">CMeW P1 · DESARROLLO NARRATIVO PACTUAL</div>
-<div class="cq">P: ¿Cuál es el fin principal del hombre?</div>
-<div class="ca">R: El fin principal del hombre es glorificar a Dios y gozar de Él para siempre.</div>
-<p>Mamá puede decir: <em>"Esta es la pregunta más importante que existe. No '¿qué quieres ser cuando seas grande?' sino '¿para qué estás aquí?' — y la respuesta no empieza contigo. Empieza con quién es Dios."</em></p>
-<div class="cq" style="margin-top:.8rem">¿Qué aprendemos de Dios cuando nos dice que nos conocía antes de nacer?</div>
-<p>Dios no fue sorprendido por el nacimiento de Elisabeth. La conocía. La llamó. La puso en esta familia, en esta iglesia, en esta ciudad. Eso no es accidente. Es providencia. <em>Nuestro trabajo esta semana no es que Elisabeth haga muchas páginas. Es que salga de esta semana sabiendo que Dios la conoce y que toda su vida ocurre bajo su mirada.</em></p>
-<div class="cq" style="margin-top:.8rem">¿Qué significa glorificar a Dios?</div>
-<p>No es aplaudir. Es mostrar que Dios es real, bueno y grande. Cuando el frijol del martes tiene adentro una planta perfectamente formada, está glorificando al Creador. Cuando Elisabeth lee con atención, cuenta con cuidado, obedece con paz — está mostrando que Dios es real y que su mundo tiene orden.</p>
-<div class="cv">Rom. 11:36 — "De Él, por Él y para Él son todas las cosas." · Juan 17:3 — "Esta es la vida eterna: que te conozcan a ti."</div>
-</div>
-<div class="strip s-sage" style="margin-top:.85rem">
-<strong>Progresión diaria de la P1 esta semana:</strong><br>
-Martes: mamá lee P y R completa. Elisabeth escucha. Repiten 2 veces.<br>
-Miércoles: mamá pregunta. Elisabeth responde con sus palabras. Mamá completa si falta.<br>
-Jueves: "¿Qué aprendemos de Dios en Jeremías 1:5?" — conversación 3 min.<br>
-Viernes: Elisabeth dice la R completa. "¿Cómo sabemos que Dios conoce y puso a Elisabeth en esta familia?"
-</div>
-</div></div>`,
-
 martes:`${APERTURA}
 
 <!-- ═══════════════ BLOQUE 1: CATECISMO P11 · Día 1 — Apertura y ancla ═══════════════ -->

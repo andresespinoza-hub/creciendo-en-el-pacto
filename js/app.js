@@ -53,12 +53,10 @@ function buildHoy() {
   const pct = Math.round((w.n / 38) * 100);
 
   // Tabs disponibles según la semana
-  const isS1 = w.n === 1;
   const hasFm = !!wd;
 
   let tabDefs = [];
   if (hasFm) tabDefs.push({ key:'fm',        label:'📚 Para mamá', cls:'tab-fm' });
-  if (isS1 && wd && wd.cat) tabDefs.push({ key:'cat', label:'✝️ Catecismo CMeW', cls:'tab-cat' });
   if (wd && wd.martes)      tabDefs.push({ key:'martes',    label:'Martes',    cls:'' });
   if (wd && wd.miercoles)   tabDefs.push({ key:'miercoles', label:'Miércoles', cls:'' });
   if (wd && wd.jueves)      tabDefs.push({ key:'jueves',    label:'Jueves',    cls:'' });
@@ -208,8 +206,8 @@ function exportWeek(weekN) {
   txt += `${w.d} · ${w.tema}\n`;
   txt += `${'═'.repeat(45)}\n\n`;
 
-  const days = ['fm','cat','martes','miercoles','jueves','viernes'];
-  const labels = { fm:'FORMACIÓN MAMÁ', cat:'CATECISMO CMeW', martes:'MARTES', miercoles:'MIÉRCOLES', jueves:'JUEVES', viernes:'VIERNES' };
+  const days = ['fm','martes','miercoles','jueves','viernes'];
+  const labels = { fm:'FORMACIÓN MAMÁ', martes:'MARTES', miercoles:'MIÉRCOLES', jueves:'JUEVES', viernes:'VIERNES' };
   days.forEach(d => {
     if (wd && wd[d]) {
       txt += `\n── ${labels[d]} ──\n`;
@@ -365,17 +363,12 @@ function buildSemBody(w) {
     : '';
 
   if (wd) {
-    const isS1 = w.n === 1;
-    const tabs   = isS1
-      ? ['Para mamá','Catecismo','Martes','Miércoles','Jueves','Viernes','✏️ Registro']
-      : ['Para mamá','Martes','Miércoles','Jueves','Viernes','✏️ Registro'];
-    const keys   = isS1
-      ? ['fm','cat','martes','miercoles','jueves','viernes','reg']
-      : ['fm','martes','miercoles','jueves','viernes','reg'];
+    const tabs = ['Para mamá','Martes','Miércoles','Jueves','Viernes','✏️ Registro'];
+    const keys = ['fm','martes','miercoles','jueves','viernes','reg'];
 
     let tabHtml = '<div class="day-tabs">';
     tabs.forEach((t, i) => {
-      const cls = keys[i]==='fm'?'tab-fm':keys[i]==='reg'?'tab-reg':keys[i]==='cat'?'tab-cat':'';
+      const cls = keys[i]==='fm'?'tab-fm':keys[i]==='reg'?'tab-reg':'';
       tabHtml += `<button class="day-tab ${cls}${i===0?' active':''}" onclick="dayTab(${w.n},'${keys[i]}',this)">${t}</button>`;
     });
     tabHtml += '</div>';
@@ -387,7 +380,7 @@ function buildSemBody(w) {
         if (fichaLink) panHtml += fichaLink;
         panHtml += buildReg(w.n);
       } else if (k !== 'reg' && wd[k]) {
-        const dayLabelMap = { fm:'formación mamá', cat:'catecismo', martes:'martes', miercoles:'miércoles', jueves:'jueves', viernes:'viernes' };
+        const dayLabelMap = { fm:'formación mamá', martes:'martes', miercoles:'miércoles', jueves:'jueves', viernes:'viernes' };
         panHtml += `<div class="export-bar">
           <span class="export-bar-text">🤖 Copia para Claude y pídele material para Elisabeth</span>
           <button class="btn btn-claude btn-xs" onclick="exportDay(${w.n},'${k}','${dayLabelMap[k]}')">Copiar para Claude</button>
