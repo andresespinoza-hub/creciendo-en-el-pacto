@@ -4933,5 +4933,712 @@ No responder con explicación. Generar directamente la ficha.</div>
 </div></div>`
 };
 
+// ── SEMANA 5 ──
+const W5 = {
+fm:`<div class="fm-section">
+<div class="fm-title">Formación para mamá — Semana 5</div>
+<div class="fm-sub">Abraham · Dios llama y promete · Catecismo P15 (Quién escribió la Biblia)</div>
+<div class="fm-block"><h4>Qué verdad bíblica gobierna esta semana</h4>
+<p>Esta semana se abre el bloque de los <strong>patriarcas</strong>. Después de la caída (S4), la historia parece haber terminado mal: el pacto de obras quebrantado, el hombre culpable, la creación gimiendo. Pero Dios no abandona. Llama a un hombre — Abram — y le promete: "haré de ti una nación grande, y serán benditas en ti todas las familias de la tierra" (Gén 12:1-3). <em>Allí empieza la historia de la redención</em>.</p>
+<p>Para Eli, la conexión es directa: si Dios llamó a Abraham y cumplió, también cumplirá lo que prometió a quienes pertenecen al pacto hoy. Su bautismo es el signo visible de esa misma promesa. Abraham no es personaje antiguo — es padre del pacto en el que Eli vive.</p>
+<p>El paralelo con el catecismo es providencial: P15 trabaja la <strong>inspiración de la Escritura</strong>. La pregunta es "¿Quién escribió la Biblia?" — y la respuesta es "Unos santos varones que fueron inspirados por el Espíritu Santo". <em>Dios habla a través de hombres santos</em>. Lo hace con Abraham (le habla directamente, Gén 12). Lo hace con Moisés (le dicta la Torá). Lo hace con David (los Salmos). Lo hace con Pablo (las cartas). El mismo Dios que llamó a Abraham es el que inspiró la Biblia que la familia Espinoza lee cada día.</p></div>
+<div class="fm-block"><h4>Cómo enseñamos esto delante de Dios</h4>
+<p>Bavinck es claro sobre la inspiración: <strong>orgánica, no mecánica</strong>. Dios no convirtió a los autores en robots. Usó su personalidad, su cultura, su lenguaje. Moisés escribe como Moisés. David canta como David. Pablo argumenta como Pablo. Pero detrás de cada uno está el mismo Espíritu Santo guiando.</p>
+<p>Para Eli a los 6 años, eso se traduce así: la Biblia tiene <em>autores humanos</em> (Moisés, David, Pablo, Juan...) y un solo <em>Autor divino</em> (el Espíritu Santo). Por eso podemos confiar en ella: porque viene de Dios. Y por eso es comprensible: porque viene a través de hombres como nosotros.</p>
+<p>Sobre Abraham: no presentar la historia como "fábula moral" ("Abraham fue obediente, tú obedece también"). Presentarla como historia real de Dios cumpliendo su promesa. El énfasis no es Abraham — es <em>el Dios que llamó a Abraham</em>.</p></div>
+<div class="fm-block"><h4>Advertencias para esta semana</h4>
+<p><strong>Primera:</strong> el lunes 15 de junio es Corpus Christi (festivo en Colombia). La semana de Eli empieza martes 16. No tratar de "recuperar el lunes" añadiendo actividades extra.</p>
+<p><strong>Segunda:</strong> si Eli ya completó cierre de Y y Z en S2-S3, ya inició el nuevo recurso de lectura en S4. Esta semana continúa con ese nuevo recurso. Si todavía no cambió de ruta, hacer una semana más de consolidación.</p>
+<p><strong>Tercera:</strong> esta es la primera vez que Eli oye sobre Abraham con detalle. No saturarla con todos los capítulos de Génesis 12-25 esta semana. Solo Génesis 12:1-3 — la llamada y la promesa. Los siguientes episodios vienen en S6-S9.</p>
+<p><strong>Cuarta:</strong> el frijol que se sembró en S1 ya debería estar germinando o creciendo. Esta semana es buena para registrar observaciones en el diario de naturaleza.</p></div>
+<div class="fm-oracion"><div class="fo-lbl">Oración antes de enseñar</div>
+<p>Señor, gracias porque tu pacto con Abraham es el mismo pacto en el que pusiste a Eli. Gracias porque tu Palabra que vamos a leer fue inspirada por tu Espíritu en hombres santos. Que esta semana Eli vea que tú eres fiel — desde Abraham hasta hoy. Amén.</p>
+</div></div>
+<div class="strip s-teal" style="margin-top:.75rem">
+<strong>Lunes — festivo · descanso pactual:</strong><br>
+Lunes 15 jun es Corpus Christi. No hay clase. Si la familia va a la iglesia, perfecto. Si no, simplemente descansa.
+</div>`,
+
+martes:`${APERTURA}
+
+<!-- ═══════════════ BLOQUE 1: CATECISMO P15 · Día 1 — Apertura y ancla ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">✝️</div>
+    <div>
+      <div class="lesson-ttl">Catecismo CPN P15 · Día 1 — Apertura y ancla</div>
+      <div class="lesson-meta">12–15 min · ¿Quién escribió la Biblia? · 2 Pedro 1:21</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">La verdad que gobierna esta clase:</span> P15 enseña la <strong>doctrina de la inspiración</strong>. Tras haber visto la semana pasada que solo la Biblia nos enseña a obedecer y amar a Dios (P14), ahora preguntamos: <em>¿cómo llegó la Biblia a nosotros?</em> La respuesta del catecismo es precisa: "Unos santos varones que fueron inspirados por el Espíritu Santo". Hay <strong>autores humanos</strong> reales — y hay un <strong>Autor divino</strong> que los inspiró.</p>
+        <p><span class="lec-tag">Bavinck sobre la inspiración:</span> es <em>orgánica, no mecánica</em>. Dios no convirtió a Moisés, David, Pablo o Juan en robots dictándoles letra por letra. Usó su personalidad, su cultura, su lenguaje, sus circunstancias. Pero detrás de cada uno está el Espíritu Santo guiando. Por eso decimos: <strong>la Biblia es enteramente humana y enteramente divina</strong>, sin contradicción.</p>
+        <p><span class="lec-tag">El texto principal de hoy — 2 Pedro 1:21:</span> "Porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo." Pedro contrasta dos posibilidades: profecía por <em>voluntad humana</em> (lo que el hombre inventa por sí mismo) versus profecía <em>inspirada por el Espíritu</em>. Toda la Escritura es lo segundo. <em>Nunca</em> la primera.</p>
+        <p><span class="lec-tag">"Santos varones":</span> la palabra "santo" aquí no significa moralmente impecable (Moisés mató a un egipcio, David adulteró, Pablo perseguía cristianos). Significa <strong>apartado para el servicio de Dios</strong>. Los autores de la Biblia eran hombres con pecado, llamados por Dios y usados por su Espíritu. Eso es alentador para Eli: Dios usa instrumentos imperfectos para hablar palabras perfectas.</p>
+        <p><span class="lec-tag">Conexión cumulativa:</span> P14 dijo "solamente en la Biblia". P15 dice "y la Biblia es esto: hombres inspirados por el Espíritu". Las dos preguntas juntas forman la doctrina de la Escritura. La próxima semana sumamos P16 (Adán y Eva).</p>
+        <p><span class="lec-tag">Peligro a evitar:</span> que Eli piense "Dios escribió la Biblia con su mano" (mecánico) o "los hombres la inventaron" (autonomista). La verdad bíblica está entre los dos: Dios habló POR MEDIO de hombres santos. Esa preposición — <em>por medio de</em> — es la doctrina entera.</p>
+        <p><span class="lec-tag">Lo que estás formando:</span> confianza en la Biblia como palabra de Dios mediada por hombres reales. Reverencia ante el texto. Comprensión inicial de la inspiración.</p>
+        <div class="lec-bible">"Porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo." — 2 Pedro 1:21 &nbsp;·&nbsp; "Bien habló el Espíritu Santo por medio del profeta Isaías a nuestros padres." — Hechos 28:25</div>
+        <div class="lec-prayer">
+          <span class="pry-lbl">Oración antes de enseñar</span>
+          Señor, gracias porque hablaste por medio de hombres santos para que tu Palabra llegara a nosotros. Que Eli aprenda hoy a leer la Biblia sabiendo que es tu voz. Amén.
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">12–15 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Apertura · ¿Cuántas manos escribieron la Biblia? <span class="edc-mark E">E</span> · 2 min</div>
+            <div class="guia-say">"Eli, mira nuestra Biblia. ¿Crees que la escribió una sola persona? Trae casi 1000 páginas. ¿Sabes cuántos años tomó escribir toda la Biblia? Más de 1500 años. Así que NO la escribió una sola persona. Pero TAMPOCO la escribió cualquier persona. Vamos a aprender quién la escribió."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso cumulativo + introducir P15 <span class="edc-mark E">E</span> · 3 min</div>
+            <p>Eli recita la cadena P11+P12+P13+P14. Luego introduce P15:</p>
+            <div class="guia-say">P15: ¿Quién escribió la Biblia?<br>R: Unos santos varones que fueron inspirados por el Espíritu Santo.</div>
+            <p>Repite 3 veces. Subraya las dos palabras clave: <strong>"santos varones"</strong> y <strong>"inspirados"</strong>.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Doctrina · Dos autores en uno <span class="edc-mark D">D</span> · 3 min</div>
+            <div class="guia-say">"La Biblia tiene dos clases de autores. Por un lado están los <strong>autores humanos</strong>: Moisés, David, Salomón, Pablo, Juan, Pedro y otros. Hombres reales, con familia, con trabajo. Por otro lado está el <strong>Autor divino</strong>: el Espíritu Santo. Él los guió mientras escribían."</div>
+            <p>Aclaración importante:</p>
+            <div class="guia-say">"Esto no significa que Dios les dictara como si fueran máquinas. Cada uno escribió a su manera. Pablo escribe como un maestro, David canta como un poeta, Moisés narra como un historiador. Pero todos escribieron lo que el Espíritu quería decir."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · 2 Pedro 1:21 <span class="edc-mark E">E</span> · 3 min</div>
+            <p>Lee despacio:</p>
+            <div class="guia-bible"><span class="guia-bible-ref">2 Pedro 1:21</span>"Porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo."</div>
+            <div class="guia-say">"Mira lo que dice Pedro. La Biblia NUNCA fue inventada por hombres por su cuenta. Siempre fue el Espíritu Santo guiando a los hombres santos."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">"Santos" no significa "perfectos" <span class="edc-mark D">D</span> · 2 min</div>
+            <div class="guia-say">"Una cosa importante: 'santos' en la Biblia no significa que no tuvieran pecado. Significa que Dios los apartó para usarlos. Moisés cometió pecados. David cometió pecados. Pablo perseguía cristianos antes de convertirse. Pero Dios los usó. Esa es la maravilla: Dios usa a personas como nosotros para dar su Palabra a otras personas como nosotros."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Oración + cadena <span class="edc-mark E">E</span> · 1 min</div>
+            <div class="guia-say">"Señor, gracias por darnos tu Palabra a través de hombres santos. Gracias porque tu Espíritu los guió. Que Eli lea la Biblia sabiendo que es tu voz. Amén."</div>
+            <p>Eli recita la cadena P11+P12+P13+P14+P15.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Olvida que hay autores humanos. Cree que Dios escribió con su mano</td><td>Repetir: "hombres inspirados". Mostrar nombres de autores en la Biblia.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Recita la R. Entiende que hay autores humanos, pero no articula la inspiración</td><td>Pregunta: <em>"¿Si solo los hombres escribieron, sería palabra de Dios?"</em></td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Articula con sus palabras: hombres reales + Espíritu Santo guiando = Palabra de Dios</td><td>Registrar. Lista para Hechos 28:25 mañana.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional</span></div>
+      <div class="ficha-eli">
+        <p style="font-size:.85rem;color:var(--muted)">La hoja grande va el viernes.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja P15 Día 1</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
+
+TEMA:
+Catecismo CPN P15 · Día 1 — ¿Quién escribió la Biblia?
+
+PROPÓSITO:
+Que Eli vea que la Biblia tiene autores humanos reales (Moisés, David, Pablo...) pero un Autor divino (el Espíritu Santo) que los inspiró.
+
+CONTENIDO BÍBLICO:
+P: ¿Quién escribió la Biblia?
+R: Unos santos varones que fueron inspirados por el Espíritu Santo.
+Texto ancla: 2 Pedro 1:21
+
+FORMATO:
+- Una página A4 vertical, lista para imprimir.
+- Proporción 1:1.414 si se genera como imagen.
+- Diseño amplio, sobrio, conservable.
+
+ESTILO VISUAL:
+- Fondo crema cálido #FAF6F0.
+- Color principal violeta profundo #6B3FAA (catecismo).
+- Acentos dorados #C49A2A.
+- Estilo digno, contemplativo, sin caricaturas.
+- No usar colores neón ni estética infantil saturada.
+- No representar a Dios, no halos místicos.
+
+TIPOGRAFÍA:
+- Encabezados en Georgia o serif clásica.
+- Instrucciones en sans-serif clara.
+- Mínimo 16 pt instrucciones, 22+ pt para P y R.
+
+CONTENIDO DE LA HOJA:
+
+ENCABEZADO:
+"¿Quién escribió la Biblia?"
+
+CAJA CENTRAL:
+La P y R completa en letra grande.
+
+ILUSTRACIÓN CENTRAL:
+Una Biblia abierta con una pluma encima, y arriba de la pluma una paloma suave (símbolo del Espíritu Santo). Estilo line-art sobrio.
+
+DOS COLUMNAS:
+- "Hombres santos" (lado izquierdo): pequeña lista — Moisés, David, Pablo, Juan
+- "Espíritu Santo" (lado derecho): "Guió a cada uno mientras escribían"
+
+PREGUNTA ABIERTA con 4 líneas:
+"¿Por qué podemos confiar en la Biblia?"
+
+CINTA INFERIOR DORADA:
+"Los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo. — 2 Pedro 1:21"
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escritura.
+
+Si la IA genera HTML:
+Artifact HTML completo con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 5 minutos</div>
+        <ol>
+          <li>Repaso cumulativo P11+P12+P13+P14</li>
+          <li>Introducir P15 — repetir 3 veces</li>
+          <li>Leer 2 Pedro 1:21 una vez</li>
+          <li>Una frase: <em>"Hombres santos escribieron. El Espíritu Santo los inspiró."</em></li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ BLOQUE 2: PLAN DEL DÍA — Lectoescritura · Historia · Mate ═══════════════ -->
+<div class="strip s-sage" style="margin:14px 0">
+  <strong>Plan del día martes — otras materias:</strong><br>
+  📖 <strong>Lectoescritura</strong>: nuevo recurso de lectura — texto narrativo más largo, comprensión + escritura propia (25 min).<br>
+  📜 <strong>Historia Providencial</strong>: <em>Abraham — Dios llama</em>. Lectura de Génesis 12:1-3. Mamá narra, Eli dibuja "Abraham saliendo de su tierra hacia lo desconocido" (20 min).<br>
+  🔢 <strong>Matemáticas</strong>: continuación de suma 0-10 con regletas. Hoy: sumas que dan 6, 7, 8 con regletas (Mamut Sumar 1 p.4-5) (25 min).<br>
+  🌱 <strong>Ciencias</strong>: observar y dibujar en el diario de naturaleza el progreso del frijol germinado de S1 (10 min).
+</div>`,
+
+miercoles:`${APERTURA}
+
+<!-- ═══════════════ BLOQUE 1: CATECISMO P15 · Día 2 — "Habló por el Espíritu" ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">✝️</div>
+    <div>
+      <div class="lesson-ttl">Catecismo CPN P15 · Día 2 — "Habló por el Espíritu"</div>
+      <div class="lesson-meta">10–12 min · Profundización con Hechos 28:25</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El ángulo de hoy:</span> ayer aprendimos que la Biblia tiene autores humanos guiados por el Espíritu Santo (2 Pedro 1:21). Hoy entramos al ejemplo concreto: Pablo, en Hechos 28:25, cita al profeta Isaías y dice algo asombroso: <em>"Bien habló el Espíritu Santo por medio del profeta Isaías"</em>. Pablo está leyendo a Isaías como obra del Espíritu Santo — no como obra de Isaías solo.</p>
+        <p><span class="lec-tag">La preposición clave: "por medio de":</span> el Espíritu habló POR MEDIO de Isaías. No EN LUGAR de Isaías (eso sería mecánico). No SIN Isaías (eso sería autonomista). POR MEDIO de Isaías. Pablo está enseñando la doctrina de la inspiración orgánica por instancia concreta.</p>
+        <p><span class="lec-tag">Conexión con Abraham:</span> esta semana también vemos cómo Dios habla a Abraham (Gén 12). El paralelo es claro: el mismo Dios que habló a Abraham es el que después inspiró a Moisés a escribir esa historia. La revelación divina y su registro escrito vienen del mismo Espíritu.</p>
+        <p><span class="lec-tag">Calvino sobre Hechos 28:25:</span> Pablo usa esta cita como autoridad final del argumento. No dice "Isaías sugirió" — dice "el Espíritu Santo habló". Para Pablo, citar a Isaías es citar a Dios. Esa misma confianza es la que queremos en Eli: cuando lee la Biblia, está oyendo a Dios.</p>
+        <p><span class="lec-tag">Peligro a evitar:</span> hacer la clase teórica sin aterrizar. Eli debe terminar pensando: "Cuando leo la Biblia, escucho a Dios. No solo a Moisés, no solo a Pablo. A DIOS."</p>
+        <p><span class="lec-tag">Lo que estás formando:</span> el reflejo de leer la Biblia como Dios hablando. La doctrina de la inspiración como verdad práctica, no abstracción teológica.</p>
+        <div class="lec-bible">"Bien habló el Espíritu Santo por medio del profeta Isaías a nuestros padres." — Hechos 28:25 &nbsp;·&nbsp; "Toda la Escritura es inspirada por Dios." — 2 Timoteo 3:16</div>
+        <div class="lec-prayer">
+          <span class="pry-lbl">Oración antes de enseñar</span>
+          Espíritu Santo, gracias porque hablaste por medio de Isaías y todos los profetas. Que Eli aprenda hoy que cuando lee tu Palabra, te escucha a ti. Amén.
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">10–12 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso <span class="edc-mark E">E</span> · 2 min</div>
+            <p>Eli recita la P y R:</p>
+            <div class="guia-say">P15: ¿Quién escribió la Biblia?<br>R: Unos santos varones que fueron inspirados por el Espíritu Santo.</div>
+            <p>Pregunta de enlace:</p>
+            <div class="guia-say">"Ayer dijimos que el Espíritu Santo inspiró a los autores. Hoy Pablo nos muestra un ejemplo concreto."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Contexto · Pablo en Roma <span class="edc-mark E">E</span> · 2 min</div>
+            <div class="guia-say">"Pablo, el apóstol, fue llevado preso a Roma. Allí los judíos venían a verlo y él les hablaba de Jesús. Algunos creyeron, otros no. Y Pablo, cuando los que no creyeron se iban, les dijo unas palabras MUY importantes."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · Hechos 28:25 <span class="edc-mark E">E</span> · 3 min</div>
+            <p>Lee despacio:</p>
+            <div class="guia-bible"><span class="guia-bible-ref">Hechos 28:25</span>"Bien habló el Espíritu Santo por medio del profeta Isaías a nuestros padres."</div>
+            <div class="guia-say">"Pablo está citando algo que Isaías escribió hace cientos de años. Pero fíjate cómo lo dice: NO dice 'bien habló Isaías'. Dice 'bien habló el ESPÍRITU SANTO por medio de Isaías'. ¿Lo escuchas? El Espíritu Santo es el que HABLÓ. Isaías fue el medio."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Doctrina · "Por medio de" <span class="edc-mark D">D</span> · 3 min</div>
+            <p>Toma un lápiz como objeto para demostración.</p>
+            <div class="guia-say">"Mira: cuando yo escribo con este lápiz, ¿quién está escribiendo? Yo, ¿verdad? El lápiz solo es el medio que uso. Pero las palabras son mías. Así fue con Isaías: el Espíritu Santo escribía POR MEDIO de Isaías. Isaías era el medio. Pero las palabras eran del Espíritu Santo."</div>
+            <p>Aclaración importante:</p>
+            <div class="guia-say">"No significa que Isaías fuera un robot. Isaías habló con su propio estilo, sus propias palabras. Pero el Espíritu lo guiaba para que dijera lo correcto."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Aplicación · Leer la Biblia como Dios hablando <span class="edc-mark D">D</span> · 2 min</div>
+            <div class="guia-say">"Entonces, cuando lees la Biblia, no estás leyendo solo lo que Moisés pensó, o lo que David sintió, o lo que Pablo opinó. Estás leyendo lo que el ESPÍRITU SANTO QUISO DECIRTE por medio de ellos. Por eso cuando leemos la Biblia debemos escuchar con respeto — porque Dios está hablando."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Oración <span class="edc-mark E">E</span> · 1 min</div>
+            <div class="guia-say">"Espíritu Santo, gracias porque hablaste por medio de hombres santos. Ayuda a Eli a escucharte cada vez que lee tu Palabra. Amén."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No entiende "por medio de". Confunde Isaías con el Espíritu</td><td>Repetir la demostración del lápiz. Énfasis: yo escribo, el lápiz es medio.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Entiende "por medio de" pero no lo aplica a su lectura propia</td><td>Pregunta: <em>"Cuando leas tu Biblia mañana, ¿quién te está hablando?"</em></td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Articula que al leer la Biblia escucha a Dios mediante hombres santos</td><td>Registrar. Lista para los autores mañana.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 5 minutos</div>
+        <ol>
+          <li>Repaso P15</li>
+          <li>Leer Hechos 28:25</li>
+          <li>Demostración del lápiz: "Yo escribo, el lápiz es medio."</li>
+          <li>Una frase: <em>"El Espíritu Santo habló por medio de los autores."</em></li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin:14px 0">
+  <strong>Plan del día miércoles — otras materias:</strong><br>
+  📖 <strong>Lectoescritura</strong>: dictado expresivo de 4 frases sobre Abraham + lectura del texto de la semana (30 min).<br>
+  📜 <strong>Historia Providencial</strong>: <em>Abraham y la promesa</em>. Leer Génesis 12:2-3 ("en ti serán benditas todas las familias"). Eli dibuja el árbol que sale de Abraham hacia ella misma (20 min).<br>
+  🔢 <strong>Matemáticas</strong>: sumas 6+_=_, 7+_=_ con regletas (Mamut Sumar 1 p.6-7) (25 min).<br>
+  🎵 <strong>Música</strong>: cantar himno y melodía del versículo de la semana (10 min).
+</div>`,
+
+jueves:`${APERTURA}
+
+<!-- ═══════════════ BLOQUE 1: CATECISMO P15 · Día 3 — "Los autores: Moisés, David, Pablo, Juan" ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">✝️</div>
+    <div>
+      <div class="lesson-ttl">Catecismo CPN P15 · Día 3 — "Los autores que Dios usó"</div>
+      <div class="lesson-meta">12 min · Diversidad de autores, unidad del mensaje</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El ángulo de hoy:</span> después de dos días entendiendo la inspiración en abstracto (autores humanos + Espíritu Santo), hoy <strong>aterrizamos con autores concretos</strong>. La Biblia no fue escrita por un anónimo "hombre santo" — fue escrita por personas con nombre, vida, oficio, época. Conocer algunos de esos autores hace que la doctrina cobre carne.</p>
+        <p><span class="lec-tag">Los 4 que vamos a presentar hoy:</span></p>
+        <p>• <strong>Moisés</strong> (1500 a.C. aprox.) — escribió los primeros 5 libros de la Biblia (Génesis, Éxodo, Levítico, Números, Deuteronomio). Fue líder del pueblo de Israel.<br>• <strong>David</strong> (1000 a.C.) — escribió muchos Salmos. Fue rey de Israel y pastor.<br>• <strong>Pablo</strong> (50-65 d.C.) — escribió cartas como Romanos, Corintios, Efesios. Fue apóstol misionero.<br>• <strong>Juan</strong> (60-90 d.C.) — escribió un Evangelio, 3 cartas y Apocalipsis. Fue discípulo amado de Jesús.</p>
+        <p><span class="lec-tag">Por qué importa la diversidad:</span> Dios pudo haber dado toda su Palabra por un solo autor (como el Corán). Eligió no hacerlo. La diversidad de autores muestra que la Biblia atraviesa <em>distintas culturas, distintas épocas, distintos lenguajes</em> — pero el mensaje es uno: Dios redimiendo a su pueblo en Cristo. Eso es <strong>milagro literario</strong> imposible de explicar sin inspiración divina.</p>
+        <p><span class="lec-tag">Bavinck sobre la unidad de la Escritura:</span> "La Biblia no es 66 libros sino UN libro escrito por 40 autores en 1500 años. Esa unidad solo se explica por un Autor último: el Espíritu Santo."</p>
+        <p><span class="lec-tag">Conexión pactual:</span> Eli debe ver que cuando lee, por ejemplo, los Salmos, está oyendo al pastor-rey David que oró bajo el mismo pacto que ella tiene. Cuando lee a Pablo, oye a un apóstol que predicó a los gentiles — y Eli es hija de gentiles bautizada. La Biblia es <em>familia espiritual</em> que abarca generaciones.</p>
+        <p><span class="lec-tag">Peligro a evitar:</span> presentar la diversidad de autores como argumento académico ("mira qué bonito, hay autores diferentes"). Conectarlo con el evangelio: que Dios usó a tantos para llevarnos a Cristo.</p>
+        <p><span class="lec-tag">Lo que estás formando:</span> conciencia de que los autores bíblicos son personas reales — no mitos. Familiaridad inicial con nombres clave de la Escritura. Asombro ante la unidad de la Biblia.</p>
+        <div class="lec-bible">"Habiendo Dios hablado muchas veces y de muchas maneras en otro tiempo a los padres por los profetas, en estos postreros días nos ha hablado por el Hijo." — Hebreos 1:1-2</div>
+        <div class="lec-prayer">
+          <span class="pry-lbl">Oración antes de enseñar</span>
+          Señor, gracias por los hombres santos que usaste para escribir tu Palabra. Que Eli vea hoy que tu Biblia es viva, real, escrita por personas reales que tú llamaste. Amén.
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">12 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso <span class="edc-mark E">E</span> · 1 min</div>
+            <p>Eli recita la P y R.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Apertura · ¿Cuántos autores tiene la Biblia? <span class="edc-mark E">E</span> · 2 min</div>
+            <div class="guia-say">"La Biblia fue escrita por más de 40 personas distintas, durante más de 1500 años, en 3 idiomas. ¿Te imaginas? Cada uno escribió su parte. Y todas las partes se conectan en una historia: la historia de Dios salvando a su pueblo en Jesús. Hoy te presento a 4 de esos autores."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Moisés <span class="edc-mark D">D</span> · 2 min</div>
+            <div class="guia-say">"Primero: <strong>Moisés</strong>. Vivió hace más de 3000 años. Era el líder del pueblo de Israel. Dios lo usó para sacar al pueblo de Egipto. Y Moisés escribió los primeros 5 libros de la Biblia: Génesis, Éxodo, Levítico, Números, Deuteronomio. Los primeros 5 — los primeros que abrimos cuando vamos a Génesis 1."</div>
+            <p>Muestra Génesis en la Biblia, dile el nombre: "Esto fue escrito por Moisés."</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">David <span class="edc-mark D">D</span> · 2 min</div>
+            <div class="guia-say">"Segundo: <strong>David</strong>. Vivió hace unos 3000 años también. Cuando era niño cuidaba ovejas. Después se convirtió en rey. Y David escribió muchos Salmos. ¿Sabes qué son los Salmos? Son canciones y oraciones a Dios. Cuando estamos tristes y leemos un Salmo, leemos lo que David escribió cuando él también estaba triste."</div>
+            <p>Muestra los Salmos. Dile: "Esto lo escribió David, el pastor que llegó a ser rey."</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Pablo <span class="edc-mark D">D</span> · 2 min</div>
+            <div class="guia-say">"Tercero: <strong>Pablo</strong>. Vivió hace casi 2000 años, después de Jesús. Al principio Pablo no creía en Jesús — perseguía a los cristianos. Pero Jesús se le apareció y Pablo cambió completamente. Después escribió muchas cartas a las iglesias que iba fundando. Esas cartas son parte de la Biblia: Romanos, Corintios, Efesios, Filipenses..."</div>
+            <p>Muestra Romanos. Dile: "Pablo escribió esto a los cristianos de Roma."</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Juan <span class="edc-mark D">D</span> · 2 min</div>
+            <div class="guia-say">"Cuarto: <strong>Juan</strong>. Fue uno de los doce discípulos de Jesús — un amigo cercano de Jesús cuando estuvo en la tierra. Juan escribió un Evangelio (el Evangelio de Juan, que cuenta la vida de Jesús), 3 cartas y Apocalipsis (el último libro de la Biblia, que habla del fin de los tiempos)."</div>
+            <p>Muestra el Evangelio de Juan.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">7</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Síntesis · Un solo mensaje <span class="edc-mark C">C</span> · 1 min</div>
+            <div class="guia-say">"Cuatro hombres muy distintos: un líder, un rey-pastor, un apóstol misionero, un discípulo amado. Pero todos escribieron sobre lo MISMO: Dios salvando a su pueblo en Jesús. ¿Cómo es posible que 40 autores en 1500 años cuenten todos la misma historia? Porque el Espíritu Santo los inspiró a todos."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No recuerda los autores. Confunde nombres</td><td>Repetir solo 2 (Moisés y David). El resto puede esperar.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Nombra a los 4 autores pero no los conecta con libros específicos</td><td>Mostrar libros uno por uno. Repetir el día siguiente.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Nombra y conecta: Moisés→Génesis, David→Salmos, Pablo→cartas, Juan→Evangelio. Articula la unidad</td><td>Registrar. Lista para síntesis del viernes.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 5 minutos</div>
+        <ol>
+          <li>Repaso P15</li>
+          <li>Presentar solo 2 autores: Moisés (Génesis) y David (Salmos)</li>
+          <li>Mostrar Génesis 1 y un Salmo en la Biblia</li>
+          <li>Una frase: <em>"Dios usó a hombres distintos para escribir un solo mensaje."</em></li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin:14px 0">
+  <strong>Plan del día jueves — otras materias:</strong><br>
+  📖 <strong>Lectoescritura</strong>: escritura propia — Eli escribe 4 frases sobre Abraham con sus palabras (30 min).<br>
+  📜 <strong>Historia Providencial</strong>: <em>Abraham y la fe</em>. Leer Gén 12:4 ("Y se fue Abram, como Jehová le dijo"). Conversación: ¿qué dejó Abraham? ¿qué siguió? (15 min).<br>
+  🔢 <strong>Matemáticas</strong>: sumas que dan 9 y 10 con regletas. Énfasis: complementos del 10 (Mamut Sumar 1 p.8-9) (25 min).<br>
+  🌱 <strong>Ciencias</strong>: observación de la planta de frijol — medir altura, dibujar (10 min).
+</div>`,
+
+viernes:`${APERTURA}
+
+<!-- ═══════════════ BLOQUE 1: CATECISMO P15 · Día 4 — Síntesis + ⭐ Portafolio ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">✝️</div>
+    <div>
+      <div class="lesson-ttl">Catecismo CPN P15 · Día 4 — Síntesis + ⭐ Hoja de portafolio</div>
+      <div class="lesson-meta">20 min · Narración libre + hoja final</div>
+      <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span><span class="mat">Hoja del prompt IA</span><span class="mat">Colores</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El propósito del viernes:</span> síntesis de los 3 ángulos vistos esta semana. Eli ya sabe la P y R; hoy articula con sus palabras y deja huella en la hoja de portafolio.</p>
+        <p><span class="lec-tag">Los 3 ángulos:</span></p>
+        <p>• <strong>Día 1 (Martes)</strong>: 2 Pedro 1:21 — autores humanos + Espíritu Santo (santos varones inspirados).<br>• <strong>Día 2 (Miércoles)</strong>: Hechos 28:25 — "Por medio de Isaías" (inspiración orgánica).<br>• <strong>Día 3 (Jueves)</strong>: Los autores con nombre — Moisés, David, Pablo, Juan (diversidad y unidad).<br>• <strong>Día 4 (hoy)</strong>: síntesis + portafolio.</p>
+        <p><span class="lec-tag">Cadena cumulativa P11+P12+P13+P14+P15:</span> Dios mira (P11) · sabe (P12) · puede (P13) · habla solo en la Biblia (P14) · y la Biblia es hombres inspirados (P15). Cinco preguntas, una arquitectura doctrinal coherente.</p>
+        <p><span class="lec-tag">Evaluación por narración libre:</span> mamá pregunta "¿Qué aprendiste de quién escribió la Biblia?" y escucha. Tres ángulos = [C]. Dos = [D]. Uno = [E].</p>
+        <div class="lec-prayer">
+          <span class="pry-lbl">Oración antes de enseñar</span>
+          Señor, gracias por esta quinta semana. Que Eli salga sabiendo que tu Palabra fue escrita por hombres santos guiados por tu Espíritu. Amén.
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">20 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cadena cumulativa P11→P15 <span class="edc-mark C">C</span> · 4 min</div>
+            <p>Eli dice las CINCO P y R seguidas, sin ayuda. Si lo logra: ⭐ celebración fuerte.</p>
+            <div class="guia-say">P11: ¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente.<br><br>P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.<br><br>P13: ¿Puede Dios hacer todo? — Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.<br><br>P14: ¿En dónde aprendes a obedecer y amar a Dios? — Solamente en la Biblia.<br><br>P15: ¿Quién escribió la Biblia? — Unos santos varones que fueron inspirados por el Espíritu Santo.</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración libre <span class="edc-mark C">C</span> · 5 min</div>
+            <div class="guia-say">"Eli, cuéntame con tus palabras todo lo que aprendiste esta semana sobre quién escribió la Biblia."</div>
+            <p>Mamá escucha. Identifica si menciona:</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>Santos varones + Espíritu Santo (2 P 1:21)? — Día 1 ✓</li>
+              <li>"Por medio de" — el Espíritu habló (Hch 28:25)? — Día 2 ✓</li>
+              <li>Autores con nombre (Moisés, David, Pablo, Juan)? — Día 3 ✓</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">⭐ Hoja de portafolio <span class="edc-mark C">C</span> · 10 min</div>
+            <p>Saca la hoja impresa del prompt al final. Eli completa: nombre, fecha, copia la R, dibuja, completa los 3 ángulos. Mamá firma.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Oración de cierre <span class="edc-mark E">E</span> · 1 min</div>
+            <div class="guia-say">"Señor, gracias por darnos tu Palabra a través de tantos hombres que tu Espíritu inspiró. Ayuda a Eli a leer tu Biblia toda su vida con el respeto que merece. Amén."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C semanal · P15</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Recita memorizada. Narra solo 1 ángulo</td><td>Repasar P15 una semana más como encadenado.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Cadena P11→P15. Narra 2 de los 3 ángulos</td><td>Avanzar a P16 (Adán y Eva) en S6.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Cadena perfecta. Articula los 3 ángulos + nombra autores</td><td>⭐ Hoja al portafolio. Lista para P16.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli · ⭐ Portafolio</span></div>
+      <div class="ficha-eli">
+        <p><strong>Hoja resumen de la semana — esta es la que se guarda</strong></p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Portafolio P15</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Familia presbiteriana en Bogotá, marco reformado pactual. Esta hoja se conserva en su portafolio durante años.
+
+TEMA:
+Catecismo CPN P15 — Semana 5 — Quién escribió la Biblia.
+
+PROPÓSITO:
+Eli vivió toda la semana con UNA pregunta del catecismo (P15) desde 3 ángulos. Esta hoja es la evidencia que se guarda.
+
+CONTENIDO BÍBLICO:
+P: ¿Quién escribió la Biblia?
+R: Unos santos varones que fueron inspirados por el Espíritu Santo.
+
+LOS 3 ÁNGULOS DE LA SEMANA:
+- Día 1 (Martes): 2 Pedro 1:21 — santos varones inspirados
+- Día 2 (Miércoles): Hechos 28:25 — "por medio de" (inspiración orgánica)
+- Día 3 (Jueves): Los autores con nombre — Moisés, David, Pablo, Juan
+
+FORMATO:
+- Una página A4 vertical, lista para imprimir.
+- Proporción 1:1.414 si es imagen.
+- Diseño contemplativo, conservable, no infantil saturado.
+
+ESTILO VISUAL:
+- Fondo crema cálido #FAF6F0.
+- Color tema: violeta profundo #6B3FAA con acentos dorados #C49A2A.
+- Estilo digno, reverente, contemplativo.
+- No usar caricaturas exageradas, colores neón, ni estética infantil saturada.
+- No representar a Dios. No halos ni rayos místicos.
+
+TIPOGRAFÍA:
+- Encabezados en Georgia o serif clásica.
+- Texto en sans-serif clara.
+- Mínimo 14 pt instrucciones, 22+ pt para P y R.
+
+CONTENIDO DE LA HOJA:
+
+ENCABEZADO:
+"Lo que aprendí de Dios — Semana 5"
+
+SUBTÍTULO:
+"Familia Espinoza · 16-19 jun 2026 · Catecismo P15"
+
+CUADRO CENTRAL GRANDE:
+La P y R completa en serif grande:
+"¿Quién escribió la Biblia? — Unos santos varones que fueron inspirados por el Espíritu Santo."
+
+SECCIÓN "Tres cosas que aprendí esta semana":
+Tres líneas con iconos para que Eli complete:
+- 📜 "La Biblia fue escrita por _______________________" (hombres santos inspirados)
+- 🕊️ "El Espíritu Santo habló _________________________" (por medio de ellos)
+- ✍️ "Algunos autores son: ____________________________" (Moisés, David, Pablo, Juan)
+
+RECUADRO PARA DIBUJO 10×10 cm:
+"Mi dibujo: una Biblia abierta"
+
+PREGUNTA ABIERTA con 4 líneas:
+"Cuando leo la Biblia, ¿a quién escucho? ¿Por qué?"
+
+ESPACIOS FIRMAS:
+- "Eli — fecha: ___ de junio de 2026"
+- "Mamá: __________________"
+
+CINTA INFERIOR DORADA:
+"Los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo. — 2 Pedro 1:21"
+
+PIE:
+"Familia Espinoza · Creciendo en el Pacto · 2026-27"
+
+CRITERIOS:
+- La hoja debe verse como lámina conservable, no tarea escolar.
+- Espacio real para escribir.
+- Contemplativa, digna.
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact HTML completo con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 minutos</div>
+        <ol>
+          <li>Eli dice P11→P15 cumulativas</li>
+          <li>Mamá pregunta: <em>"¿Qué aprendiste de quién escribió la Biblia?"</em></li>
+          <li>Escuchar narración libre</li>
+          <li>Si no hay hoja: cuaderno con R + dibujo de Biblia abierta</li>
+          <li>Oración</li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin:14px 0">
+  <strong>Plan del día viernes — otras materias:</strong><br>
+  📖 <strong>Lectoescritura</strong>: lectura evaluativa (texto nuevo) + escritura libre 5 frases sobre Abraham (30 min).<br>
+  📜 <strong>Historia Providencial</strong>: narración libre — "Cuéntame lo que aprendiste sobre Abraham esta semana" (15 min).<br>
+  🔢 <strong>Matemáticas</strong>: repaso oral de sumas 0-10 con regletas (15 min).<br>
+  📋 <strong>Diagnóstico de la madre</strong>: registrar en pestaña Registro (10 min).
+</div>`
+};
+
 // ── MAPA DE CONTENIDOS ──
-const WSDATA = { 1: W1, 2: W2, 3: W3, 4: W4 };
+const WSDATA = { 1: W1, 2: W2, 3: W3, 4: W4, 5: W5 };
