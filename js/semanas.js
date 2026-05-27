@@ -3747,12 +3747,558 @@ No responder con explicación. Generar directamente la ficha.</div>
 
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico azul">📋</div><div><div class="act-ttl">Plan del día</div><div class="act-meta">Y: comprensión + actividad · 11–20 pictórico · Creación Gén 1</div></div></div>
-<div class="act-body">
-<div class="strip s-sage">Y: comprensión + actividad · 11–20 pictórico · Creación Gén 1 (continuación)</div>
-<p style="font-size:.85rem;color:var(--muted);font-style:italic">Seguir el mismo ritmo del martes: Catecismo → Lectoescritura → Historia → Matemáticas.</p>
-</div></div>`,
+
+<!-- ═══════════════ BLOQUE 2: LECTOESCRITURA · Fábula de Esopo + comprensión ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico azul">📖</div>
+    <div>
+      <div class="lesson-ttl">Lectoescritura · Fábula de Esopo "La hormiga y la cigarra"</div>
+      <div class="lesson-meta">40 min · Lectura viva + narración + comprensión + escritura propia</div>
+      <div class="mats"><span class="mat">Hoja de fábula (impresa o digital)</span><span class="mat">Cuaderno</span><span class="mat">Lápiz</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El método del día:</span> Charlotte Mason en su forma pura. Mamá lee EN VOZ ALTA la fábula completa. Eli escucha sin libro. Al terminar, Eli narra sin pistas. Esa narración es la prueba de comprensión, no preguntas con respuestas correctas.</p>
+        <p><span class="lec-tag">Por qué esta fábula esta semana:</span> "La hormiga y la cigarra" enseña sobre <strong>previsión, sabiduría, orden</strong> — temas que conectan con P12 (Dios sabe todas las cosas, incluido lo que vendrá). La hormiga prevé el invierno; la cigarra no. Dios, en cambio, lo sabe TODO de antemano. Por eso podemos confiar en su providencia.</p>
+        <p><span class="lec-tag">Cuidado con el moralismo:</span> la fábula tiene una moraleja sobre ser previsor. NO la conviertas en "tú debes ser como la hormiga". La enseñanza pactual es más profunda: Dios sabe lo que viene, y por eso provee para los suyos. La hormiga es figura pequeña de la sabiduría que Dios da.</p>
+        <p><span class="lec-tag">Regla del día (gramática):</span> reforzar el <strong>punto final</strong>. Cada oración termina con punto.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">40 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Apertura · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, hoy te leo una fábula muy antigua de un autor que se llama Esopo. Vivió hace más de 2.500 años. Sus fábulas son cortas y tienen una enseñanza al final — una moraleja. Tú solo escucha. Después me la cuentas."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura en voz alta · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá lee la fábula despacio, con voces si quiere:</p>
+            <div class="guia-bible" style="font-size:.9rem;line-height:1.8">
+<span class="guia-bible-ref">La hormiga y la cigarra · Esopo · adaptado</span>
+Era verano, y el sol calentaba la tierra. Una hormiga pequeña caminaba muy ocupada de un lado a otro. Llevaba granos de trigo a su casa para guardarlos.<br><br>
+Una cigarra la vio desde un árbol cercano. La cigarra cantaba con su música alegre y reía.<br><br>
+— ¡Hormiga! — dijo la cigarra. — ¿Por qué trabajas tanto? Hace calor, el día es hermoso. Ven a cantar conmigo.<br><br>
+La hormiga respondió:<br>
+— Estoy guardando comida para el invierno. Cuando lleguen los días fríos, no habrá granos en el campo. Si no guardo ahora, después no tendré qué comer.<br><br>
+La cigarra se rió y siguió cantando todo el verano.<br><br>
+Cuando llegó el invierno, hacía mucho frío. La cigarra tenía hambre y temblaba. Salió a buscar comida, pero no encontró nada.<br><br>
+Vio la casa de la hormiga, calientita, llena de granos. Y entendió que mientras ella cantaba, la hormiga había trabajado con sabiduría.<br><br>
+<strong>Moraleja:</strong> Es bueno disfrutar — pero también es bueno trabajar a su tiempo y guardar lo que Dios nos da.
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración por Eli · 7 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Ahora cuéntame tú la fábula con tus palabras. Como si yo no la conociera."</div>
+            <p>Eli narra. Mamá no interrumpe ni corrige. Al terminar, mamá hace UNA pregunta:</p>
+            <div class="guia-say">"¿Por qué crees que la hormiga sabía que el invierno iba a llegar?"</div>
+            <p>Respuesta esperada (cualquiera de estas): porque ya había vivido inviernos antes, porque Dios le dio sabiduría, porque vio que el sol iba a cambiar. Cualquiera es válida.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Comprensión · 3 preguntas de inferencia · 5 min <span class="edc-mark D">D</span></div>
+            <p>Mamá hace estas 3 preguntas. Eli responde con frases completas (no monosílabos):</p>
+            <div class="guia-bible" style="font-size:.88rem;line-height:1.8">
+<span class="guia-bible-ref">3 preguntas de inferencia</span>
+1. <strong>¿Por qué la cigarra no quería trabajar?</strong><br>
+2. <strong>¿Qué habrías hecho tú si fueras la cigarra?</strong><br>
+3. <strong>¿Cómo crees que Dios usa el invierno en su creación?</strong>
+            </div>
+            <p style="font-size:.85rem;color:var(--muted)">No hay respuestas correctas. Si Eli razona, está bien.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escritura propia · 15 min <span class="edc-mark C">C</span></div>
+            <div class="guia-say">"Ahora escribe en tu cuaderno tu propia versión: 3 frases sobre lo que aprendiste de la fábula. Cada frase con punto al final."</div>
+            <p>Eli escribe sola. Mamá observa postura, presión del lápiz, espacios entre palabras. Al terminar, mamá señala SOLO si faltó algún punto. No corrige nada más.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"La hormiga era pequeña pero sabia. Salomón dice en Proverbios: 'mira la hormiga y considera sus caminos'. Dios nos enseña sabiduría hasta por las criaturas pequeñas. Y Él, que sabe TODO (P12), nos cuida con sabiduría aún mayor — porque sabe lo que vendrá antes de que llegue."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No narra · responde 1 sola pregunta de las 3 · escribe con dificultad</td><td>Releer la fábula. Hacer narración guiada con preguntas.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Narra con apoyo · responde 2 de 3 preguntas · escribe 2-3 frases con punto</td><td>Normal. Felicitar la narración. Esto es esperado.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Narra completa · razona en inferencia · escribe 3 frases con punto y voz propia</td><td>Registrar como evidencia. Guardar el cuaderno.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional · hoja con ilustración</span></div>
+      <div class="ficha-eli">
+        <p style="font-size:.85rem;color:var(--muted)">Si quieres imprimirle la fábula con ilustraciones — útil para que Eli la conserve.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Fábula en 2 imágenes</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear imágenes educativas en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado. Eli lee con fluidez, escribe oraciones propias y trabajamos con enfoque tipo Charlotte Mason: lectura atenta, narración, comprensión e inferencia.
+
+Esta ficha es una fábula, así que hazla en DOS IMÁGENES SEPARADAS:
+
+REGLAS GENERALES:
+- Español natural para niña de 6 años.
+- No saturar la página.
+- Letras grandes y claras.
+- Texto de lectura en fuente Georgia o serif clara, mínimo 18 pt.
+- Instrucciones en sans-serif clara, mínimo 16 pt.
+- Líneas de escritura amplias, altura 12 mm.
+- Ilustraciones que apoyen la comprensión narrativa.
+- Tono tierno, ordenado y familiar.
+- Sin caricaturas irreverentes ni contenido secular agresivo.
+- Si hay enseñanza moral: compatible con hogar cristiano reformado, sobria, sin moralismo pesado.
+
+═══════════════════════════════════════
+IMAGEN 1 — LECTURA DE LA FÁBULA
+═══════════════════════════════════════
+
+Título superior: "Una fábula de Esopo"
+Título principal: "La hormiga y la cigarra"
+
+Contenido:
+- Incluir la fábula completa adaptada para 6 años.
+- Dividir en párrafos cortos.
+- Letra grande y muy legible.
+- 2-3 ilustraciones tipo acuarela suave: hormiga trabajando con grano (verano), cigarra cantando en árbol, invierno con la cigarra hambrienta.
+- Caja final de "Moraleja": "Es bueno disfrutar — pero también es bueno trabajar a su tiempo y guardar lo que Dios nos da."
+- La página debe parecer una página hermosa de libro infantil, no ficha escolar.
+
+═══════════════════════════════════════
+IMAGEN 2 — TRABAJO SOBRE LA FÁBULA
+═══════════════════════════════════════
+
+Título superior: "Yo cuento · Yo pienso · Yo escribo"
+
+Secciones:
+
+1. "Yo cuento la fábula" — 5 líneas guía de 12mm
+2. "Yo pienso" — 3 preguntas con 2 líneas cada una:
+   - "¿Por qué la cigarra no quería trabajar?"
+   - "¿Qué habrías hecho tú si fueras la cigarra?"
+   - "¿Cómo crees que Dios usa el invierno en su creación?"
+3. "Mi final diferente" — caja grande blanca para escribir
+4. "Palabras nuevas" — 4 palabras importantes (granos · invierno · sabiduría · moraleja) con línea para escribir significado
+5. "Para recordar" — pregunta "¿Cuál es la enseñanza?" con 2 líneas
+
+DISEÑO VISUAL:
+- Fondo crema cálido #FAF6F0.
+- Color principal azul lectura #2A6090.
+- Acentos dorados #C49A2A.
+- Estilo digno, contemplativo, sin caricaturas.
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+Genera primero IMAGEN 1 (A4 vertical 1:1.414, alta resolución, libro infantil con ilustraciones tipo acuarela). Luego cuando diga "Haz la imagen 2", genera IMAGEN 2 (A4 vertical 1:1.414, espacios en blanco visibles para escribir).
+
+Si la IA genera HTML:
+Dos artifacts separados, ambos A4 vertical, imprimibles sin márgenes.
+
+Si la IA genera PDF:
+PDF de 2 páginas A4 vertical.
+
+No responder con explicación. Generar directamente las imágenes.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 15 min</div>
+        <ol>
+          <li>Mamá lee la fábula UNA vez</li>
+          <li>Eli narra lo que recuerda</li>
+          <li>Mamá hace SOLO la pregunta 1 ("¿Por qué la cigarra no quería trabajar?")</li>
+          <li>Eli escribe UNA frase: "Lo que aprendí: ___."</li>
+          <li>Listo. (Preguntas 2-3 y las 3 frases son [C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 3: HISTORIA · Génesis 1:1-5 · Días 1 y 2 ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico dorado">📜</div>
+    <div>
+      <div class="lesson-ttl">Historia Providencial · Génesis 1:1-5 — En el principio</div>
+      <div class="lesson-meta">25 min · Día 1 y 2 de la creación · narración + timeline</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Hoja blanca grande</span><span class="mat">Colores</span><span class="mat">Tarjeta timeline "Creación"</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El plan de la semana:</span> esta semana leemos Génesis 1 completo, pero por etapas. Hoy solo los <strong>2 primeros días de la creación</strong>: la luz (día 1) y el firmamento (día 2). Jueves los días 3-4. Viernes los días 5-6. El sábado celebramos el día 7 (reposo de Dios).</p>
+        <p><span class="lec-tag">El énfasis hoy NO es "ciencia":</span> no entres en debates sobre edad de la tierra, evolución, días literales/figurativos. Para Eli de 6 años, lo central es: <strong>Dios habló y las cosas existieron</strong>. Dios es el origen. Antes de la creación: solo Dios. Después: todo lo que existe.</p>
+        <p><span class="lec-tag">Van Til lo enseña así:</span> Génesis 1 no es teoría científica disfrazada. Es <em>revelación pactual</em>. Dios se presenta como Creador soberano, no como uno de varios dioses. Esa es la base de todo lo que sigue en la Biblia.</p>
+        <p><span class="lec-tag">Conexión con catecismo P12:</span> el Dios que sabe todo (P12) es el mismo que creó todo. Su conocimiento es el conocimiento del Creador, no del observador externo.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Pregunta de apertura · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, antes de que existieran las flores, los animales, las personas, el sol — ¿qué crees que había?"</div>
+            <p>Eli responde. Mamá escucha. Si dice "nada", mamá responde: "no nada — había Alguien. Solo Dios". Si dice "Dios", mamá afirma.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura del texto · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá abre la Biblia en Génesis 1. Lee versículos 1-5 despacio:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:1-5 · NBLA adaptado</span>
+"En el principio Dios creó los cielos y la tierra.<br><br>
+La tierra estaba sin orden y vacía. La oscuridad cubría todo, y el Espíritu de Dios se movía sobre las aguas.<br><br>
+Entonces Dios dijo: '¡Que haya luz!' Y hubo luz. Dios vio que la luz era buena, y separó la luz de la oscuridad.<br><br>
+Llamó a la luz 'día', y a la oscuridad 'noche'.<br><br>
+Y fue la tarde y la mañana del PRIMER DÍA."
+            </div>
+            <p>Después pasa al día 2:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:6-8 · NBLA adaptado</span>
+"Entonces Dios dijo: '¡Que haya un cielo entre las aguas para separarlas!'<br><br>
+Y así fue. Dios hizo el firmamento y separó las aguas que estaban abajo de las que estaban arriba. Y llamó al firmamento 'cielo'.<br><br>
+Y fue la tarde y la mañana del SEGUNDO DÍA."
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración por Eli · 5 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Cuéntame qué hizo Dios en el día 1 y en el día 2."</div>
+            <p>Eli narra. Si recuerda solo uno de los días, mamá vuelve a leer el otro y pregunta de nuevo.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Dibujo en hoja grande · 10 min <span class="edc-mark D">D</span></div>
+            <p>Mamá saca hoja blanca grande. La divide en 7 partes (con líneas suaves) — una por cada día de la creación. Le dice:</p>
+            <div class="guia-say">"Esta hoja va a tener los 7 días de la creación. Hoy dibujamos el día 1 (luz y oscuridad) y el día 2 (el cielo separando aguas). Los otros días los hacemos mañana y viernes."</div>
+            <p>Eli dibuja el día 1 (algo simple: una mitad iluminada, otra oscura) y el día 2 (cielo arriba, agua abajo). Mamá no corrige el arte.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Timeline · 2 min <span class="edc-mark D">D</span></div>
+            <p>Mamá saca la tarjeta del Timeline de CC "Creación" (o hace una simple: una tarjeta con "Creación · Dios hace el mundo" + una fecha simbólica "En el principio"). La pegan en una pared o en una hoja grande de timeline.</p>
+            <div class="guia-say">"Esta es la primera tarjeta de tu timeline. Aquí empieza toda la historia."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No recuerda los días · solo dice "Dios creó todo"</td><td>Releer. Mostrar el día 1 con linterna apagada/prendida.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Distingue día 1 (luz) y día 2 (cielo) · dibuja con ayuda</td><td>Normal.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Narra los dos días con detalles · articula que antes solo había Dios</td><td>Registrar como evidencia.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Leer Gén 1:1-5 una vez</li>
+          <li>Eli dibuja en una hoja "el día 1: luz y oscuridad"</li>
+          <li>Una frase: <em>"En el principio Dios creó todo."</em></li>
+          <li>Listo. (Día 2 puede esperar a jueves.)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 4: MATEMÁTICAS · 11-20 pictórico con regletas ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico rojo">🔢</div>
+    <div>
+      <div class="lesson-ttl">Matemáticas · Números 11-20 · pictórico</div>
+      <div class="lesson-meta">25 min · Construir 16-20 + valor posicional · sin libros externos</div>
+      <div class="mats"><span class="mat">Regletas Cuisenaire</span><span class="mat">Cuaderno cuadriculado</span><span class="mat">Lápiz</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Continúa lo del martes:</span> ayer Eli aprendió antes/después + construyó 11-15. Hoy completamos hasta 20 + reforzamos el valor posicional (1 decena + X unidades).</p>
+        <p><span class="lec-tag">Patrón a observar:</span> del 11 al 15 los nombres son irregulares (once, doce, trece, catorce, quince). Del 16 al 20 son regulares (diez-y-seis, diez-y-siete...). Esto Eli lo entiende intuitivamente — solo hay que mostrárselo.</p>
+        <p><span class="lec-tag">REGLA DE ORO de la semana:</span> si Eli construye con regletas, NO le pides escribir el número abstracto todavía. Mañana (jueves) hacemos verbal sin regletas. Pasado mañana (viernes) abstracto en cuaderno. Hoy: <strong>solo concreto + pictórico</strong>.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso 11-15 · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá pone las regletas en fila: 🟧 + ⬜ = 11. Eli construye, dice. Igual con 12, 13, 14, 15. Velocidad.</p>
+            <p>Si se traba, mamá vuelve al 11 y suben juntos uno por uno.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Construir 16-20 · 8 min <span class="edc-mark D">D</span></div>
+            <p>Mamá agrega una blanca más al 15:</p>
+            <div class="guia-say">"Mira: si al 15 le pongo UNA blanca más, obtengo 16. Lo decimos 'diez-y-seis'. ¿Lo escuchas? Diez + seis = dieciséis."</div>
+            <p>Continúa con cada número:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.7">
+🟧 + ⬜⬜⬜⬜⬜⬜ = 16 (diez-y-seis)<br>
+🟧 + ⬜⬜⬜⬜⬜⬜⬜ = 17 (diez-y-siete)<br>
+🟧 + ⬜⬜⬜⬜⬜⬜⬜⬜ = 18 (diez-y-ocho)<br>
+🟧 + ⬜⬜⬜⬜⬜⬜⬜⬜⬜ = 19 (diez-y-nueve)<br>
+🟧 + 🟧 = 20 (dos decenas)
+            </div>
+            <p>El 20 es especial: NO es 1 decena + 10 unidades, sino 2 decenas. Mamá quita las 10 blancas y pone OTRA regleta naranja al lado de la primera:</p>
+            <div class="guia-say">"Mira: cuando junto 10 unidades, se vuelven UNA decena nueva. Dos decenas son veinte."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Pictórico en cuaderno · 8 min <span class="edc-mark C">C</span></div>
+            <p>Eli abre cuaderno cuadriculado. Mamá dicta:</p>
+            <div class="guia-say">"Dibuja en cuadritos los números 16, 18 y 20. Barra de 10 + las unidades que falten. Y pon el número grande al lado."</div>
+            <p>Para el 20, Eli debe dibujar DOS barras de 10 (no una con 20). Si dibuja una sola larga, mamá señala: "el 20 son dos decenas — dibújalo así".</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura inversa · 2 min <span class="edc-mark C">C</span></div>
+            <p>Mamá ahora pone regletas SIN decir el número. Eli lee:</p>
+            <div class="guia-say">"¿Qué número es este? (mamá pone 🟧 + ⬜⬜⬜⬜⬜⬜⬜⬜)"</div>
+            <p>Respuesta esperada: 18. Si Eli cuenta uno por uno, está bien. Si reconoce de un vistazo, ya tiene visión de número.</p>
+            <p>Repite con 14, 17, 20.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Tu mano tiene 5 dedos. Tus dos manos tienen 10. Eso es UNA decena. Dios diseñó tu cuerpo así. Por eso contamos en grupos de 10. Hasta tu propio cuerpo te enseña matemáticas. Eso es orden de Dios."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Confunde nombres 11-15 con 16-19 · no entiende que 20 = 2 decenas</td><td>Volver a 11-15 mañana antes de avanzar.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Construye 16-20 con regletas · dibuja en cuadernos con apoyo</td><td>Normal.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Lee número de la representación sin contar uno por uno · entiende que 20 = 2 decenas</td><td>Mañana avanza a verbal sin regletas.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Repaso 11-15 con regletas (rápido)</li>
+          <li>Mamá enseña SOLO 16, 17, 18 con regletas (no 19-20 todavía)</li>
+          <li>Eli dibuja en cuaderno el 17</li>
+          <li>Listo. (18-20 puede esperar a jueves.)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 5: CIENCIAS · Frijol bebé ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico verde">🌱</div>
+    <div>
+      <div class="lesson-ttl">Ciencias · Frijol bebé — dentro de la semilla</div>
+      <div class="lesson-meta">25 min · Recuperación de S1 · observación reverente</div>
+      <div class="mats"><span class="mat">⚠️ 10-12 frijoles pinto REMOJADOS desde anoche</span><span class="mat">Plato pequeño</span><span class="mat">Lupa si tienes</span><span class="mat">Diario de naturaleza</span><span class="mat">Lápiz + colores</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Por qué hoy:</span> esto se quedó pendiente de S1 porque no tenías frijoles remojados. Hoy lo recuperamos. Si todavía no los tienes, ponlos en agua TIBIA por 1 hora — funcionará aunque no es ideal.</p>
+        <p><span class="lec-tag">La verdad teológica:</span> dentro de cada semilla está la <strong>planta entera predeterminada por Dios</strong>. No hay azar evolutivo en el frijol — hay diseño. Cuando Eli abre el frijol y ve la pequeña planta enrollada adentro (radícula, cotiledones, plúmula), está viendo lo que Bavinck llama <em>el orden interno de la creación</em>: cada cosa contiene en sí su propia ley.</p>
+        <p><span class="lec-tag">Charlotte Mason aplicada:</span> el "diario de naturaleza" no es manualidad — es entrenamiento de la atención reverente. Mason creía que enseñar a observar la creación con detalle era enseñar a leer la Palabra de Dios escrita en la naturaleza. Eli no está "haciendo ciencia" — está adorando con sus ojos.</p>
+        <p><span class="lec-tag">El orden importa hoy:</span> mamá NO empieza explicando partes. Empieza preguntando "¿qué ves?". Eli mira primero, conjetura, articula. Después mamá nombra. Eso es educación científica reformada.</p>
+        <p><span class="lec-tag">Conexión con catecismo P12:</span> Dios sabe TODO lo que está dentro del frijol — sabe que va a brotar, cuándo, cómo. Conocer así de profundo es ser Creador.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Antes de abrir · 3 min <span class="edc-mark E">E</span></div>
+            <p>Mamá pone 3-4 frijoles remojados sobre el plato. NO dice nada todavía.</p>
+            <div class="guia-say">"Eli, mira estos frijoles. Han estado en agua toda la noche. ¿Cómo se ven distintos a los frijoles secos de la cocina?"</div>
+            <p>Eli observa: están más grandes, más blandos, la cáscara se ve floja. Mamá escucha. No corrige.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Abrir el frijol · observar primero · 7 min <span class="edc-mark D">D</span></div>
+            <p>Mamá quita suavemente la cáscara de UN frijol. Lo abre por la mitad (los dos lados se separan naturalmente). NO explica nada todavía.</p>
+            <div class="guia-say">"Mira muy de cerca. ¿Qué ves adentro? Tómate tu tiempo. Dime lo que ves, no lo que crees que es."</div>
+            <p>Eli observa, con lupa si tienen. Articula:</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>"Veo algo blanco pequeño y enrollado..."</li>
+              <li>"Veo dos partes grandes blancas..."</li>
+              <li>"Tiene como una cosita curveada..."</li>
+            </ul>
+            <p>Mamá escucha. Toma nota mental. No corrige.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Nombrar las partes · 5 min <span class="edc-mark D">D</span></div>
+            <p>Ahora sí, mamá nombra lo que Eli observó:</p>
+            <div class="guia-say">"Eso pequeño enrollado que viste es la <strong>plantita</strong>. Sí — dentro del frijol hay una planta diminuta esperando a crecer. Esos dos lados blancos grandes son la <strong>comida</strong> que Dios le puso al frijol para alimentar a la plantita hasta que tenga raíces y hojas. Y la cáscara afuera la protege."</div>
+            <p>Resumen sencillo (3 palabras): <strong>PLANTITA · COMIDA · CÁSCARA.</strong></p>
+            <p>Mamá repite las 3 palabras dos veces. Eli las repite.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Dibujar en el diario de naturaleza · 8 min <span class="edc-mark C">C</span></div>
+            <p>Eli abre su diario de naturaleza (cuaderno tapa dura). Dibuja lo que vio. Mamá la acompaña, no la corrige.</p>
+            <div class="guia-say">"Dibuja lo que viste, no lo que crees que debe ser. Pon las flechas con las etiquetas: plantita · comida · cáscara."</div>
+            <p>Eli dibuja el frijol abierto. Mamá la ayuda solo a escribir las 3 etiquetas si Eli las pide.</p>
+            <p>Al terminar, Eli dicta una frase. Mamá la escribe en el cuaderno (o Eli la copia):</p>
+            <div class="guia-say">"Hoy 27 de mayo de 2026 abrí un frijol y vi una plantita pequeña enrollada adentro."</div>
+            <p>Recordar: <strong>punto al final</strong>.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Sembrar un frijol · 2 min</div>
+            <p>Mamá pone un frijol remojado en un frasco con algodón húmedo. Lo pone en la ventana.</p>
+            <div class="guia-say">"Vamos a observar este frijol cada día esta semana. Veremos cómo crece la plantita que ya estaba adentro."</div>
+            <p>Eli marca el frasco con la fecha.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No observa con detalle · solo quiere terminar</td><td>Volver a la observación. Pedir 3 detalles más.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Observa, nombra plantita/comida/cáscara, dibuja con etiquetas</td><td>Normal. Guardar en diario.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Observa con asombro, conecta con creación de Dios, hace preguntas propias</td><td>Evidencia destacada.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Abrir UN frijol remojado, separar las dos partes</li>
+          <li>Mamá pregunta: <em>"¿Qué ves?"</em></li>
+          <li>Eli dibuja en su cuaderno lo que vio</li>
+          <li>Una frase de mamá: <em>"Dios puso toda la planta dentro de esta semilla."</em></li>
+          <li>Listo. (Etiquetas y siembra son [D]/[C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>`,
 
 jueves:`${APERTURA}
 
