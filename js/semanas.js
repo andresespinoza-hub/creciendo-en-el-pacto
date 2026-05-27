@@ -2778,6 +2778,171 @@ fm:`<div class="fm-section">
 </ul>
 </div>
 
+<!-- ═══ GUÍA EXTENDIDA — DIARIO DE NATURALEZA ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--sage);background:#f0fff7">
+<h4 style="color:var(--sage)">🌱 GUÍA COMPLETA · El Diario de Naturaleza · cómo empezar con Eli</h4>
+
+<p style="font-size:.92rem"><strong>El "Nature Diary" o "Diario de Naturaleza" no es manualidad ni clase de ciencias.</strong> Es uno de los hábitos centrales de la educación tipo Charlotte Mason. Te resumo lo esencial de lo que Mason enseña en <em>Home Education Vol. 1</em>:</p>
+
+<p><span class="lec-tag">Qué es realmente:</span> es <strong>entrenamiento de la atención reverente</strong>. Mason creía que enseñar a observar la creación con detalle y cuidado era enseñar a leer la Palabra de Dios escrita en la naturaleza (el "libro de la creación" como lo llamaron los Reformadores). Eli no está "haciendo ciencia" — está adorando con los ojos.</p>
+
+<p><span class="lec-tag">Lo que necesitas tener listo:</span></p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li>Un <strong>cuaderno de tapa dura</strong> dedicado SOLO al diario de naturaleza. Papel grueso que sirva para escribir y para acuarela.</li>
+<li>Lápiz, colores o acuarelas básicas.</li>
+<li>Lupa pequeña (opcional pero excelente).</li>
+<li>Una bolsa de tela para llevar tesoros si salen a caminar.</li>
+</ul>
+
+<p><span class="lec-tag">Cómo iniciar con Eli ESTA SEMANA (4 sesiones de 20 min):</span></p>
+
+<ol style="margin:6px 0 6px 1.2rem;font-size:.87rem;line-height:1.8">
+<li><strong>Primera entrada (Sábado de S2)</strong> — comienza con UNA cosa única:
+  <ul style="margin-top:4px">
+    <li>Salir al jardín, balcón o calle 5 minutos. Eli elige UNA cosa que le llame la atención (hoja, flor, piedra, hormiga).</li>
+    <li>Volver, sentarse con calma. Mirar la cosa <strong>3-5 minutos en SILENCIO</strong>. Sin dibujar todavía.</li>
+    <li>Hablar: "¿Qué forma tiene? ¿Cuántas partes? ¿Qué colores? ¿Qué la hace única?"</li>
+    <li>Eli dibuja en su cuaderno. CON CALMA. CON DETALLE. Sin presionar el resultado.</li>
+    <li>Tú escribes (o Eli dicta) UNA frase sobre lo que descubrió. Tipo: "Hoy 30 de mayo de 2026 vi una hoja con muchas líneas pequeñas como caminos."</li>
+  </ul>
+</li>
+
+<li><strong>Mason aconseja (cita directa):</strong>
+<div class="guia-bible" style="font-size:.85rem;margin:6px 0"><em>"Como pueda escribir él mismo, el diario de naturaleza es fuente de deleite. Cada paseo le da algo que anotar: tres ardillas en un alerce, un arrendajo cruzando un campo, una oruga subiendo a una ortiga, dónde encontró hiedra terrestre, cómo crece."</em></div>
+Es decir: NO le pidas a Eli grandes hallazgos. Las cosas comunes son las que importan. Una hormiga sobre una piedra es ya material para una entrada.
+</li>
+
+<li><strong>Sobre el dibujo:</strong> Mason dice que <strong>un niño de 6 años puede dibujar un diente de león, una amapola, una margarita, un lirio CON SUS HOJAS</strong> impulsado por su deseo de representar lo que ve. NO le des direcciones técnicas ("usa este color"). Dale principios: "el morado se hace mezclando azul y rojo". Y déjala libre.</li>
+
+<li><strong>Lo que NO debes hacer:</strong>
+  <ul style="margin-top:4px">
+    <li>NO corregir su dibujo. Lo que ella dibuje es válido.</li>
+    <li>NO meter el diario en horario escolar rígido. Es paseo, observación, deleite.</li>
+    <li>NO saturar la sesión. Mejor UNA cosa bien vista que 5 a medias.</li>
+    <li>NO usar el diario como tarea o evaluación.</li>
+  </ul>
+</li>
+
+<li><strong>Llevar también un CALENDARIO de naturaleza:</strong> en una página al inicio del cuaderno, ir anotando "el primer X que vi este año". Por ejemplo: "primera mariposa amarilla: 30 de mayo". Al año siguiente Eli sabrá cuándo y dónde buscarlas. Esto Mason lo recomienda explícitamente.</li>
+
+<li><strong>Conexión pactual al cerrar cada sesión:</strong> "Dios hizo esta hoja/flor/piedra con cuidado. Cuando miramos así, estamos leyendo el libro de su creación. Génesis dice: 'Y vio Dios que era bueno.'"</li>
+</ol>
+
+<p style="font-size:.85rem;background:#fff;padding:10px 12px;border-radius:6px;border-left:3px solid var(--sage)">
+<strong>💡 Idea concreta para esta semana:</strong> El frijol que se quedó pendiente de S1 — sembrarlo el martes en algodón mojado. Hacer un seguimiento en el diario de naturaleza: día 1 (martes) el frijol cerrado. Día 4 (viernes) ya empieza a hincharse. Día 5 (sábado) Eli dibuja lo que ve. Continúa los siguientes sábados — esto se convierte en una historia natural larga.
+</p>
+</div>
+
+<!-- ═══ MATEMÁTICAS — INTEGRACIÓN SINGAPUR + MAMUT ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--rust);background:#fff5f0">
+<h4 style="color:var(--rust)">🔢 GUÍA · Cómo integrar Singapur + Mamut · y reforzar antes/después</h4>
+
+<p style="font-size:.92rem"><strong>El método:</strong> Singapur es el currículo PRINCIPAL (secuencia, manual del maestro, libro del alumno). Mamut es el currículo de PRÁCTICA (hojas reproducibles para refuerzo). Geography Songs y Classical Conversations vienen como APOYO de memoria. No los mezcles todos en una sesión — los integras en distintos momentos.</p>
+
+<p><span class="lec-tag">Flujo concreto para cada sesión de matemáticas (25-30 min):</span></p>
+
+<table style="width:100%;border-collapse:collapse;font-size:.85rem;margin-top:8px">
+<tr style="background:rgba(185,64,32,.1)"><th style="text-align:left;padding:6px 8px;width:90px">Tiempo</th><th style="text-align:left;padding:6px 8px">Qué haces · qué libro</th></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>5 min</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Concreto con regletas Cuisenaire</strong> · sin libro · Eli toca y arma</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>10 min</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Singapur — Manual del Maestro</strong> · tú lees la introducción del concepto del día y haces la demostración guiada con Eli</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>8 min</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Singapur — Libro del Alumno</strong> · Eli hace los ejercicios de la página correspondiente (1 página por sesión, no más)</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>5 min</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Mamut · refuerzo</strong> · solo si Eli mostró comprensión clara. Una página de Sumar 1 o Valor Posicional 1 según el tema</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>2 min</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Cierre pactual</strong> · "Dios ordenó este mundo con números. Estamos aprendiendo su orden."</td></tr>
+</table>
+
+<p style="font-size:.85rem;margin-top:10px"><span class="lec-tag">REGLA DE ORO:</span> si Eli NO entendió en lo concreto con regletas, NO pasamos al libro de alumno y NO pasamos a Mamut. Volvemos al concreto. El libro y Mamut son <strong>consecuencia de comprensión</strong>, no instrumento para producirla.</p>
+
+<p style="margin-top:14px"><span class="lec-tag">Sobre el 'antes y después' que cuesta a Eli:</span></p>
+
+<p style="font-size:.86rem">Tu observación de S1 fue clave: Eli sabe contar pero no puede decir qué número viene <em>antes</em> o <em>después</em> de un número dado. Esto es <strong>secuencia numérica</strong>, fundamento de toda matemática. Si no lo tiene sólido, la suma no se puede construir.</p>
+
+<p><strong>Plan de refuerzo concreto · 5 min al inicio de cada sesión esta semana:</strong></p>
+<ol style="margin:6px 0 6px 1.2rem;font-size:.86rem;line-height:1.8">
+<li><strong>Día 1 (martes):</strong> Pon en fila las regletas naranjas y blancas para formar los números 5, 6, 7, 8, 9, 10 (cada uno con su composición). Eli señala. Pregunta: "¿Qué número viene ANTES del 7?" "¿Qué número viene DESPUÉS del 8?". Si se traba, le señalas con la mano. NO le digas la respuesta.</li>
+
+<li><strong>Día 2 (miércoles):</strong> Sin regletas, solo oral. "Si estás en el 4 y das un paso hacia atrás, ¿en qué número estás? Si das un paso adelante, ¿en qué número estás?" Eli camina físicamente (saca 4 dedos, los baja a 3 / sube a 5). El cuerpo enseña la secuencia.</li>
+
+<li><strong>Día 3 (jueves):</strong> Juego del "vecino del número". Le dices "soy el 6 — ¿quiénes son mis vecinos?" (5 y 7). Si lo logra: "soy el 12 — ¿quiénes son mis vecinos?" (11 y 13). Etcétera.</li>
+
+<li><strong>Día 4 (viernes):</strong> Aplicación con sumas. "Si tengo 7 y sumo 1, ¿qué obtengo? Eso es lo que viene DESPUÉS." Conexión: <em>sumar 1 = el siguiente número</em>. Esto es comprensión profunda, no solo cálculo.</li>
+
+<li><strong>Día 5 (sábado):</strong> Repaso ligero en el desayuno: "dime los vecinos del 9... del 14... del 20." Sin libros. Conversación.</li>
+</ol>
+
+<p style="font-size:.85rem;background:#fff;padding:10px 12px;border-radius:6px;border-left:3px solid var(--rust);margin-top:10px">
+<strong>📚 Páginas concretas para esta semana:</strong><br>
+• Singapur 1A — Manual del Maestro pp. 80-83 (introducción a 11-20) + Libro del Alumno pp. 80-83<br>
+• Mamut Valor Posicional 1 — pp. 3-5 (decenas y unidades pictórico)<br>
+• Mamut Sumar 1 — solo si Singapur está sólido, p. 2-3 (sumas de 1 dígito) para reforzar
+</p>
+</div>
+
+<!-- ═══ CLASSICAL CONVERSATIONS CICLO 2 — QUÉ USAR ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--gold);background:#fff8e6">
+<h4 style="color:#8B6A00">🏛️ GUÍA · Classical Conversations Ciclo 2 · qué usar y cuándo</h4>
+
+<p style="font-size:.92rem"><strong>Ojo:</strong> CC Ciclo 2 está diseñado para Foundations (4-12 años) en formato comunitario semanal. Para Eli en casa, no usamos todo el ciclo — usamos elementos <strong>como apoyo de memoria</strong>, no como currículo rector.</p>
+
+<p><span class="lec-tag">Lo que SÍ usaremos de CC Ciclo 2 esta semana:</span></p>
+
+<table style="width:100%;border-collapse:collapse;font-size:.85rem;margin-top:8px">
+<tr style="background:rgba(196,154,42,.15)"><th style="text-align:left;padding:6px 8px;width:140px">Área CC</th><th style="text-align:left;padding:6px 8px">Cómo lo integramos en S2</th></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Timeline · Historia</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Las primeras tarjetas del Timeline (Creación · Caída · Noé · Babel · Abraham). Esta semana usar SOLO la tarjeta de <strong>Creación</strong> — Eli la ve, hablan de ella, la cuelgan en la pared. Una tarjeta por semana. Para sábado.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Historia memory work</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Cuando llegues a la sentencia de memoria del Cycle 2 — por ejemplo "1607 — Jamestown" o las que correspondan — NO las introduzcas todavía. Eli necesita primero anclar la historia bíblica. Las sentencias de CC Ciclo 2 son para SEMESTRE 2 (después de S20).</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Geografía</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Usar Geography Songs esta semana</strong>. El primer track "Continents and Oceans" → cantarlo con Eli el sábado mientras señalan el mapa. Una canción por mes, no más.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Latín</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">No introducir todavía. Activaremos Prima Latina (Memoria Press) a partir de S20.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Ciencias</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">El currículo de ciencias para S2 viene de tu carpeta "Spanish Foundations Science Experiments" + Charlotte Mason (diario de naturaleza). NO de CC todavía.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Inglés / Math facts CC</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">No activarlos ahora. Esto es para semanas tardías.</td></tr>
+</table>
+
+<p style="font-size:.86rem;margin-top:10px"><span class="lec-tag">Geography Songs · cómo usarlo concretamente:</span></p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li>Tienes el PDF "Geography Songs" en /Users/EN-ITAdmin/EDU-ELI/ (76 páginas, Larry & Kathy Troxel).</li>
+<li>Esta semana solo: cantar "Continents and Oceans" con Eli. 5 min el sábado mientras pintan los continentes en el mapa.</li>
+<li>NO exigir memorización. Solo exposición auditiva. Eli la oirá repetida durante semanas hasta que se la aprenda sola.</li>
+<li>Si en YouTube buscas "Continents and Oceans song Audio Memory" sale la versión cantada.</li>
+</ul>
+
+<p style="font-size:.86rem;margin-top:10px"><span class="lec-tag">Las tarjetas de memoria (memory cards) de CC:</span></p>
+<p style="font-size:.86rem">Estas son las tarjetas con dibujos que sirven como ANCLAS visuales para conceptos. Útil pero NO esencial este año. <strong>Mi recomendación:</strong> abre el PDF "Clasical Siclo 2b.pdf" que tienes, revisa qué tarjetas hay, y selecciona MÁXIMO 5 para todo el año — relacionadas con eventos bíblicos que veremos (Creación, Caída, Abraham, Éxodo, Cristo). Las pegas en la pared. Cuando estés enseñando ese tema, las señalas. Eso es todo.</p>
+</div>
+
+<!-- ═══ CÓMO USAR CLAUDE IA EN CLASE ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--violet);background:#faf0ff">
+<h4 style="color:var(--violet)">🤖 GUÍA · Cómo usar Claude IA en la clase con Eli (sin reemplazar tu rol)</h4>
+
+<p style="font-size:.92rem"><strong>Sí, Claude puede ser tu compañero pedagógico</strong>. No reemplaza tu papel de madre-maestra — pero te quita carga en cosas operativas (generar hojas, ideas de actividades, ejemplos de problemas, traducir textos, explicar conceptos). Aquí 5 maneras concretas de usarlo:</p>
+
+<p><span class="lec-tag">1. Para generar hojas de trabajo en el momento:</span></p>
+<p style="font-size:.86rem">Ya cada día de la app tiene un botón "Copiar prompt para IA". Tú lo pegas en Claude.ai (o ChatGPT, Nano Banana). La IA te genera la hoja. La imprimes. La usas con Eli. <strong>Tiempo total: 2-3 minutos.</strong></p>
+
+<p><span class="lec-tag">2. Para pedir ideas cuando te quedas sin recursos:</span></p>
+<div style="background:#fff;padding:10px 12px;border-radius:6px;font-family:monospace;font-size:.78rem;margin:6px 0">
+Hola Claude. Mi hija Eli de 6 años está aprendiendo "antes y después" en números cardinales y le cuesta. ¿Me das 5 juegos sencillos que pueda hacer con ella en casa, sin material especial, en 5-10 min cada uno? Marco reformado, sin moralismo.
+</div>
+
+<p><span class="lec-tag">3. Para preparar diálogos pastorales:</span></p>
+<div style="background:#fff;padding:10px 12px;border-radius:6px;font-family:monospace;font-size:.78rem;margin:6px 0">
+Hola Claude. Hoy Eli (6 años) me preguntó "¿si Dios me ve siempre, también ve cuando hago algo malo?". ¿Cómo le respondo desde un marco reformado, sin moralismo, mostrando el evangelio? Dame 3 frases que pueda decirle.
+</div>
+
+<p><span class="lec-tag">4. Para traducir/adaptar textos en inglés:</span></p>
+<div style="background:#fff;padding:10px 12px;border-radius:6px;font-family:monospace;font-size:.78rem;margin:6px 0">
+Hola Claude. Tengo este texto en inglés de Memoria Press: [pega el texto]. Por favor adáptalo a español para una niña de 6 años, marco reformado. No traducción literal — adaptación que conserve la enseñanza.
+</div>
+
+<p><span class="lec-tag">5. Para entender un capítulo bíblico antes de enseñarlo:</span></p>
+<div style="background:#fff;padding:10px 12px;border-radius:6px;font-family:monospace;font-size:.78rem;margin:6px 0">
+Hola Claude. Voy a leer con Eli Génesis 1 esta semana. ¿Me explicas en 5 puntos qué debe quedar claro para una niña de 6 años, desde marco reformado de Bavinck/Van Til? Sin teología densa, pero sin moralismo.
+</div>
+
+<p style="margin-top:10px;font-size:.86rem"><span class="lec-tag">⚠️ Límite importante:</span> Claude NO reemplaza la oración, ni el catecismo, ni la conversación contigo. Es <strong>herramienta operativa</strong>, no autoridad espiritual. Tú sigues siendo la maestra. La Biblia sigue siendo la fuente.</p>
+
+<p style="font-size:.85rem;background:#fff;padding:10px 12px;border-radius:6px;border-left:3px solid var(--violet);margin-top:10px">
+<strong>💡 Sugerencia práctica:</strong> deja una pestaña de Claude.ai abierta durante la clase (en tu celular o tablet). Cuando Eli pregunte algo que no sabes responder bien — tipo "¿cómo sabe Dios todo?" — escribe rápido la pregunta en Claude pidiendo "respuesta para niña de 6 años, reformado, sin moralismo". Lees, respondes. Eli no nota que usaste IA — y tú no quedas en blanco.
+</p>
+</div>
+
 <!-- ═══ ORACIÓN ═══ -->
 <div class="fm-oracion"><div class="fo-lbl">Oración antes de enseñar</div>
 <p>Señor, gracias por la primera semana — por lo que sí pasó y por lo que no alcanzamos. Esta semana enséñame a mostrar a Eli que tu saberlo todo es tu cuidado, no tu vigilancia. Dame paciencia con los detalles que se me escapan, con el tiempo que se me acaba, con las cosas que no salen como las planeé. Y dale a Eli un corazón que descanse en saber que tú la conoces y la amas. En el nombre de Jesús. Amén.</p>
