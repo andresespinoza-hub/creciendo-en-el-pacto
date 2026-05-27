@@ -725,6 +725,179 @@ function showToast(msg) {
   setTimeout(() => t.classList.remove('show'), 2800);
 }
 
+// ═══════════════════════════════════════════
+// SISTEMA DE RESPALDO
+// Exportar / Compartir / Importar localStorage
+// ═══════════════════════════════════════════
+
+function obtenerStatsRespaldo() {
+  const lg = S.get('logs', {});
+  const pr = S.get('prog', {});
+  const po = S.get('port', []);
+  const rn = S.get('rn', {});
+  return {
+    logs: Object.keys(lg).length,
+    progress: Object.keys(pr).length,
+    portfolio: po.length,
+    reports: Object.keys(rn).length
+  };
+}
+
+function generarRespaldo() {
+  return {
+    app: 'Creciendo en el Pacto',
+    familia: 'Espinoza',
+    version: '1.0',
+    fecha: new Date().toISOString(),
+    fechaLegible: new Date().toLocaleString('es-CO', { dateStyle: 'long', timeStyle: 'short' }),
+    data: {
+      logs:      S.get('logs', {}),
+      progress:  S.get('prog', {}),
+      portfolio: S.get('port', []),
+      reports:   S.get('rn', {}),
+      hoyWeek:   S.get('hoy_week', 1),
+      hoyDay:    S.get('hoy_day', 'martes')
+    }
+  };
+}
+
+function descargarRespaldo() {
+  const respaldo = generarRespaldo();
+  const json = JSON.stringify(respaldo, null, 2);
+  const blob = new Blob([json], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  const fecha = new Date().toISOString().split('T')[0];
+  a.href = url;
+  a.download = `creciendo-en-el-pacto-${fecha}.json`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  showToast('💾 Respaldo descargado · guárdalo en tu carpeta');
+}
+
+async function compartirRespaldo() {
+  const respaldo = generarRespaldo();
+  const json = JSON.stringify(respaldo, null, 2);
+  const fecha = new Date().toISOString().split('T')[0];
+
+  try {
+    const file = new File([json], `creciendo-en-el-pacto-${fecha}.json`, { type: 'application/json' });
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      await navigator.share({
+        files: [file],
+        title: 'Respaldo · Creciendo en el Pacto',
+        text: `Respaldo de la familia Espinoza · ${respaldo.fechaLegible}`
+      });
+      showToast('✓ Respaldo enviado');
+      return;
+    }
+  } catch (err) {
+    if (err.name === 'AbortError') return;
+    console.warn('Share falló, intentando descarga:', err);
+  }
+  // Fallback: descarga normal
+  descargarRespaldo();
+}
+
+function abrirImportarRespaldo() {
+  document.getElementById('importInput').click();
+}
+
+function importarRespaldo(event) {
+  const file = event.target.files && event.target.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const respaldo = JSON.parse(e.target.result);
+      if (!respaldo.data || respaldo.app !== 'Creciendo en el Pacto') {
+        alert('Este archivo no es un respaldo válido de Creciendo en el Pacto.');
+        return;
+      }
+      const stats = obtenerStatsRespaldo();
+      const tieneData = stats.logs > 0 || stats.portfolio > 0 || stats.progress > 0;
+
+      const ld = respaldo.data;
+      const cuentaImp = {
+        logs: Object.keys(ld.logs || {}).length,
+        portfolio: (ld.portfolio || []).length,
+        progress: Object.keys(ld.progress || {}).length
+      };
+
+      let mensaje = `¿Restaurar el respaldo del ${respaldo.fechaLegible}?\n\n`;
+      mensaje += `Contiene:\n• ${cuentaImp.logs} registros semanales\n• ${cuentaImp.portfolio} entradas de portafolio\n• ${cuentaImp.progress} competencias\n\n`;
+      if (tieneData) mensaje += '⚠️ ESTO SOBREESCRIBIRÁ tus datos actuales en este dispositivo.';
+
+      if (!confirm(mensaje)) {
+        event.target.value = ''; // limpiar input
+        return;
+      }
+
+      S.set('logs',     ld.logs     || {});
+      S.set('prog',     ld.progress || {});
+      S.set('port',     ld.portfolio|| []);
+      S.set('rn',       ld.reports  || {});
+      if (ld.hoyWeek) S.set('hoy_week', ld.hoyWeek);
+      if (ld.hoyDay)  S.set('hoy_day',  ld.hoyDay);
+
+      showToast('✓ Respaldo restaurado · recargando…');
+      setTimeout(() => location.reload(), 1500);
+    } catch (err) {
+      alert('Error al leer el archivo:\n' + err.message);
+    }
+    event.target.value = '';
+  };
+  reader.readAsText(file);
+}
+
+function abrirRespaldo() {
+  const stats = obtenerStatsRespaldo();
+  const canShare = (typeof navigator.canShare === 'function');
+
+  const modal = document.getElementById('modal-body');
+  modal.innerHTML = `
+    <h3>💾 Respaldo de tu trabajo</h3>
+    <p style="margin:8px 0 14px;font-size:.9rem;color:var(--muted)">
+      Guarda todo lo que has registrado (notas, progreso, portafolio) en un archivo. Puedes enviarlo a Drive, iCloud, Gmail, WhatsApp o donde prefieras.
+    </p>
+
+    <div style="background:var(--cream);padding:14px 16px;border-radius:10px;margin-bottom:18px;font-size:.88rem;line-height:1.9">
+      <strong style="color:var(--ink)">Tu trabajo actual en este dispositivo:</strong><br>
+      📝 ${stats.logs} ${stats.logs===1?'registro semanal':'registros semanales'}<br>
+      📊 ${stats.progress} competencias marcadas E/D/C<br>
+      🗂️ ${stats.portfolio} ${stats.portfolio===1?'entrada de portafolio':'entradas de portafolio'}<br>
+      📄 ${stats.reports} notas de informe trimestral
+    </div>
+
+    ${canShare ? `
+      <button class="btn btn-claude" onclick="compartirRespaldo()" style="width:100%;margin-bottom:10px;padding:12px 16px;font-size:.95rem">
+        📤 Enviar a Drive / iCloud / Gmail
+      </button>
+      <p style="font-size:.78rem;color:var(--muted);margin:-4px 0 14px;text-align:center">
+        Recomendado: abre el menú nativo y eliges la carpeta
+      </p>
+    ` : ''}
+
+    <button class="btn btn-primary" onclick="descargarRespaldo()" style="width:100%;margin-bottom:10px;padding:12px 16px;font-size:.95rem">
+      📥 Descargar archivo JSON
+    </button>
+
+    <button class="btn btn-outline" onclick="abrirImportarRespaldo()" style="width:100%;padding:12px 16px;font-size:.95rem">
+      📂 Importar respaldo guardado
+    </button>
+    <input type="file" id="importInput" accept=".json,application/json" style="display:none" onchange="importarRespaldo(event)">
+
+    <div style="margin-top:18px;padding:12px 14px;background:rgba(196,154,42,.08);border-left:3px solid var(--gold);border-radius:6px;font-size:.82rem;color:var(--ink);line-height:1.6">
+      <strong>💡 Recomendación:</strong><br>
+      Exporta tu respaldo <strong>cada viernes o sábado</strong> al cerrar la semana. Guárdalo en una carpeta de Google Drive o iCloud — así estará disponible en todos tus dispositivos y nunca se pierde aunque cambies de celular.
+    </div>
+  `;
+  document.getElementById('modal-ov').classList.add('open');
+}
+
 // ── INIT ──
 document.addEventListener('DOMContentLoaded', () => {
   buildHoy();
