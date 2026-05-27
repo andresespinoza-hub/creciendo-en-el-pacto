@@ -2678,25 +2678,110 @@ No responder con explicación. Generar directamente la ficha. Esta es la hoja qu
 const W2 = {
 fm:`<div class="fm-section">
 <div class="fm-title">Formación para mamá — Semana 2</div>
-<div class="fm-sub">Creación — Dios hace todas las cosas buenas</div>
-<div class="fm-block"><h4>Qué verdad bíblica gobierna esta semana</h4>
-<p>Génesis 1 no es solo el capítulo del origen. Es la declaración de que <strong>el mundo pertenece a Dios porque Él lo hizo</strong>. Todo lo que Elisabeth estudia esta semana — la Y, los números hasta 20, la naturaleza observada, el mapa del mundo — ocurre en un mundo creado, sostenido y ordenado por el Señor.</p>
-<p>El libro de Van Til y Berkhof insiste en que los hechos no son autónomos. Un número no es solo un símbolo abstracto. Una planta no es solo un organismo. Una letra no es solo un sonido. Son partes de un mundo que Dios hizo y sostiene. Mamá puede enseñar todo esto sin forzar un sermón en cada actividad. Solo enseñando con reverencia, orden y gratitud.</p></div>
-<div class="fm-block"><h4>Cómo enseñamos esto delante de Dios</h4>
-<p>El peligro de la semana de la creación es convertirla en una clase de biología con versículos pegados. Eso sería exactamente el barniz que queremos evitar. La integración cristiana no es añadir Gén 1 encima de una actividad científica. Es enseñar que <em>observar la creación es aprender a mirar el mundo de Dios</em>.</p>
-<p>Bavinck nos ayuda aquí: la familia no debe tratar a Elisabeth como una mente que recibe datos. Debe tratarla como una persona entera que mira, toca, huele, escucha, dibuja, pregunta y canta. La creación se aprende con todo el cuerpo.</p></div>
-<div class="fm-block"><h4>Advertencias para la semana 2</h4>
-<p><strong>Primera:</strong> Elisabeth está cerrando la Y. Si quedó algo de X sin consolidar, esta semana es el momento. No avanzar a Z si Y está frágil.</p>
-<p><strong>Segunda:</strong> Los números hasta 20 deben moverse esta semana del oral al pictórico: Elisabeth puede ahora representar un número con dibujo de objetos, no solo con regletas o ábaco.</p>
-<p><strong>Tercera:</strong> La observación de la creación no necesita equipo especial. Una hoja de planta, una piedra, el cielo, el agua — todo sirve. El diario de naturaleza debe tener la página 2 esta semana.</p></div>
+<div class="fm-sub">Creación · 5 días (martes a sábado) · Catecismo P12</div>
+
+<!-- ═══ CARTA PASTORAL ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--gold);background:linear-gradient(135deg,#FFF8E8,#FAF0D0)">
+<h4 style="color:var(--gold)">💛 Una carta para ti antes de empezar</h4>
+<p>Amada esposa: leí tu registro de la Semana 1 y quiero detenerme antes de seguir. Hiciste algo grande. <strong>Elisabeth entendió los tres ángulos de la pregunta del catecismo</strong> — que Dios es Espíritu, que la mira como Padre que cuida, y que en la Biblia y en Jesús podemos conocerlo. Eso es <em>doctrina formándose en una niña de 6 años</em>, y eso es resultado directo de tu trabajo paciente, no del plan en papel.</p>
+<p>El plan tiene cosas que ajustar — y tú me las dijiste con claridad: faltó el frijol porque no estaba comprado, faltó arte porque no había guía, faltó historia porque el tiempo no alcanzó. Eso no es tu falta. Es <strong>diseño del plan que tengo que mejorar</strong>. Esta semana 2 ya viene con todo eso corregido: lista de materiales al inicio, guía explícita para arte y naturaleza, sábado activado para recuperar pendientes.</p>
+<p>Sobre el ritmo: vamos a probar <strong>5 días — de martes a sábado</strong>. El sábado funcionará como día de cierre suave: recuperar lo que no alcanzamos en la semana, hacer arte, observar la creación con calma. Si después de 2-3 semanas ves que 5 días te ahoga, volvemos a 4. Tú decides.</p>
+<p>Y una cosa más: <strong>los frutos no dependen de ti</strong>. Tú siembras con fidelidad, Dios da el crecimiento. Eli salió de la primera semana sabiendo que Dios la mira — eso vale más que cualquier página completada. Sigue así.</p>
+<p style="text-align:right;font-style:italic;color:var(--muted);margin-top:.8rem">— Tu esposo y compañero en esta tarea</p>
+</div>
+
+<!-- ═══ VERSÍCULO DE LA SEMANA — DESTACADO ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--gold);background:#fff8e6">
+<h4 style="color:#8B6A00">📖 VERSÍCULO PARA MEMORIZAR esta semana</h4>
+<div style="text-align:center;padding:14px 10px;background:#fff;border-radius:8px;border:1.5px dashed var(--gold);margin:8px 0">
+<div style="font-family:Georgia,serif;font-size:1.2rem;font-style:italic;color:var(--ink);line-height:1.5">"Oh Señor, tú me has examinado y conocido."</div>
+<div style="font-size:.85rem;color:var(--gold);font-weight:700;margin-top:6px">— Salmo 139:1</div>
+</div>
+<p style="font-size:.86rem"><strong>Plan de memorización (5 días):</strong></p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.85rem">
+<li><strong>Martes:</strong> mamá lee el versículo 3 veces. Eli escucha. Hablar de qué significa "examinado".</li>
+<li><strong>Miércoles:</strong> repetir 3 veces juntas. Eli lo dice solita después.</li>
+<li><strong>Jueves:</strong> inventar una melodía simple para cantarlo (eso fija memoria mejor que repetirlo).</li>
+<li><strong>Viernes:</strong> Eli lo dice de memoria, sin ayuda. ⭐ si lo logra.</li>
+<li><strong>Sábado:</strong> escribirlo en el cuaderno (escritura propia, no copia).</li>
+</ul>
+<p style="font-size:.85rem;color:var(--muted);font-style:italic">Este versículo conecta directamente con la pregunta P12 del catecismo de esta semana: "¿Sabe Dios todas las cosas?" — Sí, Él te ha examinado y conocido.</p>
+</div>
+
+<!-- ═══ MATERIALES SEMANALES ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--rust);background:#fff5f0">
+<h4 style="color:var(--rust)">🛒 Materiales que necesitas esta semana</h4>
+<p style="font-size:.86rem;font-weight:600">Para no quedarte sin nada cuando llegue el día, revisa esto el <strong>lunes en la noche o domingo</strong>:</p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li><strong>Para todo:</strong> Biblia (NBLA), Catecismo CPN, cuadernos de Eli, lápices, colores, regletas Cuisenaire, ábaco</li>
+<li><strong>Martes:</strong> hoja grande para terminar el árbol genealógico de S1 (con datos de abuelos)</li>
+<li><strong>Miércoles:</strong> ⚠️ <strong>10-12 frijoles pinto en agua DESDE LA NOCHE DEL MARTES</strong>. Si los olvidaste, en agua caliente 2 horas también sirve</li>
+<li><strong>Jueves:</strong> hoja blanca para diario de naturaleza · acuarelas o crayolas para arte · lupa si tienes</li>
+<li><strong>Viernes:</strong> texto nuevo para evaluación de lectura (cualquier libro infantil que Eli no haya visto)</li>
+<li><strong>Sábado:</strong> mapa de Colombia y del mundo (impreso o digital)</li>
+</ul>
+</div>
+
+<!-- ═══ PLAN PERSONALIZADO PARA ELI (basado en S1) ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--violet);background:#faf0ff">
+<h4 style="color:var(--violet)">🎯 Plan personalizado para Eli — esta semana</h4>
+<p style="font-size:.86rem">Basado en tu registro de la Semana 1, esto es lo que necesita reforzar:</p>
+<table style="width:100%;border-collapse:collapse;font-size:.84rem;margin-top:8px">
+<tr style="background:rgba(107,63,170,.1)"><th style="text-align:left;padding:6px 8px">Área</th><th style="text-align:left;padding:6px 8px">Lo que viste en S1</th><th style="text-align:left;padding:6px 8px">Plan para S2</th></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Lectura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">D — todavía no fluida</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Más tiempo de lectura simple diaria</strong> (no avanzar de letra). 15 min lectura en voz alta de Eli + mamá escucha sin corregir.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Escritura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">D — frases más largas pero sin reglas</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Regla del día: el PUNTO FINAL.</strong> Toda frase termina con punto. Mamá señala UN solo punto faltante por día.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Matemáticas</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">C ordinales · cuesta antes/después</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Antes/después de cada número</strong> con regletas (martes). Luego empezar 11-20 paso a paso.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Catecismo</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">C P11 — los 3 ángulos</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>P12 esta semana</strong>: ¿Sabe Dios todas las cosas? Misma estructura de 3 ángulos.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Historia</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Sin terminar — falta genealogía</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Martes terminamos genealogía</strong>. Luego Génesis 1 (creación).</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Arte + Naturaleza</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Sin hacer (sin guía)</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Jueves dedicado a arte + diario de naturaleza</strong> con guía clara (ver bloque del día).</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Frijol bebé</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Sin hacer (sin frijoles)</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Miércoles</strong> — frijoles remojados desde el martes en la noche.</td></tr>
+</table>
+</div>
+
+<!-- ═══ MARCO TEOLÓGICO DE LA SEMANA ═══ -->
+<div class="fm-block">
+<h4>¿Qué verdad bíblica gobierna esta semana?</h4>
+<p>La Semana 1 enseñó que Dios <strong>nos mira</strong> aunque no lo veamos. La Semana 2 amplía esto: Dios <strong>nos conoce</strong>. La omnisciencia divina. Catecismo P12: "¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios."</p>
+<p>Pero — y esto es lo central — <em>conocer no es vigilar</em>. Una mamá conoce a su bebé porque lo ama, no porque lo espía. Dios conoce a Eli porque la creó. Su saber todo de ella es cuidado paterno, no cámara de vigilancia. <strong>Eli debe terminar la semana sintiendo paz, no miedo.</strong></p>
+<p>El versículo de memoria (Sal 139:1) y los textos de la semana (Job 24:23, Mt 10:29-30, Is 43:1) están elegidos para enseñar exactamente eso: Dios me ve, me conoce, me llama por mi nombre — y eso es seguridad.</p>
+</div>
+
+<!-- ═══ CÓMO ENSEÑAR ESTO ═══ -->
+<div class="fm-block">
+<h4>Cómo enseñar P12 a Eli — sin moralismo</h4>
+<p>El peligro de "Dios sabe todo" es convertirlo en amenaza: "Dios sabe cuando te portas mal". Esa interpretación es <strong>moralismo funcional</strong> — no es el evangelio. Es ley sin gracia. Bullinger lo dice así: el conocimiento de Dios no es información que acumula, es <em>conocimiento creador</em>. Dios te conoce <strong>desde antes</strong>, no porque te observa.</p>
+<p>Charlotte Mason agrega: a los 6 años, los niños no entienden bien abstracciones. Necesitan imágenes concretas. Por eso los textos de esta semana son visuales: Job y el camino (martes), los pajaritos y los cabellos contados (miércoles), Dios llamando por nombre (jueves). Esas imágenes se quedan.</p>
+<p>Bavinck nos da el marco final: <strong>Dios no es Aladino</strong>. Su saber todo no nos da poder mágico. Es <em>cuidado paterno</em>. La omnisciencia nos lleva a la oración, no al miedo.</p>
+</div>
+
+<!-- ═══ EL RITMO DE 5 DÍAS ═══ -->
+<div class="fm-block">
+<h4>El nuevo ritmo: martes a sábado</h4>
+<p>Esta semana probamos 5 días — tú me lo propusiste y tiene mucho sentido. Aquí el reparto:</p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li><strong>Martes:</strong> apertura fuerte. Catecismo P12 Día 1 + recuperar genealogía S1 + lectoescritura + mate ordinales finales</li>
+<li><strong>Miércoles:</strong> Catecismo P12 Día 2 + lectoescritura + <strong>frijol bebé (experimento)</strong> + mate 11-20 introducción</li>
+<li><strong>Jueves:</strong> Catecismo P12 Día 3 + <strong>arte + diario de naturaleza</strong> + lectura</li>
+<li><strong>Viernes:</strong> Catecismo P12 Día 4 síntesis + portafolio + evaluación semanal</li>
+<li><strong>Sábado:</strong> día suave — geografía (Colombia/mundo) + recuperación de cualquier pendiente + repaso versículo cantado + tiempo libre familiar</li>
+</ul>
+<p>El sábado <strong>no es escuela completa</strong>. Es 2 horas máximo en la mañana, con tono distinto: más conversación, más exploración, menos producción.</p>
+</div>
+
+<!-- ═══ BLOQUES EXTERNOS ═══ -->
+<div class="fm-block">
+<h4>Bloques externos a coordinar</h4>
+<p>Tu observación: incluir <strong>clase de inglés y práctica de piano</strong> en el horario. Estos NO son currículo de Creciendo en el Pacto — son bloques externos. Sugerencia:</p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li><strong>🇬🇧 Inglés:</strong> 30 min · martes y jueves (después del bloque académico, antes del almuerzo). Si quieres recursos para inglés en casa, tenemos la carpeta Memoria Press (Phonics + literatura) — pero la activaremos a partir de S11 cuando lectoescritura español esté consolidada.</li>
+<li><strong>🎹 Piano:</strong> 20 min diarios · prefiriblemente al final del día académico, como cierre creativo. No es académico — es formación de atención y belleza.</li>
+</ul>
+</div>
+
+<!-- ═══ ORACIÓN ═══ -->
 <div class="fm-oracion"><div class="fo-lbl">Oración antes de enseñar</div>
-<p>Señor, hiciste el mundo con sabiduría y amor. Enséñame a mostrárselo a mi hija no como objeto de estudio sino como la casa que tú preparaste para que tus criaturas vivan delante de ti. Que Elisabeth aprenda a mirar el mundo con asombro sobrio, no con sentimentalismo vacío. Amén.</p>
-</div></div>
-<div class="strip s-teal" style="margin-top:.75rem">
-<strong>Lunes — Catecismo para Niños P15 (antes de empezar):</strong><br>
-P. 15: ¿Quién escribió la Biblia?<br>
-R: Hombres santos que fueron enseñados por el Espíritu Santo.<br>
-<em>Lunes es el primer día — P15 nueva. Repaso encadenado de P11–P14 que ya saben.</em>
+<p>Señor, gracias por la primera semana — por lo que sí pasó y por lo que no alcanzamos. Esta semana enséñame a mostrar a Eli que tu saberlo todo es tu cuidado, no tu vigilancia. Dame paciencia con los detalles que se me escapan, con el tiempo que se me acaba, con las cosas que no salen como las planeé. Y dale a Eli un corazón que descanse en saber que tú la conoces y la amas. En el nombre de Jesús. Amén.</p>
+</div>
 </div>`,
 
 martes:`${APERTURA}
@@ -3422,11 +3507,366 @@ No responder con explicación. Generar directamente la ficha.</div>
 
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico dorado">🔄</div><div><div class="act-ttl">Repaso de la semana · evaluación Y · Diario naturaleza p.2</div><div class="act-meta">40 min</div></div></div>
-<div class="act-body">
-<p>Repaso de la semana · evaluación de Y · completar Diario de naturaleza página 2 · narración de Génesis 1 sin ayuda.</p>
-</div></div>`
+`,
+
+sabado:`${APERTURA}
+
+<!-- ═══════════════ DÍA 5 — SÁBADO · DÍA SUAVE DE CIERRE Y CREACIÓN ═══════════════ -->
+<div class="strip s-teal" style="margin-bottom:14px">
+<strong>📅 Sábado · 30 mayo 2026 · 2 horas máximo (8:00-10:30 am sugerido)</strong><br>
+Día suave de cierre. NO es escuela completa. Es: repaso del catecismo cantado, naturaleza, geografía y arte. Recuperar pendientes de la semana si los hay. Tono distinto al resto de la semana: más conversación, más exploración, menos producción.
+</div>
+
+<!-- ═══════════════ BLOQUE 1: Versículo cantado + Repaso P11+P12 ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">🎵</div>
+    <div>
+      <div class="lesson-ttl">Apertura cantada · Versículo + Catecismo P11+P12</div>
+      <div class="lesson-meta">15 min · Memoria por música, no por repetición</div>
+      <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span><span class="mat">Cuaderno de Eli</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p>El sábado en este plan no es para introducir nada nuevo. Es para <strong>sellar lo aprendido</strong>. Y la mejor manera de sellar es cantando. Los Reformadores musicalizaron los Salmos por la misma razón: lo que se canta, se recuerda toda la vida.</p>
+        <p>Hoy Eli va a cantar el versículo de la semana (Sal 139:1) y recitar la cadena P11+P12 cumulativa. Eso es todo. No corrijas pronunciación ni melodía — celebra que lo está aprendiendo.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía rápida</span></div>
+      <div class="guia">
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cantar el versículo de la semana · 5 min</div>
+            <p>Eli y mamá cantan juntas Salmo 139:1 con la melodía que inventaron el jueves:</p>
+            <div class="guia-bible"><span class="guia-bible-ref">Salmo 139:1</span>"Oh Señor, tú me has examinado y conocido."</div>
+            <p>Tararear primero, después con palabras. 3 veces. ⭐ celebrar si Eli lo canta sola.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escribir el versículo en el cuaderno · 5 min</div>
+            <p>Eli escribe el versículo en su cuaderno — escritura propia, NO copia. Mamá dicta despacio. Eli aplica la regla del punto final.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cadena cumulativa P11 + P12 · 5 min</div>
+            <p>Eli recita las dos preguntas seguidas:</p>
+            <div class="guia-say">P11: ¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente.<br><br>P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.</div>
+            <p>Si Eli lo dice de corrido, abrazo grande. Esa es la primera vez en su vida que une dos verdades del catecismo en una sola secuencia.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ BLOQUE 2: Diario de Naturaleza ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico verde">🌱</div>
+    <div>
+      <div class="lesson-ttl">Diario de Naturaleza · Observar la creación de Dios</div>
+      <div class="lesson-meta">30 min · Charlotte Mason — atención reverente · Génesis 1 vivido</div>
+      <div class="mats"><span class="mat">Cuaderno de naturaleza</span><span class="mat">Lápiz + colores o crayolas</span><span class="mat">Lupa si tienes</span><span class="mat">Bolsa para llevar tesoros</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Qué es el diario de naturaleza:</span> NO es manualidad. NO es ciencia escolar. Es <strong>entrenamiento de la atención reverente</strong>. Charlotte Mason enseñaba que mirar de cerca una hoja, una piedra, una flor, es aprender a leer la Palabra de Dios escrita en la naturaleza. Los Reformadores la llamaban "el libro de la creación".</p>
+        <p><span class="lec-tag">Por qué importa para Eli:</span> a los 6 años, ver bien una flor durante 5 minutos enseña más sobre el orden de Dios que un libro entero de biología. Es lectura del mundo. El diario de naturaleza forma <em>el ojo que sabe mirar</em>.</p>
+        <p><span class="lec-tag">Cómo funciona en la práctica:</span></p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li>1. Salir a buscar algo de la creación: una hoja, una flor pequeña, una piedra, una rama. En el jardín, balcón, o paseo corto de 5 min por la cuadra.</li>
+          <li>2. Sentarse con calma a mirarla 3-5 minutos. SIN dibujar todavía. Solo mirar.</li>
+          <li>3. Hablar de lo que se ve: "¿Qué forma tiene? ¿Cuántas partes? ¿Qué colores? ¿Qué la hace ÚNICA?"</li>
+          <li>4. Después de mirar bien, Eli dibuja en su cuaderno de naturaleza lo que vio. Con calma, con detalle.</li>
+          <li>5. Mamá escribe (o Eli dicta) UNA frase sobre lo que descubrió.</li>
+        </ul>
+        <p><span class="lec-tag">El cierre pactual:</span> "Dios hizo esta hoja/flor/piedra con cuidado. Cada parte tiene un porqué. Cuando miramos así, estamos leyendo el libro de su creación."</p>
+        <p><span class="lec-tag">No saturar:</span> 1 sola hoja/flor/piedra por sesión. Mejor mirar UNA cosa bien que 5 cosas mal.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía rápida</span></div>
+      <div class="guia">
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Salir a buscar tesoros de la creación · 10 min</div>
+            <p>Mamá y Eli salen al jardín, balcón, o calle. Eli elige UNA cosa que le llame la atención. La trae al diario.</p>
+            <div class="guia-say">"Eli, hoy somos exploradoras del mundo de Dios. Vamos a buscar UNA cosa que te asombre. Solo una. Cuando la veas, dime."</div>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Mirarla bien · 5 min en silencio</div>
+            <div class="guia-say">"Antes de dibujarla, mirémosla bien. ¿Qué forma tiene? ¿Cuántas partes? ¿Qué colores? ¿Hay algo escondido si miramos de cerca?"</div>
+            <p>Si tienes lupa, sácala. Eli mira con la lupa. Eso engancha la atención.</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Dibujar con calma · 10 min</div>
+            <p>Eli dibuja en su cuaderno la cosa que eligió. Mamá NO corrige. Solo acompaña.</p>
+            <p>Si Eli quiere agregar etiquetas (pétalo, tallo, hoja), mamá la ayuda con la palabra correcta.</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escribir una frase · 3 min</div>
+            <div class="guia-say">"Ahora escribe UNA frase sobre lo que descubriste."</div>
+            <p>Por ejemplo: "Hoy vi una hoja con muchas líneas pequeñas que parecen caminos." Recordatorio: <strong>el punto final al terminar</strong> (regla del día).</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min</div>
+            <div class="guia-say">"Dios hizo esta hoja (o flor, o piedra) con cuidado. Cuando la miramos bien, estamos leyendo el libro de su creación. Génesis dice: 'Y vio Dios que era bueno.' Esto que dibujaste hoy es parte de lo que Él hizo y llamó bueno."</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 15 min</div>
+        <ol>
+          <li>Recoger UNA cosa de la naturaleza (hoja, flor)</li>
+          <li>Mirarla 3 min en silencio</li>
+          <li>Dibujarla en el cuaderno</li>
+          <li>UNA frase: "Hoy vi…"</li>
+          <li>Listo. (Sin lupa, sin etiquetas, sin cierre pactual está bien.)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ BLOQUE 3: Geografía · Mi lugar en el mundo de Dios ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico dorado">🌍</div>
+    <div>
+      <div class="lesson-ttl">Geografía · Mi lugar en el mundo de Dios</div>
+      <div class="lesson-meta">20 min · Colombia y el mundo · Conexión Génesis 1</div>
+      <div class="mats"><span class="mat">Mapa de Colombia (impreso o digital)</span><span class="mat">Mapa del mundo</span><span class="mat">Lápiz</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Por qué geografía en esta semana:</span> en Semana 1 dijimos a Eli que Dios la puso en este lugar exacto del mundo. Hoy hacemos eso visible con mapas. La geografía no es decoración curricular: es <strong>mostrar que la providencia de Dios tiene coordenadas</strong>. Eli no nació "en algún lugar" — nació en Bogotá, en Colombia, en América del Sur, en este mundo que Dios hizo.</p>
+        <p><span class="lec-tag">Cómo funciona:</span> sin presión. Solo señalar, dibujar y hablar.</p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li>1. Sacar el mapa del mundo. Encontrar América del Sur. Encontrar Colombia.</li>
+          <li>2. Dentro de Colombia, encontrar Bogotá. Pintarla de un color.</li>
+          <li>3. Si Eli quiere, dibujar dónde está nuestra casa, nuestra iglesia.</li>
+          <li>4. Conversación: "Otros niños viven en otros países. Dios puso a cada uno en un lugar."</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía rápida</span></div>
+      <div class="guia">
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">El mundo entero · 5 min</div>
+            <p>Mostrar el mapa del mundo a Eli.</p>
+            <div class="guia-say">"Eli, mira: este es el mundo entero. Dios hizo todo esto. Hay muchos países. ¿Puedes encontrar nuestro continente? América del Sur."</div>
+            <p>Si Eli no lo encuentra, mamá lo señala con calma. Sin presión.</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Colombia · 5 min</div>
+            <p>Hacer zoom (o pasar al mapa de Colombia).</p>
+            <div class="guia-say">"Aquí está Colombia. Y aquí está Bogotá — donde vivimos. Píntala del color que más te guste."</div>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Nuestra casa y nuestra iglesia · 5 min</div>
+            <p>Eli dibuja en una hoja (o sobre el mapa) un círculo para nuestra casa y otro para la iglesia Raah. Conversación: ¿qué tan cerca están?</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 3 min</div>
+            <div class="guia-say">"En todos los países del mundo hay niños que Dios conoce, igual que te conoce a ti. Otros viven en Egipto, en Estados Unidos, en China, en África. Dios no se olvida de ninguno. Pero a ti te puso aquí, en Bogotá, en esta familia, en nuestra iglesia. Eso es providencia."</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ BLOQUE 4: Arte — Mi semana en colores ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico rojo">🎨</div>
+    <div>
+      <div class="lesson-ttl">Arte · Mi semana en colores</div>
+      <div class="lesson-meta">25 min · Imagen de Dios creando — formación de la atención y belleza</div>
+      <div class="mats"><span class="mat">Hoja blanca tamaño carta</span><span class="mat">Acuarelas, crayolas o colores</span><span class="mat">Lápiz</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Por qué arte en este plan:</span> el arte no es entretenimiento. Es <strong>ejercicio del imago Dei</strong>. Dios fue el primer Artista — creó con palabra, color, forma, texto. Cuando Eli pinta, ejerce algo profundamente humano que solo nosotros tenemos: <em>la capacidad de crear cosas hermosas porque fuimos hechos a imagen del Creador</em>.</p>
+        <p><span class="lec-tag">La técnica de hoy:</span> simple. Eli toma una hoja y un tema, y crea. Mamá NO dice cómo dibujar. Solo provee material, tiempo y aliento.</p>
+        <p><span class="lec-tag">El tema del sábado:</span> <strong>"Mi semana en colores"</strong>. Eli elige UNA cosa que aprendió esta semana y la dibuja: puede ser el camino de Job (Día 1), los pajaritos contados (Día 2), su propio nombre escrito (Día 3), o lo que más le impactó. Es arte como narración visual de lo que recibió.</p>
+        <p><span class="lec-tag">Cero presión:</span> el resultado NO tiene que verse "bonito" en sentido adulto. Si Eli dibuja un sol y dice "ese es Dios mirando", celebra. Si dibuja a la familia y dice "Dios conoce los nombres de todos", celebra. Lo que ella decida representar es válido.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía rápida</span></div>
+      <div class="guia">
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Pregunta de elección · 2 min</div>
+            <div class="guia-say">"Eli, esta semana aprendimos que Dios nos conoce — el camino, los cabellos, nuestro nombre. ¿Cuál de esas tres cosas te impactó más? Hoy vamos a dibujarla."</div>
+            <p>Eli elige. Mamá no opina.</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Tiempo para crear · 20 min</div>
+            <p>Eli dibuja, pinta, decora libremente. Mamá puede hacer su propio dibujo al lado (eso forma compañía sin supervisión).</p>
+          </div>
+        </div>
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre · 3 min</div>
+            <p>Eli muestra su dibujo y dice qué quiso representar. Mamá pregunta UNA cosa: "¿Cómo se llama tu dibujo?" Lo guardan en el portafolio con la fecha.</p>
+            <div class="guia-say">"Dios te dio la mano que dibujó esto. Y el corazón que eligió este tema. Eso es ser hecha a su imagen."</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional</span></div>
+      <div class="ficha-eli">
+        <p style="font-size:.85rem;color:var(--muted)">Solo si quieres marco impreso. Una hoja blanca también funciona.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja arte</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
+
+TEMA:
+Arte — sábado · Mi semana en colores
+
+PROPÓSITO:
+Eli elige UNA cosa que aprendió esta semana (los caminos que Dios mira, los pajaritos contados, o su nombre conocido por Dios) y la dibuja como cierre creativo de la semana.
+
+FORMATO:
+- Una página A4 vertical, lista para imprimir.
+- Diseño con MARCO solamente — el centro va EN BLANCO para que Eli dibuje libremente.
+- Márgenes muy amplios.
+
+ESTILO VISUAL:
+- Fondo crema cálido #FAF6F0.
+- Color principal: rojo cálido suave #B94020 para el marco.
+- Acentos: dorado tierra #C49A2A.
+- Estilo: marco floral o de ramas estilizado, line-art delicado.
+- No usar caricaturas, colores neón, ni estética infantil saturada.
+
+CONTENIDO DE LA HOJA:
+
+ENCABEZADO en serif:
+"Mi semana en colores"
+
+SUBTÍTULO pequeño:
+"Una cosa que aprendí de Dios esta semana"
+
+CUERPO CENTRAL:
+Un marco rectangular grande EN BLANCO (al menos 18×22 cm) para que Eli dibuje libremente.
+
+DEBAJO DEL MARCO:
+- Línea para "Lo que dibujé se llama: ___________________"
+- Línea para "Lo que aprendí: ___________________________"
+
+PIE EN PEQUEÑO:
+"Eli · Familia Espinoza · Semana 2"
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact HTML completo con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ BLOQUE 5: Recuperación de pendientes (opcional) ═══════════════ -->
+<div class="strip s-rust" style="margin:14px 0">
+<strong>🔄 Si quedó algo pendiente esta semana, este es el momento:</strong><br>
+Si no alcanzaron a hacer alguna de las actividades de martes-viernes (frijol, diario de naturaleza, alguna sección del catecismo), pueden tomar este último bloque del sábado para hacerlo con calma. NO es obligatorio. Si todo se hizo, simplemente terminen aquí y disfruten el resto del sábado en familia.<br><br>
+<strong>Pendientes posibles a recuperar:</strong>
+<ul style="margin:8px 0 0 1.2rem;font-size:.86rem">
+<li>Genealogía de los abuelos (si no se terminó el miércoles)</li>
+<li>Experimento del frijol (si no había frijoles el miércoles)</li>
+<li>Hoja del portafolio P12 (si no se completó el viernes)</li>
+<li>Lectura de algún texto que no se alcanzó</li>
+</ul>
+</div>
+
+<!-- ═══════════════ CIERRE DEL SÁBADO ═══════════════ -->
+<div class="strip s-sage" style="margin:14px 0">
+<strong>🙏 Cierre de la semana — oración en familia (5 min):</strong><br>
+"Señor, gracias por esta semana. Gracias porque cantamos tu Palabra, miramos tu creación, dibujamos lo que nos enseñaste. Gracias porque conoces a Eli, conoces a papá y a mamá, conoces nuestro lugar en el mundo. Que esta semana que descansamos hoy quede sembrada en su corazón. En el nombre de Jesús. Amén."<br><br>
+<strong>Después de la oración:</strong> el resto del sábado es FAMILIA — descanso, juego, comida, lo que la familia quiera hacer junta. Eso también es paideia.
+</div>`
 };
 
 // ── SEMANA 3 ──

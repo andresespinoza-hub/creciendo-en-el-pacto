@@ -61,6 +61,7 @@ function buildHoy() {
   if (wd && wd.miercoles)   tabDefs.push({ key:'miercoles', label:'Miércoles', cls:'' });
   if (wd && wd.jueves)      tabDefs.push({ key:'jueves',    label:'Jueves',    cls:'' });
   if (wd && wd.viernes)     tabDefs.push({ key:'viernes',   label:'Viernes',   cls:'' });
+  if (wd && wd.sabado)      tabDefs.push({ key:'sabado',    label:'Sábado',    cls:'' });
   tabDefs.push({ key:'reg', label:'✏️ Registro', cls:'tab-reg' });
 
   // Si el día activo no existe para esta semana, volver a martes o fm
@@ -117,7 +118,7 @@ function buildHoy() {
       html += buildReg(w.n);
     } else if (wd && wd[t.key]) {
       // Export bar for instructional days
-      const dayLabel = { fm:'formación mamá', cat:'catecismo CMeW', martes:'martes', miercoles:'miércoles', jueves:'jueves', viernes:'viernes' }[t.key] || t.key;
+      const dayLabel = { fm:'formación mamá', martes:'martes', miercoles:'miércoles', jueves:'jueves', viernes:'viernes', sabado:'sábado' }[t.key] || t.key;
       html += `<div class="export-bar">
         <span class="export-bar-text">🤖 Copia este día para Claude y pídele material para Elisabeth</span>
         <button class="btn btn-claude btn-sm" onclick="exportDay(${w.n},'${t.key}','${dayLabel}')">Copiar para Claude</button>
@@ -206,8 +207,8 @@ function exportWeek(weekN) {
   txt += `${w.d} · ${w.tema}\n`;
   txt += `${'═'.repeat(45)}\n\n`;
 
-  const days = ['fm','martes','miercoles','jueves','viernes'];
-  const labels = { fm:'FORMACIÓN MAMÁ', martes:'MARTES', miercoles:'MIÉRCOLES', jueves:'JUEVES', viernes:'VIERNES' };
+  const days = ['fm','martes','miercoles','jueves','viernes','sabado'];
+  const labels = { fm:'FORMACIÓN MAMÁ', martes:'MARTES', miercoles:'MIÉRCOLES', jueves:'JUEVES', viernes:'VIERNES', sabado:'SÁBADO' };
   days.forEach(d => {
     if (wd && wd[d]) {
       txt += `\n── ${labels[d]} ──\n`;
@@ -363,8 +364,13 @@ function buildSemBody(w) {
     : '';
 
   if (wd) {
-    const tabs = ['Para mamá','Martes','Miércoles','Jueves','Viernes','✏️ Registro'];
-    const keys = ['fm','martes','miercoles','jueves','viernes','reg'];
+    const hasSab = !!wd.sabado;
+    const tabs = hasSab
+      ? ['Para mamá','Martes','Miércoles','Jueves','Viernes','Sábado','✏️ Registro']
+      : ['Para mamá','Martes','Miércoles','Jueves','Viernes','✏️ Registro'];
+    const keys = hasSab
+      ? ['fm','martes','miercoles','jueves','viernes','sabado','reg']
+      : ['fm','martes','miercoles','jueves','viernes','reg'];
 
     let tabHtml = '<div class="day-tabs">';
     tabs.forEach((t, i) => {
@@ -380,7 +386,7 @@ function buildSemBody(w) {
         if (fichaLink) panHtml += fichaLink;
         panHtml += buildReg(w.n);
       } else if (k !== 'reg' && wd[k]) {
-        const dayLabelMap = { fm:'formación mamá', martes:'martes', miercoles:'miércoles', jueves:'jueves', viernes:'viernes' };
+        const dayLabelMap = { fm:'formación mamá', martes:'martes', miercoles:'miércoles', jueves:'jueves', viernes:'viernes', sabado:'sábado' };
         panHtml += `<div class="export-bar">
           <span class="export-bar-text">🤖 Copia para Claude y pídele material para Elisabeth</span>
           <button class="btn btn-claude btn-xs" onclick="exportDay(${w.n},'${k}','${dayLabelMap[k]}')">Copiar para Claude</button>
