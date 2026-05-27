@@ -4466,15 +4466,434 @@ No responder con explicación. Generar directamente la ficha.</div>
 
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico azul">📋</div><div><div class="act-ttl">Plan del día</div><div class="act-meta">Y: escritura creativa · Ciencias exp.54 Líneas telegráficas · Música</div></div></div>
-<div class="act-body">
-<div class="strip s-sage">Y: escritura creativa (párrafo propio) · Ciencias exp.54 Líneas telegráficas · Música: himno + Geography Songs</div>
-</div></div>`,
+
+<!-- ═══════════════ BLOQUE 2: LECTOESCRITURA · Escritura propia 'Yo vivo en Bogotá' ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico azul">📖</div>
+    <div>
+      <div class="lesson-ttl">Lectoescritura · Mi propio párrafo "Yo vivo en Bogotá"</div>
+      <div class="lesson-meta">35 min · Composición creativa propia con punto final</div>
+      <div class="mats"><span class="mat">Cuaderno</span><span class="mat">Lápiz</span><span class="mat">Hoja blanca</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El objetivo de hoy:</span> Eli escribe un párrafo de 3-5 frases <strong>sin modelo, sin dictado, sin copia</strong>. Solo su mano y sus ideas. Mamá da el primer verso ("Yo vivo en Bogotá...") y Eli continúa libre.</p>
+        <p><span class="lec-tag">Por qué es importante:</span> Charlotte Mason llama a esto "composición original" — un acto creativo que distingue al niño <em>formado</em> del niño <em>solo instruido</em>. Eli ya hizo dictado el miércoles. Hoy hace lo opuesto: produce, no recibe.</p>
+        <p><span class="lec-tag">Regla del día:</span> punto final (continuamos reforzando). Si Eli escribe 4 frases y solo pone punto en 1, mamá señala: "¿pusiste el punto al final de cada frase?". Eli las completa ella misma.</p>
+        <p><span class="lec-tag">Cuidado:</span> NO corregir ortografía. NO corregir gramática. Eli en S2 está en escritura PROPIA, no en perfeccionamiento. La voz propia importa más que la corrección. Eso vendrá en S6-S10.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">35 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Conversación de apertura · 5 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, ¿cómo describirías Bogotá a alguien que nunca ha venido? ¿Qué tiene Bogotá? ¿Qué hay cerca de tu casa? ¿Qué te gusta de aquí?"</div>
+            <p>Eli habla libremente. Mamá escucha, hace seguimiento ("¿y qué más?"), no apunta. Esto activa su mente antes de escribir.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Mamá da el primer verso · 1 min <span class="edc-mark E">E</span></div>
+            <p>Mamá escribe en una hoja, en grande, esta frase para que Eli la copie como primera línea:</p>
+            <div class="guia-bible" style="font-size:1.1rem;text-align:center;font-family:Georgia,serif">"Yo vivo en Bogotá."</div>
+            <div class="guia-say">"Esta es la primera frase. Cópiala en tu cuaderno. Luego TÚ continúas con 3 o 4 frases más sobre tu vida aquí. Sin modelo. Solo lo que tú quieras contar."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escritura libre · 20 min <span class="edc-mark C">C</span></div>
+            <p>Eli escribe en su cuaderno. Mamá no la mira por encima del hombro. Puede hacer otra cosa al lado (no supervisar).</p>
+            <p>Si Eli pregunta "¿cómo se escribe X?": mamá NO le da la palabra completa. Le dice los sonidos: "Bo-go-tá empieza con B, después o, después... ¿qué sigue?" Eli reconstruye.</p>
+            <p>Si Eli se traba en ideas: mamá pregunta: "¿qué más viste hoy en la calle?" o "¿qué hace papá en Bogotá?". NO le da frases hechas.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Revisión · solo el punto final · 3 min <span class="edc-mark D">D</span></div>
+            <p>Eli termina. Mamá lee lo que escribió EN VOZ ALTA — celebrando lo que dijo, no corrigiendo.</p>
+            <p>Después dice una sola cosa:</p>
+            <div class="guia-say">"¿Pusiste el punto al final de cada frase? Vamos a contar: 1, 2, 3, 4 puntos."</div>
+            <p>Si falta algún punto, Eli lo agrega ella misma. No mamá.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Eli lee SU párrafo en voz alta · 4 min <span class="edc-mark C">C</span></div>
+            <div class="guia-say">"Ahora léeme tu párrafo en voz alta. Como si me lo estuvieras presentando."</div>
+            <p>Eli lee. Mamá escucha con interés genuino. Le hace una sola pregunta: "¿Cuál de tus frases es tu favorita?"</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Lo que escribiste salió de TU mente, que Dios diseñó. Las ideas que tienes son regalo suyo. Cuando escribes, estás usando algo que solo los humanos tenemos — porque fuimos hechos a su imagen."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Escribe 1-2 frases con dificultad · pide ayuda en muchas palabras</td><td>Normal en composición original. Pasar a dictado mañana en lugar.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Escribe 3 frases propias · 1-2 sin punto · ortografía con errores menores</td><td>Normal. Marcar el punto faltante. Felicitar el contenido.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Escribe 4+ frases con voz propia · puntos al final · lee con entonación</td><td>Guardar el cuaderno como evidencia. Foto.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 15 min</div>
+        <ol>
+          <li>Conversación 3 min: "¿qué te gusta de Bogotá?"</li>
+          <li>Mamá da: "Yo vivo en Bogotá."</li>
+          <li>Eli escribe 2 frases más (mínimo)</li>
+          <li>Revisión solo del punto</li>
+          <li>Listo. (4-5 frases con voz propia son [C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 3: HISTORIA · Génesis 1:6-19 · Días 2 a 4 ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico dorado">📜</div>
+    <div>
+      <div class="lesson-ttl">Historia Providencial · Génesis 1:6-19 — Días 3 y 4</div>
+      <div class="lesson-meta">25 min · La tierra, las plantas, el sol y la luna</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Hoja grande de 7 días (iniciada miércoles)</span><span class="mat">Colores</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Continúa lo del miércoles:</span> ayer leímos Gén 1:1-5 (creación inicial y día 1 + 2). Hoy avanzamos al <strong>día 3 (tierra y plantas) + día 4 (sol, luna, estrellas)</strong>. Mañana terminamos con días 5-6.</p>
+        <p><span class="lec-tag">Lo central pastoral hoy:</span> en el día 4 Dios crea sol, luna y estrellas <em>para marcar tiempos</em>. Esto es importante: Dios ordenó incluso el tiempo. Los días, las estaciones, las cosechas — todo está bajo su orden. Eli aprende que <strong>nada del mundo natural funciona "por sí solo"</strong>; todo es providencia.</p>
+        <p><span class="lec-tag">Sin debates científicos:</span> si Eli pregunta "pero, ¿el sol apareció después de la luz?", responde simplemente: "sí, fue así porque así Dios lo dispuso. La luz del día 1 no es la luz del sol del día 4 — son distintas". No entres a explicaciones astronómicas. Para 6 años basta con "Dios habló y así fue".</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso miércoles · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, ¿qué creó Dios en el día 1? ¿Y en el día 2?"</div>
+            <p>Eli responde: día 1 luz, día 2 cielo (firmamento). Si se traba, mamá saca la hoja grande con los dibujos de los 7 días y le muestra.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · día 3 · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá lee Génesis 1:9-13 (adaptado):</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:9-13 · adaptado</span>
+"Entonces Dios dijo: '¡Que se junten las aguas debajo del cielo en un solo lugar, y que aparezca la tierra seca!' Y así fue.<br><br>
+Dios llamó a la parte seca 'tierra', y a las aguas las llamó 'mares'. Y Dios vio que era bueno.<br><br>
+Entonces Dios dijo: '¡Que la tierra produzca plantas: hierba con semillas y árboles con frutos!' Y así fue. Y Dios vio que era bueno.<br><br>
+Y fue la tarde y la mañana del TERCER DÍA."
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · día 4 · 5 min <span class="edc-mark E">E</span></div>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:14-19 · adaptado</span>
+"Entonces Dios dijo: '¡Que haya luces en el cielo para separar el día de la noche! Servirán para marcar los tiempos: los días, los años y las estaciones.'<br><br>
+Dios hizo dos lumbreras grandes: la luz mayor (el sol) para gobernar el día, y la luz menor (la luna) para gobernar la noche. También hizo las estrellas.<br><br>
+Dios las puso en el cielo para iluminar la tierra. Y Dios vio que era bueno.<br><br>
+Y fue la tarde y la mañana del CUARTO DÍA."
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración + dibujo · 10 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Cuéntame qué hizo Dios en el día 3 y en el día 4."</div>
+            <p>Eli narra. Después dibuja en la hoja grande de los 7 días:</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li><strong>Día 3:</strong> tierra seca con un mar y plantas/árboles</li>
+              <li><strong>Día 4:</strong> sol, luna, estrellas</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Mira lo que dijo Dios en el día 4: 'que las luces marquen los tiempos'. Eso significa que hasta los días que vivimos están bajo el orden de Dios. Cuando vemos el sol salir cada mañana, Dios está cumpliendo lo que dijo en el día 4. Eso es providencia continua, no solo creación inicial."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Confunde día 3 con día 4</td><td>Releer cada día por separado y dibujar uno por vez.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Distingue los dos días · dibuja sol/luna y tierra/plantas</td><td>Normal.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Narra detalles · articula que el sol marca los tiempos</td><td>Registrar evidencia.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Leer Gén 1:9-19 una vez</li>
+          <li>Eli dibuja UNA cosa de cada día en la hoja grande</li>
+          <li>Una frase: <em>"Día 3: tierra y plantas. Día 4: sol, luna y estrellas."</em></li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 4: MATEMÁTICAS · Consolidación 11-20 VERBAL ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico rojo">🔢</div>
+    <div>
+      <div class="lesson-ttl">Matemáticas · 11-20 sin regletas · solo verbal</div>
+      <div class="lesson-meta">25 min · Etapa abstracta · sin libros externos</div>
+      <div class="mats"><span class="mat">Cuaderno cuadriculado</span><span class="mat">Lápiz</span><span class="mat">Regletas (solo de respaldo)</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El objetivo de hoy:</span> Eli debe responder antes/después + valor posicional <strong>sin tocar regletas</strong>. Esto es etapa abstracta (Singapur A). Si todavía necesita regletas, las tenemos cerca como apoyo, pero hoy intentamos sin ellas.</p>
+        <p><span class="lec-tag">Cómo evaluar si está lista:</span> el viernes hace ejercicios escritos en cuaderno (pictórico→abstracto). Si hoy no responde verbal sin regletas, el viernes hace pictórico con regletas dibujadas, no abstracto. Sigue el ritmo de Eli, no el calendario.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cadena oral 11 → 20 · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, vamos a contar del 11 al 20 en voz alta, en orden. Yo empiezo: 11... ¿qué sigue?"</div>
+            <p>Eli completa: 12, 13, 14, 15, 16, 17, 18, 19, 20. Si se traba en alguno, mamá repite ese número y sigue.</p>
+            <p>Después al revés: del 20 al 11.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Vecinos de los grandes · 10 preguntas · 7 min <span class="edc-mark D">D</span></div>
+            <p>Mamá hace estas 10 preguntas (alternando antes/después). Eli responde verbal, SIN tocar regletas:</p>
+            <div class="guia-bible" style="font-size:.88rem;line-height:1.8">
+<span class="guia-bible-ref">Banco de preguntas · 10 preguntas verbales</span>
+1. Después del 13 está el ___ &nbsp;&nbsp; <em style="color:var(--muted)">[14]</em><br>
+2. Antes del 17 está el ___ &nbsp;&nbsp; <em style="color:var(--muted)">[16]</em><br>
+3. Después del 19 está el ___ &nbsp;&nbsp; <em style="color:var(--muted)">[20]</em><br>
+4. Antes del 12 está el ___ &nbsp;&nbsp; <em style="color:var(--muted)">[11]</em><br>
+5. Vecinos del 15 son ___ y ___ &nbsp;&nbsp; <em style="color:var(--muted)">[14 y 16]</em><br>
+6. Vecinos del 18 son ___ y ___ &nbsp;&nbsp; <em style="color:var(--muted)">[17 y 19]</em><br>
+7. Después del 11 está el ___ &nbsp;&nbsp; <em style="color:var(--muted)">[12]</em><br>
+8. Antes del 20 está el ___ &nbsp;&nbsp; <em style="color:var(--muted)">[19]</em><br>
+9. Vecinos del 13 son ___ y ___ &nbsp;&nbsp; <em style="color:var(--muted)">[12 y 14]</em><br>
+10. Si tengo 14 y le sumo 1, obtengo ___ &nbsp;&nbsp; <em style="color:var(--muted)">[15]</em>
+            </div>
+            <p style="font-size:.85rem;color:var(--muted)">La última pregunta es clave: conecta <strong>sumar 1 = el siguiente número</strong>. Esto es preparación para suma.</p>
+            <p>Si Eli se traba en 3 o más, sacar regletas y volver a concreto. NO pasar al siguiente paso.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Valor posicional verbal · 6 preguntas · 7 min <span class="edc-mark C">C</span></div>
+            <p>Sin regletas. Solo verbal:</p>
+            <div class="guia-bible" style="font-size:.88rem;line-height:1.8">
+<span class="guia-bible-ref">Preguntas de estructura</span>
+1. El 14 tiene ___ decena y ___ unidades. &nbsp;&nbsp; <em style="color:var(--muted)">[1 y 4]</em><br>
+2. El 17 tiene ___ decena y ___ unidades. &nbsp;&nbsp; <em style="color:var(--muted)">[1 y 7]</em><br>
+3. El 20 tiene ___ decenas y ___ unidades. &nbsp;&nbsp; <em style="color:var(--muted)">[2 y 0]</em><br>
+4. Si tengo 1 decena y 5 unidades, soy el número ___ &nbsp;&nbsp; <em style="color:var(--muted)">[15]</em><br>
+5. Si tengo 1 decena y 9 unidades, soy el número ___ &nbsp;&nbsp; <em style="color:var(--muted)">[19]</em><br>
+6. Si tengo 2 decenas, soy el número ___ &nbsp;&nbsp; <em style="color:var(--muted)">[20]</em>
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escritura en cuaderno · 5 min <span class="edc-mark C">C</span></div>
+            <p>Eli escribe en cuaderno cuadriculado, sin regletas:</p>
+            <div class="guia-say">"Escribe los números del 11 al 20 en orden, uno por cuadrito. Después al lado escribe en palabras: 'once', 'doce', 'trece'... hasta 'veinte'."</div>
+            <p>Mamá ayuda con los nombres irregulares si Eli pregunta. NO le da escritos.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Hoy hiciste todo en tu cabeza, sin tocar regletas. Eso significa que los números ya viven dentro de tu mente. Ese es el regalo del aprendizaje — pasar de lo que tocas a lo que piensas."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Más de 3 errores en preguntas verbales · necesita regletas</td><td>Volver a etapa concreta el viernes. NO avanzar a abstracto.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Responde verbal con 1-2 errores · entiende valor posicional con apoyo</td><td>Normal. El viernes hace pictórico.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Responde verbal sin errores · escribe los nombres de los números</td><td>El viernes hace abstracto en cuaderno.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Cadena oral 11 → 20 y al revés</li>
+          <li>Solo 5 preguntas vecinos (no las 10)</li>
+          <li>Solo 3 preguntas valor posicional (no las 6)</li>
+          <li>Listo. (Escritura es [C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 5: MÚSICA · Himno + melodía versículo + Geography Songs ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">🎵</div>
+    <div>
+      <div class="lesson-ttl">Música · Himno + melodía del Salmo 139 + Geography Songs</div>
+      <div class="lesson-meta">15 min · Memoria por canto · fijar versículo de la semana</div>
+      <div class="mats"><span class="mat">Himnario o app de música</span><span class="mat">Piano (opcional)</span><span class="mat">Geography Songs (audio o YouTube)</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Por qué cantar el versículo:</span> <strong>la melodía es el mejor mnemónico que existe</strong>. Eli puede recitar Sal 139:1 con esfuerzo, pero si lo canta, lo retendrá por años. No es entretenimiento — es pedagogía clásica. Calvino musicalizó los Salmos para que el pueblo los aprendiera de memoria.</p>
+        <p><span class="lec-tag">Sin presión musical:</span> mamá no necesita saber música. La melodía no tiene que ser "buena" — tiene que ser tuya y de Eli. Una melodía simple sobre 3 notas es más efectiva pedagógicamente que una compleja.</p>
+        <p><span class="lec-tag">Geography Songs:</span> exposición auditiva. Mamá pone "Continents and Oceans" mientras Eli colorea o juega. NO se le pide memorizar. Solo escuchar. La memoria viene sola con repetición.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">15 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Himno conocido · 4 min <span class="edc-mark E">E</span></div>
+            <p>Cantar juntas un himno que Eli ya conozca de la iglesia. Si tienes piano, acompáñalo. Si no, a capella.</p>
+            <p><strong>Repetir 2 veces.</strong> Segundo turno con más volumen y confianza.</p>
+            <p>Sugerencias: "Cuán grande es Él", "Cristo me ama", "Padre fiel", "Eterno Padre". Lo que sea más cercano para Eli.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Inventar melodía para Sal 139:1 · 6 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Vamos a inventarle una melodía a nuestro versículo de la semana. 'Oh Señor, tú me has examinado y conocido.' Yo voy a tararear así..."</div>
+            <p>Mamá tararea una melodía simple sobre 3-4 notas (por ejemplo: do-mi-sol-mi-do repetidos). Eli imita. Juntas la repiten varias veces.</p>
+            <div class="guia-say">"Ahora pongámosle las palabras."</div>
+            <p>Cantan el versículo completo 5 veces. Esa melodía será la que Eli use cuando le pidan el versículo. Le quedará por años.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Geography Songs · exposición auditiva · 5 min <span class="edc-mark E">E</span></div>
+            <p>Pon "Continents and Oceans" de Geography Songs (audio o YouTube — buscar "Continents and Oceans song Audio Memory"). NO exijas memorización todavía — solo escuchar.</p>
+            <div class="guia-say">"Hoy solo escuchamos. Si quieres bailar mientras la oyes, dale. La próxima semana empezamos a aprenderla."</div>
+            <p>Si tienes mapa del mundo a la vista, mamá puede señalar los continentes mientras suena. Pero sin pedir nada a Eli.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 5 min</div>
+        <ol>
+          <li>Cantar el himno UNA vez</li>
+          <li>Tararear la melodía del versículo + cantarlo con palabras 3 veces</li>
+          <li>Listo. (Geography Songs es bonus.)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>`,
 
 viernes:`${APERTURA}
 
-<!-- ═══════════════ BLOQUE 1: CATECISMO P12 · Día 4 — Síntesis + ⭐ Portafolio ═══════════════ -->
+<!-- ═══════════════ BLOQUE 1: CATECISMO P12 · Día 4 — "Examíname Tú" ═══════════════ -->
 <div class="lesson">
   <div class="lesson-hd">
     <div class="lesson-ico violeta">✝️</div>
