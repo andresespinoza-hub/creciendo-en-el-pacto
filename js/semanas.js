@@ -2778,6 +2778,50 @@ fm:`<div class="fm-section">
 </ul>
 </div>
 
+<!-- ═══ PLAN DE LECTURA INTENCIONAL ═══ -->
+<div class="fm-block" style="border-left:4px solid var(--blue);background:#f0f6ff">
+<h4 style="color:var(--blue)">📚 PLAN DE LECTURA · Semana 2 · qué leeremos esta semana</h4>
+
+<p style="font-size:.92rem"><strong>Cada semana tendrá lectura intencional</strong> — nada de "encuentra algo que leer". Eli necesita progresión. Esta semana leerá dos cosas conectadas con la pregunta del catecismo (P12 · Dios sabe todas las cosas):</p>
+
+<table style="width:100%;border-collapse:collapse;font-size:.86rem;margin-top:10px">
+<tr style="background:rgba(42,96,144,.1)"><th style="text-align:left;padding:6px 8px;width:115px">Día</th><th style="text-align:left;padding:6px 8px">Qué se lee</th><th style="text-align:left;padding:6px 8px">Conexión</th></tr>
+
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Martes</strong></td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Salmo 139:1-6 adaptado</strong> para niña 6 años (texto completo en bloque de lectoescritura del día)</td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Es el versículo de la semana en su contexto. Eli oye y narra.</td></tr>
+
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Miércoles</strong></td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Fábula de Esopo: "La hormiga y la cigarra"</strong> (texto completo + ilustraciones en hoja generada por IA)</td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Conexión con previsión, sabiduría, orden — temas que Dios conoce desde antes (P12).</td></tr>
+
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Jueves</strong></td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Génesis 1:1-19 en versión adaptada</strong> (texto completo en bloque de historia)</td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">El Dios que sabe todo es el mismo Dios que ordenó la creación.</td></tr>
+
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Viernes</strong></td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Texto NUEVO de evaluación</strong> — un texto corto que Eli no ha visto (cuento de Beatrix Potter "Peter Rabbit" capítulo 1, o el cuento que tú escojas). El propósito: ver si lee fluido por primera vez sin ayuda.</td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Evaluación real de lectura fluida en texto desconocido.</td></tr>
+
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Sábado</strong></td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Una historia bíblica adaptada · "Dios examina el corazón de Samuel"</strong> (1 Sam 16 simplificado) o un Salmo cantado</td>
+<td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Cierre devocional. Dios conoce el corazón.</td></tr>
+</table>
+
+<p style="font-size:.86rem;margin-top:10px"><span class="lec-tag">Cómo lo conseguimos sin que tú lo busques:</span></p>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li><strong>Salmo 139 adaptado</strong> — viene en el bloque de lectoescritura del martes. Texto ya escrito.</li>
+<li><strong>Fábula de Esopo</strong> — el bloque de lectoescritura del miércoles trae un prompt para IA que genera la fábula adaptada con ilustraciones. Tú copias, pegas, generas, imprimes.</li>
+<li><strong>Génesis 1 adaptado</strong> — viene en el bloque de historia del jueves. Texto ya escrito.</li>
+<li><strong>Texto nuevo viernes</strong> — el bloque de lectoescritura del viernes trae prompt para IA que genera un texto fresco apropiado para Eli.</li>
+<li><strong>Historia bíblica sábado</strong> — viene en el bloque del sábado, texto ya escrito.</li>
+</ul>
+
+<p style="font-size:.85rem;background:#fff;padding:10px 12px;border-radius:6px;border-left:3px solid var(--blue);margin-top:10px">
+<strong>💡 Lo importante:</strong> tú NO tienes que buscar qué leer. Está todo aquí o se genera con IA en 2 minutos. La progresión está pensada: del versículo de memoria (P12) → fábula → narración bíblica → evaluación de lectura → cierre devocional.
+</p>
+</div>
+
 <!-- ═══ GUÍA EXTENDIDA — DIARIO DE NATURALEZA ═══ -->
 <div class="fm-block" style="border-left:4px solid var(--sage);background:#f0fff7">
 <h4 style="color:var(--sage)">🌱 GUÍA COMPLETA · El Diario de Naturaleza · cómo empezar con Eli</h4>
@@ -3127,26 +3171,411 @@ No responder con explicación. Generar directamente la ficha.</div>
 
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico azul">📖</div><div><div class="act-ttl">Lectoescritura · Y: sílabas, texto y escritura propia</div><div class="act-meta">40 min</div></div></div>
-<div class="act-body">
-<p><strong>Texto de Y (20 min):</strong> Leer el texto de la sección Y con comprensión. Preguntas de inferencia después.</p>
-<p><strong>Escritura propia (15 min):</strong> Elisabeth escribe 3 frases con palabras que contengan Y sobre la creación de Dios. Debe ser de ella, no dictado.</p>
-<div class="desafio"><div class="desafio-lbl">🔥 Desafío</div><p>Elisabeth escribe un mini-párrafo (4–5 frases) describiendo algo que Dios creó que le parece asombroso. Sin ayuda de mamá. Solo su mano y sus ideas.</p></div>
-</div></div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico dorado">📜</div><div><div class="act-ttl">Historia Providencial · Creación — Dios hace todas las cosas</div><div class="act-meta">30 min · Gén 1 · narración bíblica</div></div></div>
-<div class="act-body">
-<div class="say"><div class="say-lbl">Mamá narra Génesis 1</div><div class="say-txt">"En el principio no había nada. No había luz, no había tierra, no había animales, no había personas. Solo Dios. Y Dios dijo: 'Sea la luz.' Y fue la luz. Dios habló y las cosas existieron. Todo lo que ves — el sol, el agua, los árboles, los pájaros, tu cuerpo — todo fue hecho por Él. No hubo accidente. Hubo voluntad, orden y amor."</div></div>
-<p>Leer Gén 1:1 y Gén 1:31. Elisabeth narra lo que recuerda. Luego: "¿Qué aprendemos de Dios en este capítulo?"</p>
-<p><strong>Timeline:</strong> Añadir la primera tarjeta al timeline físico: "Creación — Dios hace el mundo bueno."</p>
-</div></div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico rojo">🔢</div><div><div class="act-ttl">Matemáticas · 11–20: de oral a pictórico</div><div class="act-meta">25 min</div></div></div>
-<div class="act-body">
-<p>Si el oral de la Semana 1 fue sólido: esta semana Elisabeth <em>representa</em> los números. Mamá dice "catorce" → Elisabeth dibuja 1 grupo de 10 y 4 objetos sueltos. Luego escribe "14" y "1 decena 4 unidades".</p>
-<div class="desafio"><div class="desafio-lbl">🔥 Desafío</div><p>Mamá da el dibujo (grupo de 10 + objetos sueltos) → Elisabeth lee el número sin que mamá lo diga. Representación → número: esto es comprensión real.</p></div>
-</div></div>`,
+
+<!-- ═══════════════ BLOQUE 2: LECTOESCRITURA · Salmo 139 narrado ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico azul">📖</div>
+    <div>
+      <div class="lesson-ttl">Lectoescritura · Salmo 139 — Dios me conoce</div>
+      <div class="lesson-meta">35 min · Lectura + narración + escritura propia</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Cuaderno</span><span class="mat">Lápiz</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El plan de hoy:</span> Eli escucha el Salmo 139:1-6 adaptado, lo narra con sus palabras, y escribe 3 frases propias sobre "lo que Dios sabe de mí". Esto es <strong>Charlotte Mason puro</strong>: escuchar, narrar, escribir. La narración es prueba de comprensión — no preguntas con respuesta correcta, sino articulación libre.</p>
+        <p><span class="lec-tag">Conexión con el catecismo:</span> hoy Eli aprendió P12 (Dios sabe todas las cosas). El Salmo 139 es <em>la versión poética de P12</em>. El catecismo enseña la doctrina; el Salmo la canta.</p>
+        <p><span class="lec-tag">Regla del día (gramática):</span> el <strong>punto final</strong>. Toda frase termina con punto. Mamá señala UN solo punto faltante por sesión.</p>
+        <p><span class="lec-tag">Sobre la fluidez de Eli:</span> tu feedback de S1 dijo que aún silabea. Hoy ELLA NO lee — mamá lee. Eli solo escucha y narra. Eso quita presión y forma comprensión.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">35 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Apertura · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, hoy te voy a leer un poema-oración del rey David. Se llama Salmo 139. Habla exactamente de lo que aprendimos hoy en catecismo: que Dios sabe TODO de nosotros. Tú solo escucha — no necesitas leer."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura del Salmo 139:1-6 adaptado · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá lee EN VOZ ALTA, despacio, con pausas. Eli escucha con ojos cerrados si quiere:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Salmo 139:1-6 · adaptado para 6 años</span>
+"Señor, tú me conoces por completo.<br>
+Tú sabes cuándo me siento y cuándo me paro.<br>
+Aun desde lejos, tú entiendes lo que pienso.<br>
+Tú me ves cuando salgo a caminar<br>
+y cuando descanso en mi cama.<br>
+Sabes muy bien todo lo que hago.<br><br>
+Antes de que yo abra la boca para hablar,<br>
+tú ya sabes lo que voy a decir.<br>
+Tú me rodeas por todos lados;<br>
+me cuidas con tu mano.<br><br>
+Saber tanto de mí es algo demasiado maravilloso —<br>
+es tan alto que no lo puedo entender."
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración por Eli · 7 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Ahora cuéntame con tus palabras lo que entendiste del salmo. No tienes que recordar todo. Solo lo que se te quedó."</div>
+            <p>Eli narra. Mamá NO interrumpe ni corrige. Mamá escucha y, al terminar, hace UNA pregunta:</p>
+            <div class="guia-say">"¿Qué es lo que más te asombró que Dios sepa de ti?"</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escritura propia · 15 min <span class="edc-mark C">C</span></div>
+            <p>Eli abre su cuaderno. Mamá dicta UNA sola instrucción:</p>
+            <div class="guia-say">"Escribe 3 frases sobre cosas que Dios sabe de ti. Cada frase con punto al final. Por ejemplo: 'Dios sabe que yo amo a mi mamá.'"</div>
+            <p><strong>Mamá NO escribe el ejemplo</strong> — lo dice oralmente. Eli escribe sola. Mamá puede hacer otra cosa al lado (no supervisar).</p>
+            <p>Al terminar, mamá señala SOLO una cosa: <strong>"¿pusiste el punto al final de cada frase?"</strong> Si falta uno, lo agrega Eli, no mamá.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Las palabras que escribiste son tuyas. Y Dios YA las conocía antes de que tú las escribieras — porque Él sabe todo de ti, incluso lo que vas a decir. Eso es lo que canta el salmo."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No narra el salmo · solo repite frases sueltas · escribe 1 frase con ayuda</td><td>Releer mamá despacio. Eli responde a preguntas concretas, no narración libre.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Narra 2-3 ideas clave del salmo · escribe 2 frases con punto, 1 sin</td><td>Normal. Marcar el punto faltante. Felicitar la narración.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Narra el sentido del salmo · escribe 3 frases con punto final · una de las frases es teológicamente correcta</td><td>Registrar como evidencia. Guardar el cuaderno con la fecha.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 15 min</div>
+        <ol>
+          <li>Mamá lee Sal 139:1-6 adaptado UNA vez</li>
+          <li>Eli narra lo que recuerda (3 min sin presión)</li>
+          <li>Eli escribe UNA frase propia: "Dios sabe que yo ___"</li>
+          <li>Punto al final</li>
+          <li>Listo. (Las 3 frases son [C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 3: HISTORIA · Cerrar genealogía + Anuncio Génesis 1 ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico dorado">📜</div>
+    <div>
+      <div class="lesson-ttl">Historia Providencial · Cerrar genealogía + anuncio de Génesis 1</div>
+      <div class="lesson-meta">25 min · Recuperación S1 + anuncio del tema de la semana</div>
+      <div class="mats"><span class="mat">Hoja grande con árbol genealógico S1</span><span class="mat">Datos de los abuelos</span><span class="mat">Colores</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p>En S1 quedó pendiente terminar el árbol genealógico — anotar nombres, lugares y fechas de los abuelos. Hoy lo cerramos. Es <strong>recuperación de S1</strong>, no contenido nuevo. Después de cerrar, mamá anuncia lo que viene esta semana (Génesis 1) — solo el anuncio, sin entrar al texto. Eso se hace mañana.</p>
+        <p><span class="lec-tag">Por qué importa cerrarlo:</span> el árbol genealógico de Eli no es manualidad bonita — es teología en concreto. Cada eslabón es providencia. Cerrarlo bien es importante porque será su primer documento de portafolio del año.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Sacar el árbol de S1 · 2 min</div>
+            <p>Mamá saca la hoja grande del árbol genealógico que empezaron en S1. La pone sobre la mesa con Eli.</p>
+            <div class="guia-say">"Eli, esto es lo que empezamos la semana pasada. Hoy lo terminamos."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Completar los datos · 15 min</div>
+            <p>Para cada uno de los 4 abuelos, completar (mamá tiene los datos reales, Eli escribe con su mano):</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li><strong>Abuelos paternos</strong> (papás de Andrés): nombres completos, ciudad de nacimiento, año aproximado</li>
+              <li><strong>Abuelos maternos</strong> (papás de mamá): nombres completos, ciudad de nacimiento, año aproximado</li>
+            </ul>
+            <p>Si los datos no son exactos, no importa — escribir el dato aproximado. Lo importante es el ejercicio de poner cara/nombre/lugar.</p>
+            <p>Eli puede pegar fotos pequeñas si las tienen (o dibujar caritas si no).</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Conexión pactual · 3 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Mira este árbol. Cada persona aquí Dios la conocía antes de nacer. Tu abuelo Y, tu abuela X — Dios sabía sus nombres antes de que existieran. Y Dios los puso en el lugar exacto para que se conocieran y tuvieran hijos. Y esos hijos somos tu papá y yo. Y por eso TÚ estás aquí. Nada de esto es accidente. Es providencia."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Anuncio del tema de la semana · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Esta semana en historia vamos a leer Génesis 1 — el primer capítulo de toda la Biblia. Es donde Dios crea TODO lo que existe. Cielo, tierra, mar, plantas, animales, personas. Empieza con la frase más importante de toda la Biblia: 'En el principio creó Dios los cielos y la tierra.' Mañana empezamos."</div>
+            <p>Eli puede dibujar en la parte de atrás del árbol algo simple: "lo que creo que pasa en el día 1 de la creación".</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Guardar en portafolio · 2 min</div>
+            <p>Mamá pone el árbol completo en el sobre del portafolio (carpeta de S1-S2). Le pone fecha por detrás: "Mi árbol bajo la providencia de Dios · familia Espinoza · cerrado 26 may 2026."</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No conecta abuelos con providencia · solo completa datos</td><td>Repetir la frase pactual. Sin presión.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Completa árbol · entiende que sus abuelos son parte de su historia</td><td>Normal. Guardar en portafolio.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Articula con sus palabras "Dios me puso aquí, esto no es accidente"</td><td>Registrar como C. Evidencia destacada.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Sacar el árbol de S1</li>
+          <li>Completar mínimo los 4 nombres de abuelos (sin lugar/fecha si no se sabe)</li>
+          <li>Una frase: <em>"Dios conocía a cada uno antes de nacer. Por eso estás aquí."</em></li>
+          <li>Guardar en portafolio</li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 4: MATEMÁTICAS · Antes y después con regletas ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico rojo">🔢</div>
+    <div>
+      <div class="lesson-ttl">Matemáticas · Antes y después + introducción 11-15</div>
+      <div class="lesson-meta">30 min · Ejercicios completos en la app · sin libros externos</div>
+      <div class="mats"><span class="mat">Regletas Cuisenaire</span><span class="mat">Cuaderno cuadriculado</span><span class="mat">Lápiz</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El objetivo de hoy:</span> Eli debe poder decir el número <strong>vecino antes</strong> y <strong>vecino después</strong> de cualquier número del 0 al 15. Esto es secuencia numérica — fundamento de la suma. Tu feedback de S1 dijo que aquí Eli tiene dificultad. Esta semana entera trabajamos esto.</p>
+        <p><span class="lec-tag">Método (Singapur C-P-A):</span> hoy concreto (regletas tocadas y movidas) + pictórico al final (cuaderno cuadriculado). Mañana paso al pictórico completo. Pasado mañana ya verbal. <strong>No abro Singapur ni Mamut — todo está aquí.</strong></p>
+        <p><span class="lec-tag">Regla de oro:</span> si Eli responde sin pensar (correctamente), es porque entendió. Si se traba, NO le digas la respuesta. Le señalas la regleta del número y dejas que su mano encuentre los vecinos.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">30 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Calentamiento · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá pone en fila las regletas 1-10 (blanca, roja, verde clara, rosa, amarilla, verde oscura, negra, marrón, azul, naranja). Eli las toca con el dedo y dice sus nombres de uno en uno.</p>
+            <div class="guia-say">"Toca cada regleta y dime su número."</div>
+            <p>Eli dice: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Antes y después · oral con regletas · 10 min <span class="edc-mark D">D</span></div>
+            <p>Las regletas siguen en fila. Mamá hace estas 10 preguntas, una por una. Eli señala con el dedo Y dice el número:</p>
+            <div class="guia-bible" style="font-size:.88rem;line-height:1.8">
+<span class="guia-bible-ref">Banco de preguntas · 10 preguntas</span>
+1. ¿Qué número viene <strong>antes</strong> del 7? &nbsp;&nbsp; <em style="color:var(--muted)">[6]</em><br>
+2. ¿Qué número viene <strong>después</strong> del 4? &nbsp;&nbsp; <em style="color:var(--muted)">[5]</em><br>
+3. ¿Qué número viene <strong>antes</strong> del 10? &nbsp;&nbsp; <em style="color:var(--muted)">[9]</em><br>
+4. ¿Qué número viene <strong>después</strong> del 6? &nbsp;&nbsp; <em style="color:var(--muted)">[7]</em><br>
+5. ¿Qué número viene <strong>antes</strong> del 3? &nbsp;&nbsp; <em style="color:var(--muted)">[2]</em><br>
+6. ¿Qué número viene <strong>después</strong> del 8? &nbsp;&nbsp; <em style="color:var(--muted)">[9]</em><br>
+7. ¿Qué número viene <strong>antes</strong> del 5? &nbsp;&nbsp; <em style="color:var(--muted)">[4]</em><br>
+8. ¿Qué número viene <strong>después</strong> del 1? &nbsp;&nbsp; <em style="color:var(--muted)">[2]</em><br>
+9. ¿Qué número viene <strong>antes</strong> del 9? &nbsp;&nbsp; <em style="color:var(--muted)">[8]</em><br>
+10. ¿Qué número viene <strong>después</strong> del 3? &nbsp;&nbsp; <em style="color:var(--muted)">[4]</em>
+            </div>
+            <p style="font-size:.85rem;color:var(--muted)">Las respuestas entre corchetes son para mamá. NO se las digas a Eli.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Introducción 11-15 con regletas · 8 min <span class="edc-mark D">D</span></div>
+            <p>Mamá pone <strong>una regleta naranja (10) + una blanca (1)</strong> juntas:</p>
+            <div class="guia-say">"Mira: la naranja vale 10. Y esta blanca vale 1. Si las juntamos: 10 más 1 es ONCE."</div>
+            <p>Mamá agrega una blanca más:</p>
+            <div class="guia-say">"Naranja (10) más dos blancas: DOCE."</div>
+            <p>Continúa hasta 15. Eli VE y oye cada número:</p>
+            <div class="guia-bible" style="font-size:.9rem;line-height:1.7">
+🟧 + ⬜ = 11<br>
+🟧 + ⬜⬜ = 12<br>
+🟧 + ⬜⬜⬜ = 13<br>
+🟧 + ⬜⬜⬜⬜ = 14<br>
+🟧 + ⬜⬜⬜⬜⬜ = 15
+            </div>
+            <p>Mamá repite 2 veces toda la secuencia. Después le pide a Eli que ARME cada número con sus manos. Sin papel todavía.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Pictórico en cuaderno · 5 min <span class="edc-mark C">C</span></div>
+            <p>Eli abre cuaderno cuadriculado. Mamá dicta:</p>
+            <div class="guia-say">"Dibuja en cuadritos: para el 11 dibujas una barra larga de 10 cuadritos + 1 cuadrito separado. Pones el número 11 al lado. Hacemos solo 3: el 11, el 13 y el 15."</div>
+            <p>Si Eli necesita modelo, mamá hace el 11 en su propia hoja. Eli copia el método. Después hace el 13 y el 15 sola.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Los números tienen orden. Antes y después. Dios ordenó así el mundo. Hasta los números tienen su historia: cada uno tiene un vecino antes y un vecino después. Eso es el orden de Dios."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Se traba en la mayoría de las preguntas antes/después · necesita ver regletas siempre</td><td>Repetir mañana solo el banco de preguntas. NO avanzar al 11-15 todavía.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Responde antes/después con regletas en mano · arma 11-15 con apoyo</td><td>Normal · esto es esperado.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Responde antes/después sin tocar regletas · arma 11-15 sola</td><td>Mañana avanza a pictórico completo (sin regletas físicas).</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional · si quieres hoja extra de práctica</span></div>
+      <div class="ficha-eli">
+        <p style="font-size:.85rem;color:var(--muted)">Solo si Eli quiere más práctica. Los ejercicios de la app ya bastan para hoy.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja Antes/Después</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible de matemáticas en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con metodología Singapur y regletas Cuisenaire.
+
+TEMA:
+Antes y después de un número · números cardinales 0-15.
+
+PROPÓSITO:
+Eli necesita reforzar la secuencia numérica (qué viene antes y después de cada número). Esta hoja la ayuda a practicar.
+
+CONTENIDO DE LA HOJA (A4 vertical, una página):
+
+ENCABEZADO:
+"Antes y después · los vecinos de cada número"
+
+SECCIÓN 1 · "Vecinos de los pequeños" (6 ejercicios):
+Para cada número entre 1 y 10, dibujar 3 casitas en fila — la del medio tiene el número, las de los lados están vacías para que Eli escriba el vecino antes y después.
+Ejemplos: __ [5] __ · __ [8] __ · __ [3] __ · __ [7] __ · __ [9] __ · __ [4] __
+
+SECCIÓN 2 · "Vecinos de los grandes" (4 ejercicios, números 11-15):
+Igual formato pero con números más grandes: __ [11] __ · __ [13] __ · __ [12] __ · __ [14] __
+
+SECCIÓN 3 · "Yo dibujo el número" (3 ejercicios):
+3 cuadros con un número grande (12, 14, 15). Junto a cada uno, espacio cuadriculado donde Eli dibuja con regletas (barra naranja larga = 10, cuadritos blancos = 1).
+
+SECCIÓN 4 · "Yo descubro":
+Pregunta: "¿Qué número viene después del 9? ¿Y después del 10?"
+Líneas guía para responder.
+
+FORMATO:
+- A4 vertical.
+- Fondo crema #FAF6F0.
+- Color principal rojo cálido #B94020.
+- Regleta naranja #F39C2A.
+- Tipografía: Georgia para títulos, sans-serif clara para texto. Mín. 18 pt.
+- Casas/cuadros grandes y claros.
+- Espacio amplio para escribir.
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escribir.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Regletas en fila 1-10. Eli las toca y nombra.</li>
+          <li>Solo 5 preguntas antes/después (no 10). Las 5 primeras del banco.</li>
+          <li>Mamá enseña 11 = 🟧 + ⬜. Eli arma.</li>
+          <li>Listo. (12-15 y pictórico son [D]/[C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>`,
 
 miercoles:`${APERTURA}
 
