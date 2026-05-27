@@ -4893,14 +4893,14 @@ Y fue la tarde y la mañana del CUARTO DÍA."
 
 viernes:`${APERTURA}
 
-<!-- ═══════════════ BLOQUE 1: CATECISMO P12 · Día 4 — "Examíname Tú" ═══════════════ -->
+<!-- ═══════════════ BLOQUE 1: CATECISMO P12 · Día 4 — "Examíname Tú" (Sal 139:23-24) ═══════════════ -->
 <div class="lesson">
   <div class="lesson-hd">
     <div class="lesson-ico violeta">✝️</div>
     <div>
-      <div class="lesson-ttl">Catecismo CPN P12 · Día 4 — Síntesis + ⭐ Hoja de portafolio</div>
-      <div class="lesson-meta">20 min · Narración libre + hoja final para guardar</div>
-      <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span><span class="mat">Hoja del prompt IA</span><span class="mat">Colores</span></div>
+      <div class="lesson-ttl">Catecismo CPN P12 · Día 4 — "Examíname Tú"</div>
+      <div class="lesson-meta">15 min · La respuesta pactual · Salmo 139:23-24</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span></div>
     </div>
   </div>
   <div class="lesson-body">
@@ -4908,9 +4908,549 @@ viernes:`${APERTURA}
     <div class="lsec">
       <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
       <div class="lec-mama">
-        <p><span class="lec-tag">El propósito del viernes:</span> hoy NO se introduce nada nuevo. Eli ha vivido toda la semana con P12 desde 3 ángulos. Hoy: sintetiza, articula con sus palabras lo que entendió, y deja huella física en la hoja de portafolio.</p>
-        <p><span class="lec-tag">Los 3 ángulos de la semana:</span></p>
-        <p>• <strong>Día 1 (Martes)</strong>: Job 24:23 — los ojos de Dios sobre el camino.<br>• <strong>Día 2 (Miércoles)</strong>: Mt 10:29-30 — Dios cuenta hasta los cabellos. No temo.<br>• <strong>Día 3 (Jueves)</strong>: Is 43:1 — Dios me llama por mi nombre. Soy suya.<br>• <strong>Día 4 (Viernes — hoy)</strong>: síntesis y portafolio.</p>
+        <p><span class="lec-tag">El ángulo de hoy · profundización final:</span> los tres días anteriores enseñaron lo que Dios HACE — me ve, me cuenta, me llama. Hoy enseñamos cómo el creyente RESPONDE al Dios que lo conoce: <em>pide ser conocido MÁS</em>. Esa es la respuesta pactual madura. El Salmo 139 termina así — Eli aprende a orar como David.</p>
+        <p><span class="lec-tag">El movimiento del Salmo 139 completo:</span></p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li>vv. 1-6: Dios me conoce (lo que aprendió esta semana)</li>
+          <li>vv. 7-12: no puedo escapar de su presencia</li>
+          <li>vv. 13-18: me formaste, me conoces desde el vientre</li>
+          <li>vv. 19-22: respuesta del salmista (lealtad)</li>
+          <li><strong>vv. 23-24: petición final — "examíname, conoce mi corazón, guíame en el camino eterno"</strong></li>
+        </ul>
+        <p><span class="lec-tag">El giro pactual:</span> el salmista no termina diciendo "qué miedo que Dios me conozca tanto". Termina pidiendo: <em>"conóceme más, examíname, guíame"</em>. Esa es la respuesta del corazón pactual. <strong>Eli aprende hoy a invitar la mirada de Dios, no a esconderse de ella.</strong></p>
+        <p><span class="lec-tag">Calvino sobre estos versos:</span> "El alma piadosa no teme la mirada de Dios; la busca. La pide. La quiere más cerca." Esa es la mente reformada formándose en una niña de 6 años.</p>
+        <p><span class="lec-tag">Peligro a evitar:</span> que Eli piense "examinarme" como "castigarme". Aclárale: examinar = mirar con cuidado, como un médico examina para sanar, no como un juez para condenar.</p>
+        <p><span class="lec-tag">Lo que estás formando:</span> oración pactual — Eli aprende a invitar a Dios a su corazón. Esto es el primer paso de la oración como respuesta, no como petición egoísta.</p>
+        <div class="lec-bible">"Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis inquietudes. Mira si hay en mí camino malo, y guíame en el camino eterno." — Salmo 139:23-24</div>
+        <div class="lec-prayer">
+          <span class="pry-lbl">Oración antes de enseñar</span>
+          Señor, que Eli aprenda hoy no solo que tú la conoces — sino a pedirte que la conozcas más. Que tu mirada sea su invitación, no su miedo. Amén.
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">15 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso de los 3 días · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, esta semana hemos aprendido que Dios sabe todo. ¿Recuerdas las tres cosas que vimos?<br>• Día 1: los ojos de Dios sobre... (el camino)<br>• Día 2: Dios cuenta hasta... (los cabellos)<br>• Día 3: Dios me llama por... (mi nombre)"</div>
+            <p>Eli completa. Si se traba, mamá ayuda sin presión.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">La pregunta del giro · 2 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Hoy tengo una pregunta nueva: si Dios sabe TODO de ti — todos tus pensamientos, hasta los que tú no sabes — ¿qué le respondes? ¿Te escondes? ¿O le pides que te conozca más?"</div>
+            <p>Eli responde. Cualquier respuesta es válida — esta pregunta abre la clase.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · Salmo 139:23-24 · 3 min <span class="edc-mark E">E</span></div>
+            <p>Lee despacio:</p>
+            <div class="guia-bible"><span class="guia-bible-ref">Salmo 139:23-24</span>"Examíname, oh Dios, y conoce mi corazón. Pruébame y conoce mis inquietudes. Mira si hay en mí camino malo, y guíame en el camino eterno."</div>
+            <div class="guia-say">"¿Lo escuchaste? David — el que escribió este salmo — termina pidiéndole a Dios: 'examíname'. Le pide a Dios que lo MIRE más, que lo CONOZCA más. No se esconde. Eso es la oración del corazón pactual."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">"Examinar" no es castigar · 3 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Quiero que entiendas bien la palabra 'examinar'. Cuando vas al doctor, te examina — te mira la garganta, los oídos, te toma la temperatura. ¿Te hace daño? No. Te examina para CUIDARTE. Para saber si estás bien o si necesitas algo. Así es cuando le pedimos a Dios que nos examine. No le pedimos castigo. Le pedimos cuidado profundo."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Oración modelo · 2 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Vamos a orar esta semana como David. Yo te enseño la oración:"</div>
+            <div class="guia-say">"Padre, tú me conoces. Conoces mi camino, mis cabellos, mi nombre. Hoy te pido: examíname más. Conoce mi corazón. Guíame en tu camino eterno. En el nombre de Jesús. Amén."</div>
+            <p>Eli puede repetir frase por frase si quiere, o solo escuchar.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Mañana sábado vamos a hacer la hoja de toda la semana — el resumen. Hoy solo dejamos esta pregunta sembrada: ¿le pides a Dios que te conozca más? El sábado lo recordamos."</div>
+            <p>Eli recita la P y R una vez más:</p>
+            <div class="guia-say">P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Confunde "examinar" con castigar · no entiende el giro</td><td>Repetir analogía del doctor. Reforzar: examinar = cuidar.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Entiende el giro pactual pero no lo articula propia</td><td>Pregunta: <em>"¿Por qué David le pide a Dios que lo conozca más?"</em></td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Articula: "Dios me examina para cuidarme, no para castigarme · le pido que me conozca más"</td><td>Registrar. Hoja completa de síntesis se hace mañana sábado.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 5 min</div>
+        <ol>
+          <li>Leer Sal 139:23-24</li>
+          <li>Una frase: <em>"Examíname Tú · Dios me examina para cuidarme, no para castigarme."</em></li>
+          <li>Oración modelo (puede repetir Eli o solo mamá)</li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 2: LECTOESCRITURA · Texto NUEVO de evaluación ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico azul">📖</div>
+    <div>
+      <div class="lesson-ttl">Lectoescritura · Texto NUEVO de evaluación · ¿lee fluido?</div>
+      <div class="lesson-meta">35 min · Evaluación real de lectura fluida + escritura libre</div>
+      <div class="mats"><span class="mat">Texto nuevo no visto (cuento corto)</span><span class="mat">Cuaderno</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El propósito del viernes en lectura:</span> evaluar si Eli puede leer un texto NUEVO (que no ha visto antes) con entonación y comprensión. Esto mide fluidez real, no memoria.</p>
+        <p><span class="lec-tag">Cómo elegir el texto:</span> uno de estos 3 caminos (lo que tengas a mano):</p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li><strong>Camino 1:</strong> un cuento corto de la biblioteca de la casa que Eli no haya visto (4-8 líneas)</li>
+          <li><strong>Camino 2:</strong> imprimir el prompt IA al final de esta sección para que te genere un texto fresco apropiado</li>
+          <li><strong>Camino 3:</strong> abrir un Salmo corto NUEVO (Sal 23, Sal 8, Sal 100). Eli ya conoce Sal 139 — busca uno que no haya leído</li>
+        </ul>
+        <p><span class="lec-tag">Lo que observas:</span> ¿Eli silabea? ¿lee de corrido? ¿pone entonación en las preguntas y exclamaciones? ¿se traba en palabras largas? ¿pide ayuda? <strong>Toma nota mental.</strong> Esto va al registro del sábado.</p>
+        <p><span class="lec-tag">Regla del día:</span> punto final · ya en su 5º día reforzándola. Para próxima semana introducimos la mayúscula al inicio de oración.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">35 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Preparación del texto · 3 min</div>
+            <p>Mamá tiene el texto NUEVO listo (impreso o en libro). Eli no lo ha visto. Mamá se lo entrega.</p>
+            <div class="guia-say">"Eli, hoy vas a leer un texto que no has visto antes. No te apures. Si una palabra te cuesta, intenta. Si después de un intento no sale, yo te ayudo. No es un examen — es para ver qué tan bien lees hoy."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura en voz alta · 7 min <span class="edc-mark C">C</span></div>
+            <p>Eli lee en voz alta. Mamá NO interrumpe, NO corrige errores menores. Solo ayuda si Eli se queda más de 3 segundos atrancada.</p>
+            <p><strong>Mamá observa en silencio:</strong></p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>¿Lee corrido o silabea?</li>
+              <li>¿Pone entonación en las preguntas, exclamaciones?</li>
+              <li>¿Pasa por encima de palabras largas o las dice bien?</li>
+              <li>¿Comprende lo que lee (se ve en su rostro)?</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración por Eli · 5 min <span class="edc-mark C">C</span></div>
+            <div class="guia-say">"Ahora cuéntame con tus palabras lo que leíste. Sin mirar el texto."</div>
+            <p>Eli narra. Si recuerda todo: comprensión sólida. Si recuerda solo fragmentos: comprende a medias. Si no recuerda nada: solo decodificó letras, no entendió.</p>
+            <p>Esta narración va al registro del sábado.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escritura libre · 15 min <span class="edc-mark C">C</span></div>
+            <p>Eli abre el cuaderno. Mamá da una sola instrucción:</p>
+            <div class="guia-say">"Escribe en tu cuaderno 4 o 5 frases sobre lo que TÚ pensaste mientras leías. No qué dice el texto — lo que TÚ pensaste. Cada frase con punto al final."</div>
+            <p>Eli escribe sola. Mamá no supervisa por encima.</p>
+            <p>Al terminar, revisar solo el punto final. No corregir nada más.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Cada palabra que leíste hoy es un regalo. Hace 2 años ni siquiera podías abrir un libro y entender. Hoy lees y piensas. Dios te dio una mente y la está formando. Eso es providencia en tu cabeza."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C de la semana en lectura</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Silabea texto nuevo · narra fragmentos · escribe 1-2 frases con dificultad</td><td>S3 sigue con textos cortos. NO avanzar a textos largos.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Lee texto nuevo con esfuerzo · narra el sentido · escribe 3 frases con punto</td><td>Normal. Continuar.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Lee fluido texto nuevo · narra completo · escribe 4+ frases con voz propia</td><td>S3 puede introducir textos más largos · mayúscula al inicio.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional · si quieres generar texto nuevo</span></div>
+      <div class="ficha-eli">
+        <p style="font-size:.85rem;color:var(--muted)">Si no tienes texto a mano, esto te genera uno con IA.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Texto de lectura evaluativa</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de lectoescritura en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado.
+
+TEMA:
+Texto NUEVO de lectura para evaluación de fluidez · viernes de la semana 2 · marco reformado.
+
+PROPÓSITO:
+Eli necesita un texto que NO haya visto antes para evaluar si lee fluido con entonación y comprende sin haber memorizado. El texto debe ser breve, apropiado para 6 años, con valores compatibles con un hogar cristiano reformado.
+
+CONTENIDO DE LA HOJA (A4 vertical):
+
+ENCABEZADO:
+"Mi lectura del viernes · texto nuevo"
+
+CUERPO:
+Un cuento original corto (8-12 líneas) sobre uno de estos temas (elige el que mejor encaje):
+- Un niño que observa la creación (animales, plantas) y agradece a Dios
+- Un acto sencillo de amor al prójimo (ayudar a alguien que lo necesita)
+- Una pequeña aventura de descubrimiento en la naturaleza
+- Una conversación entre niño y abuelo sobre algo aprendido
+
+Características del texto:
+- Vocabulario apropiado para 6 años, lectora fluida en progresión.
+- Frases de 6-10 palabras máximo.
+- Letra grande (mínimo 18 pt, fuente Georgia o similar).
+- Incluir algunas palabras con puntuación variada (signos de interrogación, exclamación) para evaluar entonación.
+- Una ilustración simple tipo acuarela suave que acompañe el texto sin ocupar todo el espacio.
+
+PREGUNTAS DE COMPRENSIÓN:
+Debajo del texto, 3 preguntas con líneas guía:
+1. "¿De qué se trató el cuento?" (3 líneas)
+2. "¿Qué pensaste mientras lo leías?" (3 líneas)
+3. "¿Qué cosa nueva aprendiste?" (2 líneas)
+
+CARACTERÍSTICAS DEL CUENTO:
+- Tono sobrio, sin moralismo pesado.
+- Sin caricatura ni infantilismo saturado.
+- Compatible con marco cristiano reformado.
+- Si menciona a Dios, hacerlo con reverencia y naturalidad (no decoración).
+
+FORMATO:
+- A4 vertical.
+- Fondo crema #FAF6F0.
+- Color principal azul lectura #2A6090.
+- Tipografía Georgia para texto del cuento, sans-serif para preguntas.
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles para escribir.
+
+Si la IA genera HTML:
+Artifact con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 15 min</div>
+        <ol>
+          <li>Eli lee texto nuevo UNA vez</li>
+          <li>Mamá pregunta: "¿de qué se trató?"</li>
+          <li>Eli escribe DOS frases con punto al final</li>
+          <li>Listo. (Las 5 frases son [C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 3: HISTORIA · Génesis 1:20-31 · Días 5 y 6 ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico dorado">📜</div>
+    <div>
+      <div class="lesson-ttl">Historia · Génesis 1:20-31 — Días 5 y 6 · Animales y el hombre</div>
+      <div class="lesson-meta">25 min · Día 5 (peces, aves) · Día 6 (animales terrestres + hombre imagen de Dios)</div>
+      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Hoja grande de 7 días (continúa)</span><span class="mat">Colores</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Hoy se cierra Génesis 1:</span> días 5 (peces y aves) y 6 (animales terrestres + hombre). El día 7 (reposo) lo vemos el sábado.</p>
+        <p><span class="lec-tag">El momento central del día 6:</span> Génesis 1:26-27 — Dios crea al hombre <strong>a imagen suya</strong>. Esto es la doctrina del <em>imago Dei</em>. Eli no necesita el término técnico, pero sí debe entender: <em>los humanos somos diferentes a los animales — fuimos hechos para parecernos a Dios en algo</em>.</p>
+        <p><span class="lec-tag">Sin dualismo ni reduccionismo:</span> el ser humano no es solo cuerpo (como los animales) ni solo espíritu (como los ángeles). Es ambos. Y es imagen de Dios — capacidad de relación con Él, de pensar, de gobernar la creación con responsabilidad.</p>
+        <p><span class="lec-tag">"Y vio Dios que era bueno en gran manera":</span> en los días 1-5 Dios dice "era bueno" cuatro veces. Pero en el día 6, después de crear al hombre, dice <strong>"era bueno EN GRAN MANERA"</strong>. La creación del hombre eleva la creación entera. Esa es la dignidad humana — no en logros, sino en imagen.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Repaso · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Días 1, 2, 3, 4 — ¿qué creó Dios en cada uno?"</div>
+            <p>Eli responde mirando la hoja grande de los 7 días. Si se traba, mamá ayuda.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · Día 5 · 4 min <span class="edc-mark E">E</span></div>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:20-23 · adaptado</span>
+"Entonces Dios dijo: '¡Que las aguas se llenen de peces, y que las aves vuelen sobre la tierra!'<br><br>
+Dios creó los grandes peces y todos los seres del mar. También creó cada ave según su clase. Y Dios vio que era bueno.<br><br>
+Y los bendijo: 'Sean fecundos y multiplíquense. Llenen el mar y la tierra.'<br><br>
+Y fue la tarde y la mañana del QUINTO DÍA."
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · Día 6 — primera parte · 4 min <span class="edc-mark E">E</span></div>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:24-25 · adaptado</span>
+"Entonces Dios dijo: '¡Que la tierra produzca seres vivos: animales del campo, ganado, reptiles!'<br><br>
+Y Dios hizo a los animales según su clase: cada uno con su forma. Y Dios vio que era bueno."
+            </div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura · Día 6 — segunda parte (el hombre) · 4 min <span class="edc-mark D">D</span></div>
+            <p>Mamá lee más despacio porque esto es el corazón de la creación:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Génesis 1:26-27, 31 · adaptado</span>
+"Entonces Dios dijo: 'Hagamos al hombre <strong>a nuestra imagen</strong>, conforme a nuestra semejanza. Que gobierne a los peces del mar, a las aves del cielo y a todos los animales.'<br><br>
+Y Dios creó al hombre a su imagen. Macho y hembra los creó.<br><br>
+Dios miró todo lo que había hecho. Y vio que era bueno en gran manera. Y fue la tarde y la mañana del SEXTO DÍA."
+            </div>
+            <div class="guia-say">"Eli, escucha esto: en el día 6 Dios crea a los animales. Pero al final del día crea algo distinto: a las personas. Y dice algo único — 'hagamos al hombre a nuestra IMAGEN'. Los animales son creados a su clase. Pero las personas somos creadas a IMAGEN de Dios. Eso significa que tú te pareces a Dios en algo importante. Nos creó para conocerlo, hablar con Él, gobernar el mundo con cuidado."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración + dibujo · 8 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Cuéntame qué creó Dios en el día 5 y 6."</div>
+            <p>Eli narra. Después completa los dibujos de los días 5 y 6 en la hoja grande de los 7 días.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Cuando Dios miró todo al final del día 6, dijo: 'era bueno EN GRAN MANERA'. ¿Por qué? Porque ahora estaba TÚ — bueno, no tú literal, pero un ser hecho a su imagen, capaz de conocerlo y amarlo. Tú estás en esa imagen. Eres parte de lo que Dios llamó 'muy bueno'."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Confunde días 5 y 6 · no entiende imagen de Dios</td><td>El sábado repasamos. Énfasis en la diferencia humano vs. animal.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Distingue los días · entiende que el hombre es especial</td><td>Normal.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Articula que el ser humano es imagen de Dios · puede explicar la diferencia</td><td>Adelantar P21 (creó santos y felices) en S5+.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Leer Gén 1:20-31 una vez</li>
+          <li>Eli dibuja en la hoja: día 5 (un pez), día 6 (un humano)</li>
+          <li>Una frase: <em>"Dios hizo al hombre a su imagen. Por eso te pareces a Él."</em></li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 4: MATEMÁTICAS · 11-20 ABSTRACTO en cuaderno ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico rojo">🔢</div>
+    <div>
+      <div class="lesson-ttl">Matemáticas · 11-20 escritos · etapa abstracta</div>
+      <div class="lesson-meta">25 min · Solo símbolos · sin regletas · sin libros externos</div>
+      <div class="mats"><span class="mat">Cuaderno cuadriculado</span><span class="mat">Lápiz</span><span class="mat">Regletas (solo si Eli se traba)</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El cierre de la semana en mate:</span> Eli ya hizo concreto (mar), pictórico con regletas dibujadas (mié), verbal (jue). Hoy va al abstracto puro — escribe números y resuelve secuencias en cuaderno.</p>
+        <p><span class="lec-tag">REGLA DE ORO:</span> si Eli responde mal o se traba, vuelve a regletas físicas. No abandones a la abstracción. Singapur dice: cuando algo se rompe, regresa al concreto antes de seguir.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Calentamiento oral · 3 min <span class="edc-mark E">E</span></div>
+            <p>3 preguntas rápidas (responder verbal):</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>"Vecinos del 14" → <em style="color:var(--muted)">[13 y 15]</em></li>
+              <li>"Vecinos del 17" → <em style="color:var(--muted)">[16 y 18]</em></li>
+              <li>"Después del 19" → <em style="color:var(--muted)">[20]</em></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Ejercicio 1 · Completar la secuencia · 8 min <span class="edc-mark C">C</span></div>
+            <p>Eli abre cuaderno cuadriculado. Mamá dicta estos ejercicios. Eli los escribe y completa los blancos:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Ejercicio 1 · Completa la secuencia</span>
+a) 10 · 11 · ___ · 13 · ___ · 15<br>
+b) 14 · ___ · 16 · 17 · ___<br>
+c) ___ · 12 · 13 · ___ · 15<br>
+d) 17 · 18 · ___ · 20<br>
+e) 11 · ___ · ___ · 14
+            </div>
+            <p style="font-size:.85rem;color:var(--muted)">Respuestas: a) 12, 14 · b) 15, 18 · c) 11, 14 · d) 19 · e) 12, 13</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Ejercicio 2 · Estructura del número · 6 min <span class="edc-mark C">C</span></div>
+            <p>Eli completa en cuaderno:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Ejercicio 2 · Decenas y unidades</span>
+13 = ___ decena + ___ unidades<br>
+15 = ___ decena + ___ unidades<br>
+17 = ___ decena + ___ unidades<br>
+20 = ___ decenas + ___ unidades<br>
+1 decena + 6 unidades = ___<br>
+1 decena + 8 unidades = ___
+            </div>
+            <p style="font-size:.85rem;color:var(--muted)">Respuestas: 1+3, 1+5, 1+7, 2+0, 16, 18</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Ejercicio 3 · "Sumar 1 = el siguiente" · 4 min <span class="edc-mark C">C</span></div>
+            <p>Esta es la conexión a suma:</p>
+            <div class="guia-bible" style="font-size:.92rem;line-height:1.8">
+<span class="guia-bible-ref">Ejercicio 3 · Suma sencilla</span>
+11 + 1 = ___<br>
+14 + 1 = ___<br>
+17 + 1 = ___<br>
+19 + 1 = ___
+            </div>
+            <p style="font-size:.85rem;color:var(--muted)">Respuestas: 12, 15, 18, 20</p>
+            <div class="guia-say">"¿Te das cuenta? Cuando sumas 1 a un número, obtienes el siguiente. Sumar es como dar un paso adelante en los números."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Hoy escribiste números, completaste secuencias, sumaste. Todo sin regletas — solo con tu mente. Los números viven dentro de ti ahora. Esa es la diferencia entre saber y memorizar."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C de la semana en mate</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Resuelve solo con regletas · más de 3 errores en abstracto</td><td>S3 sigue con concreto-pictórico. NO avanzar a suma todavía.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Resuelve abstracto con 1-2 errores · entiende valor posicional escrito</td><td>Normal. S3 puede empezar suma con regletas.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Resuelve sin errores · entiende sumar 1 = siguiente</td><td>S3 introduce suma 0-10 formal.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Calentamiento oral 3 preguntas</li>
+          <li>Solo ejercicio 1 (completar secuencia) — primeros 3 items</li>
+          <li>Solo ejercicio 3 (suma 1) — primeros 2 items</li>
+          <li>Listo. (Ejercicio 2 puede esperar al sábado.)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
         <p><span class="lec-tag">Conexión con P11:</span> dos semanas, dos preguntas, una sola arquitectura: Dios <em>me mira</em> (P11) + Dios <em>me conoce</em> (P12). La próxima semana sumamos P13 (Dios <em>puede</em>).</p>
         <p><span class="lec-tag">Cómo evaluar la narración libre:</span> mamá pregunta UNA cosa: <em>"¿Qué aprendiste esta semana sobre que Dios lo sabe todo?"</em> y escucha. Si Eli menciona los 3 ángulos (ojos sobre el camino + cuenta cabellos + me llama por mi nombre), [C]. Si menciona 2, [D]. Si solo 1, [E]. Cero reproche — solo información.</p>
         <p><span class="lec-tag">Lo que estás formando:</span> hábito semanal de síntesis. Evidencia física que se guarda. Asociación cumulativa P11+P12.</p>
