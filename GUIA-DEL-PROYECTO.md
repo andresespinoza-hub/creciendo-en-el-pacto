@@ -114,6 +114,27 @@ Plantilla HTML obligatoria por bloque académico:
 
 ---
 
+## 5b. LIBRO AUTORITATIVO — "Educar delante de Dios" (Espinoza, 2026)
+
+La fuente doctrinal definitiva del proyecto es **"Educar delante de Dios · Marco reformado-presbiteriano de educación pactual para el hogar y la iglesia"** (Rodrigo Andrés Espinoza González, Bogotá 2026). Reemplaza las versiones parciales previas. Está en `/Users/EN-ITAdmin/Downloads/Educar delante de Dios.docx`. **26 capítulos + 6 apéndices:**
+
+- **Parte I (1-7):** Fundamentos pactuales — educación delante de Dios · gracia común y materiales no cristianos · el niño (imagen/caído/pacto) · creación-caída-redención-consumación · el hogar no educa solo · el hogar no es escuela · para qué educamos.
+- **Parte II (8-11):** Crianza del corazón — el corazón del niño · autoridad delegada · **disciplina SIN moralismo** · padres que también necesitan el evangelio.
+- **Parte III (12-17):** Las materias — lenguaje/lectura/escritura · matemáticas · ciencias · historia/geografía · **arte y música** · trabajo y habilidades.
+- **Parte IV (18-23):** Vida del hogar — Biblia/catecismo/oración/himnos · padre · madre · **Día del Señor** · **evaluación y portafolio** · **tecnología/IA como sierva**.
+- **Parte V (24-26):** Currículo e iglesia — cómo evaluar un currículo · **métodos (clásico, Mason, Singapur)** · cultura educativa reformada en la iglesia.
+- **Apéndices:** A Declaración · B Evaluar currículo · C Reencuadrar lección no cristiana · D Rutina mínima · **E Catecismo/himnos/memoria por edades** · F Bibliografía.
+
+### Afinaciones que el libro definitivo aporta (aplicar en S3+)
+1. **Cap 16 (Arte):** la clave es "**aprender a ver**" — ojos que van del objeto al papel. Arte/música NO son "lo que sobra"; la jerarquía utilitaria que los elimina primero "no es cristiana". Bezalel (Éx 31), Salmo 19, Job 38. Confirma Monart. → El bloque de arte del sábado NO debe presentarse como relleno; es formación del alma.
+2. **Cap 22 (Evaluación):** "El hogar no evalúa para clasificar. Evalúa para conocer. Y conoce para amar mejor." Prov 27:23 ("conoce el estado de tus ovejas"). Evaluar = mayordomía, NO medir el valor del hijo ni producir evidencia para otros. → El diagnóstico de mamá y el E/D/C deben enmarcarse así, sin ansiedad.
+3. **Cap 23 (Tecnología/IA):** la IA "puede servir con potencia extraordinaria" PERO subordinada a Escritura/confesión/juicio de padres/iglesia/conocimiento del hijo. "Cuando dirige en lugar de servir, produce la forma más sofisticada de barniz cristiano que ha existido." → La guía "Cómo usar IA en clase" debe reforzar la subordinación: IA es herramienta operativa, no maestra ni autoridad espiritual.
+4. **Cap 10 (Disciplina sin moralismo):** la ley revela pecado, instruye en justicia, guía gratitud — pero SIEMPRE conduce al niño a Cristo. No es modificación de conducta con versículos. → Las notas de crianza del corazón en `fm` siguen este patrón.
+5. **Cap 21 (Día del Señor):** el domingo ordena la semana educativa; la semana culmina en adoración dominical, predicación, comunión. → Agregar conexión con la iglesia local (sermón/escuela dominical) en cada semana, como ya se identificó.
+6. **Cap 25 (Métodos):** clásico, Mason, Singapur son herramientas, no autoridades ni identidad. Recibir lo útil sin que ninguno gobierne. → Justifica nuestra mezcla ecléctica (Mason narración + Singapur C-P-A + Monart arte) sin volverla ideología.
+
+---
+
 ## 6. Marco teológico-pedagógico (NO negociable)
 
 - **Reformado pactual.** Eli es hija del pacto: imagen de Dios, caída en Adán, bajo promesa/Palabra/bautismo. No salva la genealogía — se vive bajo los medios de gracia.
