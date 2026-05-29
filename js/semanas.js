@@ -5672,7 +5672,216 @@ Día suave de cierre. NO es escuela completa. Es: repaso del catecismo cantado, 
   </div>
 </div>
 
-<!-- ═══════════════ BLOQUE 2: Diario de Naturaleza ═══════════════ -->
+<!-- ═══════════════ BLOQUE 2: Síntesis P12 + ⭐ Hoja de Portafolio ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">✝️</div>
+    <div>
+      <div class="lesson-ttl">Síntesis P12 + ⭐ Hoja de Portafolio cumulativa</div>
+      <div class="lesson-meta">25 min · Narración libre de los 4 ángulos + hoja final que se guarda</div>
+      <div class="mats"><span class="mat">Biblia</span><span class="mat">Hoja del prompt IA (generada antes)</span><span class="mat">Colores</span><span class="mat">Cuaderno</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">El propósito del bloque:</span> Eli vivió toda la semana con P12 desde 4 ángulos distintos (camino, cabellos, nombre, examíname). Hoy sintetiza con sus palabras y deja huella física en la hoja de portafolio que se guardará durante años.</p>
+        <p><span class="lec-tag">Los 4 ángulos de la semana:</span></p>
+        <p>• <strong>Día 1 (Martes)</strong>: Job 24:23 — los ojos de Dios sobre el camino<br>• <strong>Día 2 (Miércoles)</strong>: Mt 10:29-30 — Dios cuenta los cabellos · no temas<br>• <strong>Día 3 (Jueves)</strong>: Is 43:1 — Dios me llama por mi nombre<br>• <strong>Día 4 (Viernes)</strong>: Sal 139:23-24 — yo le pido que me conozca más</p>
+        <p><span class="lec-tag">Cómo evaluar:</span> mamá pregunta "¿qué aprendiste de que Dios sabe todas las cosas?" y escucha. Si menciona 4 ángulos: [C]. 3: [D]. 2 o menos: [E]. Sin reproche — esto es información para mamá, no examen para Eli.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">25 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cadena cumulativa P11 + P12 · 3 min <span class="edc-mark C">C</span></div>
+            <p>Eli recita las DOS preguntas seguidas, sin ayuda. Si lo logra → ⭐ celebración fuerte.</p>
+            <div class="guia-say">P11: ¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente.<br><br>P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Narración libre — los 4 ángulos · 7 min <span class="edc-mark C">C</span></div>
+            <div class="guia-say">"Eli, cuéntame todo lo que aprendiste esta semana sobre que Dios sabe todas las cosas. Como tú lo recuerdes."</div>
+            <p>Mamá escucha sin interrumpir. Identifica mentalmente:</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>¿Mencionó los ojos de Dios sobre el camino (Job)? — Día 1 ✓</li>
+              <li>¿Mencionó los cabellos contados o los pajaritos (Mt 10)? — Día 2 ✓</li>
+              <li>¿Mencionó que Dios sabe su nombre (Is 43)? — Día 3 ✓</li>
+              <li>¿Mencionó "examíname Tú" o "Dios examina para cuidar" (Sal 139)? — Día 4 ✓</li>
+            </ul>
+            <p>Anotar mentalmente cuántos ángulos mencionó. Esto va al registro de la semana.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">⭐ Hoja de portafolio · 12 min <span class="edc-mark C">C</span></div>
+            <p>Mamá saca la hoja impresa generada con IA (prompt al final de esta sección). Si no se ha generado todavía, hacerlo ahora — toma 3 min con cualquier IA.</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>Eli escribe su nombre y la fecha en la hoja</li>
+              <li>Copia la R de P12 en el espacio para escribir</li>
+              <li>Dibuja en el recuadro lo que se le pide</li>
+              <li>Completa las 4 frases (una por ángulo de la semana)</li>
+              <li>Mamá firma al final</li>
+            </ul>
+            <p>La hoja entra al sobre de Semana 2 del portafolio. Si tienes botón de respaldo (☁️), exporta backup digital también.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Oración de cierre semanal · 3 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Padre, gracias por esta segunda semana. Eli ahora sabe que tú la miras (P11), conoces (P12), cuentas sus cabellos, sabes su nombre, y la examinas para cuidarla. Que viva toda la semana con eso adentro del corazón. En el nombre de Jesús. Amén."</div>
+            <p>Invitar a Eli a orar con UNA frase si quiere.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C semanal · P12</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>Recita memorizada · narra solo 1-2 ángulos</td><td>Repasar P12 una semana más como encadenado. NO avanzar.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Recita P y R · narra 3 de los 4 ángulos</td><td>Avanzar a P13 en S3.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Recita y articula los 4 ángulos: camino + cabellos + nombre + examíname</td><td>⭐ CELEBRACIÓN. Hoja al portafolio. Lista para P13.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Hoja de portafolio · ⭐ La que se guarda</span></div>
+      <div class="ficha-eli">
+        <p><strong>Hoja resumen de la semana — esta es la que se conserva en el portafolio.</strong></p>
+        <p style="font-size:.85rem;color:var(--muted)">Si todavía no la has generado, copia el prompt abajo y pégalo en Claude/GPT/Nano Banana. Imprime el resultado antes de empezar este bloque.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja portafolio P12</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Familia presbiteriana en Bogotá, marco reformado pactual. Esta hoja se conserva en su portafolio durante años.
+
+TEMA:
+Catecismo CPN P12 · Semana 2 · 4 ángulos profundizados.
+
+PROPÓSITO:
+Eli vivió toda la semana con UNA pregunta del catecismo (P12) desde 4 ángulos. Esta hoja es la evidencia física que se guarda. Debe parecer lámina coleccionable, no tarea escolar.
+
+CONTENIDO BÍBLICO:
+P: ¿Sabe Dios todas las cosas?
+R: Sí, ninguna cosa puede ocultarse de la vista de Dios.
+
+LOS 4 ÁNGULOS DE LA SEMANA:
+- Día 1 (Martes): Job 24:23 — los ojos de Dios sobre el camino
+- Día 2 (Miércoles): Mt 10:29-30 — Dios cuenta los cabellos · no temas
+- Día 3 (Jueves): Is 43:1 — Dios me llama por mi nombre
+- Día 4 (Viernes): Sal 139:23-24 — yo le pido a Dios que me conozca más
+
+FORMATO:
+- Una página A4 vertical, lista para imprimir.
+- Diseño contemplativo, lámina coleccionable, NO infantil saturado.
+- Márgenes amplios.
+
+ESTILO VISUAL:
+- Fondo crema cálido #FAF6F0.
+- Color tema: violeta profundo #6B3FAA con acentos dorados #C49A2A.
+- Estilo digno, reverente, contemplativo.
+- No caricaturas exageradas, colores neón, ni estética infantil saturada.
+- No representar a Dios. No halos místicos.
+
+TIPOGRAFÍA:
+- Encabezados en Georgia o serif clásica.
+- Texto en sans-serif clara.
+- Mín. 14 pt instrucciones, 22+ pt para P y R.
+
+CONTENIDO DE LA HOJA:
+
+ENCABEZADO:
+"Lo que aprendí de Dios — Semana 2"
+
+SUBTÍTULO:
+"Familia Espinoza · 26-30 mayo 2026 · Catecismo P12"
+
+CUADRO CENTRAL GRANDE:
+La P y R completa en serif grande:
+"¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios."
+
+SECCIÓN "4 cosas que aprendí esta semana":
+4 líneas con iconos para que Eli complete:
+- 🛤️ "Dios ve mi __________________________" (camino)
+- 🐦 "Dios cuenta hasta mis _______________" (cabellos)
+- ✍️ "Dios me llama por mi __________________" (nombre)
+- 🔍 "Yo le pido a Dios que me _______________ más" (examine / conozca)
+
+RECUADRO PARA DIBUJO 10×10 cm:
+"Mi dibujo: cómo me siento cuando recuerdo que Dios sabe todo de mí"
+
+PREGUNTA ABIERTA con 4 líneas:
+"Cuando recuerdo que Dios sabe todo de mí, yo siento ___________"
+
+ESPACIO FIRMAS:
+"Eli — fecha: ___ de mayo de 2026"
+"Mamá: __________________"
+
+CINTA INFERIOR DORADA:
+"Examíname, oh Dios, y conoce mi corazón. — Salmo 139:23"
+
+PIE PEQUEÑO:
+"Familia Espinoza · Creciendo en el Pacto · 2026-27"
+
+CRITERIOS IMPORTANTES:
+- Lámina conservable, no tarea escolar.
+- Iconos minimalistas line-art, no caricatura.
+- Espacio real para escribir.
+
+OUTPUT SEGÚN LA IA USADA:
+
+Si la IA genera imagen:
+A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+
+Si la IA genera HTML:
+Artifact HTML completo con CSS embebido, A4 vertical, imprimible.
+
+Si la IA genera PDF:
+A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 10 min</div>
+        <ol>
+          <li>Eli dice P11 + P12 cumulativas</li>
+          <li>Mamá pregunta: <em>"¿Qué aprendiste de que Dios sabe todo?"</em></li>
+          <li>Escuchar narración libre</li>
+          <li>Si no hay hoja impresa: cuaderno con dibujo + R de P12</li>
+          <li>Oración de cierre</li>
+          <li>Listo. (Hoja portafolio formal puede hacerse el domingo si hoy se quedó sin tiempo.)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 3: Diario de Naturaleza ═══════════════ -->
 <div class="lesson">
   <div class="lesson-hd">
     <div class="lesson-ico verde">🌱</div>
@@ -5764,7 +5973,7 @@ Día suave de cierre. NO es escuela completa. Es: repaso del catecismo cantado, 
   </div>
 </div>
 
-<!-- ═══════════════ BLOQUE 3: Geografía · Mi lugar en el mundo de Dios ═══════════════ -->
+<!-- ═══════════════ BLOQUE 4: Geografía · Mi lugar en el mundo de Dios ═══════════════ -->
 <div class="lesson">
   <div class="lesson-hd">
     <div class="lesson-ico dorado">🌍</div>
@@ -5830,14 +6039,157 @@ Día suave de cierre. NO es escuela completa. Es: repaso del catecismo cantado, 
   </div>
 </div>
 
-<!-- ═══════════════ BLOQUE 4: Arte — Mi semana en colores ═══════════════ -->
+<!-- ═══════════════ BLOQUE 5: Arte intencional · Los 5 elementos visuales (Monart) ═══════════════ -->
 <div class="lesson">
   <div class="lesson-hd">
     <div class="lesson-ico rojo">🎨</div>
     <div>
-      <div class="lesson-ttl">Arte · Mi semana en colores</div>
-      <div class="lesson-meta">25 min · Imagen de Dios creando — formación de la atención y belleza</div>
-      <div class="mats"><span class="mat">Hoja blanca tamaño carta</span><span class="mat">Acuarelas, crayolas o colores</span><span class="mat">Lápiz</span></div>
+      <div class="lesson-ttl">Arte · Los 5 elementos del lenguaje visual</div>
+      <div class="lesson-meta">30 min · Método Monart (Mona Brookes · Drawing With Children) · ejercicio intencional, no libre</div>
+      <div class="mats"><span class="mat">Hoja blanca A4</span><span class="mat">Marcadores finos negros</span><span class="mat">Lápiz</span><span class="mat">Borrador</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">4 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Por qué arte intencional, no libre:</span> el dibujo libre tiene su lugar — pero <strong>los niños aprenden a dibujar de verdad cuando alguien les enseña los elementos básicos</strong>. Mona Brookes (método Monart) demostró con miles de niños desde los 4 años que el dibujo es enseñable como cualquier otra disciplina. No es "talento" — es <em>lenguaje visual</em>.</p>
+        <p><span class="lec-tag">Los 5 elementos del lenguaje visual:</span> según Brookes, <strong>todas las imágenes del mundo se pueden descomponer en 5 elementos</strong>:</p>
+        <ol style="margin:6px 0 6px 1.2rem;font-size:.88rem;line-height:1.8">
+          <li><strong>•   Punto / pequeños toques</strong></li>
+          <li><strong>—   Línea recta</strong></li>
+          <li><strong>~   Curva / línea ondulada</strong></li>
+          <li><strong>&lt;   Ángulo / línea quebrada</strong></li>
+          <li><strong>○   Forma circular</strong></li>
+        </ol>
+        <p>Cuando Eli aprende a IDENTIFICAR estos 5 elementos en cualquier objeto del mundo, puede dibujarlo. Eso es el secreto del método.</p>
+        <p><span class="lec-tag">El plan del año en arte:</span></p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li><strong>S2 (hoy):</strong> Aprender los 5 elementos · ejercicio de reconocimiento</li>
+          <li><strong>S3:</strong> Dibujar un objeto simple usando solo los 5 elementos (una flor de tu jardín)</li>
+          <li><strong>S4:</strong> Apreciación de una obra clásica + identificar los 5 elementos en ella</li>
+          <li><strong>S5+:</strong> Dibujar de gráficos (copiar un dibujo de animal/objeto)</li>
+          <li><strong>S10+:</strong> Dibujar de naturaleza muerta (objetos reales en mesa)</li>
+          <li><strong>S20+:</strong> Sombreado · positivo/negativo · proporciones</li>
+        </ul>
+        <p><span class="lec-tag">Conexión pactual:</span> Dios creó usando palabra. Cuando Eli dibuja, usa elementos visuales — y al hacerlo, <em>imita</em> la actividad creadora de Dios. El arte no es decoración; es ejercicio del imago Dei.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">30 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Presentar los 5 elementos · 5 min <span class="edc-mark E">E</span></div>
+            <p>Mamá dibuja en una hoja, en grande, los 5 elementos uno por uno. Los nombra:</p>
+            <div class="guia-bible" style="font-size:.95rem;line-height:1.8">
+<span class="guia-bible-ref">Los 5 elementos del lenguaje visual</span>
+1. <strong>Punto:</strong> • &nbsp;•&nbsp; • &nbsp; (pequeños toques)<br>
+2. <strong>Línea recta:</strong> ─── (vertical, horizontal, diagonal)<br>
+3. <strong>Curva:</strong> ⌒ ⌣ ~~~ (ondas y curvas)<br>
+4. <strong>Ángulo:</strong> ∠ &lt; &gt; (líneas quebradas)<br>
+5. <strong>Forma circular:</strong> ○ ◯ ⊙ (círculo cerrado)
+            </div>
+            <div class="guia-say">"Eli, todas las cosas del mundo que vemos están hechas con estos 5 elementos. Una flor tiene círculo (su centro), líneas (su tallo), curvas (sus pétalos). Una casa tiene líneas rectas y ángulos. Hasta tu carita tiene círculo (tu cara), curvas (tus mejillas), puntos (tus pecas si tienes)."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Eli practica cada elemento · 5 min <span class="edc-mark D">D</span></div>
+            <p>Eli toma su propia hoja. Mamá nombra los elementos en orden. Eli los dibuja:</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>5 puntos en una fila</li>
+              <li>3 líneas rectas: una vertical, una horizontal, una diagonal</li>
+              <li>3 curvas distintas: una ondulada, una en arco, una en S</li>
+              <li>3 ángulos: uno agudo, uno recto, uno abierto</li>
+              <li>3 círculos: pequeño, mediano, grande</li>
+            </ul>
+            <p>Mamá NO corrige el resultado. Solo observa.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Juego de reconocimiento · 10 min <span class="edc-mark D">D</span></div>
+            <p>Mamá toma un objeto cualquiera de la casa — una taza, una flor, un juguete simple. Lo pone frente a Eli.</p>
+            <div class="guia-say">"Mira este objeto. Vamos a buscar los 5 elementos en él. ¿Dónde ves un círculo? ¿Dónde ves una línea recta? ¿Dónde ves una curva? ¿Dónde ves un ángulo? ¿Dónde ves puntos?"</div>
+            <p>Eli señala. Mamá afirma cada hallazgo. Repetir con 2-3 objetos distintos.</p>
+            <p style="font-size:.85rem;color:var(--muted);font-style:italic">Esto es lo que Brookes llama "visual perception game" — entrenar el ojo para ver los elementos antes de dibujar.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Dibujo guiado · una flor de campo · 8 min <span class="edc-mark C">C</span></div>
+            <p>Mamá guía a Eli paso a paso usando solo los 5 elementos. Lo dibuja a la vez en su propia hoja:</p>
+            <div class="guia-bible" style="font-size:.88rem;line-height:1.8">
+<span class="guia-bible-ref">Una flor — paso a paso</span>
+1. <strong>Centro:</strong> dibuja un <em>círculo</em> pequeño en el medio de la hoja.<br>
+2. <strong>Pétalos:</strong> dibuja 6 <em>curvas</em> alrededor del centro, como pétalos.<br>
+3. <strong>Tallo:</strong> baja una <em>línea recta</em> desde la flor.<br>
+4. <strong>Hojas:</strong> a los lados del tallo, dibuja 2 <em>curvas</em> como hojas.<br>
+5. <strong>Detalles:</strong> agrega <em>puntos</em> en el centro de la flor.<br>
+6. <strong>Suelo:</strong> dibuja una <em>línea recta</em> debajo del tallo.
+            </div>
+            <p>Al terminar, Eli y mamá comparan sus flores. Mamá señala los 5 elementos en la flor de Eli.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre pactual · 2 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Eli, hoy aprendiste algo grande: el mundo entero — desde una flor hasta tu casa — está hecho con 5 elementos. Dios creó usando palabra; nosotros creamos usando esos elementos. Cuando dibujas, no es solo entretenimiento — es ejercicio de tu mente, formación de tu ojo, e imitación de Dios el Creador."</div>
+            <p>Eli pega su flor en el portafolio. Mamá escribe en la parte de atrás: "Mi primera flor con los 5 elementos · 30 mayo 2026."</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
+      <table class="eval-tabla">
+        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+        <tr class="E"><td class="lvl">E</td><td>No distingue elementos · dibuja sin guía</td><td>Repetir solo nombres + práctica el sábado siguiente.</td></tr>
+        <tr class="D"><td class="lvl">D</td><td>Dibuja los 5 elementos · identifica algunos en objetos</td><td>Normal · esto es esperado.</td></tr>
+        <tr class="C"><td class="lvl">C</td><td>Identifica los 5 elementos en cualquier objeto · dibuja flor guiada bien</td><td>S3 puede pasar a dibujar de gráficos.</td></tr>
+      </table>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 15 min</div>
+        <ol>
+          <li>Mamá dibuja los 5 elementos. Eli los repite.</li>
+          <li>Identificar los 5 en UN solo objeto</li>
+          <li>Dibujar la flor guiada (saltarse pasos 5-6 si hay cansancio)</li>
+          <li>Listo. (Juego con varios objetos y refinamiento son [C].)</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 6: Apreciación de obra de arte clásica ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico dorado">🖼️</div>
+    <div>
+      <div class="lesson-ttl">Apreciación · Una obra clásica conectada con la creación</div>
+      <div class="lesson-meta">15 min · Mirar, hablar, conectar · Charlotte Mason "picture study"</div>
+      <div class="mats"><span class="mat">Imagen impresa o en pantalla</span></div>
     </div>
   </div>
   <div class="lesson-body">
@@ -5845,118 +6197,324 @@ Día suave de cierre. NO es escuela completa. Es: repaso del catecismo cantado, 
     <div class="lsec">
       <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
       <div class="lec-mama">
-        <p><span class="lec-tag">Por qué arte en este plan:</span> el arte no es entretenimiento. Es <strong>ejercicio del imago Dei</strong>. Dios fue el primer Artista — creó con palabra, color, forma, texto. Cuando Eli pinta, ejerce algo profundamente humano que solo nosotros tenemos: <em>la capacidad de crear cosas hermosas porque fuimos hechos a imagen del Creador</em>.</p>
-        <p><span class="lec-tag">La técnica de hoy:</span> simple. Eli toma una hoja y un tema, y crea. Mamá NO dice cómo dibujar. Solo provee material, tiempo y aliento.</p>
-        <p><span class="lec-tag">El tema del sábado:</span> <strong>"Mi semana en colores"</strong>. Eli elige UNA cosa que aprendió esta semana y la dibuja: puede ser el camino de Job (Día 1), los pajaritos contados (Día 2), su propio nombre escrito (Día 3), o lo que más le impactó. Es arte como narración visual de lo que recibió.</p>
-        <p><span class="lec-tag">Cero presión:</span> el resultado NO tiene que verse "bonito" en sentido adulto. Si Eli dibuja un sol y dice "ese es Dios mirando", celebra. Si dibuja a la familia y dice "Dios conoce los nombres de todos", celebra. Lo que ella decida representar es válido.</p>
+        <p><span class="lec-tag">Qué es "picture study":</span> Charlotte Mason introdujo el "estudio de pintura" como ejercicio formativo. <strong>Mostrar a Eli UNA obra maestra · que la mire por minutos · que la describa · que la recuerde después.</strong> No es clase de historia del arte — es educación de la mirada.</p>
+        <p><span class="lec-tag">Obra sugerida esta semana (Creación):</span> <em>"El Jardín del Edén"</em> de Jan Brueghel el Joven (siglo XVII) o <em>"La creación de Adán"</em> de Miguel Ángel (Capilla Sixtina). Ambas son hijas del mundo reformado-protestante (Brueghel fue protestante) o del Renacimiento católico — pero ambas representan visualmente Gén 1.</p>
+        <p><span class="lec-tag">Cómo conseguir la imagen:</span></p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li>Google Images: "Jan Brueghel Jardín del Edén" o "Miguel Ángel Creación de Adán"</li>
+          <li>Wikipedia → descargar imagen en alta calidad</li>
+          <li>Imprimir o mostrar en pantalla</li>
+        </ul>
+        <p><span class="lec-tag">El plan del año en apreciación:</span> una obra por mes, conectada con el tema del catecismo/historia:</p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li><strong>Mes 1 (S1-S4):</strong> Creación · Caída — Brueghel "Jardín del Edén"</li>
+          <li><strong>Mes 2 (S5-S9):</strong> Abraham · patriarcas — Rembrandt "Sacrificio de Isaac"</li>
+          <li><strong>Mes 3 (S10-S14):</strong> Éxodo · Moisés — Botticelli "Pruebas de Moisés"</li>
+          <li><strong>Mes 4 (S15-S19):</strong> David · Reyes — obras renacentistas de David</li>
+          <li>Y así sucesivamente — Antiguo Testamento contado en obras maestras</li>
+        </ul>
       </div>
     </div>
 
     <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía rápida</span></div>
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">15 min</span></div>
       <div class="guia">
+
         <div class="guia-step">
           <div class="guia-step-n">1</div>
           <div class="guia-step-body">
-            <div class="guia-step-ttl">Pregunta de elección · 2 min</div>
-            <div class="guia-say">"Eli, esta semana aprendimos que Dios nos conoce — el camino, los cabellos, nuestro nombre. ¿Cuál de esas tres cosas te impactó más? Hoy vamos a dibujarla."</div>
-            <p>Eli elige. Mamá no opina.</p>
+            <div class="guia-step-ttl">Mostrar la obra · mirar en silencio · 4 min <span class="edc-mark E">E</span></div>
+            <p>Mamá muestra la imagen a Eli. Sin decir nada los primeros 30 segundos.</p>
+            <div class="guia-say">"Eli, esta es una pintura muy antigua. Mírala con calma. Toma todo el tiempo. Cuando termines, vamos a hablar."</div>
+            <p>Eli mira 3-4 minutos. Mamá no presiona ni pregunta.</p>
           </div>
         </div>
+
         <div class="guia-step">
           <div class="guia-step-n">2</div>
           <div class="guia-step-body">
-            <div class="guia-step-ttl">Tiempo para crear · 20 min</div>
-            <p>Eli dibuja, pinta, decora libremente. Mamá puede hacer su propio dibujo al lado (eso forma compañía sin supervisión).</p>
+            <div class="guia-step-ttl">Describir lo visto · 5 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Cuéntame todo lo que ves en este cuadro. Sin importar el orden. Solo lo que tus ojos encuentran."</div>
+            <p>Eli describe. Mamá afirma con "ajá", "qué bueno que viste eso". Si Eli se queda corta, mamá pregunta: "¿y eso del fondo qué es?", "¿qué animales puedes ver?", "¿qué hace esa persona?"</p>
+            <p>El objetivo NO es que diga "Adán y Eva" — es que use sus ojos.</p>
           </div>
         </div>
+
         <div class="guia-step">
           <div class="guia-step-n">3</div>
           <div class="guia-step-body">
-            <div class="guia-step-ttl">Cierre · 3 min</div>
-            <p>Eli muestra su dibujo y dice qué quiso representar. Mamá pregunta UNA cosa: "¿Cómo se llama tu dibujo?" Lo guardan en el portafolio con la fecha.</p>
-            <div class="guia-say">"Dios te dio la mano que dibujó esto. Y el corazón que eligió este tema. Eso es ser hecha a su imagen."</div>
+            <div class="guia-step-ttl">Conexión con la Biblia · 3 min <span class="edc-mark D">D</span></div>
+            <div class="guia-say">"Este cuadro lo pintó alguien que leyó Génesis 1 y 2. Estaba imaginando cómo era el mundo cuando Dios lo acabó de crear. ¿Recuerdas el día 6 que vimos ayer? Dios miró todo y dijo 'era bueno en gran manera'. El pintor quiso mostrar ese momento."</div>
           </div>
         </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Identificar los 5 elementos en la pintura · 2 min <span class="edc-mark C">C</span></div>
+            <p>Conectar con el bloque anterior. Mamá pregunta:</p>
+            <div class="guia-say">"¿Dónde ves un círculo en esta pintura? ¿Dónde ves curvas? ¿Dónde líneas rectas? ¿Dónde ángulos? ¿Dónde puntos?"</div>
+            <p>Eli señala. Esto cierra el círculo: el arte clásico también está hecho con los 5 elementos que ella acaba de aprender.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre · 1 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"El pintor que hizo esto vivió hace cientos de años. Pero leyó la misma Biblia que tú lees. Y quiso mostrar lo que su corazón sintió al leer Génesis 1. Cada vez que veamos una pintura juntas, vamos a recordar: alguien la hizo para mostrar algo importante."</div>
+          </div>
+        </div>
+
       </div>
     </div>
 
     <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional</span></div>
-      <div class="ficha-eli">
-        <p style="font-size:.85rem;color:var(--muted)">Solo si quieres marco impreso. Una hoja blanca también funciona.</p>
-        <div class="prompt-claude">
-          <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Hoja arte</span>
-            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
-          </div>
-          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
-
-TEMA:
-Arte — sábado · Mi semana en colores
-
-PROPÓSITO:
-Eli elige UNA cosa que aprendió esta semana (los caminos que Dios mira, los pajaritos contados, o su nombre conocido por Dios) y la dibuja como cierre creativo de la semana.
-
-FORMATO:
-- Una página A4 vertical, lista para imprimir.
-- Diseño con MARCO solamente — el centro va EN BLANCO para que Eli dibuje libremente.
-- Márgenes muy amplios.
-
-ESTILO VISUAL:
-- Fondo crema cálido #FAF6F0.
-- Color principal: rojo cálido suave #B94020 para el marco.
-- Acentos: dorado tierra #C49A2A.
-- Estilo: marco floral o de ramas estilizado, line-art delicado.
-- No usar caricaturas, colores neón, ni estética infantil saturada.
-
-CONTENIDO DE LA HOJA:
-
-ENCABEZADO en serif:
-"Mi semana en colores"
-
-SUBTÍTULO pequeño:
-"Una cosa que aprendí de Dios esta semana"
-
-CUERPO CENTRAL:
-Un marco rectangular grande EN BLANCO (al menos 18×22 cm) para que Eli dibuje libremente.
-
-DEBAJO DEL MARCO:
-- Línea para "Lo que dibujé se llama: ___________________"
-- Línea para "Lo que aprendí: ___________________________"
-
-PIE EN PEQUEÑO:
-"Eli · Familia Espinoza · Semana 2"
-
-OUTPUT SEGÚN LA IA USADA:
-
-Si la IA genera imagen:
-A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
-
-Si la IA genera HTML:
-Artifact HTML completo con CSS embebido, A4 vertical, imprimible.
-
-Si la IA genera PDF:
-A4 vertical, listo para imprimir.
-
-No responder con explicación. Generar directamente la ficha.</div>
-        </div>
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 8 min</div>
+        <ol>
+          <li>Mostrar la imagen · Eli mira 1-2 min</li>
+          <li>Mamá pregunta: "¿qué ves?"</li>
+          <li>Una frase: <em>"Este pintor leyó Génesis 1 y quiso mostrarlo."</em></li>
+          <li>Listo. (Identificar 5 elementos es [C].)</li>
+        </ol>
       </div>
     </div>
 
   </div>
 </div>
 
-<!-- ═══════════════ BLOQUE 5: Recuperación de pendientes (opcional) ═══════════════ -->
+
+<!-- ═══════════════ BLOQUE 7: Apreciación musical · Vivaldi y la creación ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">🎼</div>
+    <div>
+      <div class="lesson-ttl">Música · Apreciación de Vivaldi "La Primavera"</div>
+      <div class="lesson-meta">10 min · Escuchar música clásica conectada con la creación</div>
+      <div class="mats"><span class="mat">YouTube o Spotify · "Vivaldi Primavera Allegro"</span></div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">2 min</span></div>
+      <div class="lec-mama">
+        <p><span class="lec-tag">Por qué música clásica:</span> Bach decía que toda su música era <em>"Soli Deo Gloria"</em>. Vivaldi era sacerdote y compositor. La música clásica occidental nació en gran parte en iglesias y para Dios. Cuando Eli escucha estos compositores, no solo desarrolla oído — recibe arte que fue creado <em>delante de Dios</em>.</p>
+        <p><span class="lec-tag">Obra de esta semana:</span> <strong>Antonio Vivaldi · "La Primavera"</strong> (primera de las 4 Estaciones), primer movimiento Allegro. 3 minutos. Música que evoca la naturaleza recién creada, los pájaros cantando, la brisa, el agua corriendo.</p>
+        <p><span class="lec-tag">Cómo escucharla:</span></p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li>Buscar "Vivaldi Spring Allegro" en YouTube o Spotify</li>
+          <li>Versión recomendada: cualquiera de Il Giardino Armonico o Akademie für Alte Musik Berlin</li>
+          <li>Reproducir solo el primer movimiento (3-4 min, no la pieza completa de 40 min)</li>
+        </ul>
+        <p><span class="lec-tag">El plan del año en música:</span> una obra por mes, conectada con el tema:</p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+          <li><strong>Mes 1:</strong> Vivaldi "Primavera" (creación)</li>
+          <li><strong>Mes 2:</strong> Haendel "Messiah · And the glory of the Lord" (patriarcas / promesa)</li>
+          <li><strong>Mes 3:</strong> Bach "Cantata BWV 4" Cristo yace (Pascua)</li>
+          <li><strong>Mes 4:</strong> Mendelssohn "Elías" (profeta)</li>
+          <li>etc — el Antiguo Testamento contado por compositores</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">10 min</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Presentar al compositor · 2 min</div>
+            <div class="guia-say">"Eli, vamos a escuchar música hecha por un hombre llamado Antonio Vivaldi. Vivió hace casi 300 años. Era músico, pero también era sacerdote en Italia. Compuso esta pieza para mostrar cómo es la primavera — cuando las flores empiezan a salir, los pájaros cantan, los animales se despiertan. Es como si Vivaldi hubiera leído Génesis 1 y quisiera mostrarlo con música."</div>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escuchar sin distracciones · 4 min <span class="edc-mark E">E</span></div>
+            <p>Reproducir el Allegro de "La Primavera". Eli puede:</p>
+            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+              <li>Cerrar los ojos y escuchar</li>
+              <li>Acostarse en el sofá</li>
+              <li>Dibujar lo que oye en una hoja</li>
+            </ul>
+            <p>NO hablar durante la música. Solo escuchar.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Conversación · 3 min <span class="edc-mark D">D</span></div>
+            <p>Al terminar la música:</p>
+            <div class="guia-say">"¿Qué imaginaste mientras escuchabas? ¿Qué partes te parecieron felices? ¿Cuál parte te pareció más fuerte? ¿Escuchaste algo que parecía un pájaro? ¿Algo que parecía agua corriendo?"</div>
+            <p>Eli responde libremente. Cualquier asociación es válida.</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Cierre · 1 min <span class="edc-mark E">E</span></div>
+            <div class="guia-say">"Vivaldi quiso que su música mostrara cómo es el mundo cuando empieza la vida nueva. La creación de Dios es así — llena de sonidos, de movimiento, de vida. Cada vez que oigas pájaros cantando esta semana, recuerda esta música."</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Lo esencial — 5 min</div>
+        <ol>
+          <li>Una frase de introducción: "Música de Vivaldi sobre la primavera, hecha hace 300 años"</li>
+          <li>Reproducir solo 2 min del Allegro</li>
+          <li>Una pregunta: "¿qué imaginaste?"</li>
+          <li>Listo.</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════════ BLOQUE 8: Diagnóstico de mamá · 8 preguntas semanales ═══════════════ -->
+<div class="lesson">
+  <div class="lesson-hd">
+    <div class="lesson-ico violeta">📋</div>
+    <div>
+      <div class="lesson-ttl">Diagnóstico de la educadora · 8 preguntas clave</div>
+      <div class="lesson-meta">15 min · Solo para mamá · registrar en pestaña Registro</div>
+    </div>
+  </div>
+  <div class="lesson-body">
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Para mamá — antes de responder</span></div>
+      <div class="lec-mama">
+        <p>Estas preguntas las contestas <strong>tú, no Eli</strong>. Son tu termómetro semanal. Hazlo con calma — al final del sábado, en una taza de café. Las respuestas alimentan la planificación de la próxima semana. Registra en la pestaña <em>"✏️ Registro"</em> de la app y luego exporta respaldo con el botón ☁️.</p>
+        <p><strong>Antes de empezar:</strong> respira. La semana 2 no es perfecta. El objetivo no es que Eli haya cumplido todo — es que tú entiendas dónde está y qué ajustar.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">📝</span><span class="lsec-ttl">Las 8 preguntas</span></div>
+      <div class="guia">
+
+        <div class="guia-step">
+          <div class="guia-step-n">1</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Lectura</div>
+            <p>¿Leyó el texto NUEVO del viernes con entonación o todavía silabea? ¿Comprende lo que lee al primer paso? ¿Cómo va comparado con S1?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">2</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Escritura propia</div>
+            <p>¿El párrafo del jueves "Yo vivo en Bogotá" salió con voz propia? ¿Cuántas frases · cuántas con punto final? ¿Aplicó la regla del día consistentemente?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">3</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Matemáticas — antes/después</div>
+            <p>¿Resolvió antes/después con regletas (martes), con apoyo verbal (jueves), y abstracto en cuaderno (viernes)? ¿Cuál nivel alcanzó? ¿Lista para suma 0-10 en S3?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">4</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Números 11-20</div>
+            <p>¿Comprende valor posicional (1 decena + X unidades) o solo memorizó nombres? ¿Entiende que 20 = 2 decenas (no 1+10)?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">5</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Catecismo P12 (cadena P11+P12)</div>
+            <p>¿Logró la cadena cumulativa hoy en el bloque 2? ¿Articuló los 4 ángulos (camino + cabellos + nombre + examíname)? ¿Está lista para P13 en S3?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">6</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Historia · Génesis 1 completo</div>
+            <p>¿La hoja grande de los 7 días quedó completa? ¿Recuerda qué pasó cada día? ¿Entendió imago Dei (Gén 1:26-27)?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">7</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Naturaleza · Arte · Música</div>
+            <p>¿El frijol del miércoles produjo asombro? ¿La entrada del diario de naturaleza tiene dibujo + frase? ¿Reconoce los 5 elementos visuales? ¿Le gustó Vivaldi?</p>
+          </div>
+        </div>
+
+        <div class="guia-step">
+          <div class="guia-step-n">8</div>
+          <div class="guia-step-body">
+            <div class="guia-step-ttl">Ritmo PARA TI</div>
+            <p>¿El ritmo de 5 días martes-sábado fue sostenible PARA TI? ¿Hubo algún día que casi no llegas? ¿Algo del plan se siente sobrecargado? ¿Qué necesitas ajustar para S3?</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">💾</span><span class="lsec-ttl">Después del diagnóstico — RESPALDO</span></div>
+      <div class="ficha-eli">
+        <p style="font-size:.9rem"><strong>Antes de cerrar la semana:</strong></p>
+        <ol style="margin:6px 0 6px 1.2rem;font-size:.86rem;line-height:1.8">
+          <li>Ir a la pestaña <strong>✏️ Registro</strong> de esta semana</li>
+          <li>Llenar las observaciones por área (lectura, escritura, mate, historia, catecismo)</li>
+          <li>Marcar los E/D/C de cada competencia en la pestaña <strong>Progreso E/D/C</strong></li>
+          <li>Tocar el botón <strong>☁️ Respaldo</strong> en la barra superior</li>
+          <li>Elegir <strong>"Enviar a Drive / iCloud / Gmail"</strong> y guardarlo en tu carpeta de la familia</li>
+        </ol>
+        <p style="font-size:.85rem;color:var(--muted);font-style:italic">Así nunca pierdes el trabajo de la semana y puedes abrir el respaldo desde cualquier dispositivo.</p>
+      </div>
+    </div>
+
+    <div class="lsec">
+      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Si solo tienes 5 minutos</span></div>
+      <div class="minima">
+        <div class="minima-ttl">Las 3 preguntas mínimas</div>
+        <ol>
+          <li>¿Qué área avanzó más esta semana?</li>
+          <li>¿Qué área necesita más atención la próxima semana?</li>
+          <li>¿Cómo está Eli emocionalmente con el ritmo? ¿Cómo estoy YO?</li>
+        </ol>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ═══════════════ BLOQUE 9: Recuperación de pendientes (opcional) ═══════════════ -->
 <div class="strip s-rust" style="margin:14px 0">
 <strong>🔄 Si quedó algo pendiente esta semana, este es el momento:</strong><br>
 Si no alcanzaron a hacer alguna de las actividades de martes-viernes (frijol, diario de naturaleza, alguna sección del catecismo), pueden tomar este último bloque del sábado para hacerlo con calma. NO es obligatorio. Si todo se hizo, simplemente terminen aquí y disfruten el resto del sábado en familia.<br><br>
 <strong>Pendientes posibles a recuperar:</strong>
 <ul style="margin:8px 0 0 1.2rem;font-size:.86rem">
-<li>Genealogía de los abuelos (si no se terminó el miércoles)</li>
+<li>Genealogía de los abuelos (si no se terminó el martes)</li>
 <li>Experimento del frijol (si no había frijoles el miércoles)</li>
-<li>Hoja del portafolio P12 (si no se completó el viernes)</li>
+<li>Hoja del portafolio P12 (si no se completó en el bloque 2)</li>
 <li>Lectura de algún texto que no se alcanzó</li>
+<li>Algún ejercicio de matemáticas pendiente</li>
 </ul>
 </div>
 
