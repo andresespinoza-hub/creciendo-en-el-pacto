@@ -13,8 +13,8 @@
   var CONFIG = {
     clave: "pacto2026",                         // <-- cambia esta clave
     correos: [                                   // correos permitidos (déjalo [] para aceptar cualquier correo con la clave)
-      "andres.espinoza@iglesiaraah.org"
-      // , "correo-de-tu-esposa@ejemplo.com"     // <-- agrega el correo de tu esposa aquí
+      "andres.espinoza@iglesiaraah.org",
+      "carolina_romo@hotmail.com"                // Carolina (mamá / educadora)
     ],
     recordarDias: 30                             // cuántos días recuerda la sesión en ese dispositivo
   };
