@@ -426,20 +426,24 @@ function dayTab(s, d, btn) {
 function buildReg(n) {
   const log = logs[n] || {};
   return `<div class="reg-section">
-    <div class="reg-title">✏️ Registro de la semana ${n}</div>
+    <div class="reg-title">✏️ Informe de la semana ${n} — para personalizar la enseñanza</div>
+    <p style="font-size:.84rem;color:var(--muted);margin:-6px 0 14px;line-height:1.5">Esto se guarda en este dispositivo y alimenta la personalización de la próxima semana. <strong>No es para calificar a Eli — es para conocerla y amarla mejor</strong> (Cap 22 del libro). Escribe con confianza; mientras más cuentes, mejor adaptamos.</p>
     <div class="reg-grid">
-      <div class="reg-field"><label>Lectoescritura</label><textarea id="rl${n}a" placeholder="¿Leyó con comprensión? ¿Escritura propia fluida?">${log.a||''}</textarea></div>
-      <div class="reg-field"><label>Matemáticas</label><textarea id="rl${n}b" placeholder="¿Ordinales consolidados? ¿Suma con comprensión?">${log.b||''}</textarea></div>
-      <div class="reg-field"><label>Historia / Catecismo</label><textarea id="rl${n}c" placeholder="¿Narró con secuencia? ¿Catecismo con comprensión?">${log.c||''}</textarea></div>
-      <div class="reg-field"><label>Arte / Ciencias</label><textarea id="rl${n}d" placeholder="¿Diario de naturaleza? ¿Observación directa?">${log.d||''}</textarea></div>
-      <div class="reg-field full"><label>Observación general</label><textarea id="rl${n}e" rows="3" style="min-height:75px" placeholder="¿Qué funcionó? ¿Qué ajustar? ¿Ritmo sostenible?">${log.e||''}</textarea></div>
-      <div class="reg-field"><label>Niveles E/D/C</label><textarea id="rl${n}f" placeholder="Lectura: __ · Escritura: __ · Mate: __ · Historia: __">${log.f||''}</textarea></div>
-      <div class="reg-field"><label>Pendientes S. siguiente</label><textarea id="rl${n}g" placeholder="¿Qué no se terminó? ¿Cambio de ruta necesario?">${log.g||''}</textarea></div>
+      <div class="reg-field"><label>🕊️ Catecismo</label><textarea id="rl${n}a" placeholder="¿Recitó la pregunta? ¿Entendió los ángulos del día? ¿La conectó con su vida? ¿Hiló con las preguntas anteriores?">${log.a||''}</textarea></div>
+      <div class="reg-field"><label>📖 Lectoescritura</label><textarea id="rl${n}b" placeholder="LECTURA: ¿silabea o fluye? ¿comprende mejor leyendo ella o escuchando? ESCRITURA: ¿frases propias? ¿la regla del día (mayúscula/punto)?">${log.b||''}</textarea></div>
+      <div class="reg-field"><label>🔢 Matemáticas</label><textarea id="rl${n}c" placeholder="¿Entendió el concepto con regletas? ¿pasó a abstracto? ¿qué le costó (antes/después, suma…)? ¿hubo cansancio?">${log.c||''}</textarea></div>
+      <div class="reg-field"><label>📜 Historia Providencial</label><textarea id="rl${n}d" placeholder="¿Narró la historia bíblica con sus palabras? ¿hizo la conexión pactual (Dios la ve / la creó / la cuida)?">${log.d||''}</textarea></div>
+      <div class="reg-field"><label>🔬 Ciencias / Naturaleza</label><textarea id="rl${n}e" placeholder="¿Observó con atención? ¿el experimento / diario de naturaleza / paseo? ¿qué le asombró de la creación?">${log.e||''}</textarea></div>
+      <div class="reg-field"><label>🎨 Arte / Música / Geografía</label><textarea id="rl${n}f" placeholder="¿El estudio de la obra (picture study)? ¿el himno con su historia? ¿la geografía? ¿disfrutó crear?">${log.f||''}</textarea></div>
+      <div class="reg-field"><label>📊 Niveles E/D/C</label><textarea id="rl${n}g" placeholder="Catecismo: __ · Lectura: __ · Escritura: __ · Mate: __ · Historia: __   (E=emergente · D=en desarrollo · C=consolidado)">${log.g||''}</textarea></div>
+      <div class="reg-field"><label>❤️ Eli — su corazón</label><textarea id="rl${n}h" placeholder="¿Cómo estuvo su ánimo? ¿hubo cansancio o resistencia? ¿qué le ENCANTÓ? ¿qué le costó emocionalmente? ¿alguna pregunta linda que hizo?">${log.h||''}</textarea></div>
+      <div class="reg-field"><label>🤱 Mamá — ritmo y sostenibilidad</label><textarea id="rl${n}i" placeholder="¿El ritmo de 5 días / 30 min fue sostenible PARA TI? ¿qué te agotó? ¿qué materia se alargó? ¿las pausas funcionaron? ¿qué ajustar?">${log.i||''}</textarea></div>
+      <div class="reg-field full"><label>🎯 Para personalizar la próxima semana</label><textarea id="rl${n}j" rows="3" style="min-height:75px" placeholder="¿Qué reforzar? ¿qué cambiar? ¿qué quitar? ¿algún material que faltó? ¿Eli lista para avanzar o necesita consolidar?">${log.j||''}</textarea></div>
     </div>
     <div class="reg-foot">
       <span class="saved-note" id="sn${n}">${log.saved ? 'Guardado: '+log.saved : 'Sin guardar'}</span>
-      <div style="display:flex;gap:.5rem">
-        <button class="btn btn-outline btn-sm" onclick="exportRev(${n})">📤 Exportar</button>
+      <div style="display:flex;gap:.5rem;flex-wrap:wrap">
+        <button class="btn btn-claude btn-sm" onclick="exportRev(${n})">🤖 Copiar para personalizar</button>
         <button class="btn btn-sage btn-sm" onclick="saveLog(${n})">💾 Guardar</button>
       </div>
     </div>
@@ -451,13 +455,15 @@ function saveLog(n) {
   logs[n] = {
     a:g(`rl${n}a`), b:g(`rl${n}b`), c:g(`rl${n}c`), d:g(`rl${n}d`),
     e:g(`rl${n}e`), f:g(`rl${n}f`), g:g(`rl${n}g`),
+    h:g(`rl${n}h`), i:g(`rl${n}i`), j:g(`rl${n}j`),
     saved: new Date().toLocaleDateString('es-CO')
   };
   S.set('logs', logs);
   const note = document.getElementById('sn'+n);
   if (note) note.textContent = 'Guardado: ' + logs[n].saved;
   const sem = document.getElementById('sem-'+n);
-  if (sem && logs[n].e) sem.classList.add('has-log');
+  const hasAny = ['a','b','c','d','e','f','g','h','i','j'].some(k => (logs[n][k]||'').trim());
+  if (sem && hasAny) sem.classList.add('has-log');
   showToast('Semana ' + n + ' guardada ✓');
 }
 
@@ -612,21 +618,47 @@ function saveRN(k, f, v) {
 
 function exportRev(n) {
   const w = WEEKS.find(x => x.n === n);
+  const sd = v => (v && v.trim()) ? v.trim() : '(sin registrar)';
   const log = logs[n] || {};
-  const txt = `REGISTRO SEMANAL — SEMANA ${n}
-${w?.d} · ${w?.tema}
-${'='.repeat(50)}
-LECTOESCRITURA: ${log.a||'(sin registrar)'}
-MATEMÁTICAS: ${log.b||'(sin registrar)'}
-HISTORIA / CATECISMO: ${log.c||'(sin registrar)'}
-ARTE / CIENCIAS: ${log.d||'(sin registrar)'}
-OBSERVACIÓN GENERAL: ${log.e||'(sin registrar)'}
-NIVELES E/D/C: ${log.f||'(sin registrar)'}
-PENDIENTES: ${log.g||'(sin registrar)'}
-Guardado: ${log.saved||'—'}
-${'='.repeat(50)}
-Marco: educación cristiana reformada y pactual.`;
-  openModal('Semana ' + n + ' — Exportar registro', txt);
+  const txt = `RETROALIMENTACIÓN — SEMANA ${n} · ${w?.tema || ''}
+Familia Espinoza · educación cristiana reformada pactual
+Marco: libro "Educar delante de Dios" (R. A. Espinoza)
+${'='.repeat(52)}
+
+Esta es la retroalimentación de la semana de mi esposa (la educadora).
+Por favor TÓMALA EN CUENTA para PERSONALIZAR la próxima semana,
+siguiendo nuestro modelo: 5 días (mar-sáb) de igual intensidad,
+30 min por clase con pausas activas, catecismo de 1 ángulo por día,
+sin moralismo, todo el contenido escrito en la app, y el marco del libro.
+
+🕊️ CATECISMO: ${sd(log.a)}
+
+📖 LECTOESCRITURA: ${sd(log.b)}
+
+🔢 MATEMÁTICAS: ${sd(log.c)}
+
+📜 HISTORIA: ${sd(log.d)}
+
+🔬 CIENCIAS / NATURALEZA: ${sd(log.e)}
+
+🎨 ARTE / MÚSICA / GEOGRAFÍA: ${sd(log.f)}
+
+📊 NIVELES E/D/C: ${sd(log.g)}
+
+❤️ ELI (su corazón / ánimo): ${sd(log.h)}
+
+🤱 MAMÁ (ritmo / sostenibilidad): ${sd(log.i)}
+
+🎯 PARA PERSONALIZAR: ${sd(log.j)}
+
+${'='.repeat(52)}
+Con base en esto, por favor:
+1. Ajusta el "plan personalizado para Eli" de la próxima semana (tabla en Para mamá).
+2. Refuerza lo que costó; celebra y avanza lo que ya está consolidado.
+3. Cuida el ritmo de mamá (si algo la agotó, alígéralo o usa versión mínima).
+4. Mantén el marco reformado pactual y sin moralismo del libro.
+Guardado: ${log.saved||'—'}`;
+  openModal('Semana ' + n + ' — Copiar para personalizar', txt);
 }
 
 function exportInfT(t) {
