@@ -6530,747 +6530,1074 @@ Si no alcanzaron a hacer alguna de las actividades de martes-viernes (frijol, di
 const W3 = {
 fm:`<div class="fm-section">
 <div class="fm-title">Formación para mamá — Semana 3</div>
-<div class="fm-sub">Imagen de Dios · Z · Evaluación de ruta lectoescritura</div>
-<div class="fm-block"><h4>Qué verdad bíblica gobierna esta semana</h4>
-<p>Génesis 1:26–28 no es solo un dato sobre el origen humano. Es la declaración de que Elisabeth fue hecha para conocer, responder, obedecer, crear, cuidar y adorar. Ser imagen de Dios significa que su educación no puede reducirse a entrenamiento de habilidades. Debe formar a una <em>persona completa delante de Dios</em>.</p>
-<p>Esta semana cierra la Z y evalúa si el recurso de lectoescritura actual sigue siendo el apropiado. Al terminar X, Y y Z, Elisabeth habrá completado las letras "difíciles". La Semana 4 puede marcar el punto de cambio de ruta.</p></div>
-<div class="fm-block"><h4>Evaluación de ruta — qué observar esta semana</h4>
-<p>Al final de la Semana 3, mamá debe responder con honestidad: ¿El recurso actual lleva a Elisabeth al nivel siguiente? ¿Puede leer textos desconocidos con comprensión? ¿Puede escribir un párrafo propio con coherencia? Si sí, el siguiente recurso puede ser más exigente. Si hay brechas, se consolida antes de cambiar.</p>
-<p><strong>Señales de que está lista para cambiar de ruta:</strong> lee textos nuevos de corrido (no conocidos de memoria), comprende sin releer, escribe frases propias sin copia, puede dictar un párrafo, narra con secuencia y detalle.</p></div>
+<div class="fm-sub">El hombre, imagen de Dios · 5 días (mar-sáb) · Catecismo P13</div>
+
+<!-- CARTA PASTORAL -->
+<div class="fm-block" style="border-left:4px solid var(--gold);background:linear-gradient(135deg,#FFF8E8,#FAF0D0)">
+<h4 style="color:var(--gold)">💛 Carta para ti — antes de empezar</h4>
+<p>Amada esposa: tu retroalimentación de la Semana 2 fue oro. La escuché toda y esta semana viene <strong>rediseñada según lo que viviste</strong>. Lo más importante primero: <strong>Eli hiló P11 y P12 con todas las explicaciones</strong> — eso es doctrina formándose en su corazón, y es fruto de tu fidelidad. La creación con dibujos le encantó. Va bien en matemáticas. Está escribiendo sus frases. Celebremos eso.</p>
+<p>Ahora lo que ajusté por ti: <strong>(1)</strong> cada clase ahora dura máximo 30 minutos, con <strong>pausas activas marcadas</strong> entre materias — ya no pasas de una a otra sin respirar. <strong>(2)</strong> El catecismo ya NO repite cada día la narración libre ni el portafolio — eso me lo señalaste con razón, era un defecto. Ahora cada día es UN ángulo nuevo y corto; la síntesis es solo el sábado. <strong>(3)</strong> La naturaleza pasó al jueves (mitad de semana). <strong>(4)</strong> Agregué ciencias de verdad, dos veces. <strong>(5)</strong> El arte ahora es estilo Classical: miramos una obra maestra. <strong>(6)</strong> El himno trae su historia y la biografía del autor. <strong>(7)</strong> El día 7 de la creación tiene su propio espacio. <strong>(8)</strong> La lectura se conecta con "Mamá enséñame a leer".</p>
+<p>Y recuerda: <strong>los frutos no dependen de ti.</strong> Tú siembras con fidelidad; Dios da el crecimiento (1 Co 3:6-7). Domingo descansamos, el lunes preparas con calma. Sigue así.</p>
+<p style="text-align:right;font-style:italic;color:var(--muted);margin-top:.6rem">— Tu esposo y compañero en esta tarea</p>
+</div>
+
+<!-- VERSÍCULO DE MEMORIA -->
+<div class="fm-block" style="border-left:4px solid var(--gold);background:#fff8e6">
+<h4 style="color:#8B6A00">📖 VERSÍCULO PARA MEMORIZAR esta semana</h4>
+<div style="text-align:center;padding:14px 10px;background:#fff;border-radius:8px;border:1.5px dashed var(--gold);margin:8px 0">
+<div style="font-family:Georgia,serif;font-size:1.2rem;font-style:italic;color:var(--ink);line-height:1.5">"Y creó Dios al hombre a su imagen, a imagen de Dios lo creó."</div>
+<div style="font-size:.85rem;color:var(--gold);font-weight:700;margin-top:6px">— Génesis 1:27</div>
+</div>
+<p style="font-size:.85rem"><strong>Plan (un poquito cada día):</strong> Mar — mamá lo lee 3 veces, hablar de "imagen". Mié — repetir, Eli lo dice sola. Jue — inventar melodía y cantarlo. Vie — Eli lo dice de memoria. Sáb — escribirlo en el cuaderno.</p>
+</div>
+
+<!-- MATERIALES -->
+<div class="fm-block" style="border-left:4px solid var(--rust);background:#fff5f0">
+<h4 style="color:var(--rust)">🛒 Materiales — revisa el LUNES (día de preparación)</h4>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li><strong>Siempre:</strong> Biblia, Catecismo CPN, "Mamá enséñame a leer" (sección Z), cuadernos, lápices, colores, regletas Cuisenaire.</li>
+<li><strong>Martes:</strong> mapa simple del Edén / Medio Oriente (impreso o en pantalla).</li>
+<li><strong>Miércoles:</strong> el frasco con el frijol germinado de S2 · regla para medir.</li>
+<li><strong>Jueves:</strong> cuaderno de naturaleza · ropa para salir al paseo · bolsa para tesoros.</li>
+<li><strong>Viernes:</strong> nada especial (experimento de los 5 sentidos usa cosas de la casa: algo para oler, algo suave, algo para probar).</li>
+<li><strong>Sábado:</strong> imagen impresa o en pantalla de <em>"La creación de Adán"</em> de Miguel Ángel · hoja blanca para dibujar.</li>
+</ul>
+</div>
+
+<!-- PLAN PERSONALIZADO -->
+<div class="fm-block" style="border-left:4px solid var(--violet);background:#faf0ff">
+<h4 style="color:var(--violet)">🎯 Plan personalizado para Eli — según tu registro de S2</h4>
+<table style="width:100%;border-collapse:collapse;font-size:.84rem;margin-top:8px">
+<tr style="background:rgba(107,63,170,.1)"><th style="text-align:left;padding:6px 8px">Área</th><th style="text-align:left;padding:6px 8px">Lo que viste en S2</th><th style="text-align:left;padding:6px 8px">Plan para S3</th></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Lectura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Aún silabea · cuando ELLA lee no explica bien</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Separamos decodificar de comprender.</strong> Textos cortos que pueda leer fluido + lectura en eco. La comprensión profunda se trabaja con lo que TÚ le lees. Conexión con "Mamá enséñame a leer" letra Z.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Escritura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Mejorando · escribe sus frases</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Regla del día: <strong>mayúscula al inicio</strong> (S2 fue el punto final).</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Matemáticas</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Bien con 11-20 · viernes costó por cansancio</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Consolidar 11-20 + <strong>iniciar la suma</strong> como "juntar". Si un día está cansada, usar versión mínima sin culpa.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Catecismo</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">¡Excelente! Hiló P11+P12</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>P13</strong> esta semana, mismo modelo de ángulos, pero corto cada día.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Historia</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Muy fructífero · pero el día 7 quedó suelto</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Empezamos cerrando el <strong>día 7 (reposo)</strong>, luego el hombre como imagen de Dios.</td></tr>
+</table>
+</div>
+
+<!-- HORARIO -->
+<div class="fm-block">
+<h4>⏱️ El nuevo horario — 30 min por clase, con pausas</h4>
+<p style="font-size:.86rem">Cada día tiene el mismo ritmo (igual intensidad). Verás el horario completo arriba de cada día. La clave que pediste: <strong>pausas activas entre materias.</strong></p>
+<div class="horario" style="margin-top:8px">
+<div class="horario-ttl">Horario tipo · igual cada día</div>
+<div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual (oración + versículo)</span></div>
+<div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo — 1 ángulo del día</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa (agua, saltar, estirarse)</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
+<div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Matemáticas</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Historia Providencial</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">10:35</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:45</span><span class="horario-act">Materia del día (Geo / Ciencias / Naturaleza / Arte)</span></div>
+<div class="horario-row"><span class="horario-time">11:15</span><span class="horario-act">Inglés</span></div>
+<div class="horario-row"><span class="horario-time">11:45</span><span class="horario-act">Piano</span></div>
+</div>
+<p style="font-size:.84rem;margin-top:8px"><strong>Menú de pausas activas (5-10 min):</strong> tomar agua · comer fruta · saltar 20 veces · estirarse como un gato · correr al patio y volver · bailar una canción · respirar profundo 5 veces · abrazar a mamá.</p>
+</div>
+
+<!-- PLAN DE LECTURA -->
+<div class="fm-block" style="border-left:4px solid var(--blue);background:#f0f6ff">
+<h4 style="color:var(--blue)">📚 Plan de lectura · Semana 3 (conectado con "Mamá enséñame a leer")</h4>
+<ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
+<li><strong>Mar:</strong> Letra <strong>Z</strong> en "Mamá enséñame a leer" — sonido y sílabas (za, ze, zi, zo, zu). Eli lee palabras cortas con Z.</li>
+<li><strong>Mié:</strong> texto decodificable corto con Z + <strong>lectura en eco</strong> (mamá lee una línea, Eli la repite). Comprensión oral.</li>
+<li><strong>Jue:</strong> dictado expresivo (frases con Z) + Eli escribe 3 frases propias.</li>
+<li><strong>Vie:</strong> texto NUEVO que mamá le lee (Eli comprende mejor escuchando) + Eli narra.</li>
+<li><strong>Sáb:</strong> Eli escribe el versículo de memoria (Gén 1:27).</li>
+</ul>
+<p style="font-size:.85rem;background:#fff;padding:8px 12px;border-radius:6px;border-left:3px solid var(--blue)"><strong>Clave que pediste:</strong> Eli aún silabea, y al silabear su mente no tiene espacio para comprender — es normal a su edad. Por eso esta semana <strong>separamos</strong>: cuando ELLA lee, usamos textos cortos y fáciles (para fluidez); la comprensión profunda la trabajamos con textos que TÚ le lees. Las dos cosas crecen, pero por caminos distintos.</p>
+</div>
+
+<!-- NOTA DE CRIANZA DEL CORAZÓN -->
+<div class="fm-block" style="border-left:4px solid var(--rust);background:#fff5f0">
+<h4 style="color:var(--rust)">🐑 Nota de crianza del corazón (Cap 10 del libro)</h4>
+<p style="font-size:.86rem">Si Eli se cansa, se frustra o se resiste esta semana (pasó el viernes de S2 por cansancio), recuerda: la disciplina cristiana <strong>no es modificar conducta con versículos</strong>. Es llevarla al corazón y al evangelio. En vez de "haz esto porque te lo digo", prueba: <em>"Veo que estás cansada. Dios entiende el cansancio — hasta Jesús se cansó. Hagamos la versión corta hoy, descansamos, y mañana seguimos."</em> No hay culpa en usar la versión mínima. La fidelidad no es perfección.</p>
+</div>
+
+<!-- IGLESIA -->
+<div class="fm-block" style="border-left:4px solid var(--violet);background:#faf0ff">
+<h4 style="color:var(--violet)">⛪ Conexión con la iglesia Raah (Cap 21)</h4>
+<p style="font-size:.86rem">El domingo ordena la semana. El <strong>día 7 de la creación (reposo de Dios)</strong> que vemos el martes conecta directo con el Día del Señor: Dios reposó, y nos llama a reposar en Él. Habla con Eli el domingo: "Hoy es el día que Dios apartó. Por eso vamos a la iglesia, oímos su Palabra, descansamos." Si el sermón o la escuela dominical de Eli toca la creación o el ser humano, conéctalo con lo que vimos esta semana.</p>
+</div>
+
+<!-- ORACIÓN -->
 <div class="fm-oracion"><div class="fo-lbl">Oración antes de enseñar</div>
-<p>Señor, hiciste a mi hija a tu imagen. No para que produzca rendimiento, sino para que te conozca y te ame. Ayúdame a evaluar esta semana con honestidad y sin ansiedad. Que el cambio de ruta, si llega, sea un paso de fe y no de orgullo. Amén.</p>
-</div></div>
-<div class="strip s-teal" style="margin-top:.75rem">
-<strong>Lunes — Catecismo para Niños P20:</strong><br>
-P. 20: ¿Cómo sabes que tienes un alma?<br>
-R: Porque la Biblia me lo dice.<br>
-<em>Lunes nuevo: P20. Repaso rápido de P11–P19.</em>
+<p>Señor, gracias por la segunda semana — por lo que floreció y por lo que ajustamos. Esta semana enséñame a mostrarle a Eli que ella es hecha a tu imagen, con dignidad y propósito. Dame ritmo sin prisa, sustancia sin agobio. Que descansemos en que tú puedes todo lo que es bueno. En el nombre de Jesús. Amén.</p>
+</div>
 </div>`,
 
 martes:`${APERTURA}
 
-<!-- ═══════════════ BLOQUE 1: CATECISMO P13 · Día 1 — Apertura y ancla ═══════════════ -->
+<div class="horario">
+<div class="horario-ttl">📅 Martes · Geografía es la materia del día</div>
+<div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
+<div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P13 · Día 1</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura · Letra Z</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
+<div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Matemáticas · repaso 11-20 + orden</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Historia · Día 7, Dios reposó</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">10:35</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:45</span><span class="horario-act">Geografía · El Edén</span></div>
+<div class="horario-row"><span class="horario-time">11:15</span><span class="horario-act">Inglés</span></div>
+<div class="horario-row"><span class="horario-time">11:45</span><span class="horario-act">Piano</span></div>
+</div>
+
+<!-- CATECISMO P13 DÍA 1 -->
 <div class="lesson">
-  <div class="lesson-hd">
-    <div class="lesson-ico violeta">✝️</div>
-    <div>
-      <div class="lesson-ttl">Catecismo CPN P13 · Día 1 — Apertura y ancla</div>
-      <div class="lesson-meta">12–15 min · ¿Puede Dios hacer todo? · Daniel 4:35</div>
-      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span></div>
-    </div>
-  </div>
+  <div class="lesson-hd"><div class="lesson-ico violeta">✝️</div><div>
+    <div class="lesson-ttl">Catecismo P13 · Día 1 — Nadie detiene su mano</div>
+    <div class="lesson-meta">20 min · ¿Puede Dios hacer todo? · Daniel 4:35</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span></div>
+  </div></div>
   <div class="lesson-body">
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
-      <div class="lec-mama">
-        <p><span class="lec-tag">La verdad que gobierna esta clase:</span> P13 enseña la <strong>omnipotencia divina</strong>, pero el catecismo es teológicamente preciso: <em>"Dios puede hacer todo conforme a su santa y soberana voluntad"</em>. No dice "puede hacer cualquier cosa". El poder de Dios no es magia ni capricho — es santo, ordenado, soberano. Esa precisión es lo que diferencia al Dios bíblico de un genio mítico.</p>
-        <p><span class="lec-tag">Por qué importa:</span> los niños suelen recibir "Dios puede todo" y saltan a "¿entonces por qué no detuvo X?". La respuesta reformada no es teodicea abstracta — es: <strong>Dios hace toda su santa voluntad, y esa voluntad es buena, sabia y soberana</strong>. Hoy no entres a teodicea, pero pon el cimiento: <em>el poder de Dios es santo.</em></p>
-        <p><span class="lec-tag">Daniel 4:35 como texto principal:</span> "Hace según su voluntad en el ejército del cielo y en los habitantes de la tierra; y no hay quien detenga su mano, ni le diga: ¿Qué haces?" Nabucodonosor — el rey más poderoso de su tiempo — confiesa que su propio poder no es nada comparado con el de Dios. <em>Nadie detiene la mano de Dios.</em> Esa frase es el corazón de la omnipotencia bíblica.</p>
-        <p><span class="lec-tag">Bavinck sobre la omnipotencia:</span> el poder de Dios no es poder bruto, es poder según su naturaleza. Dios no puede mentir, no puede pecar, no puede negarse a sí mismo. Esas "imposibilidades" no son límites — son perfecciones. Dios es tan poderoso que su poder está siempre en armonía con su santidad.</p>
-        <p><span class="lec-tag">Cadena cumulativa:</span> P11 (mira) + P12 (sabe) + P13 (puede). Eli está construyendo su mapa del Dios todo-suficiente: el Padre que ve, conoce y puede cumplir. La próxima semana sumará P14 (su Palabra es donde lo conocemos).</p>
-        <p><span class="lec-tag">Peligro a evitar:</span> que "puede hacer todo" se convierta en "es como Aladino". Dios no concede deseos. Hace su voluntad santa. Si Eli pregunta "¿entonces por qué Dios no me da X?", responde con calma: <em>"porque su voluntad es santa y sabia, no como la nuestra."</em></p>
-        <p><span class="lec-tag">Lo que estás formando:</span> reverencia ante un poder que es santo. Confianza en que Dios puede cumplir lo que prometió.</p>
-        <div class="lec-bible">"Hace según su voluntad en el ejército del cielo y en los habitantes de la tierra; y no hay quien detenga su mano." — Daniel 4:35 &nbsp;·&nbsp; "Para los hombres esto es imposible, pero para Dios todo es posible." — Mateo 19:26</div>
-        <div class="lec-prayer">
-          <span class="pry-lbl">Oración antes de enseñar</span>
-          Señor, que Eli aprenda hoy que tu poder es santo y soberano. Que descanse en saber que nadie detiene tu mano. Amén.
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">12–15 min</span></div>
-      <div class="guia">
-
-        <div class="guia-step">
-          <div class="guia-step-n">1</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Apertura · El imposible <span class="edc-mark E">E</span> · 2 min</div>
-            <div class="guia-say">"Eli, ¿podrías hacer que el sol salga mañana? ¿Podrías hacer que un árbol crezca en un minuto? ¿Podrías sanar a alguien que está muy enfermo? No, ¿verdad? Hay cosas que NO podemos hacer porque no tenemos poder. Hoy aprendemos: hay Alguien que SÍ puede todo lo que quiere."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">2</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Repaso de P11 + P12 + introducir P13 <span class="edc-mark E">E</span> · 3 min</div>
-            <p>Eli recita las dos anteriores:</p>
-            <div class="guia-say">P11: ¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente.<br>P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.</div>
-            <p>Introduce P13:</p>
-            <div class="guia-say">P13: ¿Puede Dios hacer todo?<br>R: Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.</div>
-            <p>Repite 3 veces. Subraya: <strong>"santa y soberana voluntad"</strong> — esas son las palabras clave.</p>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">3</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Lectura · Daniel 4:35 <span class="edc-mark E">E</span> · 3 min</div>
-            <p>Cuéntale brevemente a Eli quién era Nabucodonosor:</p>
-            <div class="guia-say">"Hace mucho tiempo había un rey muy, muy poderoso — se llamaba Nabucodonosor. Tenía ejércitos, palacios, todo. Pero un día Dios le mostró que su poder era prestado. Y Nabucodonosor dijo estas palabras..."</div>
-            <p>Lee:</p>
-            <div class="guia-bible"><span class="guia-bible-ref">Daniel 4:35</span>"Hace según su voluntad en el ejército del cielo y en los habitantes de la tierra; y no hay quien detenga su mano."</div>
-            <div class="guia-say">"¿Lo oíste? 'No hay quien detenga su mano.' Significa que cuando Dios decide algo, nadie lo puede parar. Ni reyes, ni ejércitos, ni nada."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">4</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Doctrina · Poder SANTO <span class="edc-mark D">D</span> · 3 min</div>
-            <p>Aquí está el corazón de la clase. No la apresures.</p>
-            <div class="guia-say">"Fíjate cómo dice el catecismo: 'Dios puede hacer todo conforme a su SANTA y SOBERANA voluntad.' No dice 'puede hacer cualquier cosa'. Hay cosas que Dios <strong>no puede</strong> hacer."</div>
-            <p>Pausa. Eli abrirá los ojos.</p>
-            <div class="guia-say">"¿Cómo? Dios no puede mentir. Dios no puede pecar. Dios no puede ser malo. ¿Por qué? Porque eso no sería santo, y Dios es santo. Su poder y su santidad van siempre juntos."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">5</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Aplicación · Confianza en las promesas <span class="edc-mark D">D</span> · 2 min</div>
-            <div class="guia-say">"Esto es importante, Eli. Dios prometió cosas en su Palabra: que perdona a los que creen en Jesús, que cuida a sus hijos, que un día va a renovar todo. ¿Crees que tiene poder para cumplirlo? Sí. Porque puede hacer toda su santa voluntad. Lo que Dios promete, Dios lo cumple."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">6</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Oración + cadena <span class="edc-mark E">E</span> · 2 min</div>
-            <div class="guia-say">"Señor, gracias porque tu poder es santo. Gracias porque nadie detiene tu mano. Ayuda a Eli a confiar en lo que prometiste. Amén."</div>
-            <p>Cierra con la cadena P11 + P12 + P13.</p>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
-      <table class="eval-tabla">
-        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-        <tr class="E"><td class="lvl">E</td><td>Olvida P11 o P12. Confunde "puede todo" con "concede deseos"</td><td>Repetir P12 primero. Énfasis: <em>"Dios no es Aladino."</em></td></tr>
-        <tr class="D"><td class="lvl">D</td><td>Recita la cadena P11-P13 con apoyo. No articula "santa voluntad"</td><td>Pregunta: <em>"¿Puede Dios hacer cosas malas?"</em> Espera respuesta.</td></tr>
-        <tr class="C"><td class="lvl">C</td><td>Recita y explica que el poder de Dios sirve a su voluntad santa</td><td>Registrar. Lista para Mt 19:26 mañana.</td></tr>
-      </table>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional</span></div>
-      <div class="ficha-eli">
-        <p style="font-size:.85rem;color:var(--muted)">La hoja grande va el viernes. Hoy sugerencia simple.</p>
-        <p>Sin IA: que Eli dibuje "la mano de Dios" en su cuaderno con la frase <em>"Nadie detiene su mano."</em></p>
-        <div class="prompt-claude">
-          <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
-            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
-          </div>
-          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
-
-CONTEXTO:
-- Semana 3, Día 1, Catecismo CPN P13
-- Eli ya sabe P11 ("Yo no puedo verlo, pero Él me mira continuamente") y P12 ("Sí, ninguna cosa puede ocultarse de la vista de Dios")
-- Hoy aprende P13:
-  P: ¿Puede Dios hacer todo?
-  R: Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.
-- Texto ancla: Daniel 4:35 (nadie detiene la mano de Dios)
-- Énfasis en "santa y soberana voluntad" — el poder de Dios es santo
-
-CONTENIDO DE LA HOJA (A4 vertical):
-1. Encabezado: "Nadie detiene la mano de Dios"
-2. Cinta superior con la R: "Sí, Dios puede hacer todo conforme a su santa y soberana voluntad"
-3. Caja con Daniel 4:35: "No hay quien detenga su mano. — Daniel 4:35"
-4. Recuadro 10×10 cm: "Dibuja la mano de Dios sosteniendo el mundo" (dibujo libre)
-5. Pregunta abierta con 3 líneas: "¿Qué cosas NO puede hacer Dios? (Pista: cosas que no serían santas)"
-6. Sección "Yo confío" — Eli completa: "Dios prometió ____________. Yo creo que Él lo cumple porque _____________"
-7. Cinta inferior dorada: "Para Dios todo es posible. — Mateo 19:26"
-
-DISEÑO VISUAL:
-- Fondo crema (#FAF6F0)
-- Color del tema: violeta (#6B3FAA) con acentos dorados (#C49A2A)
-- Tipografía Georgia para títulos, sans-serif clara para texto
-- Letra mín. 16pt
-- Estilo digno, reverente, contemplativo
-- No usar caricaturas exageradas, colores neón ni estética infantil saturada
-- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
-
-OUTPUT SEGÚN LA IA USADA:
-
-Si la IA genera imagen:
-A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
-
-Si la IA genera HTML:
-Artifact con CSS embebido, A4 vertical, imprimible.
-
-Si la IA genera PDF:
-A4 vertical, listo para imprimir.
-
-No responder con explicación. Generar directamente la ficha.</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-      <div class="minima">
-        <div class="minima-ttl">Lo esencial — 5 minutos</div>
-        <ol>
-          <li>Repaso de P11+P12</li>
-          <li>Introducir P13 — repetir 3 veces</li>
-          <li>Leer Daniel 4:35 una vez</li>
-          <li>Una frase: <em>"Nadie detiene la mano de Dios."</em></li>
-          <li>Listo.</li>
-        </ol>
-      </div>
-    </div>
-
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span><span class="lsec-sub">léelo el lunes</span></div>
+    <div class="lec-mama">
+      <p><span class="lec-tag">La verdad:</span> P13 enseña la omnipotencia, pero el catecismo es preciso: Dios puede hacer todo <strong>conforme a su santa y soberana voluntad</strong>. No es magia ni capricho. No puede mentir ni pecar — eso no es debilidad, es perfección.</p>
+      <p><span class="lec-tag">Sin moralismo:</span> el poder de Dios no es para asustar. Es para confiar — Él puede cumplir todo lo que prometió. Daniel 4:35: "no hay quien detenga su mano."</p>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Apertura · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Eli, ¿tú podrías hacer que el sol salga mañana? ¿O que crezca un árbol en un minuto? No. Hay cosas que no podemos hacer. Hoy aprendemos que hay Alguien que SÍ puede todo lo que quiere."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Repaso breve + P13 · 5 min <span class="edc-mark E">E</span></div>
+        <p>Repaso de 30 segundos: Eli dice P11 y P12. Luego presenta P13:</p>
+        <div class="guia-say">P13: ¿Puede Dios hacer todo?<br>R: Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.</div>
+        <p>Repetir 3 veces. Subrayar "santa y soberana voluntad".</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Daniel 4:35 · 7 min <span class="edc-mark D">D</span></div>
+        <p>Cuenta: el rey Nabucodonosor era el más poderoso de su tiempo, pero Dios le mostró que su poder era prestado. Lee:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Daniel 4:35</span>"Hace según su voluntad... y no hay quien detenga su mano."</div>
+        <div class="guia-say">"Nadie puede parar la mano de Dios. Ni reyes, ni ejércitos. Cuando Dios decide algo bueno, se hace."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre + oración · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Señor, gracias porque tu poder es santo. Nadie detiene tu mano. Ayúdanos a confiar. Amén."</div>
+        <p>Eli repite P13 una vez más.</p></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Confunde "puede todo" con magia/deseos</td><td>Énfasis: "Dios no es Aladino; su poder es santo."</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Recita P13, no articula "santa voluntad"</td><td>Preguntar: "¿Puede Dios hacer algo malo?" (No)</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Recita y explica que el poder de Dios sirve a su voluntad buena</td><td>Registrar. Lista para Día 2.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">5 min</div><ol><li>Repaso P11+P12</li><li>P13 tres veces</li><li>"Nadie detiene la mano de Dios"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico azul">📖</div><div><div class="act-ttl">Lectoescritura · Z: texto, comprensión y escritura evaluativa</div><div class="act-meta">45 min · evaluación de ruta incluida</div></div></div>
-<div class="act-body">
-<p><strong>Texto de Z (20 min):</strong> Leer el texto de la sección Z con comprensión. Preguntas de inferencia y opinión: "¿Qué harías tú en ese lugar? ¿Por qué crees que...?"</p>
-<p><strong>Evaluación de escritura (20 min):</strong> Mamá da un tema libre: "Escribe sobre alguien de tu familia y por qué esa persona es importante para ti." Elisabeth escribe sola, mínimo 5 frases. Sin dictado, sin modelo, sin ayuda. Este es el texto de evaluación de ruta.</p>
-<div class="desafio"><div class="desafio-lbl">🔥 Criterios de evaluación de ruta</div><p>Leer el texto de Elisabeth observando: coherencia de ideas, uso de mayúsculas y puntos, variedad de vocabulario, longitud de frases. Si está en C en estos aspectos, la Semana 4 inicia el nuevo recurso. Si está en D, dedicar una semana más de consolidación.</p></div>
-</div></div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico dorado">📜</div><div><div class="act-ttl">Historia · Imagen de Dios — dignidad y vocación</div><div class="act-meta">25 min · Gén 1:26–28</div></div></div>
-<div class="act-body">
-<div class="say"><div class="say-lbl">Mamá enseña</div><div class="say-txt">"Dios hizo el sol, la luna, las plantas, los animales. Todos son buenos. Pero cuando hizo al hombre y a la mujer, dijo algo diferente: 'los haré a mi imagen.' Eso no lo dijo de los árboles ni de los leones. Solo de la persona. Eso significa que Elisabeth no es solo un animal inteligente. Es alguien que puede conocer a Dios, responder a Dios, obedecer a Dios, crear cosas, cuidar la creación y adorar."</div></div>
-<p>Leer Gén 1:26–28. Narración de Elisabeth. Luego: "¿Qué cosas puedes hacer tú que un animal no puede hacer?" — Elisabeth responde con ejemplos concretos.</p>
-</div></div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico rojo">🔢</div><div><div class="act-ttl">Matemáticas · Valor posicional: del dibujo al número y viceversa</div><div class="act-meta">25 min · Mamut VP p.13–14 · consolidación completa</div></div></div>
-<div class="act-body">
-<p><strong>Ejercicios Mamut VP (15 min):</strong> Elisabeth completa p.13–14 con comprensión. Mamá no explica primero — Elisabeth intenta sola, luego revisan juntas.</p>
-<div class="desafio"><div class="desafio-lbl">🔥 Problema de aplicación</div><p>"Tengo 1 decena 7 unidades de canicas. Mi amiga tiene 2 decenas. ¿Quién tiene más? ¿Cuántas tiene mi amiga?" — Elisabeth resuelve oral primero, luego puede escribir.</p></div>
-</div></div>`,
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min):</b> agua + saltar 20 veces + estirarse. Vuelvan cuando Eli esté lista.</div></div>
+
+<!-- LECTOESCRITURA Z -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
+    <div class="lesson-ttl">Lectoescritura · La letra Z</div>
+    <div class="lesson-meta">30 min · "Mamá enséñame a leer" sección Z</div>
+    <div class="mats"><span class="mat">Mamá enséñame a leer (Z)</span><span class="mat">Cuaderno</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Hoy presentamos la <strong>Z</strong> usando "Mamá enséñame a leer" (la conexión que pediste). El foco hoy es <strong>decodificar</strong> (leer fluido), no comprensión profunda. Textos cortos que Eli pueda leer sin trabarse. Regla del día: <strong>mayúscula al inicio de la oración</strong>.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Sonido de la Z · 5 min <span class="edc-mark E">E</span></div>
+        <p>Abre "Mamá enséñame a leer" en la sección de la Z. Sigue el método del libro.</p>
+        <div class="guia-say">"La letra Z suena /z/. Repite: za, ze, zi, zo, zu."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Palabras con Z · 10 min <span class="edc-mark D">D</span></div>
+        <p>Eli lee palabras cortas, despacio, decodificando: <strong>zapato · zorro · taza · pozo · azul · nariz · luz · feliz</strong>. Sin prisa. Celebra cada una que lee sola.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Escribir · 10 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Escribe 2 frases con palabras que tengan Z. Empieza cada una con mayúscula y termina con punto."</div>
+        <p>Eli escribe sola. Mamá señala SOLO si faltó la mayúscula inicial.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Ya conoces casi todas las letras. Dios te dio una mente que aprende. ¡Qué regalo!"</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Le cuesta el sonido /z/ o las sílabas</td><td>Quedarse en sílabas; palabras mañana.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Lee palabras con Z decodificando · escribe con apoyo</td><td>Normal. Marcar solo la mayúscula.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Lee fluido · escribe 2 frases con mayúscula y punto</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Sílabas za-ze-zi-zo-zu</li><li>Eli lee 4 palabras con Z</li><li>Escribe 1 frase</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa + snack (15 min):</b> comer algo, moverse. Es el descanso más largo del día.</div></div>
+
+<!-- MATEMÁTICAS -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
+    <div class="lesson-ttl">Matemáticas · Repaso 11-20 + ordenar</div>
+    <div class="lesson-meta">30 min · mayor/menor · todo en la app</div>
+    <div class="mats"><span class="mat">Regletas Cuisenaire</span><span class="mat">Cuaderno</span><span class="mat">Opc: Singapur 1A p.84-85</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Consolidamos 11-20 y agregamos <strong>ordenar</strong> (¿cuál es mayor? ¿cuál es menor?). Todo escrito aquí — no necesitas abrir libros. Si quieres ver el vínculo: Singapur 1A pp.84-85 / Mamut Valor Posicional. Recuerda: si Eli se cansa, versión mínima sin culpa.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Repaso veloz 11-20 · 7 min <span class="edc-mark E">E</span></div>
+        <p>Mamá pone regletas (naranja + blancas) formando 13, 16, 19. Eli dice el número. Luego al revés: mamá dice "17", Eli lo arma.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Mayor y menor · 12 min <span class="edc-mark D">D</span></div>
+        <p>Mamá pone dos números con regletas (ej. 12 y 17). Pregunta:</p>
+        <div class="guia-say">"¿Cuál es mayor? ¿Cuál tiene más? El que es más largo con regletas es el mayor."</div>
+        <div class="guia-bible"><span class="guia-bible-ref">5 parejas (respuestas para mamá)</span>14 y 11 → mayor 14 · 18 y 20 → mayor 20 · 13 y 15 → mayor 15 · 19 y 16 → mayor 19 · 12 y 17 → mayor 17</div>
+        <p>Eli responde con regletas si lo necesita.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Escribir en orden · 8 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Escribe estos números del menor al mayor: 15, 11, 18, 13."</div>
+        <p style="font-size:.85rem;color:var(--muted)">Respuesta: 11, 13, 15, 18.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Los números tienen orden, del menor al mayor. Dios ordenó su mundo así."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No distingue mayor/menor sin regletas</td><td>Usar regletas siempre; comparar largos.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Compara con regletas · ordena con apoyo</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Compara y ordena sin regletas</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Repaso 11-20 con regletas</li><li>3 parejas mayor/menor</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min):</b> correr al patio y volver, o bailar una canción.</div></div>
+
+<!-- HISTORIA DÍA 7 -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico dorado">📜</div><div>
+    <div class="lesson-ttl">Historia · Día 7 — Dios reposó</div>
+    <div class="lesson-meta">30 min · Cierre de la creación · Génesis 2:1-3</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Hoja grande de 7 días (de S2)</span><span class="mat">Colores</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>En S2 quedó suelto el día 7 (me lo señalaste). Hoy lo cerramos bien. Dios no reposó por cansancio — reposó porque su obra estaba <strong>completa y buena</strong>. Ese reposo es el fundamento del <strong>Día del Señor</strong>: somos llamados a reposar en Dios. Conexión directa con el domingo en Raah.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Repaso de los 6 días · 5 min <span class="edc-mark E">E</span></div>
+        <p>Saca la hoja grande de S2. Eli repasa qué creó Dios cada día (1-6).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Lectura · Génesis 2:1-3 · 7 min <span class="edc-mark E">E</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 2:1-3 · adaptado</span>"Así quedaron terminados los cielos y la tierra. En el día séptimo Dios había terminado su obra, y reposó. Y bendijo el día séptimo y lo santificó, porque en él reposó de toda su obra."</div>
+        <div class="guia-say">"Dios no se cansó como nosotros. Reposó porque todo estaba terminado y era muy bueno. Y apartó ese día como especial."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Conexión con el domingo · 5 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"¿Sabes por qué descansamos el domingo y vamos a la iglesia? Porque Dios nos enseñó a reposar en Él. El domingo es nuestro día de reposo, como el día 7 de Dios."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Dibujar el día 7 · 10 min <span class="edc-mark D">D</span></div>
+        <p>Eli completa el último cuadro de la hoja grande: el día 7. Puede dibujar a la familia descansando, o todo el mundo creado con un sol de paz. Mamá no corrige el arte.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">5</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"La creación está completa. Dios hizo todo bueno y reposó. ¡Y mañana aprendemos lo más especial que creó!"</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Cree que Dios reposó por cansancio</td><td>Aclarar: reposó porque terminó, no por cansancio.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Entiende el día 7 y lo dibuja</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta el día 7 con el domingo</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Leer Gén 2:1-3</li><li>Dibujar el día 7</li><li>"Dios reposó; por eso descansamos el domingo"</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min):</b> agua, estirarse, mirar por la ventana.</div></div>
+
+<!-- GEOGRAFÍA -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico verde">🗺️</div><div>
+    <div class="lesson-ttl">Geografía · ¿Dónde estaba el Edén?</div>
+    <div class="lesson-meta">30 min · El mundo de la Biblia · Génesis 2:10-14</div>
+    <div class="mats"><span class="mat">Mapa Medio Oriente (impreso o pantalla)</span><span class="mat">Colores</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Geografía conectada con la historia (lo que pediste: que sea clara y útil). El Edén estaba donde hoy están los ríos Tigris y Éufrates (Irak actual). Eli aprende que la Biblia ocurre en lugares reales, no en "había una vez". Dios pone a las personas en lugares concretos — providencia con coordenadas.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">El mundo es real · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"La Biblia no pasó en un lugar inventado. Pasó en lugares reales que todavía existen. Vamos a buscar dónde estaba el primer jardín, el Edén."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Leer Génesis 2:10-14 · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 2:10-14 · adaptado</span>"Un río salía del Edén para regar el jardín... uno se llama Tigris y otro Éufrates."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">En el mapa · 12 min <span class="edc-mark D">D</span></div>
+        <p>Muestra el mapa. Encuentren juntas los ríos Tigris y Éufrates (hoy Irak). Eli los pinta de azul. Luego encuentren Colombia/Bogotá y comparan: "el Edén estaba lejos, pero el mismo Dios que puso a Adán allí te puso a ti aquí."</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios pone a cada persona en un lugar. A Adán en el Edén. A ti en Bogotá. Nada es accidente."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Mostrar mapa, encontrar los dos ríos</li><li>Pintarlos de azul</li><li>"La Biblia pasó en lugares reales"</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<!-- INGLÉS + PIANO -->
+<div class="strip s-sage" style="margin-top:14px">
+<strong>🇬🇧 Inglés (30 min):</strong> bloque externo. Si usas un recurso, este es su espacio. Sugerencia simple hoy: repasar colores y números 1-10 en inglés con Eli, o ver un video corto en inglés apropiado.<br>
+<strong>🎹 Piano (20 min):</strong> práctica diaria como cierre creativo. No es académico — es formación de atención y belleza (Cap 16: el arte forma el alma).
+</div>`,
 
 miercoles:`${APERTURA}
 
-<!-- ═══════════════ BLOQUE 1: CATECISMO P13 · Día 2 — "Todo es posible" ═══════════════ -->
+<div class="horario">
+<div class="horario-ttl">📅 Miércoles · Ciencias es la materia del día</div>
+<div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
+<div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P13 · Día 2</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura · lectura en eco</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
+<div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Matemáticas · comparar</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Historia · imagen de Dios</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">10:35</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:45</span><span class="horario-act">Ciencias · el frijol crece</span></div>
+<div class="horario-row"><span class="horario-time">11:15</span><span class="horario-act">Inglés</span></div>
+<div class="horario-row"><span class="horario-time">11:45</span><span class="horario-act">Piano</span></div>
+</div>
+
+<!-- CATECISMO P13 DÍA 2 -->
 <div class="lesson">
-  <div class="lesson-hd">
-    <div class="lesson-ico violeta">✝️</div>
-    <div>
-      <div class="lesson-ttl">Catecismo CPN P13 · Día 2 — "Para Dios todo es posible"</div>
-      <div class="lesson-meta">10–12 min · Profundización con Mateo 19:26</div>
-      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span></div>
-    </div>
-  </div>
+  <div class="lesson-hd"><div class="lesson-ico violeta">✝️</div><div>
+    <div class="lesson-ttl">Catecismo P13 · Día 2 — Para Dios todo es posible</div>
+    <div class="lesson-meta">20 min · Mateo 19:26</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span></div>
+  </div></div>
   <div class="lesson-body">
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
-      <div class="lec-mama">
-        <p><span class="lec-tag">El ángulo de hoy:</span> ayer Daniel 4:35 nos enseñó que nadie detiene la mano de Dios en el plano cósmico (reyes, ejércitos, naturaleza). Hoy Mateo 19:26 trae la omnipotencia al plano personal: <strong>la salvación es posible solo porque Dios puede lo que parece imposible</strong>.</p>
-        <p><span class="lec-tag">Mateo 19:26 en contexto:</span> el joven rico se acaba de ir triste. Los discípulos están conmocionados: <em>"¿Quién, pues, podrá ser salvo?"</em> Jesús los mira y dice: <em>"Para los hombres esto es imposible, pero para Dios todo es posible."</em> El milagro de la salvación no es ético — es ontológico. Solo Dios puede cambiar un corazón.</p>
-        <p><span class="lec-tag">Calvino lo enseña así:</span> la salvación es obra del Espíritu, no esfuerzo humano. Si dependiera de nosotros, nadie sería salvo. Porque Dios <em>puede</em>, hay esperanza. La omnipotencia divina no es decoración doctrinal — es el fundamento del evangelio.</p>
-        <p><span class="lec-tag">El movimiento del día:</span> Día 1 fue cósmico (Dios manda en la creación entera). Día 2 es personal (Dios puede cambiar corazones, incluido el mío). Eli debe terminar la clase pensando: <em>"Si Dios puede hacer todo, también puede ayudarme a obedecerle."</em></p>
-        <p><span class="lec-tag">Peligro a evitar:</span> que Eli se quede en "todo es posible si tengo fe" (estilo prosperidad). El sujeto del verbo es DIOS, no la fe. "Para Dios todo es posible" — no "todo lo que yo crea con suficiente fe". Esa distinción salva del autoengaño.</p>
-        <p><span class="lec-tag">Lo que estás formando:</span> dependencia. Eli aprende que ella no puede salvarse, pero Dios SÍ puede salvarla. La omnipotencia divina como evangelio.</p>
-        <div class="lec-bible">"Para los hombres esto es imposible, pero para Dios todo es posible." — Mateo 19:26 &nbsp;·&nbsp; "¿Hay para Dios alguna cosa difícil?" — Génesis 18:14</div>
-        <div class="lec-prayer">
-          <span class="pry-lbl">Oración antes de enseñar</span>
-          Señor, gracias porque tu poder hace posible lo que para nosotros sería imposible. Que Eli aprenda hoy a depender de ti. Amén.
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">10–12 min</span></div>
-      <div class="guia">
-
-        <div class="guia-step">
-          <div class="guia-step-n">1</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Repaso <span class="edc-mark E">E</span> · 2 min</div>
-            <p>Eli recita la P y R de ayer:</p>
-            <div class="guia-say">P13: ¿Puede Dios hacer todo?<br>R: Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.</div>
-            <p>Pregunta de enlace:</p>
-            <div class="guia-say">"Ayer aprendimos con Daniel que nadie detiene la mano de Dios en el mundo entero. Hoy Jesús va a enseñar algo aún más asombroso sobre lo que Dios puede hacer EN nosotros."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">2</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Narración bíblica · El joven rico <span class="edc-mark E">E</span> · 3 min</div>
-            <div class="guia-say">"Un día un joven muy rico llegó a Jesús y le preguntó qué tenía que hacer para tener vida eterna. Jesús le dijo: 'Vende lo que tienes, dáselo a los pobres y sígueme.' Pero el joven se entristeció y se fue. Era demasiado para él."</div>
-            <div class="guia-say">"Los discípulos estaban impresionados y preguntaron: '¿Quién, pues, podrá ser salvo?' Pensaban: si este joven bueno no puede, ¿quién puede?"</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">3</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Lectura · Mateo 19:26 <span class="edc-mark E">E</span> · 2 min</div>
-            <p>Lee despacio:</p>
-            <div class="guia-bible"><span class="guia-bible-ref">Mateo 19:26</span>"Para los hombres esto es imposible, pero para Dios todo es posible."</div>
-            <div class="guia-say">"Mira qué importante: hay cosas que NOSOTROS no podemos hacer. Por ejemplo, nosotros no podemos cambiar nuestro propio corazón. No podemos hacer que de pronto nos guste obedecer. No podemos salvarnos a nosotros mismos. Pero DIOS sí puede."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">4</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Doctrina · La omnipotencia y el evangelio <span class="edc-mark D">D</span> · 3 min</div>
-            <div class="guia-say">"Esto es lo más bonito de hoy, Eli. Si Dios no pudiera todo, no habría salvación. Porque salvarnos es algo que ningún ser humano puede hacer — ni el más rico, ni el más bueno, ni el más inteligente. Solo Dios. Y Dios PUEDE. Por eso hay evangelio."</div>
-            <p>Pregunta:</p>
-            <div class="guia-say">"¿Recuerdas cuando te enojaste y no querías pedir perdón? ¿O cuando te dio mucho miedo y no podías calmarte? Esos momentos no podemos cambiarlos solos. Pero Dios puede ayudarte. ¿Cómo? Porque para Él todo es posible."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">5</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Aplicación · La oración como dependencia <span class="edc-mark D">D</span> · 1 min</div>
-            <div class="guia-say">"Cuando algo te parezca imposible — obedecer, perdonar, perder el miedo — la oración no es decir 'yo puedo'. Es decir 'Dios, tú puedes, ayúdame'. Esa es la diferencia."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">6</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Oración + cadena <span class="edc-mark E">E</span> · 1 min</div>
-            <div class="guia-say">"Señor, gracias porque para ti todo es posible. Cuando algo nos parezca imposible, ayúdanos a recordar que tú puedes. Amén."</div>
-            <p>Eli recita P11 + P12 + P13.</p>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
-      <table class="eval-tabla">
-        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-        <tr class="E"><td class="lvl">E</td><td>Confunde "todo es posible" con "puedo lograr cualquier cosa si creo"</td><td>Corregir: el sujeto es DIOS. Volver al texto.</td></tr>
-        <tr class="D"><td class="lvl">D</td><td>Entiende que para Dios todo es posible pero no lo conecta consigo misma</td><td>Pregunta: <em>"¿Qué cosa difícil de tu vida quieres que Dios haga posible?"</em></td></tr>
-        <tr class="C"><td class="lvl">C</td><td>Articula que ella no puede sola pero Dios puede ayudarle</td><td>Registrar. Lista para "santa voluntad" mañana.</td></tr>
-      </table>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional</span></div>
-      <div class="ficha-eli">
-        <p style="font-size:.85rem;color:var(--muted)">La hoja grande va el viernes.</p>
-        <div class="prompt-claude">
-          <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
-            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
-          </div>
-          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
-
-CONTEXTO:
-- Semana 3, Día 2, profundizando Catecismo CPN P13 ("¿Puede Dios hacer todo? — Sí, Dios puede hacer todo conforme a su santa y soberana voluntad")
-- Hoy texto principal: Mateo 19:26 — "Para los hombres esto es imposible, pero para Dios todo es posible."
-- Foco: la omnipotencia divina como fundamento del evangelio. No "yo puedo si creo" sino "Dios puede".
-
-CONTENIDO (A4 vertical):
-1. Encabezado: "Para Dios todo es posible"
-2. Cinta superior con Mateo 19:26
-3. Dos columnas:
-   • Columna izquierda: "Lo que YO no puedo" — 3 líneas guía para que Eli escriba
-   • Columna derecha: "Lo que DIOS puede" — 3 líneas
-4. Recuadro 10×8 cm con instrucción: "Dibuja algo que parece imposible pero que sabes que Dios puede hacer"
-5. Pregunta abierta con 3 líneas: "¿Qué le pides hoy a Dios que tú no puedes solo/a?"
-6. Cinta inferior dorada: "No hay quien detenga su mano. — Daniel 4:35"
-
-DISEÑO VISUAL:
-- Fondo crema (#FAF6F0)
-- Tema: violeta (#6B3FAA) con acentos dorados (#C49A2A)
-- Tipografía Georgia + sans-serif clara
-- Letra mín. 16pt
-- Estilo digno, reverente, contemplativo
-- No usar caricaturas exageradas, colores neón ni estética infantil saturada
-- No usar imágenes que pretendan representar a Dios, halos, rayos místicos
-
-OUTPUT SEGÚN LA IA USADA:
-
-Si la IA genera imagen:
-A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
-
-Si la IA genera HTML:
-Artifact con CSS embebido, A4 vertical, imprimible.
-
-Si la IA genera PDF:
-A4 vertical, listo para imprimir.
-
-No responder con explicación. Generar directamente la ficha.</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-      <div class="minima">
-        <div class="minima-ttl">Lo esencial — 5 minutos</div>
-        <ol>
-          <li>Repaso de P y R</li>
-          <li>Leer Mateo 19:26 una vez</li>
-          <li>Una frase: <em>"Yo no puedo sola, pero Dios puede."</em></li>
-          <li>Listo.</li>
-        </ol>
-      </div>
-    </div>
-
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Ayer: nadie detiene la mano de Dios (cósmico). Hoy: la omnipotencia se vuelve personal — "para Dios todo es posible" (Mt 19:26). El sujeto es DIOS, no "yo si creo lo suficiente". Yo no puedo cambiar mi corazón; Dios sí.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Repaso 30 seg + enganche · 3 min <span class="edc-mark E">E</span></div>
+        <p>Eli dice P13. Luego:</p>
+        <div class="guia-say">"Ayer: nadie detiene la mano de Dios. Hoy Jesús dice algo sobre lo que Dios puede hacer EN nosotros."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Mateo 19:26 · 7 min <span class="edc-mark D">D</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Mateo 19:26</span>"Para los hombres esto es imposible, pero para Dios todo es posible."</div>
+        <div class="guia-say">"Hay cosas que nosotros NO podemos: cambiar nuestro corazón, dejar de tener miedo solos, salvarnos. Pero Dios SÍ puede. Por eso le pedimos a Él."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Aplicar · 7 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"¿Recuerdas cuando te costó calmarte o pedir perdón? Eso no lo cambiamos solos. Pero Dios puede ayudarte. La oración es decir: 'Dios, tú puedes, ayúdame.'"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Oración · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Señor, para ti todo es posible. Cuando algo nos parezca imposible, ayúdanos a recordar que tú puedes. Amén."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Cree "yo puedo todo si creo"</td><td>Corregir: el que puede es DIOS.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Entiende que para Dios todo es posible</td><td>Conectar con su propia vida.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Dice "yo no puedo sola, pero Dios puede"</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">5 min</div><ol><li>Repaso P13</li><li>Leer Mt 19:26</li><li>"Yo no puedo sola, Dios sí"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico azul">📋</div><div><div class="act-ttl">Plan del día</div><div class="act-meta">Z: actividades comprensión · Valor posicional · Imagen de Dios Gén 1:26</div></div></div>
-<div class="act-body"><div class="strip s-sage">Z: actividades comprensión · Valor posicional Mamut VP p.13 · Imagen de Dios Gén 1:26</div></div></div>`,
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min):</b> agua + saltar + estirarse.</div></div>
+
+<!-- LECTOESCRITURA ECO -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
+    <div class="lesson-ttl">Lectoescritura · Lectura en eco + comprensión</div>
+    <div class="lesson-meta">30 min · decodificar fluido + entender escuchando</div>
+    <div class="mats"><span class="mat">Texto corto con Z</span><span class="mat">Cuaderno</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Hoy la técnica clave para tu observación: <strong>lectura en eco</strong>. Tú lees una línea con buena entonación; Eli la repite. Así oye cómo suena leer fluido y comprende mejor. Después hablamos de qué dijo el texto (comprensión oral, sin la carga de decodificar).</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Texto corto · 10 min <span class="edc-mark D">D</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Texto con Z (mamá lee, Eli repite cada línea)</span>El zorro tiene una cola peluda.<br>Vive cerca de un pozo azul.<br>Por la mañana bebe agua fresca.<br>Es feliz en el bosque que Dios hizo.</div>
+        <p>Mamá lee la 1ª línea con entonación → Eli la repite. Así con cada línea. Luego Eli lee sola las que pueda.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Comprensión oral · 8 min <span class="edc-mark D">D</span></div>
+        <p>Preguntas (Eli responde hablando, no leyendo):</p>
+        <div class="guia-say">"¿Dónde vive el zorro? ¿Qué bebe? ¿Quién hizo el bosque?"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Copiar una línea · 10 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Copia tu línea favorita del texto. Mayúscula al inicio, punto al final."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Cuando lees, tu voz le da vida a las palabras. Es un don de Dios."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Solo repite en eco, no lee sola</td><td>Bien — el eco ya forma fluidez. Sin presión.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Lee algunas líneas sola · responde comprensión oral</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Lee fluido · comprende · copia con mayúscula y punto</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Mamá lee, Eli repite en eco</li><li>1 pregunta de comprensión</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa + snack (15 min).</b></div></div>
+
+<!-- MATEMÁTICAS COMPARAR -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
+    <div class="lesson-ttl">Matemáticas · Comparar: más que, menos que</div>
+    <div class="lesson-meta">30 min · concreto con objetos · todo en la app</div>
+    <div class="mats"><span class="mat">Regletas u objetos (botones, fichas)</span><span class="mat">Cuaderno</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Comparar cantidades (más/menos/igual) prepara para la suma y resta. Concreto primero: dos grupos de objetos, ¿cuál tiene más? Opcional: Mamut Valor Posicional p.6.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Con objetos · 12 min <span class="edc-mark D">D</span></div>
+        <p>Mamá pone dos grupos (ej. 7 botones y 4 botones). Pregunta: "¿Cuál grupo tiene MÁS? ¿Cuántos más?" Eli cuenta y compara. Repetir con varias parejas.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">"Igual" · 6 min <span class="edc-mark D">D</span></div>
+        <p>Mamá pone dos grupos iguales (5 y 5). "¿Cuál tiene más? Ninguno — son IGUALES." Introduce la idea de igualdad (base del = en la suma).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">En el cuaderno · 8 min <span class="edc-mark C">C</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Completa con "más", "menos" o "igual"</span>8 es ___ que 5 · 3 es ___ que 9 · 6 es ___ que 6 · 10 es ___ que 7</div>
+        <p style="font-size:.85rem;color:var(--muted)">Respuestas: más · menos · igual · más.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 4 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Comparar es ver cuánto hay. Mañana empezamos a JUNTAR — eso se llama sumar."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No compara sin contar uno por uno</td><td>Está bien contar; reforzar con objetos.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Compara grupos · entiende "igual"</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Completa más/menos/igual sin objetos</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>2 grupos de objetos, ¿cuál tiene más?</li><li>2 grupos iguales</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- HISTORIA IMAGEN DE DIOS -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico dorado">📜</div><div>
+    <div class="lesson-ttl">Historia · El hombre, imagen de Dios</div>
+    <div class="lesson-meta">30 min · Génesis 1:26-27 · lo más especial de la creación</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Espejo pequeño</span><span class="mat">Hoja · colores</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>El corazón de la semana. El ser humano NO es un animal más: es <strong>imagen de Dios</strong> (Gén 1:26-27). Eli se parece a Dios en algo: puede pensar, amar, hablar, crear, conocer a Dios, gobernar el mundo con cuidado. Esto le da dignidad — no por lo que logra, sino por cómo fue hecha. Sin sentimentalismo ("qué especial soy"); con doctrina ("qué bueno es el Dios que me hizo a su imagen").</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">¿Qué es una imagen? · 5 min <span class="edc-mark E">E</span></div>
+        <p>Dale un espejo a Eli.</p>
+        <div class="guia-say">"¿Qué ves? Tu imagen — algo que se parece a ti. Hoy aprendemos que tú eres la IMAGEN de Dios: te pareces a Él en cosas importantes."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Génesis 1:26-27 · 7 min <span class="edc-mark E">E</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 1:26-27 · adaptado</span>"Dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza... Y creó Dios al hombre a su imagen; varón y hembra los creó."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">¿En qué me parezco a Dios? · 8 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Los animales no pueden hacer lo que tú haces. Tú puedes: pensar, hablar con palabras, amar, decidir entre el bien y el mal, crear cosas bonitas, y conocer a Dios. En eso te pareces a Él."</div>
+        <p>Eli da ejemplos de cosas que ella puede hacer y un perro no.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Dibujar · 8 min <span class="edc-mark D">D</span></div>
+        <p>Eli se dibuja a sí misma y escribe: "Soy imagen de Dios."</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">5</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Eres imagen de Dios. Eso te da dignidad — no por lo que haces, sino por cómo Dios te hizo."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No distingue humano de animal</td><td>Repetir ejemplos concretos (hablar, pensar, orar).</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Entiende que es imagen de Dios</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Da ejemplos de en qué se parece a Dios</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Espejo: "tú eres imagen de Dios"</li><li>Leer Gén 1:27</li><li>Una cosa que ella puede y un animal no</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- CIENCIAS FRIJOL -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico verde">🌱</div><div>
+    <div class="lesson-ttl">Ciencias · El frijol crece</div>
+    <div class="lesson-meta">30 min · seguimiento del frijol de S2 · Dios hace crecer</div>
+    <div class="mats"><span class="mat">Frasco con frijol germinado</span><span class="mat">Regla</span><span class="mat">Diario de naturaleza</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Ciencias de verdad (lo que pediste). Seguimos el frijol que sembramos en S2. Observar, medir, registrar — método científico sencillo. La verdad: nosotros sembramos y regamos, pero <strong>Dios hace crecer</strong> (1 Co 3:6-7) — el mismo principio que la crianza. Si el frijol no germinó, observamos por qué (poca agua/luz) — también es aprendizaje.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Observar · 8 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Mira el frijol. ¿Qué cambió desde la semana pasada? ¿Salió raíz? ¿Salió un tallito verde? Dime todo lo que ves."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Medir · 7 min <span class="edc-mark D">D</span></div>
+        <p>Con la regla, miden cuánto creció (raíz o tallo) en centímetros. Eli dice el número. (Conecta con matemáticas — medir es contar.)</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Registrar en el diario · 10 min <span class="edc-mark C">C</span></div>
+        <p>Eli dibuja cómo está el frijol hoy y escribe: "Hoy mi frijol mide ___ cm." (con fecha).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre pactual · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Nosotros pusimos el frijol y el agua. Pero, ¿quién lo hace crecer? Dios. La Biblia dice: 'yo planté, pero Dios dio el crecimiento.' Lo mismo pasa contigo: mamá y papá te enseñan, pero Dios te hace crecer."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Observa poco, quiere terminar</td><td>Pedir 3 detalles antes de seguir.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Observa, mide, registra</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta "Dios hace crecer"</td><td>Registrar. Seguir midiendo cada semana.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Observar el frijol</li><li>Dibujar cómo está hoy</li><li>"Dios lo hace crecer"</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin-top:14px">
+<strong>🇬🇧 Inglés (30 min)</strong> · bloque externo. <strong>🎹 Piano (20 min)</strong> · cierre del día.
+</div>`,
 
 jueves:`${APERTURA}
 
-<!-- ═══════════════ BLOQUE 1: CATECISMO P13 · Día 3 — "Santa y soberana voluntad" ═══════════════ -->
+<div class="horario">
+<div class="horario-ttl">📅 Jueves · Naturaleza es la materia del día (¡salimos!)</div>
+<div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
+<div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P13 · Día 3</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura · dictado + escritura</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
+<div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Matemáticas · iniciar la suma</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Historia · cuerpo y alma (Gén 2:7)</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">10:35</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:45</span><span class="horario-act">🌿 Naturaleza · paseo + diario</span></div>
+<div class="horario-row"><span class="horario-time">11:15</span><span class="horario-act">Inglés</span></div>
+<div class="horario-row"><span class="horario-time">11:45</span><span class="horario-act">Piano</span></div>
+</div>
+
+<!-- CATECISMO P13 DÍA 3 -->
 <div class="lesson">
-  <div class="lesson-hd">
-    <div class="lesson-ico violeta">✝️</div>
-    <div>
-      <div class="lesson-ttl">Catecismo CPN P13 · Día 3 — "Santa y soberana voluntad"</div>
-      <div class="lesson-meta">10–12 min · Las palabras clave del catecismo · Romanos 9:20-21</div>
-      <div class="mats"><span class="mat">Biblia (NBLA)</span><span class="mat">Catecismo CPN</span><span class="mat">Plastilina o barro (opcional)</span></div>
-    </div>
-  </div>
+  <div class="lesson-hd"><div class="lesson-ico violeta">✝️</div><div>
+    <div class="lesson-ttl">Catecismo P13 · Día 3 — ¿Hay algo difícil para Dios?</div>
+    <div class="lesson-meta">20 min · Génesis 18:14 · la historia de Sara</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span></div>
+  </div></div>
   <div class="lesson-body">
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
-      <div class="lec-mama">
-        <p><span class="lec-tag">El ángulo de hoy:</span> hoy nos detenemos en las palabras precisas del catecismo: <em>"conforme a su santa y soberana voluntad"</em>. <strong>Santa</strong> = sin pecado, sin malicia, perfecta. <strong>Soberana</strong> = sin necesidad de pedir permiso a nadie. Esas dos palabras juntas describen el carácter del poder divino.</p>
-        <p><span class="lec-tag">Por qué importa la distinción:</span> un poder soberano sin santidad sería tiranía. Una santidad sin soberanía sería impotencia. La gloria del Dios bíblico es que su poder absoluto está al servicio de su santidad perfecta. Dios no es ni déspota ni ausente — es el Padre santo todopoderoso.</p>
-        <p><span class="lec-tag">Romanos 9:20-21 como imagen central:</span> Pablo usa la imagen del alfarero y el barro. El alfarero (Dios) tiene poder sobre el barro (nosotros) para hacer de él lo que quiera. La imagen es deliberadamente fuerte para resaltar la soberanía. Pero Pablo no presenta esto como amenaza — lo presenta como apologética: <em>"¿Quién eres tú para que alterques con Dios?"</em></p>
-        <p><span class="lec-tag">Bavinck sobre esto:</span> "La voluntad de Dios es la causa última de todo lo que existe." Esa frase, dicha sin el adjetivo "santa", suena fatalista. Pero en Bavinck, la voluntad divina es siempre <strong>voluntad santa</strong> — sabia, buena, justa. Ese es el matiz pactual que diferencia al calvinismo del fatalismo musulmán o pagano.</p>
-        <p><span class="lec-tag">Aplicación a la vida de Eli:</span> el modo correcto de orar no es "Dios, haz lo que yo quiero" sino "Dios, hágase tu voluntad". Esto NO es resignación pasiva — es confianza activa en un Padre cuya voluntad es santa.</p>
-        <p><span class="lec-tag">Peligro a evitar:</span> que la soberanía de Dios suene como "Dios hace lo que se le da la gana". No. Dios hace lo que es santo, sabio y bueno — esa es su voluntad. Eli debe terminar la clase pensando: <em>"Dios manda en todo, y lo que manda es bueno."</em></p>
-        <p><span class="lec-tag">Lo que estás formando:</span> sumisión gozosa a la voluntad de Dios. Hábito de orar "hágase tu voluntad" como expresión de confianza, no de resignación.</p>
-        <div class="lec-bible">"Mas antes, oh hombre, ¿quién eres tú, para que alterques con Dios? ¿Tendrá derecho el alfarero sobre el barro?" — Romanos 9:20-21 &nbsp;·&nbsp; "Hágase tu voluntad, como en el cielo, así también en la tierra." — Mateo 6:10</div>
-        <div class="lec-prayer">
-          <span class="pry-lbl">Oración antes de enseñar</span>
-          Señor, gracias porque tu voluntad es santa y soberana. Que Eli aprenda hoy a confiar en ti como Padre alfarero. Amén.
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">10–12 min</span></div>
-      <div class="guia">
-
-        <div class="guia-step">
-          <div class="guia-step-n">1</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Repaso <span class="edc-mark E">E</span> · 2 min</div>
-            <div class="guia-say">"Eli, ya sabemos: Dios PUEDE TODO (Daniel 4:35) y PARA DIOS TODO ES POSIBLE (Mateo 19:26). Hoy vamos a entender las dos palabras del catecismo más importantes: <strong>santa</strong> y <strong>soberana</strong> voluntad. Esas son las palabras que hacen que el Dios bíblico sea distinto a los dioses falsos."</div>
-            <p>Eli recita la P y R.</p>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">2</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Definir "santa" <span class="edc-mark D">D</span> · 2 min</div>
-            <div class="guia-say">"<strong>Santa</strong> significa: sin pecado, perfecta, buena. La voluntad de Dios siempre es buena. Nunca quiere algo malo. Por eso decíamos antes: Dios NO puede mentir, NO puede pecar. Eso no es porque sea débil — es porque es perfectamente santo."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">3</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Definir "soberana" <span class="edc-mark D">D</span> · 2 min</div>
-            <div class="guia-say">"<strong>Soberana</strong> significa: no necesita pedir permiso a nadie. Dios no le pregunta a nadie qué hacer. Es como un rey, pero el Rey de todos los reyes. Soberano significa: Él manda."</div>
-            <p>Pregunta:</p>
-            <div class="guia-say">"¿Conoces a alguien que mande sobre tu mamá o tu papá? Hay personas que mandan en algunas cosas — el pastor en la iglesia, el presidente en el país. Pero Dios manda sobre todos. Nadie le manda a Él."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">4</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">El alfarero y el barro <span class="edc-mark D">D</span> · 3 min</div>
-            <p>Si tienes plastilina o barro, sácalo ahora. Toma un trozo en tus manos.</p>
-            <div class="guia-say">"Mira, el barro. Yo decido qué hago con él. Si quiero, hago un platito. Si quiero, hago una pelota. El barro no me discute. La Biblia dice que Dios es como un alfarero — el que hace cosas con barro. Y nosotros somos como el barro. Dios decide qué hace con su creación."</div>
-            <p>Lee:</p>
-            <div class="guia-bible"><span class="guia-bible-ref">Romanos 9:21</span>"¿O no tiene potestad el alfarero sobre el barro para hacer de la misma masa un vaso para honra y otro para deshonra?"</div>
-            <div class="guia-say">"Esto puede sonar fuerte. Pero recuerda: el alfarero es SANTO. Lo que hace con el barro siempre es bueno y sabio. No es un alfarero malo — es un alfarero perfecto. Por eso podemos confiar."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">5</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Aplicación · "Hágase tu voluntad" <span class="edc-mark D">D</span> · 2 min</div>
-            <div class="guia-say">"En el Padre Nuestro hay una frase muy importante: 'Hágase tu voluntad'. ¿Sabes lo que significa? Es decirle a Dios: 'Tu voluntad es mejor que la mía. Confío en ti.' No es resignación triste — es confianza alegre, porque sabemos que su voluntad es SANTA."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">6</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Oración + cadena <span class="edc-mark E">E</span> · 1 min</div>
-            <div class="guia-say">"Padre, tu voluntad es santa y soberana. Ayúdanos a confiar en ti como el barro confía en el alfarero. Hágase tu voluntad. Amén."</div>
-            <p>Eli recita P11+P12+P13.</p>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C</span></div>
-      <table class="eval-tabla">
-        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-        <tr class="E"><td class="lvl">E</td><td>No distingue "santa" de "soberana". Las palabras suenan iguales</td><td>Definir una por una con ejemplos sencillos.</td></tr>
-        <tr class="D"><td class="lvl">D</td><td>Entiende cada palabra por separado. No las junta</td><td>Pregunta: <em>"¿Es bueno que Dios mande TODO?"</em> Explorar.</td></tr>
-        <tr class="C"><td class="lvl">C</td><td>Articula que la voluntad de Dios es buena Y soberana, y eso es confianza, no miedo</td><td>Registrar. Lista para síntesis del viernes.</td></tr>
-      </table>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli</span><span class="lsec-sub">opcional</span></div>
-      <div class="ficha-eli">
-        <p style="font-size:.85rem;color:var(--muted)">Sugerencia sin IA: que Eli moldee algo con plastilina en su cuaderno y escriba debajo: <em>"Dios es el alfarero. Yo soy el barro. Confío."</em></p>
-        <div class="prompt-claude">
-          <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
-            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
-          </div>
-          <div class="prompt-claude-body">Necesito crear una hoja imprimible breve en español para mi hija Elisabeth ("Eli"), de 6 años. Marco reformado.
-
-CONTEXTO:
-- Semana 3, Día 3, profundizando Catecismo CPN P13 ("Sí, Dios puede hacer todo conforme a su santa y soberana voluntad")
-- Hoy textos: Romanos 9:20-21 (el alfarero y el barro) + Mateo 6:10 ("Hágase tu voluntad")
-- Foco: las dos palabras clave del catecismo — santa + soberana
-
-CONTENIDO (A4 vertical):
-1. Encabezado: "Santa y soberana voluntad"
-2. Dos cajas lado a lado:
-   • Izquierda · "SANTA" en violeta: "Significa BUENA, sin pecado. Lo que Dios quiere siempre es bueno."
-   • Derecha · "SOBERANA" en dorado: "Significa que MANDA. Nadie le da órdenes a Dios."
-3. Sección central "El alfarero y el barro" — imagen sencilla line-art de manos haciendo algo con barro, con la cita: "¿No tiene potestad el alfarero sobre el barro? — Romanos 9:21"
-4. Recuadro 10×8 cm: "Dibuja: si tú fueras el barro, ¿qué haría el Padre alfarero contigo?"
-5. Sección "Yo oro" — Eli completa: "Padre, hágase tu voluntad en _____________________" (4 líneas guía)
-6. Cinta inferior dorada: "Hágase tu voluntad, como en el cielo, así también en la tierra. — Mateo 6:10"
-
-DISEÑO VISUAL:
-- Fondo crema (#FAF6F0)
-- Tema: violeta (#6B3FAA) y dorado (#C49A2A) en igual prominencia (representan santa y soberana)
-- Estilo: contemplativo
-- Tipografía Georgia + sans-serif
-- Letra mín. 16pt
-
-OUTPUT SEGÚN LA IA USADA:
-
-Si la IA genera imagen:
-A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
-
-Si la IA genera HTML:
-Artifact con CSS embebido, A4 vertical, imprimible.
-
-Si la IA genera PDF:
-A4 vertical, listo para imprimir.
-
-No responder con explicación. Generar directamente la ficha.</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-      <div class="minima">
-        <div class="minima-ttl">Lo esencial — 5 minutos</div>
-        <ol>
-          <li>Repaso de P y R</li>
-          <li>Definir SANTA (buena) y SOBERANA (manda)</li>
-          <li>Decir juntas: "Hágase tu voluntad"</li>
-          <li>Listo.</li>
-        </ol>
-      </div>
-    </div>
-
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Hoy el poder de Dios se ve en una historia concreta: Sara, anciana, se ríe cuando Dios promete que tendrá un hijo. Dios pregunta: "¿Hay para Dios alguna cosa difícil?" (Gén 18:14). Isaac nació. Dios cumple lo que promete, aunque parezca imposible.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Repaso + historia de Sara · 8 min <span class="edc-mark E">E</span></div>
+        <p>Eli dice P13. Luego cuenta:</p>
+        <div class="guia-say">"Abraham y Sara eran muy ancianos y no tenían hijos. Dios les prometió un hijo. Sara se rió — le parecía imposible. Pero Dios le preguntó: '¿Hay algo difícil para mí?'"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Génesis 18:14 · 5 min <span class="edc-mark D">D</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 18:14</span>"¿Hay para Dios alguna cosa difícil?"</div>
+        <div class="guia-say">"Y Sara tuvo a su bebé, Isaac. Dios cumplió. Nada es difícil para Dios."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Aplicar · 4 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Dios prometió en la Biblia perdonar a los que creen en Jesús, y cuidar a sus hijos. ¿Crees que puede cumplirlo? Sí, porque nada es difícil para Él."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Oración · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Señor, nada es difícil para ti. Ayúdanos a confiar en tus promesas. Amén."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No recuerda la historia</td><td>Volver a contarla simple.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Recuerda Sara/Isaac · recita P13</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta "nada es difícil para Dios" con sus promesas</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">5 min</div><ol><li>Contar Sara e Isaac</li><li>Leer Gén 18:14</li><li>"Nada es difícil para Dios"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico azul">📋</div><div><div class="act-ttl">Plan del día</div><div class="act-meta">Z: escritura evaluativa · Ciencias exp.57 Mezclando · Música + himno</div></div></div>
-<div class="act-body"><div class="strip s-sage">Z: escritura evaluativa · Ciencias exp.57 Mezclando colores · Música + himno</div></div></div>`,
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- LECTOESCRITURA DICTADO -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
+    <div class="lesson-ttl">Lectoescritura · Dictado + escritura propia</div>
+    <div class="lesson-meta">30 min · frases con Z · mayúscula y punto</div>
+    <div class="mats"><span class="mat">Cuaderno</span><span class="mat">Lápiz</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Hoy Eli escribe (no decodifica). Dictado de 3 frases cortas con Z, luego escritura propia. Reforzamos mayúscula al inicio. Sin corregir cada error — una sola corrección.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Dictado · 12 min <span class="edc-mark D">D</span></div>
+        <p>Mamá dicta despacio, cada frase 2 veces:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Dictado (3 frases)</span>1. El zorro es feliz.<br>2. La taza es azul.<br>3. Dios hizo la luz.</div>
+        <p>Eli escribe sola. Al final compara y corrige UNA cosa (la mayúscula inicial).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Escritura propia · 13 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Escribe 2 frases tuyas sobre algo que Dios hizo. Mayúscula al inicio, punto al final."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 5 min <span class="edc-mark E">E</span></div>
+        <p>Eli lee sus frases en voz alta. Mamá celebra el contenido.</p></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Pide repetir cada palabra</td><td>Dictar 1 frase en vez de 3.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Dictado con errores menores · escribe 2 frases</td><td>Marcar solo la mayúscula.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Dictado limpio · frases propias con mayúscula y punto</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Dictar 1 frase</li><li>Eli escribe 1 frase propia</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa + snack (15 min).</b></div></div>
+
+<!-- MATEMÁTICAS INICIAR SUMA -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
+    <div class="lesson-ttl">Matemáticas · Iniciar la suma — juntar</div>
+    <div class="lesson-meta">30 min · suma hasta 5 · concreto con regletas</div>
+    <div class="mats"><span class="mat">Regletas u objetos</span><span class="mat">Cuaderno</span><span class="mat">Opc: Mamut Sumar 1 p.2</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>¡Primer día de suma! Sumar = <strong>juntar dos grupos</strong> y contar cuántos hay en total. Hoy solo hasta 5, todo concreto. El signo + significa "junta", el = significa "es igual a / en total hay". No prisa — que entienda el concepto, no que memorice.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Juntar con las manos · 10 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Pon 2 objetos aquí y 1 acá. Si los JUNTAMOS, ¿cuántos hay? Cuéntalos. Eso es sumar: juntar y contar el total."</div>
+        <p>Repetir: 2+1, 3+1, 2+2, 1+1.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">El signo + y = · 8 min <span class="edc-mark D">D</span></div>
+        <p>Mamá escribe "2 + 1 = 3" y explica: el + dice "junta", el = dice "en total hay". Eli arma con objetos y dice el total.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">En el cuaderno · 8 min <span class="edc-mark C">C</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Sumas (Eli arma con objetos y escribe el total)</span>2 + 1 = ___ · 3 + 2 = ___ · 1 + 4 = ___ · 2 + 2 = ___</div>
+        <p style="font-size:.85rem;color:var(--muted)">Respuestas: 3, 5, 5, 4.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 4 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Sumar es juntar. Ya eres matemática. Dios ordenó el mundo con números."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No entiende "juntar"</td><td>Solo manos/objetos, sin signos aún.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Suma con objetos · entiende + y =</td><td>Normal · es el primer día.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Resuelve sumas hasta 5 y escribe el total</td><td>Mañana suma hasta 10.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Juntar 2 + 1 con objetos</li><li>"Sumar es juntar"</li><li>2 sumas más</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- HISTORIA CUERPO Y ALMA -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico dorado">📜</div><div>
+    <div class="lesson-ttl">Historia · Cuerpo y aliento de vida</div>
+    <div class="lesson-meta">30 min · Génesis 2:7 · del polvo + aliento de Dios</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Un poco de tierra/polvo (opcional)</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Génesis 2:7: Dios formó al hombre del <strong>polvo</strong> (cuerpo) y sopló <strong>aliento de vida</strong> (alma). El ser humano es cuerpo Y alma. Esto prepara el catecismo P18-P19 (almas inmortales). Eli aprende: tengo un cuerpo que un día descansará, y un alma que vivirá para siempre.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">El polvo · 6 min <span class="edc-mark E">E</span></div>
+        <p>Si tienes un poco de tierra, muéstrala.</p>
+        <div class="guia-say">"¿Sabes de qué hizo Dios el cuerpo del primer hombre? De polvo de la tierra. Y luego hizo algo que NO hizo con ningún animal..."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Génesis 2:7 · 7 min <span class="edc-mark E">E</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 2:7 · adaptado</span>"Entonces Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y el hombre llegó a ser un ser viviente."</div>
+        <div class="guia-say">"Dios sopló su aliento. Por eso tienes un cuerpo Y un alma. El cuerpo se puede cansar; el alma vive para siempre."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cuerpo y alma · 12 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Tu cuerpo es lo que se ve: manos, ojos, piernas. Tu alma es lo que piensa, ama, cree, ora — lo que no se ve pero es muy real. Las dos cosas son tuyas."</div>
+        <p>Eli dibuja: su cuerpo (lo visible) y al lado un corazón/sol que representa su alma (lo invisible).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios te dio cuerpo y alma. Por eso cuidamos los dos: el cuerpo con descanso y comida, el alma con su Palabra y oración."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No distingue cuerpo de alma</td><td>Cuerpo = lo que se ve; alma = lo que piensa/ama.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Entiende cuerpo y alma · dibuja</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Articula que el alma vive para siempre</td><td>Registrar. Prepara P18-19.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Leer Gén 2:7</li><li>"Tienes cuerpo y alma"</li><li>Dibujar ambos</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min) — y prepárense para SALIR.</b></div></div>
+
+<!-- NATURALEZA PASEO -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico verde">🌿</div><div>
+    <div class="lesson-ttl">Naturaleza · Paseo de observación</div>
+    <div class="lesson-meta">30 min · Charlotte Mason · aprender a ver la creación</div>
+    <div class="mats"><span class="mat">Diario de naturaleza</span><span class="mat">Bolsa para tesoros</span><span class="mat">Lupa (opcional)</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>La naturaleza a mitad de semana (lo que pediste). NO es manualidad — es <strong>aprender a ver</strong> (Cap 16). Salir, elegir UNA cosa, mirarla con calma, dibujarla. El hombre fue puesto para nombrar y cuidar la creación (Gén 2) — Eli hace eso hoy. No saturar: una sola cosa bien vista.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Salir y buscar · 10 min <span class="edc-mark E">E</span></div>
+        <p>Salgan al jardín, balcón o cuadra. Eli elige UNA cosa que le llame la atención (hoja, flor, piedra, insecto).</p>
+        <div class="guia-say">"Hoy somos exploradoras del mundo de Dios. Busca UNA cosa que te asombre."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Mirar en silencio · 5 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Mírala bien, sin dibujar todavía. ¿Qué forma tiene? ¿Cuántas partes? ¿Qué colores? ¿Qué la hace única?"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Dibujar en el diario · 12 min <span class="edc-mark C">C</span></div>
+        <p>Eli dibuja con calma lo que vio. Escribe (o dicta) una frase: "Hoy vi ___." Mamá no corrige el dibujo.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre pactual · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios hizo esto con cuidado. Mirar bien su creación es leer el libro que Él escribió en el mundo. Y tú, como imagen de Dios, cuidas lo que Él hizo."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">15 min</div><ol><li>Salir, recoger una hoja o flor</li><li>Mirarla 3 min</li><li>Dibujarla + "Hoy vi…"</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin-top:14px">
+<strong>🇬🇧 Inglés (30 min)</strong> · <strong>🎹 Piano (20 min)</strong> · cierre del día.
+</div>`,
 
 viernes:`${APERTURA}
 
-<!-- ═══════════════ BLOQUE 1: CATECISMO P13 · Día 4 — Síntesis + ⭐ Portafolio ═══════════════ -->
+<div class="horario">
+<div class="horario-ttl">📅 Viernes · Ciencias es la materia del día</div>
+<div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
+<div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P13 · Día 4</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura · texto nuevo (mamá lee)</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
+<div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Matemáticas · suma hasta 10</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Historia · Adán cuida el huerto</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">10:35</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:45</span><span class="horario-act">Ciencias · los 5 sentidos</span></div>
+<div class="horario-row"><span class="horario-time">11:15</span><span class="horario-act">Inglés</span></div>
+<div class="horario-row"><span class="horario-time">11:45</span><span class="horario-act">Piano</span></div>
+</div>
+
+<!-- CATECISMO P13 DÍA 4 -->
 <div class="lesson">
-  <div class="lesson-hd">
-    <div class="lesson-ico violeta">✝️</div>
-    <div>
-      <div class="lesson-ttl">Catecismo CPN P13 · Día 4 — Síntesis + ⭐ Hoja de portafolio</div>
-      <div class="lesson-meta">20 min · Narración libre + hoja final</div>
-      <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span><span class="mat">Hoja del prompt IA</span><span class="mat">Colores</span></div>
-    </div>
-  </div>
+  <div class="lesson-hd"><div class="lesson-ico violeta">✝️</div><div>
+    <div class="lesson-ttl">Catecismo P13 · Día 4 — Santa y soberana voluntad</div>
+    <div class="lesson-meta">20 min · hágase tu voluntad · Mateo 6:10</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Catecismo CPN</span></div>
+  </div></div>
   <div class="lesson-body">
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Lectura para mamá</span><span class="lsec-sub">3 min</span></div>
-      <div class="lec-mama">
-        <p><span class="lec-tag">El propósito del viernes:</span> hoy NO se introduce nada nuevo. Eli vivió toda la semana con P13 desde 3 ángulos. Hoy: sintetiza, articula y deja huella física en la hoja de portafolio.</p>
-        <p><span class="lec-tag">Los 3 ángulos:</span></p>
-        <p>• <strong>Día 1 (Martes)</strong>: Daniel 4:35 — nadie detiene la mano de Dios.<br>• <strong>Día 2 (Miércoles)</strong>: Mateo 19:26 — para Dios todo es posible (yo no puedo, Dios sí).<br>• <strong>Día 3 (Jueves)</strong>: Romanos 9 + Mt 6:10 — santa y soberana voluntad (el alfarero y el barro).<br>• <strong>Día 4 (Viernes — hoy)</strong>: síntesis y portafolio.</p>
-        <p><span class="lec-tag">Cadena cumulativa P11+P12+P13:</span> Dios <em>mira</em> + Dios <em>sabe</em> + Dios <em>puede</em>. Eli debería poder recitar las tres preguntas seguidas. La próxima semana sumará P14.</p>
-        <p><span class="lec-tag">Evaluación por narración libre:</span> mamá pregunta "¿Qué aprendiste esta semana sobre que Dios puede todo?" y escucha. Si menciona los 3 ángulos: [C]. Dos: [D]. Uno: [E]. Cero reproche.</p>
-        <p><span class="lec-tag">Lo que estás formando:</span> síntesis semanal. Memoria de la fidelidad de Dios. Conexión cumulativa entre las tres preguntas trabajadas.</p>
-        <div class="lec-prayer">
-          <span class="pry-lbl">Oración antes de enseñar</span>
-          Señor, gracias por esta tercera semana. Que Eli salga sabiendo que tú miras, conoces y puedes — y eso es paz. Amén.
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Guía de la lección</span><span class="lsec-sub">20 min</span></div>
-      <div class="guia">
-
-        <div class="guia-step">
-          <div class="guia-step-n">1</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Cadena cumulativa P11+P12+P13 <span class="edc-mark C">C</span> · 3 min</div>
-            <p>Eli dice las tres P y R seguidas, sin ayuda. Si lo logra: ⭐ celebración fuerte.</p>
-            <div class="guia-say">P11: ¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente.<br><br>P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.<br><br>P13: ¿Puede Dios hacer todo? — Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">2</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Narración libre — los 3 ángulos <span class="edc-mark C">C</span> · 5 min</div>
-            <div class="guia-say">"Eli, cuéntame con tus palabras todo lo que aprendiste esta semana sobre que Dios puede todo."</div>
-            <p>Mamá escucha sin interrumpir. Identifica:</p>
-            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
-              <li>¿Mencionó "nadie detiene la mano de Dios" (Daniel)? (Día 1 ✓)</li>
-              <li>¿Mencionó "para Dios todo es posible" o "yo no puedo, Dios sí" (Mt 19)? (Día 2 ✓)</li>
-              <li>¿Mencionó "santa y soberana" o el alfarero (Romanos)? (Día 3 ✓)</li>
-            </ul>
-            <div class="guia-say">"¡Qué bonito todo lo que recuerdas! Hagamos la hoja para guardar."</div>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">3</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">⭐ Hoja de portafolio <span class="edc-mark C">C</span> · 10 min</div>
-            <p>Saca la hoja impresa del prompt al final de esta sección.</p>
-            <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
-              <li>Eli escribe su nombre y fecha</li>
-              <li>Copia la R de P13</li>
-              <li>Dibuja</li>
-              <li>Completa las 3 frases (los ángulos)</li>
-              <li>Mamá firma</li>
-            </ul>
-            <p>La hoja entra al sobre de Semana 3 del portafolio.</p>
-          </div>
-        </div>
-
-        <div class="guia-step">
-          <div class="guia-step-n">4</div>
-          <div class="guia-step-body">
-            <div class="guia-step-ttl">Oración de cierre <span class="edc-mark E">E</span> · 2 min</div>
-            <div class="guia-say">"Señor, gracias por esta semana. Eli ya sabe que tú miras (P11), conoces (P12), y puedes (P13). Continúa enseñándole. Amén."</div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">Evaluación E/D/C semanal · P13</span></div>
-      <table class="eval-tabla">
-        <tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-        <tr class="E"><td class="lvl">E</td><td>Recita memorizada. Narra solo 1 ángulo. Confunde poder con magia</td><td>Repasar P13 una semana más. NO abandonar.</td></tr>
-        <tr class="D"><td class="lvl">D</td><td>Recita P11+P12+P13. Narra 2 de los 3 ángulos</td><td>Avanzar a P14.</td></tr>
-        <tr class="C"><td class="lvl">C</td><td>Cadena cumulativa perfecta. Articula los 3 ángulos + santidad del poder</td><td>⭐ Hoja al portafolio. Lista para P14.</td></tr>
-      </table>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha para Eli · ⭐ Portafolio</span></div>
-      <div class="ficha-eli">
-        <p><strong>Hoja resumen de la semana — esta es la que se guarda</strong></p>
-        <div class="prompt-claude">
-          <div class="prompt-claude-hd">
-            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora</span>
-            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
-          </div>
-          <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Familia presbiteriana en Bogotá, marco reformado pactual. Esta hoja se conserva en su portafolio durante años.
-
-CONTEXTO:
-- Es el viernes de la Semana 3. Eli vivió toda la semana con UNA pregunta del catecismo: CPN P13.
-- P y R:
-  P: ¿Puede Dios hacer todo?
-  R: Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.
-- 3 ángulos:
-  • Día 1: Daniel 4:35 — nadie detiene la mano de Dios
-  • Día 2: Mateo 19:26 — para Dios todo es posible (yo no puedo, Dios sí)
-  • Día 3: Romanos 9 + Mateo 6:10 — santa y soberana voluntad (el alfarero y el barro)
-
-CONTENIDO DE LA HOJA (A4 vertical, una página):
-1. Encabezado destacado: "Lo que aprendí de Dios — Semana 3"
-2. Sub-encabezado: "Familia Espinoza · 1-5 junio 2026 · Catecismo P13"
-3. Cuadro central GRANDE con la P y R completa: "¿Puede Dios hacer todo? — Sí, Dios puede hacer todo conforme a su santa y soberana voluntad."
-4. Sección "Tres cosas que aprendí esta semana" — tres líneas con iconos:
-   • 🤚 "Nadie detiene la ___________________________" (mano de Dios)
-   • ✨ "Para Dios todo es _________________________" (posible)
-   • 🏺 "Dios es el alfarero, yo soy el ____________" (barro) — pequeño dibujo del alfarero
-5. Recuadro 10×10 cm para dibujo: "Mi dibujo: el alfarero y el barro"
-6. Pregunta abierta con 4 líneas: "Cuando recuerdo que Dios puede todo, yo siento _____________"
-7. Espacios firmas: "Eli — fecha" + "Mamá"
-8. Cinta inferior dorada: "Hágase tu voluntad, como en el cielo así también en la tierra. — Mateo 6:10"
-9. Pie pequeño: "Familia Espinoza · Creciendo en el Pacto · 2026-27"
-
-DISEÑO VISUAL:
-- Fondo crema (#FAF6F0)
-- Tema: violeta (#6B3FAA) + dorado (#C49A2A)
-- Estilo contemplativo, digno
-- Tipografía Georgia + sans-serif
-- La cita central del catecismo destacada
-- Iconos minimalistas, line-art
-
-OUTPUT SEGÚN LA IA USADA:
-
-Si la IA genera imagen:
-A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
-
-Si la IA genera HTML:
-Artifact con CSS embebido, A4 vertical, imprimible.
-
-Si la IA genera PDF:
-A4 vertical, listo para imprimir.
-
-No responder con explicación. Generar directamente la ficha.</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="lsec">
-      <div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-      <div class="minima">
-        <div class="minima-ttl">Lo esencial — 10 minutos</div>
-        <ol>
-          <li>Eli dice P11+P12+P13 cumulativas</li>
-          <li>Mamá pregunta: <em>"¿Qué aprendiste de que Dios puede todo?"</em></li>
-          <li>Escuchar narración libre</li>
-          <li>Si no hay hoja impresa: cuaderno con dibujo + R de P13</li>
-          <li>Oración</li>
-          <li>Listo.</li>
-        </ol>
-      </div>
-    </div>
-
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Último ángulo: las dos palabras del catecismo. <strong>Santa</strong> = buena, sin pecado. <strong>Soberana</strong> = manda, no pide permiso. La respuesta del creyente: "hágase tu voluntad" (Mt 6:10) — confianza, no resignación, porque su voluntad es buena.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Las dos palabras · 8 min <span class="edc-mark D">D</span></div>
+        <p>Eli dice P13. Luego:</p>
+        <div class="guia-say">"<strong>Santa</strong> significa buena, perfecta — Dios nunca quiere algo malo. <strong>Soberana</strong> significa que Él manda; nadie le da órdenes. Su poder y su bondad van juntos."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Hágase tu voluntad · 6 min <span class="edc-mark D">D</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Mateo 6:10</span>"Hágase tu voluntad, como en el cielo, así también en la tierra."</div>
+        <div class="guia-say">"En el Padre Nuestro decimos 'hágase tu voluntad'. Es confiar: 'Dios, tu voluntad es mejor que la mía.' No es triste — es confianza alegre, porque su voluntad es buena."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Oración · 6 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Padre, tu voluntad es santa y buena. Ayúdanos a confiar. Hágase tu voluntad. Amén."</div>
+        <p>Eli dice P13 una última vez (mañana es la síntesis).</p></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No distingue santa de soberana</td><td>Santa = buena; soberana = manda.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Entiende ambas palabras</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Dice "hágase tu voluntad" entendiendo que es confianza</td><td>Registrar. Síntesis mañana.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">5 min</div><ol><li>Santa = buena, Soberana = manda</li><li>"Hágase tu voluntad"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
-<div class="act-block">
-<div class="act-hd"><div class="act-ico dorado">🔄</div><div><div class="act-ttl">Evaluación de ruta lectoescritura · Repaso semanal · Diario p.3</div><div class="act-meta">40 min</div></div></div>
-<div class="act-body">
-<p>Evaluación de ruta lectoescritura · Repaso semanal · Completar Diario de naturaleza página 3.</p>
-</div></div>`
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- LECTOESCRITURA TEXTO NUEVO -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
+    <div class="lesson-ttl">Lectoescritura · Texto nuevo (mamá lee, Eli comprende)</div>
+    <div class="lesson-meta">30 min · comprensión profunda escuchando + narración</div>
+    <div class="mats"><span class="mat">Un cuento corto o pasaje</span><span class="mat">Cuaderno</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Tu observación clave: Eli comprende mejor cuando ESCUCHA que cuando lee ella. Hoy aprovechamos eso. TÚ lees un cuento corto; Eli escucha y narra. Así crece la comprensión sin la carga de decodificar. (La fluidez se trabaja los otros días con textos cortos.)</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Mamá lee · 8 min <span class="edc-mark E">E</span></div>
+        <p>Mamá lee en voz alta un cuento corto (de un libro de la casa, una fábula, o un relato bíblico breve). Con entonación. Eli solo escucha.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Eli narra · 10 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Ahora cuéntame con tus palabras lo que entendiste."</div>
+        <p>Eli narra sin ayuda. Mamá observa la comprensión (aquí Eli brilla, según tu registro).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Dibujar la parte favorita · 10 min <span class="edc-mark C">C</span></div>
+        <p>Eli dibuja su parte favorita y escribe una frase debajo.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Escuchar bien es un don. Algún día leerás tú sola con la misma facilidad."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Narra fragmentos sueltos</td><td>Releer; narración guiada con preguntas.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Narra el sentido del cuento</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Narra completo con detalles · dibuja y escribe</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Mamá lee un cuento corto</li><li>Eli narra</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa + snack (15 min).</b></div></div>
+
+<!-- MATEMÁTICAS SUMA HASTA 10 -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
+    <div class="lesson-ttl">Matemáticas · Suma hasta 10</div>
+    <div class="lesson-meta">30 min · juntar grupos · pictórico</div>
+    <div class="mats"><span class="mat">Regletas u objetos</span><span class="mat">Cuaderno</span><span class="mat">Opc: Mamut Sumar 1 p.3-4</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Ayer sumamos hasta 5. Hoy hasta 10. Sigue siendo "juntar y contar". Si Eli se cansa (como el viernes pasado), versión mínima sin culpa — la nota de crianza del corazón aplica.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Repaso suma hasta 5 · 5 min <span class="edc-mark E">E</span></div>
+        <p>2+2, 3+1, 2+3 con objetos. Rápido.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Sumar hasta 10 · 12 min <span class="edc-mark D">D</span></div>
+        <p>Eli arma con objetos y dice el total:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Sumas hasta 10</span>5 + 3 = ___ · 4 + 4 = ___ · 6 + 2 = ___ · 7 + 3 = ___ · 5 + 5 = ___</div>
+        <p style="font-size:.85rem;color:var(--muted)">Respuestas: 8, 8, 8, 10, 10.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Dibujar una suma · 8 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Dibuja 4 manzanas y 3 manzanas. ¿Cuántas en total? Escribe 4 + 3 = ___"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Ya sumas hasta 10. ¡Qué bien! Dios te dio una mente que crece."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Necesita objetos para cada suma</td><td>Está bien · sigue concreto.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Suma hasta 10 con objetos</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Suma hasta 10 dibujando o mental</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>3 sumas con objetos</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- HISTORIA ADÁN CUIDA EL HUERTO -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico dorado">📜</div><div>
+    <div class="lesson-ttl">Historia · Adán cuida el huerto y nombra los animales</div>
+    <div class="lesson-meta">30 min · Génesis 2:15,19-20 · mayordomía</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Hoja · colores</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Como imagen de Dios, Adán recibe trabajo: cuidar el huerto y nombrar los animales (Gén 2:15,19-20). Esto es <strong>mayordomía</strong>: Dios nos da el mundo para cuidarlo, no para destruirlo. Eli también es mayordoma — cuida sus cosas, su cuarto, las plantas, los animales. El trabajo es bueno; existía antes de la caída.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Adán tiene trabajo · 6 min <span class="edc-mark E">E</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 2:15 · adaptado</span>"Tomó Dios al hombre y lo puso en el huerto del Edén, para que lo cultivara y lo cuidara."</div>
+        <div class="guia-say">"Dios le dio a Adán un trabajo: cuidar el jardín. El trabajo es bueno — Dios lo dio antes de que existiera el pecado."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Adán nombra los animales · 8 min <span class="edc-mark D">D</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 2:19-20 · adaptado</span>"Dios trajo los animales al hombre para ver cómo los llamaría; y el nombre que el hombre les puso, ese es su nombre."</div>
+        <div class="guia-say">"Dios dejó que Adán le pusiera nombre a cada animal. ¡Qué tarea tan importante! Solo un ser hecho a imagen de Dios puede nombrar y cuidar."</div>
+        <p>Juego: mamá dice un animal, Eli lo "nombra" o inventa un nombre.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Yo también soy mayordoma · 8 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Tú también cuidas el mundo de Dios: tus juguetes, tu cuarto, las plantas, las mascotas. Eso es ser mayordoma — cuidar lo que Dios te dio."</div>
+        <p>Eli dibuja algo que ella cuida.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 8 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios te hizo a su imagen y te dio cosas que cuidar. Cuidar bien es parecerse a Dios, que cuida todo."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No conecta con su propia mayordomía</td><td>Ejemplo concreto: "¿qué cuidas tú?"</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Entiende que Adán cuidaba y nombraba</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Articula que ella también es mayordoma</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Leer Gén 2:15</li><li>"Adán cuidaba el jardín; tú cuidas tus cosas"</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min).</b></div></div>
+
+<!-- CIENCIAS 5 SENTIDOS -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico verde">🔬</div><div>
+    <div class="lesson-ttl">Ciencias · Los cinco sentidos</div>
+    <div class="lesson-meta">30 min · Dios nos dio sentidos para conocer su mundo</div>
+    <div class="mats"><span class="mat">Algo para oler, tocar, probar, escuchar (cosas de casa)</span><span class="mat">Diario de naturaleza</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Segundo bloque de ciencias de la semana (lo que pediste, 2x). Conecta con imagen de Dios: Él nos dio cuerpo con sentidos para conocer y disfrutar su creación. Experimento sensorial sencillo con cosas de la casa. Sin materiales especiales.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Los 5 sentidos · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios te dio 5 maneras de conocer su mundo: ver (ojos), oír (oídos), oler (nariz), gustar (lengua), tocar (piel). ¿Puedes nombrarlos y señalarlos?"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Experimento sensorial · 15 min <span class="edc-mark D">D</span></div>
+        <p>Mamá prepara pequeñas pruebas (ojos cerrados cuando aplique):</p>
+        <ul style="margin:6px 0 6px 1.2rem;font-size:.85rem">
+        <li><strong>Oler:</strong> algo de la cocina (café, limón, canela) — ¿qué es?</li>
+        <li><strong>Tocar:</strong> algo suave y algo áspero — ¿cómo se siente?</li>
+        <li><strong>Gustar:</strong> algo dulce y algo ácido — ¿a qué sabe?</li>
+        <li><strong>Oír:</strong> un sonido (palmada, agua) — ¿qué es?</li>
+        </ul>
+        <p>Eli adivina usando cada sentido.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Registrar · 7 min <span class="edc-mark C">C</span></div>
+        <p>En el diario, Eli dibuja los 5 sentidos (ojo, oído, nariz, lengua, mano) y escribe su sentido favorito.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre pactual · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios te dio sentidos para conocer y disfrutar su mundo. Cada vez que hueles una flor o escuchas música, estás usando un regalo de Dios."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No nombra los 5 sentidos</td><td>Repasar señalando cada órgano.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Usa los sentidos para adivinar</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta los sentidos con conocer el mundo de Dios</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Nombrar los 5 sentidos</li><li>Oler y tocar 2 cosas</li><li>"Dios me dio sentidos"</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin-top:14px">
+<strong>🇬🇧 Inglés (30 min)</strong> · <strong>🎹 Piano (20 min)</strong> · cierre del día.
+</div>`,
+
+sabado:`${APERTURA}
+
+<div class="strip s-teal" style="margin-bottom:14px">
+<strong>📅 Sábado · día de cierre (mismo ritmo, ~2.5 h)</strong><br>
+Hoy: síntesis del catecismo + hoja de portafolio · Arte estilo Classical · Música/Himno con su historia. Cerramos la semana con gozo.
+</div>
+
+<div class="horario">
+<div class="horario-ttl">📅 Sábado · Arte y Música son las materias del día</div>
+<div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
+<div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo · SÍNTESIS P11+P12+P13 + portafolio</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">8:40</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">8:50</span><span class="horario-act">Lectoescritura ligera · escribir el versículo</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">9:15</span><span class="horario-act">Pausa + snack</span></div>
+<div class="horario-row"><span class="horario-time">9:30</span><span class="horario-act">🎨 Arte · La creación de Adán (Miguel Ángel)</span></div>
+<div class="horario-row pausa-row"><span class="horario-time">10:00</span><span class="horario-act">Pausa activa</span></div>
+<div class="horario-row"><span class="horario-time">10:10</span><span class="horario-act">🎵 Música · Himno "Grande es tu fidelidad"</span></div>
+<div class="horario-row"><span class="horario-time">10:40</span><span class="horario-act">Inglés + Piano (más relajados)</span></div>
+</div>
+
+<!-- SÍNTESIS + PORTAFOLIO -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico violeta">✝️</div><div>
+    <div class="lesson-ttl">Síntesis P13 + ⭐ Hoja de portafolio</div>
+    <div class="lesson-meta">30 min · narración libre + cadena cumulativa + hoja que se guarda</div>
+    <div class="mats"><span class="mat">Biblia</span><span class="mat">Hoja del prompt IA</span><span class="mat">Colores</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>HOY sí es el día de síntesis (no entre semana — corregido según tu observación). Eli vivió P13 en 4 ángulos. Hoy: cadena cumulativa P11+P12+P13, narración libre de lo aprendido, y la hoja de portafolio que se guarda. Esto NO se repitió cada día — solo hoy.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">⭐ Cadena cumulativa · 5 min <span class="edc-mark C">C</span></div>
+        <p>Eli dice las TRES preguntas seguidas. Si lo logra: ¡celebración grande!</p>
+        <div class="guia-say">P11: ¿Puedes ver a Dios? — Yo no puedo verlo, pero Él me mira continuamente.<br>P12: ¿Sabe Dios todas las cosas? — Sí, ninguna cosa puede ocultarse de la vista de Dios.<br>P13: ¿Puede Dios hacer todo? — Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Narración libre · 7 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Cuéntame todo lo que aprendiste esta semana sobre que Dios puede todo."</div>
+        <p>Mamá escucha. Identifica si menciona: nadie detiene su mano (Dn) · para Dios todo es posible (Mt 19) · nada es difícil/Sara (Gn 18) · santa y soberana voluntad (Mt 6).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">⭐ Hoja de portafolio · 15 min <span class="edc-mark C">C</span></div>
+        <p>Saca la hoja impresa (prompt abajo). Eli escribe su nombre y fecha, copia la R de P13, dibuja, completa los ángulos. Mamá firma. Va al portafolio. Exporta respaldo ☁️.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Oración de cierre · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Señor, gracias por esta semana. Eli sabe que tú ves, conoces y puedes todo. Y sabe que ella es tu imagen. Descansamos en ti. Amén."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Hoja de portafolio · ⭐</span></div>
+    <div class="ficha-eli">
+      <p style="font-size:.85rem;color:var(--muted)">Genera la hoja con el prompt (pégalo en cualquier IA). Imprime antes de empezar.</p>
+      <div class="prompt-claude">
+        <div class="prompt-claude-hd"><span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Portafolio P13</span><button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button></div>
+        <div class="prompt-claude-body">Necesito crear una hoja imprimible "resumen de portafolio" en español para mi hija Elisabeth ("Eli"), de 6 años. Familia presbiteriana en Bogotá, marco reformado pactual. Se conserva en su portafolio durante años.
+
+TEMA: Catecismo CPN P13 · Semana 3 · 4 ángulos.
+PROPÓSITO: Eli vivió la semana con P13. Esta hoja es la evidencia que se guarda. Lámina coleccionable, no tarea escolar.
+
+CONTENIDO BÍBLICO:
+P: ¿Puede Dios hacer todo?
+R: Sí, Dios puede hacer todo conforme a su santa y soberana voluntad.
+
+LOS 4 ÁNGULOS:
+- Día 1: Daniel 4:35 — nadie detiene su mano
+- Día 2: Mateo 19:26 — para Dios todo es posible
+- Día 3: Génesis 18:14 — nada es difícil para Dios (Sara e Isaac)
+- Día 4: Mateo 6:10 — hágase tu voluntad (santa y soberana)
+
+FORMATO: A4 vertical, 1:1.414 si imagen, márgenes amplios.
+ESTILO VISUAL: fondo crema #FAF6F0, tema violeta #6B3FAA con dorado #C49A2A, contemplativo, sin caricaturas, sin neón, sin representar a Dios ni halos.
+TIPOGRAFÍA: Georgia títulos, sans-serif texto, mín 14pt, 22pt+ para P y R.
+
+CONTENIDO DE LA HOJA:
+- Encabezado: "Lo que aprendí de Dios — Semana 3"
+- Subtítulo: "Familia Espinoza · Catecismo P13"
+- Cuadro central grande con la P y R.
+- "4 cosas que aprendí" con líneas: 🤚 "Nadie detiene la ___ de Dios" / ✨ "Para Dios todo es ___" / 👵 "Nada es ___ para Dios" / 🙏 "Hágase tu ___"
+- Recuadro 10×10cm: "Mi dibujo".
+- Pregunta: "Cuando recuerdo que Dios puede todo, yo siento ___" (4 líneas).
+- Firmas: "Eli — fecha" y "Mamá".
+- Cinta dorada: "Hágase tu voluntad, como en el cielo así también en la tierra. — Mateo 6:10"
+- Pie: "Familia Espinoza · Creciendo en el Pacto · 2026-27"
+
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical 1:1.414, alta resolución, espacios en blanco visibles.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+      </div>
+    </div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Eli dice P11+P12+P13</li><li>"¿Qué aprendiste de que Dios puede todo?"</li><li>Si no hay hoja: cuaderno con dibujo + R de P13</li><li>Oración. Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa + snack.</b></div></div>
+
+<!-- ARTE CLASSICAL -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico rojo">🎨</div><div>
+    <div class="lesson-ttl">Arte · "La creación de Adán" de Miguel Ángel</div>
+    <div class="lesson-meta">30 min · estudio de obra maestra (estilo Classical) + dibujo</div>
+    <div class="mats"><span class="mat">Imagen de la obra (impresa o pantalla)</span><span class="mat">Hoja · lápiz · colores</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>Arte estilo Classical (lo que pediste — no dibujar por dibujar). Hoy <strong>estudiamos una obra maestra</strong>: "La creación de Adán" de Miguel Ángel (Capilla Sixtina, 1512). Conecta perfecto con la semana (imagen de Dios). El método Classical/Mason: mirar en silencio → describir → conectar → dibujar. Aprendemos a VER (Cap 16).</p>
+    <p style="font-size:.84rem"><strong>Datos para ti:</strong> Miguel Ángel pintó el techo de la Capilla Sixtina en Roma, acostado en un andamio durante 4 años. "La creación de Adán" muestra a Dios extendiendo su dedo hacia Adán, dándole vida. Los dedos casi se tocan — ese pequeño espacio es famoso en todo el mundo.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Mirar en silencio · 5 min <span class="edc-mark E">E</span></div>
+        <p>Muestra la obra. Eli la mira 2 minutos sin hablar. Solo observa.</p>
+        <div class="guia-say">"Mira esta pintura con calma. No digas nada todavía. Solo mira."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Describir · 7 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Ahora cuéntame: ¿qué ves? ¿Quiénes son? ¿Qué están haciendo? ¿Qué pasa con sus manos?"</div>
+        <p>Eli describe. Mamá guía: "Dios (a la derecha) le da vida a Adán (a la izquierda) con su dedo."</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Conectar · 5 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Esta semana aprendimos que Dios creó al hombre a su imagen y le dio aliento de vida. El pintor Miguel Ángel quiso mostrar ese momento: Dios dando vida a Adán. El arte puede contar la verdad de la Biblia."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Dibujar (elementos OiLS) · 11 min <span class="edc-mark C">C</span></div>
+        <p>Eli dibuja dos manos que casi se tocan (como en la obra), usando líneas y curvas. Recordatorio del lenguaje del dibujo (Classical OiLS / Monart): <strong>puntos, líneas, curvas, ángulos, círculos</strong> — todo dibujo se hace con esos 5 elementos.</p>
+        <div class="guia-say">"Una mano se hace con curvas (los dedos) y líneas. Empieza despacio, mirando tu propia mano."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">5</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Dios fue el primer artista — hizo un mundo bello. Tú, como su imagen, también puedes crear belleza."</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>Mira poco, no describe</td><td>Hacer preguntas concretas: "¿cuántas personas ves?"</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Describe la obra · dibuja las manos</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta la obra con la creación del hombre · usa los elementos al dibujar</td><td>Registrar. Guardar el dibujo.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">15 min</div><ol><li>Mirar la obra en silencio</li><li>"¿Qué ves?"</li><li>Conectar: Dios da vida a Adán</li><li>Dibujar dos manos. Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa.</b></div></div>
+
+<!-- MÚSICA HIMNO CON HISTORIA -->
+<div class="lesson">
+  <div class="lesson-hd"><div class="lesson-ico violeta">🎵</div><div>
+    <div class="lesson-ttl">Música · "Grande es tu fidelidad" — su historia</div>
+    <div class="lesson-meta">30 min · historia del himno + biografía del autor + cantar</div>
+    <div class="mats"><span class="mat">Letra del himno</span><span class="mat">Audio o piano (opcional)</span></div>
+  </div></div>
+  <div class="lesson-body">
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
+    <div class="lec-mama"><p>El himno CON su historia (lo que pediste). No solo cantar — conocer de dónde viene. <strong>"Grande es tu fidelidad"</strong> conecta con la semana: Dios sostiene fielmente su creación día a día (el día 7, la providencia).</p>
+    <p style="font-size:.84rem"><strong>La historia (para que la cuentes a Eli):</strong> El autor es <strong>Thomas Chisholm</strong> (1866-1960), un maestro de escuela y luego ministro en Estados Unidos. No tuvo una vida dramática ni espectacular — fue de salud frágil y trabajos sencillos. Pero escribió este himno meditando en <strong>Lamentaciones 3:22-23</strong>: "Por la misericordia del Señor no hemos sido consumidos... nuevas son cada mañana; grande es tu fidelidad." Chisholm dijo que el himno nació de su experiencia diaria de la fidelidad de Dios en lo ordinario — no en grandes milagros, sino en cada amanecer. Por eso el himno habla de "cada mañana": el sol que sale, las estaciones, el cuidado diario. Igual que Dios reposó el día 7 y sigue sosteniendo el mundo.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
+    <div class="guia">
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">La historia del himno · 8 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Este himno lo escribió un señor llamado Thomas Chisholm, hace como 100 años. No era famoso ni rico — era un maestro con salud delicada. Pero cada mañana veía que Dios era fiel: salía el sol, tenía lo que necesitaba. Y escribió esta canción leyendo la Biblia, en Lamentaciones: 'nuevas son cada mañana tus misericordias; grande es tu fidelidad.'"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">El versículo que lo inspiró · 5 min <span class="edc-mark D">D</span></div>
+        <div class="guia-bible"><span class="guia-bible-ref">Lamentaciones 3:22-23</span>"Por la misericordia del Señor no hemos sido consumidos... nuevas son cada mañana; grande es tu fidelidad."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cantar · 12 min <span class="edc-mark D">D</span></div>
+        <p>Cantar juntas el coro: "¡Oh, tu fidelidad! ¡Oh, tu fidelidad! Cada momento la veo en mí..." Si tienes audio o piano, acompañen. Repetir 2-3 veces.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Conectar + cierre · 5 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"Esta semana vimos que Dios reposó el día 7 y sigue cuidando el mundo cada día. Eso es su fidelidad: cada mañana, sin fallar. Por eso cantamos 'grande es tu fidelidad.'"</div></div></div>
+    </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
+    <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
+      <tr class="E"><td class="lvl">E</td><td>No recuerda la historia · solo canta</td><td>Cantar está bien; repetir la historia otro día.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Recuerda que el autor vio la fidelidad diaria de Dios</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta "fidelidad cada mañana" con el cuidado de Dios en la creación</td><td>Registrar.</td></tr>
+    </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Contar quién fue Thomas Chisholm</li><li>Leer Lamentaciones 3:22-23</li><li>Cantar el coro</li><li>Listo.</li></ol></div></div>
+  </div>
+</div>
+
+<div class="strip s-sage" style="margin-top:14px">
+<strong>🇬🇧 Inglés + 🎹 Piano</strong> · el sábado más relajados. Después, ¡tiempo en familia! El domingo descansamos y vamos a la iglesia Raah.
+</div>`
 };
 
 // ── SEMANA 4 ──
