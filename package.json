@@ -1,0 +1,9 @@
+{
+  "name": "creciendo-en-el-pacto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Educación cristiana reformada en casa — familia Espinoza",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.2"
+  }
+}
