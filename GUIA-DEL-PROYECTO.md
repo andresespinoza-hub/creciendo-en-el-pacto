@@ -64,6 +64,57 @@ Cada día empieza con `${APERTURA}` (ritual de apertura pactual reusable).
 
 ---
 
+## 4b. MODELO DIARIO v2 (tras retroalimentación S2 — vigente desde S3)
+
+**Cambios pedidos por la madre tras S2:**
+- 5 días (mar-sáb), **igual intensidad cada día**. Domingo descanso · **Lunes = preparación de mamá** (lee las "Lecturas para mamá", consigue materiales).
+- **Cada clase máximo 30 min**, bien detallada y distribuida.
+- **Pausas activas** entre bloques (la madre las pidió explícitamente). Menú: agua, snack, saltar, estirarse, una canción, correr 5 min.
+- **Piano e inglés diarios** (espacios fijos).
+- **"Lectura para mamá" = PREPARACIÓN** (se lee el lunes o la noche anterior), NO cuenta como tiempo de clase.
+
+**Horario diario tipo (visible arriba de cada día con `.horario`):**
+| Franja | Bloque |
+|---|---|
+| 8:00 | Apertura pactual (10 min) |
+| 8:10 | Catecismo · 1 ángulo (20 min) |
+| 8:30 | ☕ Pausa activa (10 min) |
+| 8:40 | Lectoescritura (30 min) |
+| 9:10 | ☕ Pausa + snack (15 min) |
+| 9:25 | Matemáticas (30 min) |
+| 9:55 | ☕ Pausa activa (10 min) |
+| 10:05 | Historia (30 min) |
+| 10:35 | ☕ Pausa activa (10 min) |
+| 10:45 | Materia del día (Ciencias/Geografía/Naturaleza/Arte) (30 min) |
+| 11:15 | Inglés (30 min) |
+| 11:45 | Piano (20 min) |
+
+**Cadencia de la materia rotativa (1 por día):**
+| Día | Materia rotativa | Catecismo |
+|---|---|---|
+| Martes | Geografía | P_ Día 1 |
+| Miércoles | Ciencias (experimento 1) | Día 2 |
+| Jueves | Naturaleza (paseo + diario) | Día 3 |
+| Viernes | Ciencias (experimento 2) | Día 4 |
+| Sábado | Arte Classical + Música/Himno | Síntesis + portafolio |
+
+**CORRECCIÓN CRÍTICA del catecismo (defecto de S2):** la narración libre + recitación acumulativa + hoja de portafolio se repetían cada día. **Mal.** Cada día entre semana = UN ángulo nuevo, ~20 min, con solo 30 seg de repaso. La síntesis (narración libre + 3-4 ángulos + portafolio) es **SOLO del sábado**.
+
+### Las 11 correcciones de S2 (aplicar S3+)
+1. Lecciones ≤30 min · pausas activas visibles.
+2. Catecismo: 1 ángulo/día, sin ritual de síntesis diario (solo sábado).
+3. Naturaleza a mitad de semana (jueves), no el último día.
+4. Ciencias con contenido real 2x/semana (mié+vie), no solo el frijol.
+5. Arte estilo Classical Fine Arts: picture study de obra maestra + elementos OiLS (Dots/Lines/Angles/Curves/Circles = Monart), conectado al tema.
+6. Himno con **historia del himno + biografía del autor + trasfondo**, no solo cantar.
+7. Día 7 de la creación (reposo) como segmento propio → conecta con Día del Señor.
+8. Lectura: separar decodificación de comprensión. Textos decodificables a su nivel + lectura en eco. Comprensión profunda con textos que mamá lee. **Conexión explícita con "Mamá enséñame a leer"** (letra/página).
+9. Matemáticas: todo en la app + referencia opcional a Singapur 1A / Mamut.
+10. Geografía 1x/semana (martes), objetivo concreto, conectada a la historia.
+11. Piano e inglés diarios.
+
+---
+
 ## 4. Ritmo semanal: martes a sábado (5 días)
 
 | Día | Carácter | Bloques típicos |

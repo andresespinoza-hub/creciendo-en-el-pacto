@@ -1043,6 +1043,62 @@ body {
   font-weight: 500;
 }
 
+/* ═══ HORARIO DEL DÍA (franjas de 30 min con pausas) ═══ */
+.horario {
+  background: linear-gradient(135deg, #1C3A5A, #2A5070);
+  border-radius: var(--r);
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  color: rgba(255,255,255,.92);
+}
+.horario-ttl {
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--gold-lt);
+  margin-bottom: 10px;
+}
+.horario-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(255,255,255,.08);
+  font-size: .85rem;
+}
+.horario-row:last-child { border-bottom: none; }
+.horario-time {
+  flex-shrink: 0;
+  width: 64px;
+  font-weight: 700;
+  font-size: .78rem;
+  color: var(--gold-lt);
+}
+.horario-act { flex: 1; }
+.horario-row.pausa-row {
+  color: rgba(255,255,255,.6);
+  font-style: italic;
+  font-size: .8rem;
+}
+.horario-row.pausa-row .horario-act::before { content: "☕ "; }
+
+/* ═══ PAUSA ACTIVA entre bloques ═══ */
+.pausa {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(74,122,90,.1);
+  border: 1.5px dashed rgba(74,122,90,.4);
+  border-radius: var(--r-sm);
+  padding: 9px 14px;
+  margin: 14px 0;
+  font-size: .84rem;
+  color: #1A4A2A;
+}
+.pausa-ico { font-size: 1.1rem; flex-shrink: 0; }
+.pausa b { color: var(--sage); }
+
 /* Mobile adjustments */
 @media (max-width: 768px) {
   .lesson-hd { padding: 14px 16px 12px; gap: 10px; }
@@ -1051,4 +1107,5 @@ body {
   .lesson-ttl { font-size: 1.05rem; }
   .eval-tabla td.lvl { width: 70px; }
   .prompt-claude-body { font-size: .76rem; padding: 10px 12px; }
+  .horario-time { width: 54px; font-size: .72rem; }
 }
