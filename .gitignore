@@ -18,3 +18,4 @@ npm-debug.log*
 
 # Dependencias (las instala Vercel en el deploy)
 node_modules/
+.env*.local
