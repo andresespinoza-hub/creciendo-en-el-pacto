@@ -1,8 +1,8 @@
 // ── DATOS DE LAS 38 SEMANAS ──
 const WEEKS = [
   {n:1,  t:1, d:'19–23 mayo 2026 ★', type:'activa',  u:'U0',   tema:'Mi historia bajo la providencia de Dios',      focus:'Inicia martes 19 — festivo lunes. Cierre X+Y, ordinales→11-20, Jer 1:5, CatN P11'},
-  {n:2,  t:1, d:'25–29 mayo 2026',   type:'activa',  u:'U1',   tema:'Creación — Dios hace todas las cosas',          focus:'Gén 1. Y completa, Z inicia. Números hasta 20 consolidando. CatN P15'},
-  {n:3,  t:1, d:'1–5 jun 2026',      type:'activa',  u:'U1',   tema:'Creación — El hombre como imagen de Dios',      focus:'Gén 1–2. Z cierra. Evaluación de ruta lectoescritura. Valor posicional 11–20'},
+  {n:2,  t:1, d:'25–29 mayo 2026',   type:'activa',  u:'U1',   tema:'Creación — Dios hace todas las cosas',          focus:'Gén 1. Lectoescritura: letra Y en progreso. Números hasta 20 consolidando. CatN P15'},
+  {n:3,  t:1, d:'1–5 jun 2026',      type:'activa',  u:'U1',   tema:'Creación — El hombre como imagen de Dios',      focus:'Gén 1–2. Letra Y (donde Eli va de verdad, según informe de mamá). Comprensión por escucha. Valor posicional 11–20'},
   {n:4,  t:1, d:'8–12 jun 2026',     type:'activa',  u:'U1-2', tema:'Caída y promesa — el pecado y la gracia',       focus:'Gén 3. Gén 3:15. Cambio de ruta lectoescritura. Suma 0-10'},
   {n:5,  t:1, d:'15–19 jun ★',       type:'activa',  u:'U2',   tema:'Abraham — Dios llama y promete',                focus:'Gén 12. ★ 15 jun Corpus Christi. Nuevo recurso lectoescritura S4+'},
   {n:6,  t:1, d:'22–26 jun',         type:'activa',  u:'U2',   tema:'Abraham e Isaac — La promesa persevera',        focus:'Gén 15–22. El pacto abrahánico'},
@@ -6555,7 +6555,7 @@ fm:`<div class="fm-section">
 <div class="fm-block" style="border-left:4px solid var(--rust);background:#fff5f0">
 <h4 style="color:var(--rust)">🛒 Materiales — revisa el LUNES (día de preparación)</h4>
 <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
-<li><strong>Siempre:</strong> Biblia, Catecismo CPN, "Mamá enséñame a leer" (sección Z), cuadernos, lápices, colores, regletas Cuisenaire.</li>
+<li><strong>Siempre:</strong> Biblia, Catecismo CPN, "Mamá enséñame a leer" (sección Y), cuadernos, lápices, colores, regletas Cuisenaire.</li>
 <li><strong>Martes:</strong> mapa simple del Edén / Medio Oriente (impreso o en pantalla).</li>
 <li><strong>Miércoles:</strong> el frasco con el frijol germinado de S2 · regla para medir.</li>
 <li><strong>Jueves:</strong> cuaderno de naturaleza · ropa para salir al paseo · bolsa para tesoros.</li>
@@ -6569,7 +6569,7 @@ fm:`<div class="fm-section">
 <h4 style="color:var(--violet)">🎯 Plan personalizado para Eli — según tu registro de S2</h4>
 <table style="width:100%;border-collapse:collapse;font-size:.84rem;margin-top:8px">
 <tr style="background:rgba(107,63,170,.1)"><th style="text-align:left;padding:6px 8px">Área</th><th style="text-align:left;padding:6px 8px">Lo que viste en S2</th><th style="text-align:left;padding:6px 8px">Plan para S3</th></tr>
-<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Lectura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Aún silabea · cuando ELLA lee no explica bien</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Separamos decodificar de comprender.</strong> Textos cortos que pueda leer fluido + lectura en eco. La comprensión profunda se trabaja con lo que TÚ le lees. Conexión con "Mamá enséñame a leer" letra Z.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Lectura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Aún silabea · cuando ELLA lee no explica bien</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Separamos decodificar de comprender.</strong> Textos cortos que pueda leer fluido + lectura en eco. La comprensión profunda se trabaja con lo que TÚ le lees. Conexión con "Mamá enséñame a leer" letra Y (donde va Eli de verdad).</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Escritura</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Mejorando · escribe sus frases</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Regla del día: <strong>mayúscula al inicio</strong> (S2 fue el punto final).</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Matemáticas</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Bien con 11-20 · viernes costó por cansancio</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Consolidar 11-20 + <strong>iniciar la suma</strong> como "juntar". Si un día está cansada, usar versión mínima sin culpa.</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Catecismo</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">¡Excelente! Hiló P11+P12</td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>P13</strong> esta semana, mismo modelo de ángulos, pero corto cada día.</td></tr>
@@ -6603,9 +6603,9 @@ fm:`<div class="fm-section">
 <div class="fm-block" style="border-left:4px solid var(--blue);background:#f0f6ff">
 <h4 style="color:var(--blue)">📚 Plan de lectura · Semana 3 (conectado con "Mamá enséñame a leer")</h4>
 <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
-<li><strong>Mar:</strong> Letra <strong>Z</strong> en "Mamá enséñame a leer" — sonido y sílabas (za, ze, zi, zo, zu). Eli lee palabras cortas con Z.</li>
-<li><strong>Mié:</strong> texto decodificable corto con Z + <strong>lectura en eco</strong> (mamá lee una línea, Eli la repite). Comprensión oral.</li>
-<li><strong>Jue:</strong> dictado expresivo (frases con Z) + Eli escribe 3 frases propias.</li>
+<li><strong>Mar:</strong> Letra <strong>Y</strong> en "Mamá enséñame a leer" — sonido y sílabas (ya, ye, yi, yo, yu) + la "y" que une (Gén 1:1). Eli lee palabras cortas con Y.</li>
+<li><strong>Mié:</strong> texto decodificable corto con Y + <strong>lectura en eco</strong> (mamá lee una línea, Eli la repite). Comprensión oral.</li>
+<li><strong>Jue:</strong> dictado expresivo (frases con Y) + Eli escribe 3 frases propias.</li>
 <li><strong>Vie:</strong> texto NUEVO que mamá le lee (Eli comprende mejor escuchando) + Eli narra.</li>
 <li><strong>Sáb:</strong> Eli escribe el versículo de memoria (Gén 1:27).</li>
 </ul>
@@ -6637,7 +6637,7 @@ martes:`${APERTURA}
 <div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
 <div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P13 · Día 1</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura · Letra Z</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Lectoescritura · Letra Y</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
 <div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Matemáticas · repaso 11-20 + orden</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
@@ -6690,37 +6690,90 @@ martes:`${APERTURA}
 
 <div class="pausa"><span class="pausa-ico">☕</span><div><b>Pausa activa (10 min):</b> agua + saltar 20 veces + estirarse. Vuelvan cuando Eli esté lista.</div></div>
 
-<!-- LECTOESCRITURA Z -->
+<!-- LECTOESCRITURA Y -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
-    <div class="lesson-ttl">Lectoescritura · La letra Z</div>
-    <div class="lesson-meta">30 min · "Mamá enséñame a leer" sección Z</div>
-    <div class="mats"><span class="mat">Mamá enséñame a leer (Z)</span><span class="mat">Cuaderno</span></div>
+    <div class="lesson-ttl">Lectoescritura · La letra Y</div>
+    <div class="lesson-meta">30 min · "Mamá enséñame a leer" sección Y · donde Eli va de verdad</div>
+    <div class="mats"><span class="mat">Mamá enséñame a leer (Y)</span><span class="mat">Biblia</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
-    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Hoy presentamos la <strong>Z</strong> usando "Mamá enséñame a leer" (la conexión que pediste). El foco hoy es <strong>decodificar</strong> (leer fluido), no comprensión profunda. Textos cortos que Eli pueda leer sin trabarse. Regla del día: <strong>mayúscula al inicio de la oración</strong>.</p></div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span><span class="lsec-sub">léelo el lunes</span></div>
+    <div class="lec-mama">
+      <p><span class="lec-tag">La verdad que gobierna la clase:</span> el lenguaje no es una destreza neutral. Es <strong>don de Dios</strong>, porque Dios habla, nombra y promete ("Y dijo Dios…", Gén 1). Leer es <strong>recibir la realidad</strong> que Él hizo; escribir es <strong>aprender a decir la verdad</strong> (9.º mandamiento — Cap 12). Enseñar la letra Y no es "rellenar fonética": es formar a una testigo veraz que recibe y dice lo que es verdad.</p>
+      <p><span class="lec-tag">La Y tiene dos rostros — y los dos son su naturaleza:</span> (1) <strong>consonante</strong> en ya, ye, yi, yo, yu (yo, yema, mayo, payaso); (2) la palabra pequeñita <strong>"y"</strong> que <strong>une</strong>. La Biblia empieza usándola: "creó los cielos <strong>y</strong> la tierra" (Gén 1:1). El lenguaje junta lo que Dios junta: día y noche, sol y luna. No es barniz cristiano — es la función real de la letra, mostrada en las propias palabras de la Escritura.</p>
+      <p><span class="lec-tag">Tu observación, aplicada:</span> Eli decodifica silabeando y comprende mejor cuando <strong>escucha</strong> que cuando lee ella. Hoy <strong>separamos</strong> las dos cosas: primero decodificar la Y sin presión; la comprensión se trabaja con mamá leyendo en voz alta y Eli contándolo de vuelta. Y conectamos de verdad con "Mamá enséñame a leer" (sección Y) — pero todo lo necesario está aquí; no dependes del libro en plena clase.</p>
+      <p><span class="lec-tag">Oración antes de enseñar:</span> "Señor, tú hablaste y todo existió. Gracias por el don de las palabras. Que Eli reciba tu verdad y aprenda a decirla. En el nombre de Jesús. Amén."</p>
+    </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Sonido de la Z · 5 min <span class="edc-mark E">E</span></div>
-        <p>Abre "Mamá enséñame a leer" en la sección de la Z. Sigue el método del libro.</p>
-        <div class="guia-say">"La letra Z suena /z/. Repite: za, ze, zi, zo, zu."</div></div></div>
-      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Palabras con Z · 10 min <span class="edc-mark D">D</span></div>
-        <p>Eli lee palabras cortas, despacio, decodificando: <strong>zapato · zorro · taza · pozo · azul · nariz · luz · feliz</strong>. Sin prisa. Celebra cada una que lee sola.</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Escribir · 10 min <span class="edc-mark C">C</span></div>
-        <div class="guia-say">"Escribe 2 frases con palabras que tengan Z. Empieza cada una con mayúscula y termina con punto."</div>
-        <p>Eli escribe sola. Mamá señala SOLO si faltó la mayúscula inicial.</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 5 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Ya conoces casi todas las letras. Dios te dio una mente que aprende. ¡Qué regalo!"</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Sonido de la Y (consonante) · 5 min <span class="edc-mark E">E</span></div>
+        <p>Sigue el método de "Mamá enséñame a leer" (sección Y). Solo decodificar; aún no pidas significados.</p>
+        <div class="guia-say">"Esta es la letra Y. Escucha: yo, yema, mayo. Ahora tú: ya, ye, yi, yo, yu."</div>
+        <p>Repite las sílabas despacio 2 veces. Celebra el intento, no la perfección.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">La "y" que une · 5 min <span class="edc-mark D">D</span></div>
+        <p>Abre la Biblia en Génesis 1:1 y señala con el dedo la palabra "y".</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Génesis 1:1</span>"En el principio creó Dios los cielos <strong>y</strong> la tierra."</div>
+        <div class="guia-say">"¿Ves esta letrita sola, la 'y'? Une dos cosas: los cielos Y la tierra. Dime tú otras dos cosas que van juntas…"</div>
+        <p><em>Espera.</em> Deja que Eli proponga sus propias parejas (papá y mamá, sol y luna). No corrijas, celebra.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Decodificar palabras con Y · 8 min <span class="edc-mark D">D</span></div>
+        <p>Eli lee despacio, decodificando. No le pidas el significado ahora — solo que las lea. Celebra cada una que logra sola:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Palabras (Eli las lee en voz alta)</span>yo · ya · yema · mayo · payaso · yate · rey · ley · hoy · muy</div>
+        <p style="font-size:.85rem;color:var(--muted)">Para mamá: en <em>rey, ley, hoy, muy</em> la Y suena como "i" al final — también es la Y. No hace falta explicarlo; basta que las lea.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Comprender ESCUCHANDO · 7 min <span class="edc-mark D">D</span></div>
+        <p>Ahora al revés: <strong>tú lees, Eli solo escucha</strong> (sin decodificar). Después ella te cuenta con sus palabras lo que oyó — eso es <em>narración</em>, y así sabes que comprendió.</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Mamá lee con buena entonación</span>Hoy es un día que hizo el Señor. El Rey del cielo y de la tierra cuida a Eli. Yo soy pequeña, y Él es muy grande, y me ama.</div>
+        <div class="guia-say">"Ahora cuéntame tú: ¿qué dije? ¿Quién cuida a Eli?"</div>
+        <p><em>Escucha sin corregir</em> cómo lo cuenta. Lo importante es que comprendió, no que repita igual.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">5</div><div class="guia-step-body"><div class="guia-step-ttl">Escribir la Y (decir la verdad) · 5 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Escribe 'yo' y una frase corta que sea verdad, con una palabra que tenga Y. Empieza con mayúscula y termina con punto."</div>
+        <p>Eli escribe sola. Mamá señala SOLO una cosa hoy: que la Y esté bien formada (o la mayúscula inicial). Escribir con cuidado es aprender a decir la verdad con cuidado.</p></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
     <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-      <tr class="E"><td class="lvl">E</td><td>Le cuesta el sonido /z/ o las sílabas</td><td>Quedarse en sílabas; palabras mañana.</td></tr>
-      <tr class="D"><td class="lvl">D</td><td>Lee palabras con Z decodificando · escribe con apoyo</td><td>Normal. Marcar solo la mayúscula.</td></tr>
-      <tr class="C"><td class="lvl">C</td><td>Lee fluido · escribe 2 frases con mayúscula y punto</td><td>Registrar.</td></tr>
+      <tr class="E"><td class="lvl">E</td><td>Le cuesta el sonido /y/ o las sílabas ya-ye-yi-yo-yu</td><td>Quedarse en sílabas hoy; las palabras, mañana. Sin prisa.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Decodifica palabras con Y silabeando · comprende cuando mamá lee</td><td>Es lo normal y esperado. Separa decodificar de comprender; celebra ambas.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Lee fluido · reconoce la "y" que une · te narra lo que oyó</td><td>Registrar. Lista para lectura en eco (miércoles).</td></tr>
     </table></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha + prompt para IA</span><span class="lsec-sub">opcional</span></div>
+      <div class="ficha-eli">
+        <p><strong>Imprimible · A4 vertical · letra grande</strong> — refuerzo de la letra Y: sílabas, palabras, la "y" que une, una línea de copia y un recuadro para dibujar.</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Ficha Lectoescritura Y</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible de lectoescritura en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado y pactual.
+
+TEMA: La letra Y, con sus dos usos: consonante (ya, ye, yi, yo, yu) y la palabra "y" que une.
+PROPÓSITO: reforzar la decodificación de la letra Y y practicar la escritura. Eli decodifica silabeando y está aprendiendo esta letra con el método "Mamá enséñame a leer".
+MARCO DOCTRINAL: reformado pactual · sin moralismo · el lenguaje es don de Dios (Él habla y nombra) y escribir bien es aprender a decir la verdad. Nada de "sé buena niña".
+
+CONTENIDO DE LA HOJA (A4 vertical, una página):
+1. Encabezado: "La letra Y" con una ilustración pequeña y sencilla (un yate o una yema de huevo).
+2. Recuadro "Yo leo las sílabas": ya · ye · yi · yo · yu, cada una en una cajita grande de color.
+3. Recuadro "Yo leo palabras": yo, yema, mayo, payaso, yate, rey, ley, hoy (letra mínimo 18pt).
+4. Recuadro "La y que une": la frase "los cielos y la tierra" con la "y" resaltada, y dos líneas para que Eli escriba su propia pareja unida por "y".
+5. Sección "Yo escribo": prompt "Escribe 'yo' y una frase verdadera con una palabra que tenga Y. Mayúscula al inicio, punto al final." Líneas guía de 10 mm.
+6. Recuadro de dibujo: "Dibuja algo que empiece con Y".
+
+DISEÑO VISUAL:
+- Fondo: crema cálido (#FAF6F0).
+- Color acento del tema: azul lectura (#2A6090) en encabezados y bordes.
+- Tipografía: Georgia para títulos; Verdana o Lexend para texto infantil (16-20pt).
+- Líneas guía: altura mínima 10 mm. Espacio amplio; cada bloque separado por un recuadro o cinta de color.
+- No caricaturas exageradas · no colores neón · ilustración sencilla y respetuosa · no representar a Dios.
+
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 vertical (proporción 1:1.414), alta resolución, con espacios en blanco visibles para escribir y dibujar.
+Si la IA genera HTML: artifact con CSS embebido, A4 vertical, imprimible sin márgenes del navegador.
+Si la IA genera PDF: A4 vertical, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Sílabas za-ze-zi-zo-zu</li><li>Eli lee 4 palabras con Z</li><li>Escribe 1 frase</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Sílabas ya-ye-yi-yo-yu</li><li>Eli lee 4 palabras con Y (yo, ya, rey, hoy)</li><li>Mamá lee una frase, Eli la cuenta de vuelta</li><li>Eli escribe "yo"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
@@ -6892,7 +6945,7 @@ miercoles:`${APERTURA}
   <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
     <div class="lesson-ttl">Lectoescritura · Lectura en eco + comprensión</div>
     <div class="lesson-meta">30 min · decodificar fluido + entender escuchando</div>
-    <div class="mats"><span class="mat">Texto corto con Z</span><span class="mat">Cuaderno</span></div>
+    <div class="mats"><span class="mat">Texto corto con Y</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
@@ -6900,11 +6953,11 @@ miercoles:`${APERTURA}
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
       <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Texto corto · 10 min <span class="edc-mark D">D</span></div>
-        <div class="guia-bible"><span class="guia-bible-ref">Texto con Z (mamá lee, Eli repite cada línea)</span>El zorro tiene una cola peluda.<br>Vive cerca de un pozo azul.<br>Por la mañana bebe agua fresca.<br>Es feliz en el bosque que Dios hizo.</div>
+        <div class="guia-bible"><span class="guia-bible-ref">Texto con Y (mamá lee, Eli repite cada línea)</span>Hoy es un día nuevo y bonito.<br>Yo miro el cielo y la tierra.<br>El Rey del cielo hizo todo.<br>Dios me cuida hoy y siempre.</div>
         <p>Mamá lee la 1ª línea con entonación → Eli la repite. Así con cada línea. Luego Eli lee sola las que pueda.</p></div></div>
       <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Comprensión oral · 8 min <span class="edc-mark D">D</span></div>
         <p>Preguntas (Eli responde hablando, no leyendo):</p>
-        <div class="guia-say">"¿Dónde vive el zorro? ¿Qué bebe? ¿Quién hizo el bosque?"</div></div></div>
+        <div class="guia-say">"¿Qué miras tú en el cielo y la tierra? ¿Quién hizo todo? ¿Quién te cuida hoy?"</div></div></div>
       <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Copiar una línea · 10 min <span class="edc-mark C">C</span></div>
         <div class="guia-say">"Copia tu línea favorita del texto. Mayúscula al inicio, punto al final."</div></div></div>
       <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
@@ -7090,17 +7143,17 @@ jueves:`${APERTURA}
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico azul">📖</div><div>
     <div class="lesson-ttl">Lectoescritura · Dictado + escritura propia</div>
-    <div class="lesson-meta">30 min · frases con Z · mayúscula y punto</div>
+    <div class="lesson-meta">30 min · frases con Y · mayúscula y punto</div>
     <div class="mats"><span class="mat">Cuaderno</span><span class="mat">Lápiz</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Hoy Eli escribe (no decodifica). Dictado de 3 frases cortas con Z, luego escritura propia. Reforzamos mayúscula al inicio. Sin corregir cada error — una sola corrección.</p></div></div>
+    <div class="lec-mama"><p>Hoy Eli escribe (no decodifica). Dictado de 3 frases cortas con Y, luego escritura propia. Reforzamos mayúscula al inicio y recordamos la "y" que une (lo del martes). Sin corregir cada error — una sola corrección. Escribir bien es decir la verdad con cuidado (9.º mandamiento).</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
       <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Dictado · 12 min <span class="edc-mark D">D</span></div>
         <p>Mamá dicta despacio, cada frase 2 veces:</p>
-        <div class="guia-bible"><span class="guia-bible-ref">Dictado (3 frases)</span>1. El zorro es feliz.<br>2. La taza es azul.<br>3. Dios hizo la luz.</div>
+        <div class="guia-bible"><span class="guia-bible-ref">Dictado (3 frases)</span>1. Hoy yo doy gracias a Dios.<br>2. El cielo y la tierra son de Dios.<br>3. Yo soy de Jesús.</div>
         <p>Eli escribe sola. Al final compara y corrige UNA cosa (la mayúscula inicial).</p></div></div>
       <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Escritura propia · 13 min <span class="edc-mark C">C</span></div>
         <div class="guia-say">"Escribe 2 frases tuyas sobre algo que Dios hizo. Mayúscula al inicio, punto al final."</div></div></div>
