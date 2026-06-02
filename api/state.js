@@ -82,13 +82,14 @@ module.exports = async (req, res) => {
       const current = rows[0] ? rows[0].data : {};
       const merged = deepMerge(current, incoming);
 
-      await sql`
+      const w = await sql`
         INSERT INTO cp_state (id, data, updated_at)
         VALUES ('family', ${JSON.stringify(merged)}::jsonb, now())
         ON CONFLICT (id) DO UPDATE
-          SET data = EXCLUDED.data, updated_at = now()`;
+          SET data = EXCLUDED.data, updated_at = now()
+        RETURNING updated_at`;
 
-      return res.status(200).json({ ok: true, data: merged });
+      return res.status(200).json({ ok: true, data: merged, updated_at: w[0] && w[0].updated_at });
     }
 
     return res.status(405).json({ error: "method_not_allowed" });
