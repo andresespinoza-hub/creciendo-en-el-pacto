@@ -299,6 +299,24 @@ Semanas hechas: S1 (Mi historia), S2 (Creación/Gén 1), S3 (Imagen de Dios), S4
 
 ---
 
+## 9b. Biblioteca y recursos — analizados (etiquetados por rol)
+
+**Principio (Apéndice C — reencuadre):** casi todos los recursos externos son de **gracia común / evangélicos amplios**, NO distintivamente pactuales-presbiterianos. Regla: tomar su **método/narrativa/técnica** y poner NOSOTROS el marco pactual (app + catecismo + el libro). Etiquetar por rol antes de usar; nunca adoptar entero "de manera plena".
+
+| Recurso | Rol | Uso / cuidado |
+|---|---|---|
+| **Redeeming Mathematics** (Poythress) | 👨‍👩 Formación de padres | El "porqué" de mate (Cap 13): 2+2=4 refleja la inmutabilidad y fidelidad de Dios; las leyes son su orden constante. No es currículo de Eli (muy abstracto). |
+| **Principles of Math / "Spiritual Maths"** (K. Loop) | 👨‍👩 Padres ahora · Eli ~11–14 | Modelo de reencuadre SIN barniz (la autora lo rechaza explícitamente); valida C-P-A. Currículo futuro, no para 6. |
+| **A Look Inside: God's Story** | ✅ Usar ya (mamá narra) | Guion de la espina dorsal de historia bíblica — redentivo-histórica y pactual (línea de Set, Gn 3:15, la sangre→Cristo). Mamá lo lee y narra a Eli; nivel 9–12, no lo lee Eli. |
+| **Creation to Babel** (Ken Ham) | 📚 Referencia para mamá | Apologética de Génesis (creación, edad de la tierra). Fuerte en creación, **débil en pacto**; cuidado con el concordismo. No para Eli. |
+| **More Than Words L2** (Spooner) | 🔜 Futuro (9+) | Buen formato CM de 4 días (narración, copywork, arte, himno); cristocéntrico pero **no pactual explícito**; edad alta. Tomar el formato. |
+| **The Read-Aloud Family** (Mackenzie) | 👩 Formación de mamá | Método de lectura en voz alta para la ruta de comprensión (mamá lee → Eli narra). ⚠️ Autora **católica romana** (dedicatoria = oración de réquiem por los muertos): filtrar piedad RC; que "amar leer" no sea fin último (sirve a recibir la verdad). |
+| **Beatrix Potter** (Peter Rabbit + Cuentos Completos) | ✅ Usar ya (textos, español) | Libros vivos: lectura en voz alta + narración, textos para comprensión (idea principal / secuencia / causa-efecto), picture study (acuarelas) y naturaleza (Potter fue naturalista). ⚠️ No moralizar el arco "desobedeció→consecuencias"; nombrar el antropomorfismo como cuento. |
+
+**Roadmap de integración:** (1) notas del "porqué" de mate (Poythress/Loop) en el "para mamá" de los bloques de matemáticas; (2) *God's Story* como guion de narración de historia de T1; (3) cuentos de Potter + técnicas de *Read-Aloud Family* en la ruta de comprensión post-Z; (4) este estante de roles; (5) reflejar en las skills `hogar-materias` / `paideia-hogar`.
+
+---
+
 ## 10. Prompts para IA (formato obligatorio)
 
 Header del bloque: `🤖 Prompt para IA generadora`. Estructura del prompt:
