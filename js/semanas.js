@@ -3,7 +3,7 @@ const WEEKS = [
   {n:1,  t:1, d:'19–23 mayo 2026 ★', type:'activa',  u:'U0',   tema:'Mi historia bajo la providencia de Dios',      focus:'Inicia martes 19 — festivo lunes. Cierre X+Y, ordinales→11-20, Jer 1:5, CatN P11'},
   {n:2,  t:1, d:'25–29 mayo 2026',   type:'activa',  u:'U1',   tema:'Creación — Dios hace todas las cosas',          focus:'Gén 1. Lectoescritura: letra Y en progreso. Números hasta 20 consolidando. CatN P15'},
   {n:3,  t:1, d:'1–5 jun 2026',      type:'activa',  u:'U1',   tema:'Creación — El hombre como imagen de Dios',      focus:'Gén 1–2. Letra Y (donde Eli va de verdad, según informe de mamá). Comprensión por escucha. Valor posicional 11–20'},
-  {n:4,  t:1, d:'8–12 jun 2026',     type:'activa',  u:'U1-2', tema:'Caída y promesa — el pecado y la gracia',       focus:'Gén 3 + protoevangelio 3:15. Catecismo P14. Letra Z (cierra alfabeto). Suma 0-10. Modelo v3 (días protegidos)'},
+  {n:4,  t:1, d:'8–12 jun 2026',     type:'activa',  u:'U1-2', tema:'Caída y promesa — el pecado y la gracia',       focus:'Gén 3 + protoevangelio 3:15. Catecismo P14. Letra Z. Resta 0-10 (familias con suma). Ciencias: el agua. Modelo v3'},
   {n:5,  t:1, d:'15–19 jun ★',       type:'activa',  u:'U2',   tema:'Abraham — Dios llama y promete',                focus:'Gén 12. ★ 15 jun Corpus Christi. Nuevo recurso lectoescritura S4+'},
   {n:6,  t:1, d:'22–26 jun',         type:'activa',  u:'U2',   tema:'Abraham e Isaac — La promesa persevera',        focus:'Gén 15–22. El pacto abrahánico'},
   {n:7,  t:1, d:'29 jun–3 jul ★',    type:'activa',  u:'U2',   tema:'Jacob — Dios persiste en su plan',              focus:'Gén 25–33. ★ 29 jun San Pedro y San Pablo'},
@@ -7670,16 +7670,16 @@ fm:`<div class="fm-section">
 <div class="fm-block"><h4>🛒 Materiales de la semana (consíguelos el lunes)</h4>
 <ul>
 <li>Biblia · Catecismo para Niños · "Mamá enséñame a leer" (sección <strong>Z</strong>) · cuaderno · colores.</li>
-<li>Regletas Cuisenaire · <strong>Mamut Sumar 1</strong> (p.2).</li>
+<li>Regletas Cuisenaire · <strong>Mamut Restar 1</strong>.</li>
 <li>Un <strong>mapa del mundo</strong> (impreso o en pantalla) para geografía.</li>
-<li>⚠️ <strong>Para el viernes:</strong> remojar un <strong>frijol</strong> la noche del jueves (y tener 1–2 secos + un vaso/algodón) para sembrarlo.</li>
+<li>⚠️ <strong>Para el viernes (ciencias):</strong> un recipiente hondo con <strong>agua</strong> + varios objetos pequeños (una piedra, un corcho o tapa, una cuchara de metal, una hoja, un juguete) para ver qué <strong>flota</strong> y qué se <strong>hunde</strong>.</li>
 </ul></div>
 
 <div class="fm-block"><h4>🎯 Plan personalizado para Eli (según tu informe de S3)</h4>
 <table class="eval-tabla"><tr><th>Área</th><th>Dónde está</th><th>Acción esta semana</th></tr>
 <tr class="D"><td class="lvl">Lectura</td><td>Silabea aún; comprende mejor escuchando que leyendo ella</td><td>Letra Z al estándar: decodificar sin presión + comprensión por escucha (mamá lee → Eli narra).</td></tr>
 <tr class="D"><td class="lvl">Escritura</td><td>Mejorando; frases propias</td><td>Copia breve (la Z bien hecha) + mayúscula y punto.</td></tr>
-<tr class="C"><td class="lvl">Mate</td><td>Bien con 11–20</td><td>Inicia la suma (partes y total) con regletas; reto Singapur de pares.</td></tr>
+<tr class="C"><td class="lvl">Mate</td><td>Ya inició la suma (S3)</td><td>Avanza a la <strong>resta</strong> (quitar) con regletas, conectada con la suma (familias de números).</td></tr>
 <tr class="C"><td class="lvl">Catecismo</td><td>Hila muy bien P11–P13</td><td>P14 con peso teológico (4 dimensiones); cierra el primer ciclo.</td></tr>
 </table></div>
 
@@ -7704,7 +7704,7 @@ martes:`${APERTURA}
 <div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
 <div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Lectoescritura · la letra Z</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Matemáticas · suma (partes y total) — corto</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Matemáticas · la resta (quitar) — corto</span></div>
 <div class="horario-row"><span class="horario-time">2:00pm</span><span class="horario-act">🎹 Piano + 🇬🇧 Inglés (externos)</span></div>
 </div>
 
@@ -7816,27 +7816,26 @@ martes:`${APERTURA}
 <!-- MATEMÁTICAS -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
-    <div class="lesson-ttl">Matemáticas · Inicio de la suma — partes y total</div>
+    <div class="lesson-ttl">Matemáticas · La resta — quitar (introducción)</div>
     <div class="lesson-meta">20 min (día liviano) · concreto con regletas</div>
     <div class="mats"><span class="mat">Regletas Cuisenaire</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Empezamos la <strong>suma</strong>. (a) <strong>Manipulativo:</strong> regletas. (b) <strong>Concepto Singapur:</strong> suma = juntar dos PARTES para hallar el TOTAL (pensamiento de "parte-parte-todo"). (c) <strong>Mamut:</strong> hoy aún no — esta semana entramos a Mamut Sumar 1 p.2 el jueves. Hoy solo <strong>concreto</strong>, sin fórmula escrita. Marco: los números y su orden pertenecen al mundo que Dios hizo (Prov 3:19-20).</p></div></div>
+    <div class="lec-mama"><p>En S3 Eli aprendió a <strong>juntar</strong> (sumar). Esta semana aprende lo contrario: <strong>quitar</strong> (restar) — algo nuevo y motivante. (a) <strong>Manipulativo:</strong> regletas. (b) <strong>Concepto Singapur:</strong> del TODO quito una PARTE y queda la otra (misma familia "parte-parte-todo" de la suma, al revés). (c) <strong>Mamut:</strong> entramos a Mamut Restar 1 el jueves. Hoy solo <strong>concreto</strong>. Marco: el orden de los números es del mundo que Dios hizo (Prov 3:19-20).</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Juntar partes · 12 min <span class="edc-mark D">D</span></div>
-        <p>Pon 3 regletas blancas y 4 regletas blancas. Júntalas.</p>
-        <div class="guia-say">"Aquí hay 3 y aquí hay 4. ¿Cuántas en total? ¿Cómo lo sabes? Puedes contarlas o juntar las regletas y ver."</div>
-        <p style="font-size:.85rem;color:var(--muted)">3 + 4 = 7. Repite con 2+3, 5+2, 4+4 (concreto, sin escribir todavía).</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Reto Singapur · 6 min <span class="edc-mark C">C</span></div>
-        <div class="guia-say">"¿Puedes pensar en dos números que juntos den 9? ¿Y otros dos distintos que también den 9?"</div>
-        <p style="font-size:.85rem;color:var(--muted)">Pensamiento relacional: 9 = 4+5 = 6+3 = 7+2… Celebra cada pareja.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Quitar con regletas · 12 min <span class="edc-mark D">D</span></div>
+        <p>Pon 5 regletas blancas. Quita 2. ¿Cuántas quedan?</p>
+        <div class="guia-say">"Tenía 5 y quito 2. ¿Cuántas quedan? Quitar es lo contrario de juntar — el grupo se hace más pequeño."</div>
+        <p style="font-size:.85rem;color:var(--muted)">5 − 2 = 3. Repite con 4−1, 6−3, 5−4, 7−2 (concreto, sin escribir todavía).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Suma y resta son familia · 6 min <span class="edc-mark C">C</span></div>
+        <div class="guia-say">"Si 3 y 2 juntos son 5… entonces de 5 quito 2 y quedan 3. ¡Son la misma familia! Juntar y quitar van de la mano."</div></div></div>
       <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 2 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Sumar es juntar partes para hallar el total. Mañana lo hacemos otra vez con las regletas."</div></div></div>
+        <div class="guia-say">"Restar es quitar una parte del total. Mañana lo hacemos otra vez con las regletas."</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">8 min</div><ol><li>Juntar 3 + 4 con regletas</li><li>Una pareja que dé 9</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">8 min</div><ol><li>Quitar: 5 − 2 con regletas</li><li>"Quitar es lo contrario de juntar"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
@@ -7849,15 +7848,15 @@ miercoles:`${APERTURA}
 <div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
 <div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P14 · Día 2</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Ciencias · ¿qué necesita una planta?</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Ciencias · el agua que Dios nos da</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
 <div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Lectoescritura · Z en eco (repaso)</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Matemáticas · suma con regletas (corto)</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Matemáticas · resta con regletas (corto)</span></div>
 <div class="horario-row"><span class="horario-time">2:00pm</span><span class="horario-act">🏊 Natación (externo)</span></div>
 </div>
 
-<div class="strip s-sage"><strong>Día ligero:</strong> natación en la tarde. Actividades <strong>cortas y activas</strong>; ciencias (observar una planta) es práctica y se intercala entre catecismo y lectoescritura. Lectoescritura es repaso en eco, sin presión.</div>
+<div class="strip s-sage"><strong>Día ligero:</strong> natación en la tarde. Actividades <strong>cortas y activas</strong>; ciencias (observar el agua) es práctica y se intercala entre catecismo y lectoescritura. Lectoescritura es repaso en eco, sin presión.</div>
 
 <!-- CATECISMO P14 DÍA 2 -->
 <div class="lesson">
@@ -7897,35 +7896,35 @@ miercoles:`${APERTURA}
 <!-- CIENCIAS CONCEPTUAL -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico verde">🔬</div><div>
-    <div class="lesson-ttl">Ciencias · ¿Qué necesita una planta para vivir?</div>
-    <div class="lesson-meta">30 min · observar antes de explicar · Salmo 104 · (hilo: las plantas)</div>
-    <div class="mats"><span class="mat">Una planta o una hoja de casa</span><span class="mat">Cuaderno</span></div>
+    <div class="lesson-ttl">Ciencias · El agua que Dios nos da</div>
+    <div class="lesson-meta">30 min · observar antes de explicar · Génesis 1 · (hilo: el agua)</div>
+    <div class="mats"><span class="mat">Un vaso de agua</span><span class="mat">Un cubo de hielo</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Hoy es la sesión <strong>conceptual</strong> del hilo de ciencias de la semana (las plantas); el <strong>viernes</strong> haremos el <strong>experimento</strong> (sembrar un frijol) — mismo hilo. Método Mason: <strong>observar antes de explicar</strong> — pregunta "¿qué ves?" antes de nombrar. Marco: Dios dio orden y vida a las plantas (Sal 104:14, "hace producir la hierba"). Sin cientificismo ni temor: observamos con reverencia el mundo de Dios.</p></div></div>
+    <div class="lec-mama"><p>El hilo de ciencias de la semana es <strong>el agua</strong> (algo nuevo — no el frijol). Hoy la sesión <strong>conceptual</strong>; el <strong>viernes</strong>, el <strong>experimento</strong> (flota o se hunde) — mismo hilo. Método Mason: <strong>observar antes de explicar</strong> — pregunta "¿qué ves?" antes de nombrar. Marco: Dios hizo el agua (Gén 1:2, 6-10) y por ella sostiene toda la vida. Sin cientificismo: observamos con reverencia.</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
       <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Observar · 8 min <span class="edc-mark E">E</span></div>
-        <p>Trae una planta o una hoja. Antes de explicar, pregunta:</p>
-        <div class="guia-say">"¿Qué ves? ¿De qué partes está hecha? ¿Qué color, qué forma?"</div>
-        <p><em>Deja que Eli conjeture y describa.</em> No corrijas todavía.</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Nombrar las partes · 10 min <span class="edc-mark D">D</span></div>
-        <div class="guia-say">"Las plantas tienen RAÍZ (abajo, toma agua), TALLO (sostiene), HOJAS (toman la luz) y a veces FLOR o FRUTO. ¿Para qué crees que sirve cada una?"</div></div></div>
-      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">¿Qué necesita? · 8 min <span class="edc-mark D">D</span></div>
-        <div class="guia-say">"Una planta necesita AGUA, LUZ y TIERRA (y aire). Dios diseñó que así crezca la vida. El viernes vamos a sembrar una semilla y ver si es verdad."</div>
-        <p>Eli dibuja la planta en su cuaderno y rotula las partes que recuerde.</p></div></div>
+        <div class="guia-say">"Mira este vaso de agua. ¿Qué ves? ¿Tiene color? ¿Tiene forma propia, o toma la forma del vaso? Toca: ¿moja?"</div>
+        <p><em>Deja que Eli describa.</em> El agua es transparente, no tiene forma propia, moja.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Las formas del agua · 10 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"El agua puede ser LÍQUIDA (la que bebemos), SÓLIDA (el hielo: frío y duro) y también vapor (cuando hierve y sube). Mira este hielo: es agua dura. Si lo dejamos un rato, ¿qué pasará?"</div>
+        <p>Dejen el hielo a un lado para verlo derretir más tarde (mini-observación).</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">¿Quién necesita agua? · 8 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"¿Quién necesita agua para vivir? Las plantas, los animales, las personas… todos. Dios hizo el agua y por ella cuida la vida. El viernes vamos a jugar a ver qué cosas flotan y qué cosas se hunden."</div>
+        <p>Eli dibuja el vaso y el hielo en su cuaderno.</p></div></div>
       <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 4 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Dios le dio a cada planta lo que necesita para vivir. Nada de esto es por casualidad: es el orden de su creación."</div></div></div>
+        <div class="guia-say">"Dios hizo el agua y la dio como un regalo para toda la vida. Hasta un vaso de agua habla de su bondad."</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
     <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-      <tr class="E"><td class="lvl">E</td><td>Observa pero no nombra partes</td><td>Bien — la observación es lo primero. Nombra tú, ella repite.</td></tr>
-      <tr class="D"><td class="lvl">D</td><td>Nombra 2-3 partes y qué necesita</td><td>Normal.</td></tr>
-      <tr class="C"><td class="lvl">C</td><td>Explica para qué sirve cada parte</td><td>Registrar. Lista para el experimento del viernes.</td></tr>
+      <tr class="E"><td class="lvl">E</td><td>Observa pero no describe</td><td>Nombra tú una propiedad, ella repite.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Dice 1-2 formas del agua y quién la necesita</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Explica las formas (sólido/líquido) y por qué es importante</td><td>Registrar. Lista para el experimento del viernes.</td></tr>
     </table></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Observar una hoja: "¿qué ves?"</li><li>Nombrar raíz/tallo/hoja</li><li>"Necesita agua, luz y tierra"</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Observar el agua: "¿qué ves?"</li><li>Líquida y sólida (el hielo)</li><li>"Dios la hizo; todos la necesitan"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
@@ -7962,23 +7961,23 @@ miercoles:`${APERTURA}
 <!-- MATEMÁTICAS -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
-    <div class="lesson-ttl">Matemáticas · Suma con regletas (corto)</div>
-    <div class="lesson-meta">20 min · concreto · parte-parte-todo</div>
+    <div class="lesson-ttl">Matemáticas · Resta con regletas (corto)</div>
+    <div class="lesson-meta">20 min · concreto · quitar del total</div>
     <div class="mats"><span class="mat">Regletas Cuisenaire</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Día ligero: repaso corto de la suma. (a) <strong>Manipulativo:</strong> regletas. (b) <strong>Singapur:</strong> parte-parte-todo (dos partes → un total). (c) <strong>Mamut:</strong> mañana (jueves) entramos a la hoja. Hoy solo concreto.</p></div></div>
+    <div class="lec-mama"><p>Día ligero: repaso corto de la resta. (a) <strong>Manipulativo:</strong> regletas. (b) <strong>Singapur:</strong> del todo quito una parte. (c) <strong>Mamut:</strong> mañana (jueves) entramos a la hoja (Restar 1). Hoy solo concreto.</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Sumas con regletas · 14 min <span class="edc-mark D">D</span></div>
-        <p>Eli arma y dice el total:</p>
-        <div class="guia-bible"><span class="guia-bible-ref">Sumas (respuestas para mamá)</span>2 + 3 = 5 · 4 + 2 = 6 · 5 + 3 = 8 · 4 + 4 = 8 · 6 + 3 = 9</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Restas con regletas · 14 min <span class="edc-mark D">D</span></div>
+        <p>Eli arma el total, quita y dice cuánto queda:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">Restas (respuestas para mamá)</span>5 − 1 = 4 · 6 − 2 = 4 · 7 − 3 = 4 · 8 − 5 = 3 · 9 − 4 = 5</div></div></div>
       <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 6 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Dos partes se juntan en un total. Mañana lo escribimos en la hoja de Mamut."</div></div></div>
+        <div class="guia-say">"Del total quitamos una parte y queda la otra. Mañana lo escribimos en la hoja de Mamut."</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">8 min</div><ol><li>3 sumas con regletas</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">8 min</div><ol><li>3 restas con regletas</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
@@ -7995,12 +7994,12 @@ jueves:`${APERTURA}
 <div class="horario-row pausa-row"><span class="horario-time">9:15</span><span class="horario-act">Pausa + snack</span></div>
 <div class="horario-row"><span class="horario-time">9:30</span><span class="horario-act">Lectoescritura · dictado con Z</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">10:00</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">10:10</span><span class="horario-act">Matemáticas · Mamut Sumar 1 p.2</span></div>
+<div class="horario-row"><span class="horario-time">10:10</span><span class="horario-act">Matemáticas · Mamut Restar 1</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">10:40</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">10:50</span><span class="horario-act">🌿 Salida de naturaleza (las plantas)</span></div>
+<div class="horario-row"><span class="horario-time">10:50</span><span class="horario-act">🌿 Salida de naturaleza (el agua en la creación)</span></div>
 </div>
 
-<div class="strip s-sage"><strong>Día completo:</strong> el único sin actividad de tarde → es el ancla académica. Historia (densa) va temprano, intercalada entre catecismo y lectoescritura. La salida de naturaleza cierra el día y conecta con el hilo de ciencias (las plantas).</div>
+<div class="strip s-sage"><strong>Día completo:</strong> el único sin actividad de tarde → es el ancla académica. Historia (densa) va temprano, intercalada entre catecismo y lectoescritura. La salida de naturaleza cierra el día y conecta con el hilo de ciencias (el agua).</div>
 
 <!-- CATECISMO P14 DÍA 3 -->
 <div class="lesson">
@@ -8101,28 +8100,28 @@ jueves:`${APERTURA}
 <!-- MATEMÁTICAS MAMUT -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
-    <div class="lesson-ttl">Matemáticas · Suma — a la hoja (Mamut Sumar 1 p.2)</div>
+    <div class="lesson-ttl">Matemáticas · Resta — a la hoja (Mamut Restar 1)</div>
     <div class="lesson-meta">30 min · concreto → pictórico → abstracto</div>
-    <div class="mats"><span class="mat">Regletas</span><span class="mat">Mamut Sumar 1 p.2</span><span class="mat">Cuaderno</span></div>
+    <div class="mats"><span class="mat">Regletas</span><span class="mat">Mamut Restar 1</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Hoy completamos C→P→A. (a) <strong>Manipulativo:</strong> regletas para 2-3 sumas. (b) <strong>Singapur:</strong> parte-parte-todo, ahora con el signo +. (c) <strong>Mamut:</strong> <strong>Sumar 1, p.2</strong> (pictórico→abstracto en la hoja). Secuencia inalterable: primero arma con regletas, luego dibuja, luego escribe el número.</p></div></div>
+    <div class="lec-mama"><p>Hoy completamos C→P→A con la resta. (a) <strong>Manipulativo:</strong> regletas para 2-3 restas. (b) <strong>Singapur:</strong> del todo quito una parte, ahora con el signo −. (c) <strong>Mamut:</strong> <strong>Restar 1</strong> (pictórico→abstracto en la hoja). Secuencia inalterable: primero quita con regletas, luego tacha en el dibujo, luego escribe el número.</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
       <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Concreto · 8 min <span class="edc-mark E">E</span></div>
-        <p>Arma con regletas: 3+2, 4+3, 5+4. Eli dice el total.</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Pictórico → abstracto (Mamut p.2) · 16 min <span class="edc-mark D">D</span></div>
-        <p>Pasa a la hoja de Mamut Sumar 1 p.2: primero los dibujos (pictórico), luego escribir el número con el signo +. Si no tienes la hoja a mano, en el cuaderno:</p>
-        <div class="guia-bible"><span class="guia-bible-ref">En la hoja/cuaderno (respuestas)</span>3 + 2 = 5 · 4 + 3 = 7 · 5 + 4 = 9 · 6 + 4 = 10 · 2 + 7 = 9</div></div></div>
+        <p>Quita con regletas: 6−2, 7−4, 8−3. Eli dice cuánto queda.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Pictórico → abstracto (Mamut Restar 1) · 16 min <span class="edc-mark D">D</span></div>
+        <p>Pasa a la hoja de Mamut Restar 1: primero tachar dibujos (pictórico), luego escribir el número con el signo −. Si no tienes la hoja a mano, en el cuaderno:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">En la hoja/cuaderno (respuestas)</span>6 − 2 = 4 · 7 − 4 = 3 · 8 − 3 = 5 · 9 − 5 = 4 · 10 − 6 = 4</div></div></div>
       <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 6 min <span class="edc-mark C">C</span></div>
-        <div class="guia-say">"Ya sumas hasta 10. Dios te dio una mente que crece."</div></div></div>
+        <div class="guia-say">"Ya sabes juntar y quitar. Dios te dio una mente que crece."</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
     <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-      <tr class="E"><td class="lvl">E</td><td>Necesita regletas para cada suma</td><td>Bien · sigue concreto.</td></tr>
+      <tr class="E"><td class="lvl">E</td><td>Necesita regletas para cada resta</td><td>Bien · sigue concreto.</td></tr>
       <tr class="D"><td class="lvl">D</td><td>Hace la hoja con apoyo</td><td>Normal.</td></tr>
-      <tr class="C"><td class="lvl">C</td><td>Suma hasta 10 en abstracto</td><td>Registrar.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Resta dentro de 10 en abstracto</td><td>Registrar.</td></tr>
     </table></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
     <div class="minima"><div class="minima-ttl">10 min</div><ol><li>2 sumas con regletas</li><li>2 sumas en la hoja</li><li>Listo.</li></ol></div></div>
@@ -8134,29 +8133,29 @@ jueves:`${APERTURA}
 <!-- NATURALEZA -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico verde">🌿</div><div>
-    <div class="lesson-ttl">Salida de naturaleza · Las plantas de verdad</div>
+    <div class="lesson-ttl">Salida de naturaleza · El agua en la creación</div>
     <div class="lesson-meta">30 min · diario de naturaleza · (conecta con ciencias)</div>
     <div class="mats"><span class="mat">Cuaderno de naturaleza</span><span class="mat">Colores</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>La salida va al CENTRO de la semana (jueves) y cierra el hilo: el miércoles hablamos de las plantas; hoy las vemos de verdad. Método Mason: <strong>atención reverente</strong> al "libro de la creación". Salgan al patio, un parque o la ventana; busquen una planta, una hoja, una flor.</p></div></div>
+    <div class="lec-mama"><p>La salida va al CENTRO de la semana (jueves) y cierra el hilo: el miércoles hablamos del agua; hoy la buscamos en la creación. Método Mason: <strong>atención reverente</strong>. Salgan al patio, un parque o la ventana y busquen el agua: el cielo y las nubes (allí hay agua), la lluvia o un charco, el rocío en una hoja, una fuente. (Si no se ve agua, observen el cielo y las nubes.)</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Observar con reverencia · 12 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Busquemos una planta. Mírala despacio. ¿Ves la raíz, el tallo, las hojas? ¿De qué color? ¿Tiene flor? Toca una hoja: ¿cómo se siente?"</div>
-        <p>Sin prisa. Dios hizo cada detalle.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Buscar el agua · 12 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"¿Dónde ves agua afuera? En el cielo (las nubes), en un charco, en una hoja con rocío. Mira las nubes: ¿qué forma tienen? ¿de qué color?"</div>
+        <p>Sin prisa. Dios reparte el agua por todo el mundo.</p></div></div>
       <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Diario de naturaleza · 14 min <span class="edc-mark D">D</span></div>
-        <p>Eli dibuja la planta que observó en su cuaderno de naturaleza, lo más parecido posible, y escribe una palabra o frase (la fecha, el nombre, "Dios la hizo").</p></div></div>
+        <p>Eli dibuja lo que observó (las nubes, un charco, una hoja con gotas) en su cuaderno de naturaleza y escribe una frase (la fecha, "Dios da el agua").</p></div></div>
       <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 4 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Mañana sembraremos una semilla y veremos crecer una planta así. 'Él hace producir la hierba' (Sal 104). ¡Qué buen Creador!"</div></div></div>
+        <div class="guia-say">"Mañana jugaremos con agua para ver qué flota y qué se hunde. 'Riega los montes… del fruto de tus obras se sacia la tierra' (Sal 104:13). ¡Qué buen Creador!"</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">12 min</div><ol><li>Observar una planta afuera</li><li>Dibujarla en el diario</li><li>"Dios la hizo"</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">12 min</div><ol><li>Observar el cielo/las nubes o un charco</li><li>Dibujarlo en el diario</li><li>"Dios da el agua"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
-<div class="strip s-sage" style="margin-top:14px"><strong>⚠️ Esta noche:</strong> remoja un frijol para el experimento de mañana (viernes).</div>`,
+<div class="strip s-sage" style="margin-top:14px"><strong>⚠️ Para mañana (viernes):</strong> ten listo un recipiente hondo con agua y varios objetos pequeños (piedra, corcho o tapa, cuchara, hoja, juguete) para el experimento de flotar y hundirse.</div>`,
 
 viernes:`${APERTURA}
 
@@ -8165,15 +8164,15 @@ viernes:`${APERTURA}
 <div class="horario-row"><span class="horario-time">8:00</span><span class="horario-act">Apertura pactual</span></div>
 <div class="horario-row"><span class="horario-time">8:10</span><span class="horario-act">Catecismo P14 · Día 4 (la Biblia me lleva a Jesús)</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">8:30</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Ciencias · sembrar el frijol (experimento)</span></div>
+<div class="horario-row"><span class="horario-time">8:40</span><span class="horario-act">Ciencias · ¿flota o se hunde? (experimento)</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:10</span><span class="horario-act">Pausa + snack</span></div>
 <div class="horario-row"><span class="horario-time">9:25</span><span class="horario-act">Lectoescritura · texto nuevo (mamá lee, Eli comprende)</span></div>
 <div class="horario-row pausa-row"><span class="horario-time">9:55</span><span class="horario-act">Pausa activa</span></div>
-<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Matemáticas · repaso (pares que dan 10) — corto</span></div>
+<div class="horario-row"><span class="horario-time">10:05</span><span class="horario-act">Matemáticas · familias de suma y resta — corto</span></div>
 <div class="horario-row"><span class="horario-time">2:00pm</span><span class="horario-act">🏊 Natación (externo)</span></div>
 </div>
 
-<div class="strip s-sage"><strong>Día ligero:</strong> natación en la tarde. El experimento (sembrar) es práctico/activo y va entre catecismo y lectoescritura. La lectoescritura de hoy es comprensión por escucha (donde Eli brilla), no decodificar bajo presión.</div>
+<div class="strip s-sage"><strong>Día ligero:</strong> natación en la tarde. El experimento (flota o se hunde) es práctico/activo y va entre catecismo y lectoescritura. La lectoescritura de hoy es comprensión por escucha (donde Eli brilla), no decodificar bajo presión.</div>
 
 <!-- CATECISMO P14 DÍA 4 -->
 <div class="lesson">
@@ -8211,34 +8210,35 @@ viernes:`${APERTURA}
 <!-- CIENCIAS EXPERIMENTO -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico verde">🔬</div><div>
-    <div class="lesson-ttl">Ciencias · Sembrar el frijol (experimento)</div>
-    <div class="lesson-meta">30 min · experimento · cierra el hilo de las plantas</div>
-    <div class="mats"><span class="mat">Frijol remojado (anoche)</span><span class="mat">Vaso + algodón o tierra</span><span class="mat">Agua</span><span class="mat">Cuaderno</span></div>
+    <div class="lesson-ttl">Ciencias · ¿Flota o se hunde? (experimento)</div>
+    <div class="lesson-meta">30 min · experimento · cierra el hilo del agua</div>
+    <div class="mats"><span class="mat">Recipiente con agua</span><span class="mat">Objetos: piedra, corcho/tapa, cuchara, hoja, juguete</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>El experimento que <strong>cierra el hilo</strong> (el miércoles vimos qué necesita una planta; hoy lo comprobamos). Eli predice, siembra y empezará a observar los próximos días. Marco: Dios puso vida y orden en la semilla (Mar 4:26-28, "la tierra da fruto por sí misma"). Sin cientificismo: observamos con asombro, no "controlamos" la vida.</p></div></div>
+    <div class="lec-mama"><p>El experimento que <strong>cierra el hilo</strong> del agua (el miércoles observamos el agua; hoy jugamos con ella). Lo importante es que Eli <strong>prediga</strong> antes de probar, luego compruebe y registre. Marco: Dios le dio a cada cosa su naturaleza —unas flotan, otras se hunden—; su mundo tiene orden y por eso podemos descubrirlo. Sin cientificismo: observamos con asombro.</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Predecir · 6 min <span class="edc-mark D">D</span></div>
-        <div class="guia-say">"Esta semillita parece dormida. El miércoles dijimos que una planta necesita agua, luz y tierra. ¿Qué crees que pasará si le damos eso? ¿Cuántos días tardará?"</div>
-        <p>Eli dice su predicción; mamá la anota en el cuaderno.</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Sembrar · 14 min <span class="edc-mark D">D</span></div>
-        <p>Pongan el frijol remojado en el vaso con algodón húmedo (o tierra), cerca de la luz. Eli lo riega un poquito. Dibuja el "día 0" en su cuaderno.</p>
-        <div class="guia-say">"Nosotras ponemos la semilla, el agua y la luz… pero ¿quién hace que crezca? Dios. Nosotras no podemos hacer crecer la vida; solo la cuidamos."</div></div></div>
-      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Plan de observación · 6 min <span class="edc-mark C">C</span></div>
-        <div class="guia-say">"Cada día vamos a mirar y dibujar lo que cambió. Es nuestro diario de la semilla."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Predecir · 8 min <span class="edc-mark D">D</span></div>
+        <div class="guia-say">"Tenemos agua y varios objetos. Antes de probar, adivina: ¿la piedra flotará o se hundirá? ¿Y el corcho? ¿Y la cuchara? ¿Y la hoja?"</div>
+        <p>Eli predice cada uno; mamá anota en dos columnas ("creo que flota" / "creo que se hunde").</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Probar · 12 min <span class="edc-mark D">D</span></div>
+        <p>Uno por uno, Eli pone cada objeto en el agua y observa. Compara con su predicción: "¿acertaste?"</p>
+        <div class="guia-say">"¡Mira! El corcho flota, la piedra se hunde. ¿Por qué será? Dios hizo que cada cosa tenga su manera de ser."</div>
+        <p style="font-size:.85rem;color:var(--muted)">Idea sencilla (sin fórmula): lo liviano para su tamaño flota; lo pesado y compacto se hunde.</p></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Registrar · 6 min <span class="edc-mark C">C</span></div>
+        <p>Eli dibuja en su cuaderno qué flotó y qué se hundió (su "diario del experimento").</p></div></div>
       <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 4 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Dios hace producir la hierba. Hasta una semillita habla de su poder y su bondad."</div></div></div>
+        <div class="guia-say">"Dios le dio a cada cosa su naturaleza, y por eso el mundo tiene orden y podemos descubrirlo. ¡Qué sabio es el Creador!"</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📋</span><span class="lsec-ttl">E/D/C</span></div>
     <table class="eval-tabla"><tr><th>Nivel</th><th>Señal</th><th>Acción</th></tr>
-      <tr class="E"><td class="lvl">E</td><td>Siembra pero no predice</td><td>Bien — lo importante es observar. Predice tú en voz alta.</td></tr>
-      <tr class="D"><td class="lvl">D</td><td>Predice y siembra · entiende qué necesita</td><td>Normal.</td></tr>
-      <tr class="C"><td class="lvl">C</td><td>Conecta: nosotras cuidamos, Dios hace crecer</td><td>Registrar.</td></tr>
+      <tr class="E"><td class="lvl">E</td><td>Prueba sin predecir</td><td>Bien — lo clave es observar. Predice tú en voz alta primero.</td></tr>
+      <tr class="D"><td class="lvl">D</td><td>Predice y prueba · nota cuáles flotan</td><td>Normal.</td></tr>
+      <tr class="C"><td class="lvl">C</td><td>Conecta: Dios dio a cada cosa su naturaleza (orden)</td><td>Registrar.</td></tr>
     </table></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Sembrar el frijol en algodón húmedo</li><li>Dibujar el día 0</li><li>"Dios hace crecer"</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Predecir: ¿flota o se hunde?</li><li>Probar 3-4 objetos</li><li>"Dios dio a cada cosa su manera de ser"</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
@@ -8281,24 +8281,24 @@ viernes:`${APERTURA}
 <!-- MATEMÁTICAS REPASO -->
 <div class="lesson">
   <div class="lesson-hd"><div class="lesson-ico rojo">🔢</div><div>
-    <div class="lesson-ttl">Matemáticas · Repaso de la suma (pares que dan 10)</div>
-    <div class="lesson-meta">20 min · Singapur · parejas hasta 10</div>
+    <div class="lesson-ttl">Matemáticas · Familias de suma y resta</div>
+    <div class="lesson-meta">20 min · Singapur · juntar y quitar van juntos</div>
     <div class="mats"><span class="mat">Regletas</span><span class="mat">Cuaderno</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>Día ligero: repaso. (a) <strong>Manipulativo:</strong> regletas. (b) <strong>Singapur:</strong> los "amigos del 10" (pares que suman 10) — base del cálculo mental. (c) <strong>Mamut:</strong> ninguna hoja nueva hoy. Concreto + juego.</p></div></div>
+    <div class="lec-mama"><p>Día ligero: cerramos la semana viendo que <strong>suma y resta son la misma familia</strong>. (a) <strong>Manipulativo:</strong> regletas. (b) <strong>Singapur:</strong> con tres números (las dos partes y el todo) salen 2 sumas y 2 restas. (c) <strong>Mamut:</strong> ninguna hoja nueva hoy.</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">20 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Amigos del 10 · 14 min <span class="edc-mark D">D</span></div>
-        <p>Con la barra naranja (10) y blancas, descubran las parejas que dan 10:</p>
-        <div class="guia-bible"><span class="guia-bible-ref">Pares que dan 10</span>1+9 · 2+8 · 3+7 · 4+6 · 5+5</div>
-        <div class="guia-say">"Si tengo 6, ¿cuánto me falta para 10? Búscalo con las regletas."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Una familia de números · 14 min <span class="edc-mark D">D</span></div>
+        <p>Con regletas, toma 3, 4 y 7 (las dos partes y el todo). Muestra las cuatro:</p>
+        <div class="guia-bible"><span class="guia-bible-ref">La familia del 3, 4 y 7</span>3 + 4 = 7 · 4 + 3 = 7 · 7 − 3 = 4 · 7 − 4 = 3</div>
+        <div class="guia-say">"¿Ves? Con los mismos tres números puedo juntar (sumar) y quitar (restar). ¡Son una familia!"</div></div></div>
       <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 6 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"Esta semana aprendiste a sumar. Los números siempre se portan igual porque Dios es fiel y ordenó su mundo así."</div></div></div>
+        <div class="guia-say">"Esta semana aprendiste a quitar, y viste que juntar y quitar van juntos. Los números se portan igual siempre porque Dios ordenó su mundo así."</div></div></div>
     </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">8 min</div><ol><li>2-3 amigos del 10 con regletas</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">8 min</div><ol><li>La familia 3, 4, 7 con regletas</li><li>2 sumas y 2 restas</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
