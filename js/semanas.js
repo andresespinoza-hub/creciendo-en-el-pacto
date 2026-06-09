@@ -3,7 +3,7 @@ const WEEKS = [
   {n:1,  t:1, d:'19–23 mayo 2026 ★', type:'activa',  u:'U0',   tema:'Mi historia bajo la providencia de Dios',      focus:'Inicia martes 19 — festivo lunes. Cierre X+Y, ordinales→11-20, Jer 1:5, CatN P11'},
   {n:2,  t:1, d:'25–29 mayo 2026',   type:'activa',  u:'U1',   tema:'Creación — Dios hace todas las cosas',          focus:'Gén 1. Lectoescritura: letra Y en progreso. Números hasta 20 consolidando. CatN P15'},
   {n:3,  t:1, d:'1–5 jun 2026',      type:'activa',  u:'U1',   tema:'Creación — El hombre como imagen de Dios',      focus:'Gén 1–2. Letra Y (donde Eli va de verdad, según informe de mamá). Comprensión por escucha. Valor posicional 11–20'},
-  {n:4,  t:1, d:'8–12 jun 2026',     type:'activa',  u:'U1-2', tema:'Caída y promesa — el pecado y la gracia',       focus:'Gén 3. Gén 3:15. Cambio de ruta lectoescritura. Suma 0-10'},
+  {n:4,  t:1, d:'8–12 jun 2026',     type:'activa',  u:'U1-2', tema:'Caída y promesa — el pecado y la gracia',       focus:'Gén 3 + protoevangelio 3:15. Catecismo P14. Letra Z (cierra alfabeto). Suma 0-10. Modelo v3 (días protegidos)'},
   {n:5,  t:1, d:'15–19 jun ★',       type:'activa',  u:'U2',   tema:'Abraham — Dios llama y promete',                focus:'Gén 12. ★ 15 jun Corpus Christi. Nuevo recurso lectoescritura S4+'},
   {n:6,  t:1, d:'22–26 jun',         type:'activa',  u:'U2',   tema:'Abraham e Isaac — La promesa persevera',        focus:'Gén 15–22. El pacto abrahánico'},
   {n:7,  t:1, d:'29 jun–3 jul ★',    type:'activa',  u:'U2',   tema:'Jacob — Dios persiste en su plan',              focus:'Gén 25–33. ★ 29 jun San Pedro y San Pablo'},
