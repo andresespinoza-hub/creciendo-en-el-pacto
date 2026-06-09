@@ -316,7 +316,15 @@ Geografía NO es materia paralela: es **el escenario y el mapa de la misión de 
 | T3 Reyes→Exilio | Jerusalén; imperios antiguos (Asiria, Babilonia) = mundo antiguo. |
 | T4 Cristo→Colombia | Israel de Jesús → el evangelio a las naciones (Hechos) → América → Colombia y Raah (S37). |
 
-Anclajes: **Geography Songs** (continentes/océanos, marco amplio cantado todo el año) + **Legends & Leagues** (destrezas de mapa). 1×/semana (martes).
+**Método propio, en español (NO inglés — la familia no habla inglés):** 1×/semana (martes), tres capas:
+- **🗺️ Mapa del pacto:** mapa mundi en la pared; cada semana un sticker donde ocurre la historia + uno fijo en Colombia. Eli ve la historia viajar por el mundo real hacia ella.
+- **🎵 Cantos en español (escritos por nosotros), uno al mes en la apertura:**
+  - *Continentes:* "América, Europa, Asia, / África, Oceanía, Antártida — / seis continentes hizo Dios: / ¡toda la tierra es del Señor!" (Sal 24:1)
+  - *Océanos:* "Pacífico y Atlántico, / Índico con calor, / Ártico y Antártico — / ¡cinco mares del Señor!"
+  - *(Más adelante: Colombia y sus regiones — en su idioma y su tierra.)*
+- **📍 Actividad de mapa (1×/sem):** tarea breve ligada a la historia + ficha de mapa **en español** (prompt en el bloque de geografía de S4).
+
+> **Geography Songs / Legends & Leagues** (inglés) quedan SOLO como referencia/idea; NO se usan con Eli (geografía entra en español).
 
 ### Ciencias / Naturaleza
 - Charlotte Mason: diario de naturaleza (atención reverente, observar antes de explicar).
@@ -334,7 +342,7 @@ Anclajes: **Geography Songs** (continentes/océanos, marco amplio cantado todo e
 ### Música (apreciación clásica conectada con la historia)
 - Una obra por mes: Mes 1 Vivaldi "Primavera" (creación) · Mes 2 Haendel "Messiah" · Mes 3 Bach BWV 4 (Pascua) · Mes 4 Mendelssohn "Elías".
 - Himno conocido + melodía propia para el versículo de la semana (memoria por canto).
-- Geography Songs (exposición auditiva, una canción al mes).
+- Nuestros cantos de geografía **en español** (uno al mes; ver §9 Geografía). NO Geography Songs (inglés).
 
 ### Bloques externos (no currículo de la app)
 - Inglés: martes/jueves. Memoria Press (Phonics + literatura) desde S11.

@@ -2225,7 +2225,7 @@ No responder con explicación. Generar directamente la ficha.</div>
     <div>
       <div class="lesson-ttl">Música · Himno + melodía propia del versículo</div>
       <div class="lesson-meta">20 min · Memorizar versículo cantándolo</div>
-      <div class="mats"><span class="mat">Himnario o app</span><span class="mat">Piano (opcional)</span><span class="mat">Geography Songs</span></div>
+      <div class="mats"><span class="mat">Himnario o app</span><span class="mat">Piano (opcional)</span><span class="mat">Canto de geografía (español)</span></div>
     </div>
   </div>
   <div class="lesson-body">
@@ -2235,7 +2235,7 @@ No responder con explicación. Generar directamente la ficha.</div>
       <div class="lec-mama">
         <p><span class="lec-tag">Por qué cantar el versículo:</span> la <strong>melodía es el mejor mnemónico que existe</strong>. Eli puede recitar Jeremías 1:5 con esfuerzo, pero si lo canta, lo retendrá por años. No es entretenimiento — es pedagogía clásica: los pueblos memorizaron los Salmos cantándolos. Calvino mismo musicalizó los Salmos para que el pueblo los aprendiera de memoria.</p>
         <p><span class="lec-tag">Sin presión musical:</span> mamá no necesita saber música. La melodía no tiene que ser "buena" — tiene que ser tuya y de Eli. Una melodía simple y repetitiva sobre 3 notas es más efectiva pedagógicamente que una compleja.</p>
-        <p><span class="lec-tag">Lo que estás formando:</span> memoria del versículo por canto, gozo del himno familiar, exposición temprana a contenido educativo cantado (Geography Songs como background).</p>
+        <p><span class="lec-tag">Lo que estás formando:</span> memoria del versículo por canto, gozo del himno familiar, exposición temprana a contenido educativo cantado (nuestro canto de geografía en español).</p>
         <div class="lec-bible">"Hablando entre vosotros con salmos, con himnos y cánticos espirituales, cantando y alabando al Señor en vuestros corazones." — Efesios 5:19</div>
       </div>
     </div>
@@ -2266,9 +2266,10 @@ No responder con explicación. Generar directamente la ficha.</div>
         <div class="guia-step">
           <div class="guia-step-n">3</div>
           <div class="guia-step-body">
-            <div class="guia-step-ttl">Geography Songs · exposición auditiva <span class="edc-mark E">E</span> · 5 min</div>
-            <p>Pon "Continents and Oceans" o similar de Geography Songs. NO exijas memorización todavía — solo escuchar, dejar que el oído absorba. Eli puede bailar, dibujar, o solo escuchar mientras mamá guarda materiales.</p>
-            <div class="guia-say">"Hoy solo escuchamos. La próxima semana empezamos a aprenderla."</div>
+            <div class="guia-step-ttl">Nuestro canto de geografía (español) <span class="edc-mark E">E</span> · 5 min</div>
+            <p>En español y nuestro (nada de canciones en inglés). Canten el canto de los continentes señalando un mapa. Sin exigir memorización todavía — solo disfrutar y repetir.</p>
+            <div class="guia-bible"><span class="guia-bible-ref">🎵 Canto de los continentes</span>América, Europa, Asia,<br>África, Oceanía, Antártida —<br>seis continentes hizo Dios:<br>¡toda la tierra es del Señor!</div>
+            <div class="guia-say">"Cantemos nuestro canto del mundo que Dios hizo."</div>
           </div>
         </div>
 
@@ -2282,7 +2283,7 @@ No responder con explicación. Generar directamente la ficha.</div>
         <ol>
           <li>Cantar el himno conocido UNA vez</li>
           <li>Tararear la melodía del versículo + decir el versículo cantando</li>
-          <li>Listo. (Geography Songs es bonus.)</li>
+          <li>Listo. (El canto de geografía es bonus.)</li>
         </ol>
       </div>
     </div>
@@ -2881,7 +2882,7 @@ Es decir: NO le pidas a Eli grandes hallazgos. Las cosas comunes son las que imp
 <div class="fm-block" style="border-left:4px solid var(--rust);background:#fff5f0">
 <h4 style="color:var(--rust)">🔢 GUÍA · Cómo integrar Singapur + Mamut · y reforzar antes/después</h4>
 
-<p style="font-size:.92rem"><strong>El método:</strong> Singapur es el currículo PRINCIPAL (secuencia, manual del maestro, libro del alumno). Mamut es el currículo de PRÁCTICA (hojas reproducibles para refuerzo). Geography Songs y Classical Conversations vienen como APOYO de memoria. No los mezcles todos en una sesión — los integras en distintos momentos.</p>
+<p style="font-size:.92rem"><strong>El método:</strong> Singapur es el currículo PRINCIPAL (secuencia, manual del maestro, libro del alumno). Mamut es el currículo de PRÁCTICA (hojas reproducibles para refuerzo). Classical Conversations viene como APOYO de memoria. (La geografía se trabaja con NUESTROS cantos en español, no con Geography Songs en inglés.) No los mezcles todos en una sesión — los integras en distintos momentos.</p>
 
 <p><span class="lec-tag">Flujo concreto para cada sesión de matemáticas (25-30 min):</span></p>
 
@@ -2933,18 +2934,17 @@ Es decir: NO le pidas a Eli grandes hallazgos. Las cosas comunes son las que imp
 <tr style="background:rgba(196,154,42,.15)"><th style="text-align:left;padding:6px 8px;width:140px">Área CC</th><th style="text-align:left;padding:6px 8px">Cómo lo integramos en S2</th></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Timeline · Historia</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Las primeras tarjetas del Timeline (Creación · Caída · Noé · Babel · Abraham). Esta semana usar SOLO la tarjeta de <strong>Creación</strong> — Eli la ve, hablan de ella, la cuelgan en la pared. Una tarjeta por semana. Para sábado.</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Historia memory work</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">Cuando llegues a la sentencia de memoria del Cycle 2 — por ejemplo "1607 — Jamestown" o las que correspondan — NO las introduzcas todavía. Eli necesita primero anclar la historia bíblica. Las sentencias de CC Ciclo 2 son para SEMESTRE 2 (después de S20).</td></tr>
-<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Geografía</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Usar Geography Songs esta semana</strong>. El primer track "Continents and Oceans" → cantarlo con Eli el sábado mientras señalan el mapa. Una canción por mes, no más.</td></tr>
+<tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Geografía</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Nuestro canto de geografía en español</strong> (los continentes) — cantarlo el sábado mientras señalan el mapa. Una canción por mes. Ver §9 Geografía. (Geography Songs, en inglés, queda solo como referencia.)</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Latín</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">No introducir todavía. Activaremos Prima Latina (Memoria Press) a partir de S20.</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Ciencias</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">El currículo de ciencias para S2 viene de tu carpeta "Spanish Foundations Science Experiments" + Charlotte Mason (diario de naturaleza). NO de CC todavía.</td></tr>
 <tr><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)"><strong>Inglés / Math facts CC</strong></td><td style="padding:6px 8px;border-top:1px solid rgba(0,0,0,.1)">No activarlos ahora. Esto es para semanas tardías.</td></tr>
 </table>
 
-<p style="font-size:.86rem;margin-top:10px"><span class="lec-tag">Geography Songs · cómo usarlo concretamente:</span></p>
+<p style="font-size:.86rem;margin-top:10px"><span class="lec-tag">Geografía · cómo trabajarla (en español, nuestro):</span></p>
 <ul style="margin:6px 0 6px 1.2rem;font-size:.86rem">
-<li>Tienes el PDF "Geography Songs" en /Users/EN-ITAdmin/EDU-ELI/ (76 páginas, Larry & Kathy Troxel).</li>
-<li>Esta semana solo: cantar "Continents and Oceans" con Eli. 5 min el sábado mientras pintan los continentes en el mapa.</li>
-<li>NO exigir memorización. Solo exposición auditiva. Eli la oirá repetida durante semanas hasta que se la aprenda sola.</li>
-<li>Si en YouTube buscas "Continents and Oceans song Audio Memory" sale la versión cantada.</li>
+<li><strong>Mapa del pacto:</strong> un mapa mundi en la pared; cada semana marca dónde ocurre la historia bíblica + un sticker fijo en Colombia.</li>
+<li><strong>Canto de los continentes</strong> (nuestro): "América, Europa, Asia, / África, Oceanía, Antártida — / seis continentes hizo Dios: / ¡toda la tierra es del Señor!". 5 min el sábado señalando el mapa; sin exigir memorización, viene sola con repetición.</li>
+<li>El PDF "Geography Songs" (inglés) queda solo como referencia; NO se usa con Eli (la familia no habla inglés).</li>
 </ul>
 
 <p style="font-size:.86rem;margin-top:10px"><span class="lec-tag">Las tarjetas de memoria (memory cards) de CC:</span></p>
@@ -4817,14 +4817,14 @@ Y fue la tarde y la mañana del CUARTO DÍA."
 </div>
 
 
-<!-- ═══════════════ BLOQUE 5: MÚSICA · Himno + melodía versículo + Geography Songs ═══════════════ -->
+<!-- ═══════════════ BLOQUE 5: MÚSICA · Himno + melodía versículo + canto de geografía ═══════════════ -->
 <div class="lesson">
   <div class="lesson-hd">
     <div class="lesson-ico violeta">🎵</div>
     <div>
-      <div class="lesson-ttl">Música · Himno + melodía del Salmo 139 + Geography Songs</div>
+      <div class="lesson-ttl">Música · Himno + melodía del Salmo 139 + canto de geografía</div>
       <div class="lesson-meta">15 min · Memoria por canto · fijar versículo de la semana</div>
-      <div class="mats"><span class="mat">Himnario o app de música</span><span class="mat">Piano (opcional)</span><span class="mat">Geography Songs (audio o YouTube)</span></div>
+      <div class="mats"><span class="mat">Himnario o app de música</span><span class="mat">Piano (opcional)</span><span class="mat">Canto de geografía (español)</span></div>
     </div>
   </div>
   <div class="lesson-body">
@@ -4834,7 +4834,7 @@ Y fue la tarde y la mañana del CUARTO DÍA."
       <div class="lec-mama">
         <p><span class="lec-tag">Por qué cantar el versículo:</span> <strong>la melodía es el mejor mnemónico que existe</strong>. Eli puede recitar Sal 139:1 con esfuerzo, pero si lo canta, lo retendrá por años. No es entretenimiento — es pedagogía clásica. Calvino musicalizó los Salmos para que el pueblo los aprendiera de memoria.</p>
         <p><span class="lec-tag">Sin presión musical:</span> mamá no necesita saber música. La melodía no tiene que ser "buena" — tiene que ser tuya y de Eli. Una melodía simple sobre 3 notas es más efectiva pedagógicamente que una compleja.</p>
-        <p><span class="lec-tag">Geography Songs:</span> exposición auditiva. Mamá pone "Continents and Oceans" mientras Eli colorea o juega. NO se le pide memorizar. Solo escuchar. La memoria viene sola con repetición.</p>
+        <p><span class="lec-tag">Canto de geografía:</span> en español y nuestro (no inglés). Mamá canta con Eli el canto de los continentes mientras señala el mapa. NO se le pide memorizar; solo disfrutar. La memoria viene sola con repetición.</p>
       </div>
     </div>
 
@@ -4866,10 +4866,11 @@ Y fue la tarde y la mañana del CUARTO DÍA."
         <div class="guia-step">
           <div class="guia-step-n">3</div>
           <div class="guia-step-body">
-            <div class="guia-step-ttl">Geography Songs · exposición auditiva · 5 min <span class="edc-mark E">E</span></div>
-            <p>Pon "Continents and Oceans" de Geography Songs (audio o YouTube — buscar "Continents and Oceans song Audio Memory"). NO exijas memorización todavía — solo escuchar.</p>
-            <div class="guia-say">"Hoy solo escuchamos. Si quieres bailar mientras la oyes, dale. La próxima semana empezamos a aprenderla."</div>
-            <p>Si tienes mapa del mundo a la vista, mamá puede señalar los continentes mientras suena. Pero sin pedir nada a Eli.</p>
+            <div class="guia-step-ttl">Nuestro canto de geografía (español) · 5 min <span class="edc-mark E">E</span></div>
+            <p>En español y nuestro (nada de canciones en inglés). Canten el canto de los continentes señalando un mapa. Sin exigir memorización todavía — solo disfrutar.</p>
+            <div class="guia-bible"><span class="guia-bible-ref">🎵 Canto de los continentes</span>América, Europa, Asia,<br>África, Oceanía, Antártida —<br>seis continentes hizo Dios:<br>¡toda la tierra es del Señor!</div>
+            <div class="guia-say">"Cantemos nuestro canto del mundo que Dios hizo, señalando los continentes en el mapa."</div>
+            <p>Mamá señala los continentes mientras cantan, sin pedirle nada a Eli.</p>
           </div>
         </div>
 
@@ -4883,7 +4884,7 @@ Y fue la tarde y la mañana del CUARTO DÍA."
         <ol>
           <li>Cantar el himno UNA vez</li>
           <li>Tararear la melodía del versículo + cantarlo con palabras 3 veces</li>
-          <li>Listo. (Geography Songs es bonus.)</li>
+          <li>Listo. (El canto de geografía es bonus.)</li>
         </ol>
       </div>
     </div>
@@ -7755,24 +7756,62 @@ martes:`${APERTURA}
   <div class="lesson-hd"><div class="lesson-ico verde">🗺️</div><div>
     <div class="lesson-ttl">Geografía · El mundo fuera del Edén</div>
     <div class="lesson-meta">30 min · el mundo ancho que Dios hizo · Génesis 3:23 · Salmo 24:1</div>
-    <div class="mats"><span class="mat">Mapa del mundo (impreso o pantalla)</span><span class="mat">Colores</span><span class="mat">Geography Songs (opcional)</span></div>
+    <div class="mats"><span class="mat">Mapa del mundo (en español)</span><span class="mat">Mapa de Colombia</span><span class="mat">Colores</span></div>
   </div></div>
   <div class="lesson-body">
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">📖</span><span class="lsec-ttl">Prep para mamá</span></div>
-    <div class="lec-mama"><p>La semana pasada vimos el Edén (un lugar real). Hoy ampliamos: cuando Adán y Eva salieron del Edén (Gén 3:23), salieron al <strong>mundo ancho que Dios hizo</strong>. Pregunta de fondo de hoy: <em>"¿qué aspecto del mundo de Dios estamos aprendiendo a ver?"</em> → que la tierra entera es de Dios ("De Jehová es la tierra y su plenitud", Sal 24:1). Este es el inicio del <strong>eje del año</strong>: del Edén nos abriremos al mundo, y al final del año llegaremos a Colombia.</p></div></div>
+    <div class="lec-mama"><p>La semana pasada vimos el Edén (un lugar real). Hoy ampliamos: cuando Adán y Eva salieron del Edén (Gén 3:23), salieron al <strong>mundo ancho que Dios hizo</strong>. Pregunta de fondo: <em>"¿qué aspecto del mundo de Dios estamos aprendiendo a ver?"</em> → que la tierra entera es de Dios (Sal 24:1). Inicia el <strong>eje del año</strong>: del Edén nos abriremos al mundo, y al final llegaremos a Colombia. <strong>Todo en español</strong> — material nuestro, nada de canciones en inglés.</p>
+    <p><span class="lec-tag">El mapa del pacto:</span> pega un mapa mundi en la pared. Cada semana marcamos con un sticker DÓNDE ocurre la historia bíblica + un sticker fijo en <strong>Colombia</strong>. Así Eli ve la historia viajar por el mundo real hacia nosotras.</p></div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">🧑‍🏫</span><span class="lsec-ttl">Clase</span><span class="lsec-sub">30 min</span></div>
     <div class="guia">
-      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Del Edén al mundo · 6 min <span class="edc-mark E">E</span></div>
+      <div class="guia-step"><div class="guia-step-n">1</div><div class="guia-step-body"><div class="guia-step-ttl">Del Edén al mundo · 5 min <span class="edc-mark E">E</span></div>
         <div class="guia-say">"Adán y Eva tuvieron que salir del jardín. ¿A dónde fueron? Al mundo grande que Dios también había hecho. Vamos a mirar ese mundo entero."</div></div></div>
-      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">El mapa del mundo · 14 min <span class="edc-mark D">D</span></div>
-        <p>Muestra el mapa. Señalen juntos: la tierra y el mar (azul). Cuenta los <strong>continentes</strong> (grandes pedazos de tierra) y los <strong>océanos</strong> (mares grandes). Eli colorea el mar de azul.</p>
-        <div class="guia-say">"Todo esto —cada continente, cada mar— lo hizo Dios y le pertenece. 'De Jehová es la tierra y su plenitud.' No hay un solo lugar que no sea de Él."</div>
-        <p style="font-size:.85rem;color:var(--muted)">Si tienes Geography Songs, pongan la canción de los continentes (exposición auditiva, sin exigir memorizar).</p></div></div>
-      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 4 min <span class="edc-mark E">E</span></div>
-        <div class="guia-say">"El mundo es grande, pero todo es de Dios. Más adelante vamos a encontrar en este mapa dónde pasó la Biblia… y dónde estamos nosotras."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">2</div><div class="guia-step-body"><div class="guia-step-ttl">El mapa del mundo · 12 min <span class="edc-mark D">D</span></div>
+        <p>Muestra el mapa. Señalen la tierra y el mar (azul). Cuenta los <strong>continentes</strong> y los <strong>océanos</strong>. Eli colorea el mar de azul. Pongan el primer sticker del "mapa del pacto" en el Medio Oriente (donde empezó la historia) y otro fijo en <strong>Colombia</strong>.</p>
+        <div class="guia-say">"Todo esto —cada continente, cada mar— lo hizo Dios y le pertenece. 'De Jehová es la tierra y su plenitud.' No hay un solo lugar que no sea de Él."</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">3</div><div class="guia-step-body"><div class="guia-step-ttl">Nuestro canto de los continentes · 5 min <span class="edc-mark E">E</span></div>
+        <p>En español y nuestro. Repítanlo señalando cada continente en el mapa (ritmo de palmadas; melodía libre):</p>
+        <div class="guia-bible"><span class="guia-bible-ref">🎵 Canto de los continentes</span>América, Europa, Asia,<br>África, Oceanía, Antártida —<br>seis continentes hizo Dios:<br>¡toda la tierra es del Señor!</div></div></div>
+      <div class="guia-step"><div class="guia-step-n">4</div><div class="guia-step-body"><div class="guia-step-ttl">Cierre · 3 min <span class="edc-mark E">E</span></div>
+        <div class="guia-say">"El mundo es grande, pero todo es de Dios. Cada semana marcaremos en el mapa dónde pasó la Biblia… hasta llegar a nosotras en Colombia."</div></div></div>
     </div></div>
+    <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">✏️</span><span class="lsec-ttl">Ficha + prompt para IA</span><span class="lsec-sub">opcional · mapa en español</span></div>
+      <div class="ficha-eli">
+        <p><strong>Imprimible · A4</strong> — un mapa mundi infantil <strong>en español</strong> (continentes y océanos rotulados, Colombia resaltada) para colorear y usar como "mapa del pacto".</p>
+        <div class="prompt-claude">
+          <div class="prompt-claude-hd">
+            <span class="prompt-claude-ttl">🤖 Prompt para IA generadora · Mapa del mundo (español)</span>
+            <button class="prompt-claude-copy" onclick="copyPromptInline(this)">📋 Copiar prompt</button>
+          </div>
+          <div class="prompt-claude-body">Necesito crear una ficha imprimible en español para mi hija Elisabeth ("Eli"), de 6 años. Educamos en casa con marco reformado y pactual.
+
+TEMA: Un mapa del mundo sencillo para niños, en ESPAÑOL.
+PROPÓSITO: que Eli vea el mundo que Dios hizo, coloree el mar y ubique los continentes; servirá de "mapa del pacto" para marcar cada semana dónde ocurre la historia bíblica.
+MARCO DOCTRINAL: reformado pactual · sin moralismo · "de Jehová es la tierra y su plenitud" (Sal 24:1). Toda la tierra es de Dios.
+
+CONTENIDO DE LA HOJA (A4 horizontal, una página):
+1. Encabezado: "El mundo que Dios hizo".
+2. Un planisferio sencillo y claro, con los seis continentes ROTULADOS EN ESPAÑOL: América, Europa, Asia, África, Oceanía, Antártida.
+3. Los océanos rotulados en español (Pacífico, Atlántico, Índico, Glacial Ártico, Glacial Antártico).
+4. COLOMBIA resaltada con un corazón o estrella pequeña, para que Eli ubique su país.
+5. El mar en líneas suaves para que Eli lo coloree de azul.
+6. Cinta al pie con el versículo: "De Jehová es la tierra y su plenitud." (Salmo 24:1)
+
+DISEÑO VISUAL:
+- Fondo crema cálido (#FAF6F0). Acento verde/azulado para el mar y los bordes.
+- Tipografía: Georgia para títulos; sans-serif clara para los rótulos (mínimo 14pt, legible para una niña).
+- Trazos sencillos, no saturado; ilustración respetuosa, no caricaturesca; no representar a Dios.
+
+OUTPUT SEGÚN LA IA USADA:
+Si la IA genera imagen: A4 horizontal, alta resolución, con el mar en blanco/líneas para colorear.
+Si la IA genera HTML: artifact con CSS embebido, A4 horizontal, imprimible sin márgenes del navegador.
+Si la IA genera PDF: A4 horizontal, listo para imprimir.
+
+No responder con explicación. Generar directamente la ficha.</div>
+        </div>
+      </div></div>
     <div class="lsec"><div class="lsec-hd"><span class="lsec-emoji">⚡</span><span class="lsec-ttl">Versión mínima</span></div>
-    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Mostrar el mapa, señalar tierra y mar</li><li>Contar los continentes</li><li>"Toda la tierra es de Dios" (Sal 24:1)</li><li>Listo.</li></ol></div></div>
+    <div class="minima"><div class="minima-ttl">10 min</div><ol><li>Mostrar el mapa, señalar tierra y mar</li><li>Cantar el canto de los continentes</li><li>Marcar el "mapa del pacto" (historia + Colombia)</li><li>Listo.</li></ol></div></div>
   </div>
 </div>
 
