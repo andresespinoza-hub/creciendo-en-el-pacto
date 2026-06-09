@@ -115,6 +115,39 @@ Cada día empieza con `${APERTURA}` (ritual de apertura pactual reusable).
 
 ---
 
+## 4c. AJUSTES v3 (tras retroalimentación S3 — vigentes desde S4)
+
+S3 reveló que v2 ponía DEMASIADAS materias por día. v3 corrige la **frecuencia** y **protege** los días con actividades de la tarde.
+
+**Frecuencia semanal por materia (no negociable):**
+| Materia | Frecuencia |
+|---|---|
+| Matemáticas | **todos los días** |
+| Lectoescritura | **todos los días** |
+| Catecismo | todos los días (1 ángulo) + síntesis sábado |
+| Historia | **1× / semana** (mantener densidad narrativa) |
+| Geografía | **1× / semana** |
+| Ciencias | **2× / semana** — 1 conceptual + 1 experimento, **mismo hilo temático** |
+| Naturaleza (salida) | **1× / semana**, al CENTRO (jueves) |
+
+**Días protegidos (carga reducida — actividades de la tarde):**
+- **Martes** (piano 2pm + inglés): día liviano; **menos bloques**, mantener profundidad.
+- **Miércoles y viernes** (natación 2pm): días ligeros; actividades **cortas, activas o de repaso**; **evitar bloques de alta concentración**.
+- **Jueves**: día más completo (sin actividad de tarde) → ancla académica + salida de naturaleza.
+
+**Distribución de concentración:**
+- **Nunca dos materias de alta concentración consecutivas** (alta concentración = catecismo, lectoescritura, matemáticas).
+- Secuencia ideal: **concentración → actividad motora/práctica → materia dinámica o de repaso**. La materia dinámica del día se intercala ENTRE las de concentración.
+
+**Refinamientos de contenido (S3):**
+- **Catecismo:** restaurar el PESO teológico. Cada ángulo diario con las **4 dimensiones**: textual · doctrinal · cosmovisiva · aplicación concreta a la vida de Eli. (S3 quedó escaso.)
+- **Matemáticas:** cada sesión indica explícitamente (a) **manipulativo**, (b) **concepto Singapur/Pensar sin Límites**, (c) **hoja Mamut** si aplica. C→P→A inalterable.
+- **Arte:** ⚠️ **NUNCA representar a Dios** (la "Creación de Adán" de Miguel Ángel fue error). Picture study solo de obras que NO representen a Dios; hilo claro, sin contradicción doctrinal. La **historia del himno** funcionó → conservar.
+- **Geografía:** hilo conductor explícito; pregunta de fondo semanal: *"¿Qué aspecto del mundo de Dios estamos aprendiendo a ver?"* **Eje del año = columna redentivo-histórica** (ver §9 Geografía).
+- **Historia:** 1 día, sin perder densidad narrativa (el hilo fue bien recibido).
+
+---
+
 ## 4. Ritmo semanal: martes a sábado (5 días)
 
 | Día | Carácter | Bloques típicos |
@@ -274,6 +307,17 @@ Semanas hechas: S1 (Mi historia), S2 (Creación/Gén 1), S3 (Imagen de Dios), S4
 - Timeline físico: una tarjeta por semana en la pared.
 - Tarjetas Classical Conversations = apoyo de memoria, NO currículo rector. Máximo 5 al año.
 
+### Geografía (eje redentivo-histórico — de lo macro a lo cercano)
+Geografía NO es materia paralela: es **el escenario y el mapa de la misión de Dios** (Sal 24:1; Hch 17:26; 1:8). Sigue la historia y se abre al mundo, terminando en Colombia/Raah.
+| Trimestre | Geografía |
+|---|---|
+| T1 Creación→Patriarcas | El mundo que Dios creó → Edén (Tigris/Éufrates) → tierra de los patriarcas. Zoom a Bogotá ("el mismo Dios que los puso allí te puso aquí"). |
+| T2 Éxodo→Tierra | Egipto → Sinaí → Canaán (ruta del Éxodo, tierra prometida). |
+| T3 Reyes→Exilio | Jerusalén; imperios antiguos (Asiria, Babilonia) = mundo antiguo. |
+| T4 Cristo→Colombia | Israel de Jesús → el evangelio a las naciones (Hechos) → América → Colombia y Raah (S37). |
+
+Anclajes: **Geography Songs** (continentes/océanos, marco amplio cantado todo el año) + **Legends & Leagues** (destrezas de mapa). 1×/semana (martes).
+
 ### Ciencias / Naturaleza
 - Charlotte Mason: diario de naturaleza (atención reverente, observar antes de explicar).
 - Experimentos sencillos con materiales de casa (frijol bebé, etc.) + marco creación.
@@ -282,8 +326,8 @@ Semanas hechas: S1 (Mi historia), S2 (Creación/Gén 1), S3 (Imagen de Dios), S4
 ### Arte (INTENCIONAL, no "dibujar por dibujar")
 - **Método Monart (Mona Brookes · Drawing With Children):** los 5 elementos del lenguaje visual — punto, línea recta, curva, ángulo, círculo.
 - Progresión: aprender 5 elementos (S2) → dibujar de gráficos (S3+) → naturaleza muerta (S10+) → sombreado/proporciones (S20+).
-- **Picture study (Mason):** una obra maestra por mes, conectada con el tema bíblico. Mirar en silencio → describir → conectar con la Biblia → identificar los 5 elementos.
-  - Mes 1 Creación: Brueghel "Jardín del Edén" / Miguel Ángel "Creación de Adán"
+- **Picture study (Mason):** una obra maestra por mes, conectada con el tema bíblico. Mirar en silencio → describir → conectar con la Biblia → identificar los 5 elementos. ⚠️ **NUNCA obras que representen a Dios** (2.º mandamiento / principio regulativo) — la "Creación de Adán" de Miguel Ángel queda **excluida**.
+  - Mes 1 Creación: Brueghel "El paraíso terrenal" (animales del Edén) / Edward Hicks "El reino pacífico" — paisajes y naturaleza, sin figura de Dios
   - Mes 2 Patriarcas: Rembrandt "Sacrificio de Isaac"
   - Mes 3 Éxodo: Botticelli "Pruebas de Moisés"
 
